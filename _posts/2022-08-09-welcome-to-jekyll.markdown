@@ -4,8 +4,8 @@ title:  "Playing Math; How To Ruin A Game With Analysis"
 date:   2022-08-09 14:08:20 -0400
 categories: jekyll update
 ---
-My friend Marlee is a math teacher.  Sometime last year, we realized that *both*
-of us get made fun of by our peers & close relatives for liking math games as adults.  To celebrate, 
+My friend Marlee is a teacher.  In March of 2021, we realized that *both* of us are
+ridiculed by close friends & family for being grown ass adults who like to play math games.  To celebrate, 
 she introduced me to one of her favorite games, which we call Playing Math.
 
 It goes like this:
