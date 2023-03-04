@@ -10,4 +10,6 @@ do that, and then write it into a food diary and shudder.
 
 So now I'm tracking my media diet, to hopefully be more cognizant when consuming media junk food.
 
-### [Thinking in Unit Economics - Byrne Hobart](https://capitalgains.thediff.co/p/thinking-unit-economics)
+### [Thinking in Unit Economics](https://capitalgains.thediff.co/p/thinking-unit-economics)
+### [How Duolingo reignited user growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)
+### [Meaningful metrics: How data sharpened the focus of product teams](https://blog.duolingo.com/growth-model-duolingo/)
