@@ -20,6 +20,12 @@ What we've built so far:
 Here's what I read related to this topic:
 
 ### [Thinking in Unit Economics](https://capitalgains.thediff.co/p/thinking-unit-economics)
+I took Econ 101 freshman year of college, during the height of my weed smoking career.  So 
+refreshers like this are always helpful, particularly when I can contextualize it within my current business.
+In Byrne's framework, the atomic unit for consumer software would be the user, or some definition of an active user (DAU, WAU, MAU).  It's also relatively easy to tease apart the costs associated with that user:
+ - 
+
+
 ### [Metrics in the Mildly Viral](https://www.thediff.co/archive/metrics-mildly-viral/)
 
 ### [How Duolingo reignited user growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)
