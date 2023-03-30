@@ -47,6 +47,8 @@ This one is weird to me; it seems reasonable triple down on Sleep (we want to in
 ### [Tonal's Valuation May Fall 90% in 'Cram Down' Financing](https://www.theinformation.com/articles/tonals-valuation-may-fall-90-in-cram-down-financing)
 Oof, hardware is hard
 
+### [The Internet's Richest Fitness Resource is a Site from 1999](https://www.newyorker.com/culture/rabbit-holes/the-internets-richest-fitness-resource-is-a-site-from-1999)
+
 # Final thoughts
 
 I'll write more next time
