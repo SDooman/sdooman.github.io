@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "March 2023"
+title:  "March 2023 Media Diet"
 date:   2023-03-01 14:08:20 -0400
 categories: reading
 ---
