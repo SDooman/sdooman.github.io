@@ -45,3 +45,7 @@ single thing I read or watch, even if it's just a summary.
  - Breathing should be nasal; train to breath through your nose while exercising can translate to breathing nasally through sleep.
  - Weekends: Try to be consistent with sleep and wake times, avoid differences > 1 hour.  Better to wake up consistently and nap later in the day if the nap isn't too long.  Definitely avoid caffeine 90-120 minutes, it disrupts compensatory/makeup sleep.
 
+### [The Amazing AI Super Tutor for Students and Teachers](https://www.youtube.com/watch?v=hJP5GqnTrNo)
+
+### [Time Smart](https://www.amazon.com/Time-Smart-Reclaim-Your-Happier-ebook/dp/B0842X6L2C)
+
