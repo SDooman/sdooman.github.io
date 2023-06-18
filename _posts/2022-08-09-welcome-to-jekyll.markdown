@@ -63,7 +63,7 @@ BinaryExpr(
 )
 {% endhighlight %}
 
-Add a little logic for evaluation, and we're done with representing Digit solutions as data:
+Add a little logic for evaluation, and we're done with the data representation of Digit solutions:
 
 {% highlight kotlin %}
 sealed class Expr {
