@@ -26,15 +26,15 @@ Why am I spending time number crunching when my computer can do that for me?? I 
 
 As you play Digits, you sequentially choose numbers and operations, gradually removing numbers hoping to eventually find the target number.  But what you're actually doing is building an _arithmetic tree_.  For example, if you type `5 + 7`, that's equivalent to the tree below:
 
-(Image 1 Here)
+![expr](/img/expr.png)
 
 A more complex expression, like `(5 + 7) * 11`, would be equivalent to a more complex tree:
 
-(Image 2 Here)
+![big_expr](/img/big_expr.png)
 
 Notice that complex expressions can be made of integer expressions _or_ complex sub-expressions.  For a particular Digits puzzle, the solution will be a complex expression that evaluates to the puzzle target:
 
-(Image 3 Here)
+![big_expr](/img/solution.png)
 
 In our digits game, there are two kinds of expressions; regular integers (like `5`), or binary expressions (like `5 + 7`).  Binary expressions are made up of 
 a left hand side, an operator (`+`, `-`, `*`, `/`) and a right hand side.  They're also more interesting because the left & right sides don't need to be just integers, they can also be binary expressions:
