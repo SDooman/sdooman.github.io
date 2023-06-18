@@ -1,9 +1,30 @@
 ---
 layout: post
-title:  "Playing Math; How To Ruin A Game With Analysis"
+title:  "Ruining Games with programming"
 date:   2022-08-09 14:08:20 -0400
 categories: jekyll update
 ---
+
+If you're looking to fill the Wordle shaped hole in your heart, [Digits](https://www.nytimes.com/games/digits) 
+is a fun math game recently released by The New York Times.  The rules are simple:
+
+1.  You're given six numbers, and a separate target numbers
+2.  Using only addition, subtraction, multiplication, and division, create an expression that evaluates to the target number.
+3.  No negative numbers or fractions are allowed, and not all numbers need be used.
+
+If you had fun playing 24 by yourself as a kid, then you'll love this game.  At least that's what I thought until they gave me this problem:
+
+## 469
+### 5  7  11  13  19  23
+
+I'm embarassed to say I spent 45 minutes trying to figure this one out, while at work, and didn't get the answer.  That night, I recalled this excellent quote I first heard from Peter Norvig's [Sudoku](https://norvig.com/sudoku.html) post:
+
+> Sudoku is "a denial of service attack on human intellect".
+
+So I'm writing a Digits solver for fun and to convince myself never to spend 45 minutes that way again.
+
+
+
 My friend Marlee is a teacher.  In March of 2021, we realized that *both* of us are
 ridiculed by close friends & family for being grown ass adults who like to play math games.  To celebrate, 
 she introduced me to one of her favorite games, which we call Playing Math.
