@@ -14,7 +14,7 @@ is a fun math game recently released by The New York Times.  The rules are simpl
 
 If you had fun playing 24 by yourself as a kid, then you'll love this game.  At least, that's what I thought until they gave me this problem:
 
-(Image 0 here, the puzzle that stumped me)
+![Tricky](../../../../../assets/img/tricky_one.jpeg)
 
 I hope that you solve this one quickly and enjoyably.  I'm embarassed to say I spent 45 minutes trying to solve it, while at work, and didn't succeed.  This infuriating encounter reminded me of this quote I first read in Peter Norvig's [Sudoku](https://norvig.com/sudoku.html) post:
 
