@@ -16,7 +16,7 @@ If you had fun playing 24 by yourself as a kid, then you'll love this game.  At 
 
 (Image 0 here, the puzzle that stumped me)
 
-I hope that you solve this one quickly and enjoyably.  I'm embarassed to say I spent 45 minutes trying to figure this one out, while at work, and didn't get the answer.  This infuriating encounter reminded me of this quote I first read in Peter Norvig's [Sudoku](https://norvig.com/sudoku.html) post:
+I hope that you solve this one quickly and enjoyably.  I'm embarassed to say I spent 45 minutes trying to solve it, while at work, and didn't succeed.  This infuriating encounter reminded me of this quote I first read in Peter Norvig's [Sudoku](https://norvig.com/sudoku.html) post:
 
 > Sudoku is "a denial of service attack on human intellect".
 
