@@ -173,6 +173,6 @@ Some implementation details:
  - While it is not explicit in the rules, I've never seen a Digits puzzle with duplicate numbers, so a Set<Int> seems like the most performant way to represent the candidate numbers.
  - I introduced `.shuffled()` to avoid deterministic searching, but opted not to do any other kinds of optimization.
 
-For the puzzle that stumped me, `Digits.solve(469, setOf(5, 7, 11, 13, 19, 23))` produces an answer in ~43ms, which is 62,000x faster than me.  On the other hand, it took 30 minutes to write the algorithm, so the total speed has only improved by ~30%.  So in the spirit of keeping that improvements positive, I will not be optimizing this anymore.
+For the puzzle that stumped me, `Digits.solve(469, setOf(5, 7, 11, 13, 19, 23))` produces an answer in ~43ms, which is 62,000x faster than me.  On the other hand, it took 30 minutes to write the algorithm, so the total speed has only improved by ~30%.  To keep the speedup factor above 1, I will not be attempting any other optimizations.
 
-Thanks for reading!  If you have optimization ideas, or feedback, I'd love to hear them!
+Thanks for reading!
