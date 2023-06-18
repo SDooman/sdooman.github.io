@@ -40,21 +40,21 @@ To represent these expressions in code, there are two kinds of expressions to co
 
 {% highlight kotlin %}
 enum class Operator {
-    PLUS,
-    MINUS,
-    TIMES,
-    DIVIDED_BY;
+  PLUS,
+  MINUS,
+  TIMES,
+  DIVIDED_BY;
 }
 
 sealed class Expr {
 
-    data class IntExpr(val value: Int) : Expr()
+  data class IntExpr(val value: Int) : Expr()
 
-    data class BinaryExpr(
-        private val left: Expr, 
-        private val operator: Operator,
-        private val right: Expr
-    ): Expr()
+  data class BinaryExpr(
+    private val left: Expr, 
+    private val operator: Operator,
+    private val right: Expr
+  ): Expr()
 }
 {% endhighlight %}
 
@@ -74,31 +74,31 @@ Add a little logic for evaluation, and we're done with the data representation o
 {% highlight kotlin %}
 sealed class Expr {
 
-    abstract val value: Int
+  abstract val value: Int
 
-    data class IntExpr(override val value: Int) : Expr() {
-        override fun toString() = value.toString()
-    }
+  data class IntExpr(override val value: Int) : Expr() {
+    override fun toString() = value.toString()
+  }
 
-    data class BinaryExpr(
-        private val left: Expr, 
-        private val operator: Operator,
-        private val right: Expr
-    ): Expr() {
+  data class BinaryExpr(
+    private val left: Expr, 
+    private val operator: Operator,
+    private val right: Expr
+  ): Expr() {
 
-        override val value get() =
-            when (operator) {
-                Operator.PLUS -> left.value + right.value
-                Operator.MINUS -> left.value - right.value
-                Operator.TIMES -> left.value * right.value
-                Operator.DIVIDED_BY -> {
-                    check(right.value != 0 && (left.value % right.value != 0))
-                    left.value / right.value
-                }
-            }
+    override val value get() =
+      when (operator) {
+        Operator.PLUS -> left.value + right.value
+        Operator.MINUS -> left.value - right.value
+        Operator.TIMES -> left.value * right.value
+        Operator.DIVIDED_BY -> {
+          check(right.value != 0 && (left.value % right.value != 0))
+          left.value / right.value
+        }
+      }
 
-        override fun toString() = "($left $operator $right)"
-    }
+    override fun toString() = "($left $operator $right)"
+  }
 }
 {% endhighlight %}
 
@@ -111,60 +111,59 @@ If a Digits puzzle can be solved with a particular expression tree, then we can 
 3.  Recursively search for a solution with the new target and the remaining numbers.  If one exists, return a new binary expression corresponding to the operation and `n` that we chose.
 
 {% highlight kotlin %}
-
 object Digits {
 
-    fun solve(target: Int, numbers: Set<Int>) = 
-        solveInternal(target = target, numbers = numbers)
+  fun solve(target: Int, numbers: Set<Int>) = 
+    solveInternal(target = target, numbers = numbers)
 
-    private fun solveInternal(target: Int, numbers: Set<Int>): Expr? {
-        if (target in numbers) {
-            return Expr.IntExpr(target)
-        }
-
-        val pairsToSearch =
-            Operator
-                .values()
-                .flatMap { op ->
-                    val numbersToSearch =
-                        when (op) {
-                            Operator.PLUS, 
-                            Operator.MINUS, 
-                            Operator.DIVIDED_BY -> numbers
-                            Operator.TIMES -> numbers.filter { target % it == 0 }.toSet()
-                        }
-
-                    numbersToSearch.map { n ->
-                        val newTarget =
-                            when (op) {
-                                Operator.PLUS -> target - n
-                                Operator.MINUS -> target + n
-                                Operator.TIMES -> target / n
-                                Operator.DIVIDED_BY -> target * n
-                            }
-                        Triple(n, op, newTarget)
-                    }
-                }
-                .shuffled()
-
-        for ((number, operator, newTarget) in pairsToSearch) {
-            val newNumbers = numbers.minus(number)
-            val solution = solveInternal(
-                target = newTarget, 
-                numbers = newNumbers
-            )
-
-            if (solution != null) {
-                return Expr.BinaryExpr(
-                    left = solution,
-                    operator = operator,
-                    right = Expr.IntExpr(number)
-                )
-            }
-        }
-
-        return null
+  private fun solveInternal(target: Int, numbers: Set<Int>): Expr? {
+    if (target in numbers) {
+      return Expr.IntExpr(target)
     }
+
+    val pairsToSearch =
+      Operator
+        .values()
+        .flatMap { op ->
+          val numbersToSearch =
+            when (op) {
+              Operator.PLUS, 
+              Operator.MINUS, 
+              Operator.DIVIDED_BY -> numbers
+              Operator.TIMES -> numbers.filter { target % it == 0 }.toSet()
+            }
+
+          numbersToSearch.map { n ->
+            val newTarget =
+              when (op) {
+                Operator.PLUS -> target - n
+                Operator.MINUS -> target + n
+                Operator.TIMES -> target / n
+                Operator.DIVIDED_BY -> target * n
+              }
+            Triple(n, op, newTarget)
+          }
+        }
+        .shuffled()
+
+    for ((number, operator, newTarget) in pairsToSearch) {
+      val newNumbers = numbers.minus(number)
+      val solution = solveInternal(
+        target = newTarget, 
+        numbers = newNumbers
+      )
+
+      if (solution != null) {
+        return Expr.BinaryExpr(
+          left = solution,
+          operator = operator,
+          right = Expr.IntExpr(number)
+        )
+      }
+    }
+
+    return null
+  }
 }
 {% endhighlight %}
 
@@ -172,10 +171,10 @@ And finally, we solve:
 
 {% highlight kotlin %}
 fun main(args: Array<String>) {
-    Digits.solve(
-      target = 469,
-      numbers = setOf(5, 7, 11, 13, 19, 23)
-    )
+  Digits.solve(
+    target = 469,
+    numbers = setOf(5, 7, 11, 13, 19, 23)
+  )
 }
 
 {% endhighlight %}
