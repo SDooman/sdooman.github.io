@@ -8,7 +8,8 @@ Hey!
 
 I'm currently a Software Engineer at [Down Dog](https://www.downdogapp.com/), aiming to
 provide affordable, high quality fitness at home.  I build tools 
-for generating playlists, recording and translating instructions at scale, and generally making things more efficient.
+for generating playlists, recording and translating audio at scale, and like 20 other things.  If you're interested
+in helping us with our mission, hit me up!
 
 
 I also try to help [Bootstrap](https://www.bootstrapworld.org/) with their mission of providing 
