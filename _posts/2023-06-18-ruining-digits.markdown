@@ -57,7 +57,10 @@ sealed class Expr {
         private val right: Expr
     ): Expr()
 }
+{% endhighlight %}
 
+Here's how we would write the two simple expressions above, in Kotlin:
+{% highlight kotlin %}
 IntExpr(value = 5)
 
 BinaryExpr(
