@@ -169,8 +169,6 @@ object Digit {
 And finally, we solve:
 
 {% highlight kotlin %}
-import kotlin.system.measureTimeMillis
-
 fun main(args: Array<String>) {
     Digit.solve(
       target = 469,
