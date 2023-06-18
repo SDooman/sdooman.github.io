@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ruining games: Digits"
+title:  "Ruining Games: Digits"
 date:   2023-06-18 14:08:20 -0400
 categories: ruining-games programming
 ---
@@ -16,7 +16,7 @@ If you had fun playing 24 by yourself as a kid, then you'll love this game.  At 
 
 ![Tricky](/img/tricky.jpeg)
 
-I hope that you solve this one quickly and enjoyably.  I'm embarassed to say I spent 45 minutes trying to solve it, while at work, and didn't succeed.  This infuriating encounter reminded me of this quote I first read in Peter Norvig's [Sudoku](https://norvig.com/sudoku.html) post:
+I hope that you solve this one quickly and enjoyably -  I didn't. It took 45 minutes, while at work, and I didn't even succeed.  This infuriating encounter reminded me of this quote I first read in Peter Norvig's [Sudoku](https://norvig.com/sudoku.html) post:
 
 > Sudoku is "a denial of service attack on human intellect".
 
@@ -36,8 +36,7 @@ Notice that complex expressions can be made of integer expressions _or_ complex 
 
 ![big_expr](/img/solution.png)
 
-In our digits game, there are two kinds of expressions; regular integers (like `5`), or binary expressions (like `5 + 7`).  Binary expressions are made up of 
-a left hand side, an operator (`+`, `-`, `*`, `/`) and a right hand side.  They're also more interesting because the left & right sides don't need to be just integers, they can also be binary expressions:
+To represent these expressions in code, there are two kinds of expressions to consider; regular integers (like `5`), or binary expressions (like `5 + 7`).  Binary expressions are made up of a left hand side, an operator (`+`, `-`, `*`, `/`) and a right hand side.  Binary expressions are more interesting, because the left & right sides can themselves be binary expressions:
 
 {% highlight kotlin %}
 enum class Operator {
@@ -113,7 +112,7 @@ If a Digits puzzle can be solved with a particular expression tree, then we can 
 
 {% highlight kotlin %}
 
-object Digit {
+object Digits {
 
     fun solve(target: Int, numbers: Set<Int>) = 
         solveInternal(target = target, numbers = numbers)
@@ -173,7 +172,7 @@ And finally, we solve:
 
 {% highlight kotlin %}
 fun main(args: Array<String>) {
-    Digit.solve(
+    Digits.solve(
       target = 469,
       numbers = setOf(5, 7, 11, 13, 19, 23)
     )
