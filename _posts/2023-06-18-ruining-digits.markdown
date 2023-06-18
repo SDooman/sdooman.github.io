@@ -32,7 +32,7 @@ A more complex expression, like `(5 + 7) * 11`, would be equivalent to a more co
 
 ![big_expr](/img/big_expr.png)
 
-Notice that complex expressions can be made of integer expressions _or_ complex sub-expressions.  For a particular Digits puzzle, the solution will be a complex expression that evaluates to the puzzle target:
+Notice that complex expressions can be made of integer expressions _or_ complex sub-expressions.  For the Digits puzzle that drove me crazy, the solution is one of these:
 
 ![big_expr](/img/solution.png)
 
