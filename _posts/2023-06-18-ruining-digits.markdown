@@ -184,6 +184,6 @@ Some implementation details:
  - The rules dictate that there are no fractions allowed, so we don't need to consider a multiplication operation for numbers `n` that are not fractions of the target.
  - While it is not explicit in the rules, I've never seen a Digits puzzle with duplicate numbers, so a Set<Int> seems like the most performant way to represent the candidate numbers.
 
-For the puzzle that stumped me, `Digits.solve(469, setOf(5, 7, 11, 13, 19, 23))` produces an answer in ~43ms, which is 62,000x faster than me.  On the other hand, it took 40 minutes to write the algorithm, so the total speed has only improved by ~30%.  To keep that speedup factor above 1, I will not be attempting any other optimizations.  If you have ideas for optimizations and improvements, please [play with the code](https://github.com/SDooman/digits) and let me know.
+For the puzzle that stumped me, `Digits.solve(469, setOf(5, 7, 11, 13, 19, 23))` produces an answer in ~43ms, which is 62,000x faster than me.  On the other hand, it took 30 minutes to write the algorithm, so the total speed only improved by ~30%.  To keep that speedup factor above 1, I will not be attempting any other optimizations. 
 
-Thanks for reading!
+Thanks for reading!  If you have ideas for optimizations and improvements, please [play with the code](https://github.com/SDooman/digits) and let me know.
