@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ruining Games with programming"
+title:  "Ruining games with programming: Digits"
 date:   2022-08-09 14:08:20 -0400
 categories: jekyll update
 ---
