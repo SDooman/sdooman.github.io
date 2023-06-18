@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ruining games with programming: Digits"
+title:  "Ruining games: Digits"
 date:   2023-06-18 14:08:20 -0400
 categories: ruining-games programming
 ---
