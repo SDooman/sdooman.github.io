@@ -32,7 +32,7 @@ A more complex expression, like `(5 + 7) * 11`, would be equivalent to a more co
 
 ![big_expr](/img/big_expr.png)
 
-Notice that complex expressions can be made of integer expressions _or_ complex sub-expressions.  For the Digits puzzle that drove me crazy, the solution is one of these:
+Notice that complex expressions can be made of integer expressions _or_ complex sub-expressions.  For the Digits puzzle that drove me crazy, this tree represents one possible solution:
 
 ![big_expr](/img/solution.png)
 
@@ -58,13 +58,27 @@ sealed class Expr {
 }
 {% endhighlight %}
 
-Here's how we would write the two simple expressions above, in Kotlin:
+Here's how we would write the three expressions above, in Kotlin:
 {% highlight kotlin %}
 IntExpr(value = 5)
 
 BinaryExpr(
   left = IntExpr(5),
   right = IntExpr(7),
+  operator = Operator.PLUS
+)
+
+BinaryExpr(
+  left = IntExpr(5),
+  right = BinaryExpr(
+    left = BinaryExpr(
+      left = IntExpr(19),
+      right = IntExpr(23),
+      operator = Operator.PLUS
+    ),
+    right = IntExpr(11),
+    operator = Operator.TIMES
+  ),
   operator = Operator.PLUS
 )
 {% endhighlight %}
