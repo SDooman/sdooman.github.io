@@ -27,6 +27,9 @@ url: "https://sdooman.github.io" # the base hostname & protocol for your site, e
 twitter_username: s_dooman
 github_username: sdooman
 
+# Google Analytics
+google_analytics: G-MQKCV3RD7N
+
 # Build settings
 theme: minima
 plugins:
