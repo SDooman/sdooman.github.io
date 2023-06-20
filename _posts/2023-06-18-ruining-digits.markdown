@@ -32,11 +32,13 @@ A more complex expression, like `(5 + 7) * 11`, would be equivalent to a more co
 
 ![big_expr](/img/big_expr.png)
 
+(Side note: if you're intrested in how CS concepts like trees can be used to improve math education, check out [Bootstrap](https://www.bootstrapworld.org))
+
 Notice that complex expressions can be made of integer expressions _or_ complex sub-expressions.  For the Digits puzzle that drove me crazy, this tree represents one possible solution:
 
 ![big_expr](/img/solution.png)
 
-To represent these expressions in code, there are two kinds of expressions to consider; regular integers (like `5`), or binary expressions (like `5 + 7`).  Binary expressions are made up of a left hand side, an operator (`+`, `-`, `*`, `/`) and a right hand side.  Binary expressions are more interesting, because the left & right sides can themselves be binary expressions:
+To represent these expressions in Kotlin (my current language of choice), there are two kinds of expressions to consider; regular integers (like `5`), or binary expressions (like `5 + 7`).  Binary expressions are made up of a left hand side, an operator (`+`, `-`, `*`, `/`) and a right hand side.  Binary expressions are more interesting, because the left & right sides can themselves be binary expressions:
 
 {% highlight kotlin %}
 enum class Operator {
