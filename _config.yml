@@ -23,14 +23,20 @@ email: samuel.dooman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Short poasts about startups, music, reading, or games.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sdooman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: s_dooman
 github_username: sdooman
+
+# Google Analytics
+google_analytics: G-MQKCV3RD7N
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+include:
+  - "img"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
