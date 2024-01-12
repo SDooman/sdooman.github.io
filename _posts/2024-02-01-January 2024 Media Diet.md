@@ -25,9 +25,6 @@ I have more home cooked software project ideas, for when I'm less busy with Down
 
 ### [The Real Differences Between Gen Z, Millennials, Gen X, Boomers, and Silents - and What They Mean for America's Future](https://www.amazon.com/Generations-Differences-Millennials-Silents_and-Americas/dp/1982181613)
 
-Originally inspired to read this because I'm a Millenial-GenZ fence straddler, dating a Gen Z woman.  I'm also curious about the trends for even younger generations, which might be relevant when I start a family.  Here are the most prescient excerpts 
+Originally inspired to read this because I straddle the Millenial - Gen Z divide, and am dating a Gen Z woman.  I'm also curious about the trends for even younger generations, which might be relevant when I start a family.  Here are the most prescient excerpts:
 
-Last time, I omitted the most important part of the media junk food diary; the media junk food.  So this time, 
-I'll also include how many hours I spent on twitter, to hopefully cut down on that.  Also, after reviewing the post from
-March, I remember much more content from the articles/media that I actually wrote about.  So this month, I'll write about every
-single thing I read or watch, even if it's just a summary.
+> 
