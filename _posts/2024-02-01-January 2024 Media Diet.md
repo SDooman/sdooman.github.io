@@ -22,9 +22,6 @@ Love this piece, I want all my Computer Science classmates turned professional s
 
 I have more home cooked software project ideas, for when I'm less busy with Down Dog, might write about those soon.
 
-
 ### [The Real Differences Between Gen Z, Millennials, Gen X, Boomers, and Silents - and What They Mean for America's Future](https://www.amazon.com/Generations-Differences-Millennials-Silents_and-Americas/dp/1982181613)
 
-Originally inspired to read this because I straddle the Millenial - Gen Z divide, and am dating a Gen Z woman.  I'm also curious about the trends for even younger generations, which might be relevant when I start a family.  Here are the most prescient excerpts:
-
-> 
+Originally inspired to read this because I straddle the Millenial - Gen Z divide, and am dating a Gen Z woman.  I'm also curious about the trends for even younger generations, which might be relevant when I start a family.  Many startling stats, might do a separate post about those.
