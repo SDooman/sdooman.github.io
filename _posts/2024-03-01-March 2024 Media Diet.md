@@ -12,3 +12,7 @@ Numerical computing & solving differential equations was my gateway drug to comp
 
 ### [Stripe's 2023 Annual Letter](https://assets.ctfassets.net/fzn2n1nzq965/1gMd12owbzJaSe4Y560OEJ/d21e289c93952e70e964de8f0fa847c9/Stripe_2023_annual_letter.pdf)
 
+
+### [Humans are not automatically strategic](https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/PBRWb2Em5SNeWYwwB#4LaKSWTFZFpAoaPcb)
+
+### [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
