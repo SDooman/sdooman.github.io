@@ -21,7 +21,7 @@
 title: Inch by Inch
 email: samuel.dooman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Short poasts about startups, music, reading, or games.
+  Posts about startups, learning, games, and life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sdooman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: s_dooman
