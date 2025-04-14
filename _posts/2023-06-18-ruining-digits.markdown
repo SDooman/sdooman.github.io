@@ -2,7 +2,7 @@
 layout: post
 title:  "Ruining Games: Digits"
 date:   2023-06-18 14:08:20 -0400
-categories: ruining-games programming
+categories: games
 ---
 
 If you're looking to fill the Wordle shaped hole in your heart, [Digits](https://www.nytimes.com/games/digits) 

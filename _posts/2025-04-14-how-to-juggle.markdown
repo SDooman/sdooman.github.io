@@ -2,7 +2,7 @@
 layout: post
 title: "How To Juggle"
 date: 2025-04-14 08:08:20 -0400
-categories: learning behavior-change
+categories: learning
 ---
 
 ### How To Juggle (Part 1)
