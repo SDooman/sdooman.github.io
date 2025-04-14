@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "How To Juggle"
+title: "How To Juggle (Part 1)"
 date: 2025-04-14 08:08:20 -0400
 categories: learning
 ---
-
-### How To Juggle (Part 1)
 
 1.  Search 'how to juggle' on YouTube.  Watch several different peoples' videos to get a sense for what they do similarly, what they do differently.  Make sure to watch the recommended videos with more complicated things like juggling 7 balls, doing tricks, etc. to get excited about your future abilities.
 
