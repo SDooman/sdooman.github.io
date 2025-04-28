@@ -13,7 +13,7 @@ categories: learning
 
 4.  People are busy, and you might not get responses right away, so be persistent.  Write first, second, and third round emails to send to your potential mentors if they don't respond.  There's software you can use to do this automatically; it will have a learning curve, but should save time in the long run.
 
-5.  If you're lucky your mentor will live close to you, but most likely they'd coach you remotely.  So you'll need a home video setup for them to observe and correct your technique.  Research the most cost effective video recording equipment, and purchase several cameras you can set up at different angles for complete visual coverage.
+5.  If you're lucky, your mentor will live close by, but most likely they will coach you remotely.  So you'll need a home video setup for them to observe and correct your technique.  Research the most cost effective video recording equipment, and purchase several cameras you can set up at different angles for complete visual coverage.
 
 6.  Video equipment is expensive, but you can offset the cost by creating your own juggling YouTube videos that generate ad revenue.  Use ChatGPT or another AI model to brainstorm names for your channel.
 
