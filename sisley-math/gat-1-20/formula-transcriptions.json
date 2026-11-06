@@ -1,0 +1,4832 @@
+{
+  "statistics": {
+    "images_reviewed": 336,
+    "formula_assets_converted": 220,
+    "formula_occurrences_converted": 546,
+    "image_assets_retained": 116,
+    "image_occurrences_retained": 120
+  },
+  "assets": [
+    {
+      "image_id": "image1",
+      "source_asset": "assets/image1.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        1
+      ],
+      "question_ids": [
+        "gat-01-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image2",
+      "source_asset": "assets/image2.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        1
+      ],
+      "question_ids": [
+        "gat-01-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image3",
+      "source_asset": "assets/image3.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        2
+      ],
+      "question_ids": [
+        "gat-01-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "The line label looks like “1” or plain “l”; verify whether it should be ℓ."
+      ]
+    },
+    {
+      "image_id": "image4",
+      "source_asset": "assets/image4.svg",
+      "status": "latex",
+      "occurrences": 60,
+      "reference_pages": [
+        2,
+        3,
+        7,
+        16,
+        17,
+        21,
+        22,
+        23,
+        27,
+        28,
+        30,
+        32,
+        33,
+        36,
+        38,
+        39,
+        40,
+        41,
+        47,
+        49,
+        50,
+        51,
+        52,
+        54,
+        55,
+        56,
+        58,
+        59,
+        60,
+        63,
+        64,
+        69,
+        72,
+        73,
+        77
+      ],
+      "question_ids": [
+        "gat-01-ii",
+        "gat-01-iii",
+        "gat-02-ii",
+        "gat-04-ii",
+        "gat-04-iii",
+        "gat-05-ii",
+        "gat-05-iv",
+        "gat-05-viii",
+        "gat-06-iii",
+        "gat-06-iv",
+        "gat-06-viii",
+        "gat-07-i",
+        "gat-07-ii",
+        "gat-07-iii",
+        "gat-07-vi",
+        "gat-08-ii",
+        "gat-08-iv",
+        "gat-09-i",
+        "gat-10-vii",
+        "gat-10-viii",
+        "gat-11-i",
+        "gat-11-ii",
+        "gat-11-iii",
+        "gat-11-iv",
+        "gat-11-viii",
+        "gat-11-ix",
+        "gat-12-iii",
+        "gat-12-viii",
+        "gat-12-ix",
+        "gat-13-i",
+        "gat-13-ii",
+        "gat-14-i",
+        "gat-14-ii",
+        "gat-15-iii",
+        "gat-16-ii",
+        "gat-16-iii",
+        "gat-17-i"
+      ],
+      "latex": "\\ell"
+    },
+    {
+      "image_id": "image5",
+      "source_asset": "assets/image5.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        3
+      ],
+      "question_ids": [
+        "gat-01-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image6",
+      "source_asset": "assets/image6.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        3
+      ],
+      "question_ids": [
+        "gat-01-iii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image7",
+      "source_asset": "assets/image7.svg",
+      "status": "latex",
+      "occurrences": 26,
+      "reference_pages": [
+        3,
+        4,
+        7,
+        8,
+        12,
+        29,
+        30,
+        44,
+        46,
+        59,
+        69,
+        79,
+        81,
+        92
+      ],
+      "question_ids": [
+        "gat-01-iv",
+        "gat-01-v",
+        "gat-02-iii",
+        "gat-02-iv",
+        "gat-03-iv",
+        "gat-06-vii",
+        "gat-09-v",
+        "gat-10-ii",
+        "gat-12-viii",
+        "gat-15-iv",
+        "gat-17-vi",
+        "gat-18-iv",
+        "gat-20-iii"
+      ],
+      "latex": "x\\text{-axis}"
+    },
+    {
+      "image_id": "image8",
+      "source_asset": "assets/image8.svg",
+      "status": "latex",
+      "occurrences": 20,
+      "reference_pages": [
+        4,
+        8,
+        13,
+        16,
+        30,
+        44,
+        54,
+        61,
+        65,
+        69,
+        83
+      ],
+      "question_ids": [
+        "gat-01-iv",
+        "gat-02-iv",
+        "gat-02-v",
+        "gat-03-iv",
+        "gat-04-i",
+        "gat-06-vii",
+        "gat-09-v",
+        "gat-09-vi",
+        "gat-11-viii",
+        "gat-13-iii",
+        "gat-14-iv",
+        "gat-15-iv",
+        "gat-18-vi"
+      ],
+      "latex": "y\\text{-axis}"
+    },
+    {
+      "image_id": "image9",
+      "source_asset": "assets/image9.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        4
+      ],
+      "question_ids": [
+        "gat-01-vi"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image10",
+      "source_asset": "assets/image10.svg",
+      "status": "latex",
+      "occurrences": 7,
+      "reference_pages": [
+        4,
+        8,
+        9
+      ],
+      "question_ids": [
+        "gat-01-vi",
+        "gat-02-v"
+      ],
+      "latex": "1\\cdot x+0\\cdot y={}^{-}2"
+    },
+    {
+      "image_id": "image11",
+      "source_asset": "assets/image11.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        4
+      ],
+      "question_ids": [
+        "gat-01-vi"
+      ],
+      "latex": "0\\cdot x+1\\cdot y={}^{-}2"
+    },
+    {
+      "image_id": "image12",
+      "source_asset": "assets/image12.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        4
+      ],
+      "question_ids": [
+        "gat-01-vi"
+      ],
+      "latex": "x+y={}^{-}4"
+    },
+    {
+      "image_id": "image13",
+      "source_asset": "assets/image13.svg",
+      "status": "latex",
+      "occurrences": 3,
+      "reference_pages": [
+        4,
+        9
+      ],
+      "question_ids": [
+        "gat-01-vi",
+        "gat-02-v"
+      ],
+      "latex": "1\\cdot x+2=0\\cdot y"
+    },
+    {
+      "image_id": "image14",
+      "source_asset": "assets/image14.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        4
+      ],
+      "question_ids": [
+        "gat-01-vi"
+      ],
+      "latex": "x={}^{-}2"
+    },
+    {
+      "image_id": "image15",
+      "source_asset": "assets/image15.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        5
+      ],
+      "question_ids": [
+        "gat-01-viii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image16",
+      "source_asset": "assets/image16.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        5
+      ],
+      "question_ids": [
+        "gat-01-ix"
+      ],
+      "latex": "5\\cdot x+{}^{-}7=3"
+    },
+    {
+      "image_id": "image17",
+      "source_asset": "assets/image17.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        5
+      ],
+      "question_ids": [
+        "gat-01-ix"
+      ],
+      "latex": "5\\cdot x+{}^{-}6={}^{-}9"
+    },
+    {
+      "image_id": "image18",
+      "source_asset": "assets/image18.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        5
+      ],
+      "question_ids": [
+        "gat-01-ix"
+      ],
+      "latex": "\\sqrt{3}\\cdot x+2=8"
+    },
+    {
+      "image_id": "image19",
+      "source_asset": "assets/image19.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        6
+      ],
+      "question_ids": [
+        "gat-02-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image20",
+      "source_asset": "assets/image20.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        7
+      ],
+      "question_ids": [
+        "gat-02-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image21",
+      "source_asset": "assets/image21.svg",
+      "status": "latex",
+      "occurrences": 2,
+      "reference_pages": [
+        7,
+        8
+      ],
+      "question_ids": [
+        "gat-02-iii",
+        "gat-02-iv"
+      ],
+      "latex": "r_x"
+    },
+    {
+      "image_id": "image22",
+      "source_asset": "assets/image22.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        7
+      ],
+      "question_ids": [
+        "gat-02-iii"
+      ],
+      "latex": "r_x(x,y)=({}^{-}x,y)"
+    },
+    {
+      "image_id": "image23",
+      "source_asset": "assets/image23.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        7
+      ],
+      "question_ids": [
+        "gat-02-iii"
+      ],
+      "latex": "r_x(x,y)=(x,{}^{-}y)"
+    },
+    {
+      "image_id": "image24",
+      "source_asset": "assets/image24.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        7
+      ],
+      "question_ids": [
+        "gat-02-iv"
+      ],
+      "latex": "(3,{}^{-}\\sqrt{23})"
+    },
+    {
+      "image_id": "image25",
+      "source_asset": "assets/image25.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        7
+      ],
+      "question_ids": [
+        "gat-02-iv"
+      ],
+      "latex": "(3,\\sqrt{23})"
+    },
+    {
+      "image_id": "image26",
+      "source_asset": "assets/image26.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        7
+      ],
+      "question_ids": [
+        "gat-02-iv"
+      ],
+      "latex": "({}^{-}5,0)"
+    },
+    {
+      "image_id": "image27",
+      "source_asset": "assets/image27.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        7
+      ],
+      "question_ids": [
+        "gat-02-iv"
+      ],
+      "latex": "(13.2,0)"
+    },
+    {
+      "image_id": "image28",
+      "source_asset": "assets/image28.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        8
+      ],
+      "question_ids": [
+        "gat-02-iv"
+      ],
+      "latex": "r_x({}^{-}4,{}^{-}5)"
+    },
+    {
+      "image_id": "image29",
+      "source_asset": "assets/image29.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        8
+      ],
+      "question_ids": [
+        "gat-02-iv"
+      ],
+      "latex": "r_x(5,{}^{-}2)"
+    },
+    {
+      "image_id": "image30",
+      "source_asset": "assets/image30.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        8
+      ],
+      "question_ids": [
+        "gat-02-iv"
+      ],
+      "latex": "r_x(0,{}^{-}3)"
+    },
+    {
+      "image_id": "image31",
+      "source_asset": "assets/image31.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        8
+      ],
+      "question_ids": [
+        "gat-02-iv"
+      ],
+      "latex": "r_x(a,b)"
+    },
+    {
+      "image_id": "image32",
+      "source_asset": "assets/image32.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        8
+      ],
+      "question_ids": [
+        "gat-02-iv"
+      ],
+      "latex": "r_x({}^{-}a,{}^{-}b)"
+    },
+    {
+      "image_id": "image33",
+      "source_asset": "assets/image33.svg",
+      "status": "latex",
+      "occurrences": 7,
+      "reference_pages": [
+        8,
+        9,
+        12,
+        14
+      ],
+      "question_ids": [
+        "gat-02-v",
+        "gat-03-ii",
+        "gat-03-iii",
+        "gat-03-viii"
+      ],
+      "latex": "x"
+    },
+    {
+      "image_id": "image34",
+      "source_asset": "assets/image34.svg",
+      "status": "latex",
+      "occurrences": 6,
+      "reference_pages": [
+        8,
+        9,
+        12
+      ],
+      "question_ids": [
+        "gat-02-v",
+        "gat-03-ii",
+        "gat-03-iii"
+      ],
+      "latex": "y"
+    },
+    {
+      "image_id": "image35",
+      "source_asset": "assets/image35.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        8
+      ],
+      "question_ids": [
+        "gat-02-v"
+      ],
+      "latex": "1\\cdot{}^{-}2+0\\cdot{}^{-}1={}^{-}2"
+    },
+    {
+      "image_id": "image36",
+      "source_asset": "assets/image36.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        9
+      ],
+      "question_ids": [
+        "gat-02-v"
+      ],
+      "latex": "1\\cdot x+0\\cdot y={}^{-}2"
+    },
+    {
+      "image_id": "image37",
+      "source_asset": "assets/image37.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        9
+      ],
+      "question_ids": [
+        "gat-02-v"
+      ],
+      "latex": "{}^{-}\\sqrt{7}"
+    },
+    {
+      "image_id": "image38",
+      "source_asset": "assets/image38.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        9
+      ],
+      "question_ids": [
+        "gat-02-vi"
+      ],
+      "latex": "1\\cdot x+0\\cdot y=4"
+    },
+    {
+      "image_id": "image39",
+      "source_asset": "assets/image39.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        9
+      ],
+      "question_ids": [
+        "gat-02-vi"
+      ],
+      "latex": "0\\cdot x+1\\cdot y=3"
+    },
+    {
+      "image_id": "image40",
+      "source_asset": "assets/image40.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        9
+      ],
+      "question_ids": [
+        "gat-02-vi"
+      ],
+      "latex": "x+y=7"
+    },
+    {
+      "image_id": "image41",
+      "source_asset": "assets/image41.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        9
+      ],
+      "question_ids": [
+        "gat-02-vi"
+      ],
+      "latex": "0\\cdot x+{}^{-}4={}^{-}1\\cdot y"
+    },
+    {
+      "image_id": "image42",
+      "source_asset": "assets/image42.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        9
+      ],
+      "question_ids": [
+        "gat-02-vi"
+      ],
+      "latex": "y=4"
+    },
+    {
+      "image_id": "image43",
+      "source_asset": "assets/image43.svg",
+      "status": "latex",
+      "occurrences": 9,
+      "reference_pages": [
+        10,
+        17,
+        29,
+        30,
+        69,
+        92
+      ],
+      "question_ids": [
+        "gat-02-vii",
+        "gat-04-iv",
+        "gat-06-vii",
+        "gat-15-iv",
+        "gat-20-iii"
+      ],
+      "latex": "y=x"
+    },
+    {
+      "image_id": "image44",
+      "source_asset": "assets/image44.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        10
+      ],
+      "question_ids": [
+        "gat-02-ix"
+      ],
+      "latex": "\\surd(3)",
+      "note": "Calculator key notation: the source shows a radical symbol followed by (3), not a vinculum extending over the argument."
+    },
+    {
+      "image_id": "image45",
+      "source_asset": "assets/image45.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        10
+      ],
+      "question_ids": [
+        "gat-02-ix"
+      ],
+      "latex": "\\surd",
+      "note": "Bare radical key symbol, followed by (3+7) in the prose; kept as a symbol rather than extending a radical bar over its argument."
+    },
+    {
+      "image_id": "image46",
+      "source_asset": "assets/image46.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        10
+      ],
+      "question_ids": [
+        "gat-02-ix"
+      ],
+      "latex": "x^2"
+    },
+    {
+      "image_id": "image47",
+      "source_asset": "assets/image47.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        10
+      ],
+      "question_ids": [
+        "gat-02-ix"
+      ],
+      "latex": "\\sqrt{10}"
+    },
+    {
+      "image_id": "image48",
+      "source_asset": "assets/image48.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        10
+      ],
+      "question_ids": [
+        "gat-02-ix"
+      ],
+      "latex": "\\sqrt{3+\\sqrt{47}}"
+    },
+    {
+      "image_id": "image49",
+      "source_asset": "assets/image49.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        10
+      ],
+      "question_ids": [
+        "gat-02-x"
+      ],
+      "latex": "11\\cdot x+4=9"
+    },
+    {
+      "image_id": "image50",
+      "source_asset": "assets/image50.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        10
+      ],
+      "question_ids": [
+        "gat-02-x"
+      ],
+      "latex": "11\\cdot x+4=\\sqrt{11}"
+    },
+    {
+      "image_id": "image51",
+      "source_asset": "assets/image51.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        10
+      ],
+      "question_ids": [
+        "gat-02-x"
+      ],
+      "latex": "5\\cdot x+6\\cdot x+\\sqrt{3}=5"
+    },
+    {
+      "image_id": "image52",
+      "source_asset": "assets/image52.svg",
+      "status": "latex",
+      "occurrences": 2,
+      "reference_pages": [
+        12
+      ],
+      "question_ids": [
+        "gat-03-iv"
+      ],
+      "latex": "r_x(x,y)=(x,{}^{-}y)"
+    },
+    {
+      "image_id": "image53",
+      "source_asset": "assets/image53.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        13
+      ],
+      "question_ids": [
+        "gat-03-iv"
+      ],
+      "latex": "r_x({}^{-}x,{}^{-}y)=({}^{-}x,y)"
+    },
+    {
+      "image_id": "image54",
+      "source_asset": "assets/image54.svg",
+      "status": "latex",
+      "occurrences": 2,
+      "reference_pages": [
+        13,
+        16
+      ],
+      "question_ids": [
+        "gat-03-iv",
+        "gat-04-i"
+      ],
+      "latex": "r_y(x,y)=({}^{-}x,y)"
+    },
+    {
+      "image_id": "image55",
+      "source_asset": "assets/image55.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        13
+      ],
+      "question_ids": [
+        "gat-03-iv"
+      ],
+      "latex": "r_y(x,y)=(x,{}^{-}y)"
+    },
+    {
+      "image_id": "image56",
+      "source_asset": "assets/image56.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        13
+      ],
+      "question_ids": [
+        "gat-03-iv"
+      ],
+      "latex": "r_y(y,x)=({}^{-}y,x)"
+    },
+    {
+      "image_id": "image57",
+      "source_asset": "assets/image57.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        13
+      ],
+      "question_ids": [
+        "gat-03-iv"
+      ],
+      "latex": "r_y({}^{-}x,y)=(x,y)"
+    },
+    {
+      "image_id": "image58",
+      "source_asset": "assets/image58.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        13
+      ],
+      "question_ids": [
+        "gat-03-vi"
+      ],
+      "latex": "\\sqrt{({}^{-}13.2)^2}"
+    },
+    {
+      "image_id": "image59",
+      "source_asset": "assets/image59.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        13
+      ],
+      "question_ids": [
+        "gat-03-vi"
+      ],
+      "latex": "\\sqrt{\\sqrt{26}+5}"
+    },
+    {
+      "image_id": "image60",
+      "source_asset": "assets/image60.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        13
+      ],
+      "question_ids": [
+        "gat-03-vii"
+      ],
+      "latex": "r_x({}^{-}3,{}^{-}4)"
+    },
+    {
+      "image_id": "image61",
+      "source_asset": "assets/image61.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        13
+      ],
+      "question_ids": [
+        "gat-03-vii"
+      ],
+      "latex": "r_y({}^{-}3,{}^{-}4)"
+    },
+    {
+      "image_id": "image62",
+      "source_asset": "assets/image62.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        13
+      ],
+      "question_ids": [
+        "gat-03-vii"
+      ],
+      "latex": "r_x(r_y({}^{-}3,{}^{-}4))"
+    },
+    {
+      "image_id": "image63",
+      "source_asset": "assets/image63.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        14
+      ],
+      "question_ids": [
+        "gat-03-vii"
+      ],
+      "latex": "r_x({}^{-}a,b)"
+    },
+    {
+      "image_id": "image64",
+      "source_asset": "assets/image64.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        14
+      ],
+      "question_ids": [
+        "gat-03-vii"
+      ],
+      "latex": "r_y({}^{-}a,b)"
+    },
+    {
+      "image_id": "image65",
+      "source_asset": "assets/image65.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        14
+      ],
+      "question_ids": [
+        "gat-03-vii"
+      ],
+      "latex": "r_x(r_y({}^{-}a,b))"
+    },
+    {
+      "image_id": "image66",
+      "source_asset": "assets/image66.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        14
+      ],
+      "question_ids": [
+        "gat-03-viii"
+      ],
+      "latex": "2\\cdot x+5\\cdot x=23"
+    },
+    {
+      "image_id": "image67",
+      "source_asset": "assets/image67.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        14
+      ],
+      "question_ids": [
+        "gat-03-viii"
+      ],
+      "latex": "2\\cdot x+x=23"
+    },
+    {
+      "image_id": "image68",
+      "source_asset": "assets/image68.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        14
+      ],
+      "question_ids": [
+        "gat-03-viii"
+      ],
+      "latex": "2\\cdot x+\\sqrt{7}\\cdot x=23"
+    },
+    {
+      "image_id": "image69",
+      "source_asset": "assets/image69.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        14
+      ],
+      "question_ids": [
+        "gat-03-ix"
+      ],
+      "latex": "2\\cdot(c+d)"
+    },
+    {
+      "image_id": "image70",
+      "source_asset": "assets/image70.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        14
+      ],
+      "question_ids": [
+        "gat-03-x"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image71",
+      "source_asset": "assets/image71.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        14
+      ],
+      "question_ids": [
+        "gat-03-x"
+      ],
+      "latex": "15^2+8^2=17^2"
+    },
+    {
+      "image_id": "image72",
+      "source_asset": "assets/image72.png",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        14
+      ],
+      "question_ids": [
+        "gat-03-x"
+      ],
+      "latex": "a^2+b^2=c^2"
+    },
+    {
+      "image_id": "image73",
+      "source_asset": "assets/image73.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        15
+      ],
+      "question_ids": [
+        "gat-03-x"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image74",
+      "source_asset": "assets/image74.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        15
+      ],
+      "question_ids": [
+        "gat-03-x"
+      ],
+      "latex": "\\sqrt{58}"
+    },
+    {
+      "image_id": "image75",
+      "source_asset": "assets/image75.svg",
+      "status": "latex",
+      "occurrences": 4,
+      "reference_pages": [
+        16
+      ],
+      "question_ids": [
+        "gat-04-i"
+      ],
+      "latex": "r_y({}^{-}7,{}^{-}4)"
+    },
+    {
+      "image_id": "image76",
+      "source_asset": "assets/image76.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        16
+      ],
+      "question_ids": [
+        "gat-04-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "The line label looks like “1” or plain “l”; verify whether it should be ℓ."
+      ]
+    },
+    {
+      "image_id": "image77",
+      "source_asset": "assets/image77.svg",
+      "status": "latex",
+      "occurrences": 15,
+      "reference_pages": [
+        17,
+        44,
+        46,
+        54,
+        59,
+        87
+      ],
+      "question_ids": [
+        "gat-04-iv",
+        "gat-09-v",
+        "gat-09-vi",
+        "gat-10-ii",
+        "gat-11-viii",
+        "gat-12-viii",
+        "gat-19-ii"
+      ],
+      "latex": "y={}^{-}x"
+    },
+    {
+      "image_id": "image78",
+      "source_asset": "assets/image78.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        17
+      ],
+      "question_ids": [
+        "gat-04-v"
+      ],
+      "latex": "({}^{-}1.732)^2"
+    },
+    {
+      "image_id": "image79",
+      "source_asset": "assets/image79.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        17
+      ],
+      "question_ids": [
+        "gat-04-v"
+      ],
+      "latex": "{}^{-}1.732^2"
+    },
+    {
+      "image_id": "image80",
+      "source_asset": "assets/image80.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        17
+      ],
+      "question_ids": [
+        "gat-04-v"
+      ],
+      "latex": "\\sqrt{7+\\sqrt{4.1}}"
+    },
+    {
+      "image_id": "image81",
+      "source_asset": "assets/image81.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        17
+      ],
+      "question_ids": [
+        "gat-04-v"
+      ],
+      "latex": "\\sqrt{7}+\\sqrt{4.1}"
+    },
+    {
+      "image_id": "image82",
+      "source_asset": "assets/image82.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        17
+      ],
+      "question_ids": [
+        "gat-04-vi"
+      ],
+      "latex": "11x+{}^{-}21=12"
+    },
+    {
+      "image_id": "image83",
+      "source_asset": "assets/image83.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        17
+      ],
+      "question_ids": [
+        "gat-04-vi"
+      ],
+      "latex": "11\\cdot x+{}^{-}\\sqrt{21}=12"
+    },
+    {
+      "image_id": "image84",
+      "source_asset": "assets/image84.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        17
+      ],
+      "question_ids": [
+        "gat-04-vi"
+      ],
+      "latex": "\\sqrt{11}\\cdot x+{}^{-}21=12"
+    },
+    {
+      "image_id": "image85",
+      "source_asset": "assets/image85.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        17
+      ],
+      "question_ids": [
+        "gat-04-vii"
+      ],
+      "latex": "r_x({}^{-}5,2)"
+    },
+    {
+      "image_id": "image86",
+      "source_asset": "assets/image86.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        17
+      ],
+      "question_ids": [
+        "gat-04-vii"
+      ],
+      "latex": "r_y(5,{}^{-}2)"
+    },
+    {
+      "image_id": "image87",
+      "source_asset": "assets/image87.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        17
+      ],
+      "question_ids": [
+        "gat-04-vii"
+      ],
+      "latex": "r_x(r_y(5,{}^{-}2))"
+    },
+    {
+      "image_id": "image88",
+      "source_asset": "assets/image88.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        17
+      ],
+      "question_ids": [
+        "gat-04-vii"
+      ],
+      "latex": "r_x(r_x(5,{}^{-}2))"
+    },
+    {
+      "image_id": "image89",
+      "source_asset": "assets/image89.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        17
+      ],
+      "question_ids": [
+        "gat-04-vii"
+      ],
+      "latex": "r_y(r_x({}^{-}a,b))"
+    },
+    {
+      "image_id": "image90",
+      "source_asset": "assets/image90.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        17
+      ],
+      "question_ids": [
+        "gat-04-viii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image91",
+      "source_asset": "assets/image91.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        18
+      ],
+      "question_ids": [
+        "gat-04-ix"
+      ],
+      "latex": "c\\cdot d+c\\cdot d"
+    },
+    {
+      "image_id": "image92",
+      "source_asset": "assets/image92.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        18
+      ],
+      "question_ids": [
+        "gat-04-x"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image93",
+      "source_asset": "assets/image93.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        19
+      ],
+      "question_ids": [
+        "gat-05-i"
+      ],
+      "latex": "r_{x={}^{-}3}(A)=r_{x={}^{-}3}({}^{-}5,0)="
+    },
+    {
+      "image_id": "image94",
+      "source_asset": "assets/image94.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        19
+      ],
+      "question_ids": [
+        "gat-05-i"
+      ],
+      "latex": "r_{x=2}"
+    },
+    {
+      "image_id": "image95",
+      "source_asset": "assets/image95.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        19
+      ],
+      "question_ids": [
+        "gat-05-i"
+      ],
+      "latex": "=r_{x=2}({}^{-}1,0)=A''=(5,0)"
+    },
+    {
+      "image_id": "image96",
+      "source_asset": "assets/image96.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        19
+      ],
+      "question_ids": [
+        "gat-05-i"
+      ],
+      "latex": "r_{x=2}(\\circ r_{x={}^{-}3}(A))=r_{x=2}(r_{x={}^{-}3}({}^{-}5,0)=r_{x=2}({}^{-}1,0)=(5,0)=A''",
+      "note": "Source notation has an unusual composition-symbol placement and an unclosed parenthesis in its second expression. Transcribed literally; requires mathematical proofreading."
+    },
+    {
+      "image_id": "image97",
+      "source_asset": "assets/image97.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        19
+      ],
+      "question_ids": [
+        "gat-05-i"
+      ],
+      "latex": "r_{x=2}"
+    },
+    {
+      "image_id": "image98",
+      "source_asset": "assets/image98.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        19
+      ],
+      "question_ids": [
+        "gat-05-i"
+      ],
+      "latex": "r_{x={}^{-}3}"
+    },
+    {
+      "image_id": "image99",
+      "source_asset": "assets/image99.png",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        19
+      ],
+      "question_ids": [
+        "gat-05-i"
+      ],
+      "latex": "r_{x=2}\\circ r_{x={}^{-}3}"
+    },
+    {
+      "image_id": "image100",
+      "source_asset": "assets/image100.svg",
+      "status": "latex",
+      "occurrences": 34,
+      "reference_pages": [
+        19,
+        47,
+        53,
+        57,
+        62,
+        64,
+        68,
+        72
+      ],
+      "question_ids": [
+        "gat-05-i",
+        "gat-10-vi",
+        "gat-11-vi",
+        "gat-12-iv",
+        "gat-13-vi",
+        "gat-14-iii",
+        "gat-15-i",
+        "gat-16-i"
+      ],
+      "latex": "\\circ"
+    },
+    {
+      "image_id": "image101",
+      "source_asset": "assets/image101.svg",
+      "status": "latex",
+      "occurrences": 2,
+      "reference_pages": [
+        19,
+        20
+      ],
+      "question_ids": [
+        "gat-05-i"
+      ],
+      "latex": "r_{x={}^{-}3}\\circ r_{x=2}"
+    },
+    {
+      "image_id": "image102",
+      "source_asset": "assets/image102.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        19
+      ],
+      "question_ids": [
+        "gat-05-i"
+      ],
+      "latex": "x={}^{-}3"
+    },
+    {
+      "image_id": "image103",
+      "source_asset": "assets/image103.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        19
+      ],
+      "question_ids": [
+        "gat-05-i"
+      ],
+      "latex": "x=2"
+    },
+    {
+      "image_id": "image104",
+      "source_asset": "assets/image104.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        20
+      ],
+      "question_ids": [
+        "gat-05-i"
+      ],
+      "latex": "r_{x={}^{-}3}\\circ(r_{x=2}(A))=r_{x={}^{-}3}(9,0)=({}^{-}15.0)=A''",
+      "note": "Source ends with the apparent coordinate typo (raised-minus 15.0), using a period rather than a comma. Preserved literally."
+    },
+    {
+      "image_id": "image105",
+      "source_asset": "assets/image105.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        20
+      ],
+      "question_ids": [
+        "gat-05-i"
+      ],
+      "latex": "r_{x=2}\\circ r_{x={}^{-}3}"
+    },
+    {
+      "image_id": "image106",
+      "source_asset": "assets/image106.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        20
+      ],
+      "question_ids": [
+        "gat-05-i"
+      ],
+      "latex": "(r_{x=2}\\circ r_{x={}^{-}3})(x,y)=(x+10,y)"
+    },
+    {
+      "image_id": "image107",
+      "source_asset": "assets/image107.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        20
+      ],
+      "question_ids": [
+        "gat-05-i"
+      ],
+      "latex": "(r_{x={}^{-}3}\\circ r_{x=2})(x,y)=(x+{}^{-}10,y)"
+    },
+    {
+      "image_id": "image108",
+      "source_asset": "assets/image108.svg",
+      "status": "latex",
+      "occurrences": 3,
+      "reference_pages": [
+        20
+      ],
+      "question_ids": [
+        "gat-05-i"
+      ],
+      "latex": "r_{x={}^{-}1}\\circ r_{x=3}"
+    },
+    {
+      "image_id": "image109",
+      "source_asset": "assets/image109.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        20
+      ],
+      "question_ids": [
+        "gat-05-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image110",
+      "source_asset": "assets/image110.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        21
+      ],
+      "question_ids": [
+        "gat-05-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image111",
+      "source_asset": "assets/image111.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        21
+      ],
+      "question_ids": [
+        "gat-05-ii"
+      ],
+      "latex": "r_{\\ell}(A)="
+    },
+    {
+      "image_id": "image112",
+      "source_asset": "assets/image112.svg",
+      "status": "latex",
+      "occurrences": 4,
+      "reference_pages": [
+        21,
+        27,
+        32
+      ],
+      "question_ids": [
+        "gat-05-ii",
+        "gat-06-iii",
+        "gat-07-ii"
+      ],
+      "latex": "r_m"
+    },
+    {
+      "image_id": "image113",
+      "source_asset": "assets/image113.svg",
+      "status": "latex",
+      "occurrences": 49,
+      "reference_pages": [
+        21,
+        22,
+        23,
+        27,
+        28,
+        30,
+        32,
+        33,
+        36,
+        38,
+        39,
+        40,
+        41,
+        47,
+        49,
+        50,
+        51,
+        52,
+        54,
+        55,
+        56,
+        58,
+        59,
+        60,
+        63,
+        64,
+        69,
+        72,
+        73,
+        77
+      ],
+      "question_ids": [
+        "gat-05-ii",
+        "gat-05-iv",
+        "gat-05-viii",
+        "gat-06-iii",
+        "gat-06-iv",
+        "gat-06-viii",
+        "gat-07-ii",
+        "gat-07-iii",
+        "gat-07-vi",
+        "gat-08-ii",
+        "gat-08-iv",
+        "gat-09-i",
+        "gat-10-vii",
+        "gat-10-viii",
+        "gat-11-i",
+        "gat-11-ii",
+        "gat-11-iii",
+        "gat-11-iv",
+        "gat-11-viii",
+        "gat-11-ix",
+        "gat-12-iii",
+        "gat-12-viii",
+        "gat-12-ix",
+        "gat-13-ii",
+        "gat-14-i",
+        "gat-14-ii",
+        "gat-15-iii",
+        "gat-16-ii",
+        "gat-16-iii",
+        "gat-17-i"
+      ],
+      "latex": "m"
+    },
+    {
+      "image_id": "image114",
+      "source_asset": "assets/image114.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        21
+      ],
+      "question_ids": [
+        "gat-05-iii"
+      ],
+      "latex": "\\sqrt{3.6^2+5.7^2}"
+    },
+    {
+      "image_id": "image115",
+      "source_asset": "assets/image115.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        21
+      ],
+      "question_ids": [
+        "gat-05-iii"
+      ],
+      "latex": "\\sqrt{{}^{-}3.6^2+5.7^2}"
+    },
+    {
+      "image_id": "image116",
+      "source_asset": "assets/image116.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        21
+      ],
+      "question_ids": [
+        "gat-05-iii"
+      ],
+      "latex": "\\sqrt{({}^{-}3.6)^2+5.7^2}"
+    },
+    {
+      "image_id": "image117",
+      "source_asset": "assets/image117.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        22
+      ],
+      "question_ids": [
+        "gat-05-iv"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image118",
+      "source_asset": "assets/image118.svg",
+      "status": "latex",
+      "occurrences": 4,
+      "reference_pages": [
+        22,
+        42
+      ],
+      "question_ids": [
+        "gat-05-iv",
+        "gat-09-i"
+      ],
+      "latex": "r_{\\ell}"
+    },
+    {
+      "image_id": "image119",
+      "source_asset": "assets/image119.svg",
+      "status": "latex",
+      "occurrences": 4,
+      "reference_pages": [
+        22,
+        42
+      ],
+      "question_ids": [
+        "gat-05-iv",
+        "gat-09-i"
+      ],
+      "latex": "r_m"
+    },
+    {
+      "image_id": "image120",
+      "source_asset": "assets/image120.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        23
+      ],
+      "question_ids": [
+        "gat-05-vi"
+      ],
+      "latex": "(x,y)="
+    },
+    {
+      "image_id": "image121",
+      "source_asset": "assets/image121.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        23
+      ],
+      "question_ids": [
+        "gat-05-vii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image122",
+      "source_asset": "assets/image122.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        24
+      ],
+      "question_ids": [
+        "gat-05-viii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image123",
+      "source_asset": "assets/image123.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        24
+      ],
+      "question_ids": [
+        "gat-05-ix"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image124",
+      "source_asset": "assets/image124.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        27
+      ],
+      "question_ids": [
+        "gat-06-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image125",
+      "source_asset": "assets/image125.svg",
+      "status": "latex",
+      "occurrences": 11,
+      "reference_pages": [
+        27,
+        38,
+        49,
+        54,
+        55,
+        58,
+        59,
+        67
+      ],
+      "question_ids": [
+        "gat-06-ii",
+        "gat-08-i",
+        "gat-10-viii",
+        "gat-11-viii",
+        "gat-11-ix",
+        "gat-12-viii",
+        "gat-12-ix",
+        "gat-14-viii"
+      ],
+      "latex": "r_{\\ell}\\circ r_m"
+    },
+    {
+      "image_id": "image126",
+      "source_asset": "assets/image126.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        27
+      ],
+      "question_ids": [
+        "gat-06-iii"
+      ],
+      "latex": "r_{\\ell}(A)=A'"
+    },
+    {
+      "image_id": "image127",
+      "source_asset": "assets/image127.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        27
+      ],
+      "question_ids": [
+        "gat-06-iii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image128",
+      "source_asset": "assets/image128.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        28
+      ],
+      "question_ids": [
+        "gat-06-iv"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image129",
+      "source_asset": "assets/image129.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        28
+      ],
+      "question_ids": [
+        "gat-06-v"
+      ],
+      "latex": "(x,y)=(x+a,y+b)"
+    },
+    {
+      "image_id": "image130",
+      "source_asset": "assets/image130.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        28
+      ],
+      "question_ids": [
+        "gat-06-v"
+      ],
+      "latex": "\\sqrt{3^2+4^2}=5"
+    },
+    {
+      "image_id": "image131",
+      "source_asset": "assets/image131.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        29
+      ],
+      "question_ids": [
+        "gat-06-vi"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image132",
+      "source_asset": "assets/image132.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        30
+      ],
+      "question_ids": [
+        "gat-06-viii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image133",
+      "source_asset": "assets/image133.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        30
+      ],
+      "question_ids": [
+        "gat-06-ix"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image134",
+      "source_asset": "assets/image134.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        32
+      ],
+      "question_ids": [
+        "gat-07-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image135",
+      "source_asset": "assets/image135.svg",
+      "status": "latex",
+      "occurrences": 10,
+      "reference_pages": [
+        32,
+        34,
+        49,
+        55,
+        58,
+        59,
+        67
+      ],
+      "question_ids": [
+        "gat-07-i",
+        "gat-07-iv",
+        "gat-10-viii",
+        "gat-11-ix",
+        "gat-12-viii",
+        "gat-12-ix",
+        "gat-14-viii"
+      ],
+      "latex": "r_m\\circ r_{\\ell}"
+    },
+    {
+      "image_id": "image136",
+      "source_asset": "assets/image136.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        32
+      ],
+      "question_ids": [
+        "gat-07-ii"
+      ],
+      "latex": "r_{\\ell}(A)="
+    },
+    {
+      "image_id": "image137",
+      "source_asset": "assets/image137.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        32
+      ],
+      "question_ids": [
+        "gat-07-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image138",
+      "source_asset": "assets/image138.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        33
+      ],
+      "question_ids": [
+        "gat-07-iii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image139",
+      "source_asset": "assets/image139.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        33
+      ],
+      "question_ids": [
+        "gat-07-iii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image140",
+      "source_asset": "assets/image140.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        34
+      ],
+      "question_ids": [
+        "gat-07-iv"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image141",
+      "source_asset": "assets/image141.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        35
+      ],
+      "question_ids": [
+        "gat-07-v"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image142",
+      "source_asset": "assets/image142.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        35
+      ],
+      "question_ids": [
+        "gat-07-v"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image143",
+      "source_asset": "assets/image143.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        35
+      ],
+      "question_ids": [
+        "gat-07-v"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image144",
+      "source_asset": "assets/image144.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        35
+      ],
+      "question_ids": [
+        "gat-07-v"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image145",
+      "source_asset": "assets/image145.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        36
+      ],
+      "question_ids": [
+        "gat-07-v"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image146",
+      "source_asset": "assets/image146.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        36
+      ],
+      "question_ids": [
+        "gat-07-v"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image147",
+      "source_asset": "assets/image147.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        36
+      ],
+      "question_ids": [
+        "gat-07-vi"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image148",
+      "source_asset": "assets/image148.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        36
+      ],
+      "question_ids": [
+        "gat-07-viii"
+      ],
+      "latex": "\\left(\\frac{{}^{-}1}{2},\\frac{1}{2}\\right)"
+    },
+    {
+      "image_id": "image149",
+      "source_asset": "assets/image149.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        37
+      ],
+      "question_ids": [
+        "gat-07-ix"
+      ],
+      "latex": "7\\cdot x+11=6\\cdot x+13"
+    },
+    {
+      "image_id": "image150",
+      "source_asset": "assets/image150.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        37
+      ],
+      "question_ids": [
+        "gat-07-ix"
+      ],
+      "latex": "12\\cdot x+{}^{-}13=13\\cdot x+{}^{-}5"
+    },
+    {
+      "image_id": "image151",
+      "source_asset": "assets/image151.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        37
+      ],
+      "question_ids": [
+        "gat-07-ix"
+      ],
+      "latex": "\\sqrt{3}\\cdot x+17=2\\cdot x+{}^{-}8"
+    },
+    {
+      "image_id": "image152",
+      "source_asset": "assets/image152.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        38
+      ],
+      "question_ids": [
+        "gat-08-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image153",
+      "source_asset": "assets/image153.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        38
+      ],
+      "question_ids": [
+        "gat-08-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image154",
+      "source_asset": "assets/image154.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        38
+      ],
+      "question_ids": [
+        "gat-08-iii"
+      ],
+      "latex": "\\left(\\frac{1}{\\sqrt{2}},\\frac{1}{\\sqrt{2}}\\right)"
+    },
+    {
+      "image_id": "image155",
+      "source_asset": "assets/image155.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        39
+      ],
+      "question_ids": [
+        "gat-08-iv"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image156",
+      "source_asset": "assets/image156.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        40
+      ],
+      "question_ids": [
+        "gat-08-iv"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "The line label looks like “1” or plain “l”; verify whether it should be ℓ."
+      ]
+    },
+    {
+      "image_id": "image157",
+      "source_asset": "assets/image157.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        40
+      ],
+      "question_ids": [
+        "gat-08-vi"
+      ],
+      "latex": "11\\cdot x+{}^{-}17=9\\cdot x+{}^{-}9"
+    },
+    {
+      "image_id": "image158",
+      "source_asset": "assets/image158.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        40
+      ],
+      "question_ids": [
+        "gat-08-vi"
+      ],
+      "latex": "3\\cdot x+23=\\frac{1}{3}\\cdot x+{}^{-}7"
+    },
+    {
+      "image_id": "image159",
+      "source_asset": "assets/image159.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        40
+      ],
+      "question_ids": [
+        "gat-08-vi"
+      ],
+      "latex": "4\\cdot x+23=\\pi\\cdot x+{}^{-}7"
+    },
+    {
+      "image_id": "image160",
+      "source_asset": "assets/image160.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        41
+      ],
+      "question_ids": [
+        "gat-09-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "The line label looks like “1” or plain “l”; verify whether it should be ℓ."
+      ]
+    },
+    {
+      "image_id": "image161",
+      "source_asset": "assets/image161.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        41
+      ],
+      "question_ids": [
+        "gat-09-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image162",
+      "source_asset": "assets/image162.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        42
+      ],
+      "question_ids": [
+        "gat-09-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image163",
+      "source_asset": "assets/image163.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        43
+      ],
+      "question_ids": [
+        "gat-09-iv"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image164",
+      "source_asset": "assets/image164.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        43
+      ],
+      "question_ids": [
+        "gat-09-iv"
+      ],
+      "latex": "\\sqrt{6^2+6^2}=\\sqrt{72}"
+    },
+    {
+      "image_id": "image165",
+      "source_asset": "assets/image165.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        43
+      ],
+      "question_ids": [
+        "gat-09-iv"
+      ],
+      "latex": "\\sqrt{72}"
+    },
+    {
+      "image_id": "image166",
+      "source_asset": "assets/image166.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        43
+      ],
+      "question_ids": [
+        "gat-09-iv"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image167",
+      "source_asset": "assets/image167.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        44
+      ],
+      "question_ids": [
+        "gat-09-vii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image168",
+      "source_asset": "assets/image168.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        44
+      ],
+      "question_ids": [
+        "gat-09-vii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image169",
+      "source_asset": "assets/image169.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        44
+      ],
+      "question_ids": [
+        "gat-09-vii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image170",
+      "source_asset": "assets/image170.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        44
+      ],
+      "question_ids": [
+        "gat-09-vii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image171",
+      "source_asset": "assets/image171.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        45
+      ],
+      "question_ids": [
+        "gat-10-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image172",
+      "source_asset": "assets/image172.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        45
+      ],
+      "question_ids": [
+        "gat-10-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image173",
+      "source_asset": "assets/image173.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        46
+      ],
+      "question_ids": [
+        "gat-10-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image174",
+      "source_asset": "assets/image174.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        47
+      ],
+      "question_ids": [
+        "gat-10-v"
+      ],
+      "latex": "\\frac{1}{7}\\cdot x+11={}^{-}2\\cdot x+{}^{-}9"
+    },
+    {
+      "image_id": "image175",
+      "source_asset": "assets/image175.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        47
+      ],
+      "question_ids": [
+        "gat-10-v"
+      ],
+      "latex": "\\sqrt{3}\\cdot x+5=2x+8"
+    },
+    {
+      "image_id": "image176",
+      "source_asset": "assets/image176.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        47
+      ],
+      "question_ids": [
+        "gat-10-v"
+      ],
+      "latex": "x+{}^{-}4=\\sqrt{11}\\cdot x"
+    },
+    {
+      "image_id": "image177",
+      "source_asset": "assets/image177.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        47
+      ],
+      "question_ids": [
+        "gat-10-vi"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image178",
+      "source_asset": "assets/image178.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        47
+      ],
+      "question_ids": [
+        "gat-10-vii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image179",
+      "source_asset": "assets/image179.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        48
+      ],
+      "question_ids": [
+        "gat-10-viii"
+      ],
+      "latex": "r_{y={}^{-}x}\\circ r_y"
+    },
+    {
+      "image_id": "image180",
+      "source_asset": "assets/image180.png",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        48
+      ],
+      "question_ids": [
+        "gat-10-viii"
+      ],
+      "latex": "r_x\\circ r_{y={}^{-}x}"
+    },
+    {
+      "image_id": "image181",
+      "source_asset": "assets/image181.svg",
+      "status": "latex",
+      "occurrences": 2,
+      "reference_pages": [
+        48
+      ],
+      "question_ids": [
+        "gat-10-viii"
+      ],
+      "latex": "r_{y={}^{-}x}\\circ r_y"
+    },
+    {
+      "image_id": "image182",
+      "source_asset": "assets/image182.svg",
+      "status": "latex",
+      "occurrences": 2,
+      "reference_pages": [
+        48
+      ],
+      "question_ids": [
+        "gat-10-viii"
+      ],
+      "latex": "r_x\\circ r_{y={}^{-}x}"
+    },
+    {
+      "image_id": "image183",
+      "source_asset": "assets/image183.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        48
+      ],
+      "question_ids": [
+        "gat-10-viii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image184",
+      "source_asset": "assets/image184.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        48
+      ],
+      "question_ids": [
+        "gat-10-viii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image185",
+      "source_asset": "assets/image185.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        49
+      ],
+      "question_ids": [
+        "gat-10-viii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image186",
+      "source_asset": "assets/image186.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        50
+      ],
+      "question_ids": [
+        "gat-11-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image187",
+      "source_asset": "assets/image187.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        51
+      ],
+      "question_ids": [
+        "gat-11-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image188",
+      "source_asset": "assets/image188.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        52
+      ],
+      "question_ids": [
+        "gat-11-iii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image189",
+      "source_asset": "assets/image189.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        52
+      ],
+      "question_ids": [
+        "gat-11-iv"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image190",
+      "source_asset": "assets/image190.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        52
+      ],
+      "question_ids": [
+        "gat-11-v"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image191",
+      "source_asset": "assets/image191.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        53
+      ],
+      "question_ids": [
+        "gat-11-vi"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image192",
+      "source_asset": "assets/image192.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        53
+      ],
+      "question_ids": [
+        "gat-11-vii"
+      ],
+      "latex": "4\\cdot x+11=3\\cdot x+{}^{-}8"
+    },
+    {
+      "image_id": "image193",
+      "source_asset": "assets/image193.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        53
+      ],
+      "question_ids": [
+        "gat-11-vii"
+      ],
+      "latex": "4\\cdot a+11=3\\cdot a+{}^{-}8"
+    },
+    {
+      "image_id": "image194",
+      "source_asset": "assets/image194.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        53
+      ],
+      "question_ids": [
+        "gat-11-vii"
+      ],
+      "latex": "\\sqrt{7}\\cdot y+11=\\pi\\cdot y+{}^{-}8"
+    },
+    {
+      "image_id": "image195",
+      "source_asset": "assets/image195.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        53
+      ],
+      "question_ids": [
+        "gat-11-viii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "The line label looks like “1” or plain “l”; verify whether it should be ℓ."
+      ]
+    },
+    {
+      "image_id": "image196",
+      "source_asset": "assets/image196.svg",
+      "status": "latex",
+      "occurrences": 2,
+      "reference_pages": [
+        54,
+        84
+      ],
+      "question_ids": [
+        "gat-11-viii",
+        "gat-18-ix"
+      ],
+      "latex": "r_{y={}^{-}x}\\circ r_y"
+    },
+    {
+      "image_id": "image197",
+      "source_asset": "assets/image197.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        54
+      ],
+      "question_ids": [
+        "gat-11-viii"
+      ],
+      "latex": "r_y\\circ r_{y={}^{-}x}"
+    },
+    {
+      "image_id": "image198",
+      "source_asset": "assets/image198.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        55
+      ],
+      "question_ids": [
+        "gat-11-ix"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image199",
+      "source_asset": "assets/image199.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        56
+      ],
+      "question_ids": [
+        "gat-12-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image200",
+      "source_asset": "assets/image200.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        56
+      ],
+      "question_ids": [
+        "gat-12-ii"
+      ],
+      "latex": "5\\cdot x+{}^{-}21=3\\cdot x+11"
+    },
+    {
+      "image_id": "image201",
+      "source_asset": "assets/image201.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        56
+      ],
+      "question_ids": [
+        "gat-12-ii"
+      ],
+      "latex": "5\\cdot x+{}^{-}21=\\sqrt{3}\\cdot x+11"
+    },
+    {
+      "image_id": "image202",
+      "source_asset": "assets/image202.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        56
+      ],
+      "question_ids": [
+        "gat-12-ii"
+      ],
+      "latex": "5\\cdot a+{}^{-}\\sqrt{7}=3\\cdot a+11"
+    },
+    {
+      "image_id": "image203",
+      "source_asset": "assets/image203.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        56
+      ],
+      "question_ids": [
+        "gat-12-iii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image204",
+      "source_asset": "assets/image204.png",
+      "status": "retained_image",
+      "occurrences": 2,
+      "reference_pages": [
+        57,
+        72
+      ],
+      "question_ids": [
+        "gat-12-iv",
+        "gat-16-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image205",
+      "source_asset": "assets/image205.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        57
+      ],
+      "question_ids": [
+        "gat-12-v"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image206",
+      "source_asset": "assets/image206.png",
+      "status": "retained_image",
+      "occurrences": 2,
+      "reference_pages": [
+        58,
+        61
+      ],
+      "question_ids": [
+        "gat-12-vi",
+        "gat-13-v"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image207",
+      "source_asset": "assets/image207.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        58
+      ],
+      "question_ids": [
+        "gat-12-viii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image208",
+      "source_asset": "assets/image208.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        59
+      ],
+      "question_ids": [
+        "gat-12-viii"
+      ],
+      "latex": "r_{y={}^{-}x}\\circ r_x"
+    },
+    {
+      "image_id": "image209",
+      "source_asset": "assets/image209.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        59
+      ],
+      "question_ids": [
+        "gat-12-viii"
+      ],
+      "latex": "r_x\\circ r_{y={}^{-}x}"
+    },
+    {
+      "image_id": "image210",
+      "source_asset": "assets/image210.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        59
+      ],
+      "question_ids": [
+        "gat-12-ix"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image211",
+      "source_asset": "assets/image211.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        60
+      ],
+      "question_ids": [
+        "gat-13-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image212",
+      "source_asset": "assets/image212.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        60
+      ],
+      "question_ids": [
+        "gat-13-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image213",
+      "source_asset": "assets/image213.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        60
+      ],
+      "question_ids": [
+        "gat-13-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image214",
+      "source_asset": "assets/image214.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        60
+      ],
+      "question_ids": [
+        "gat-13-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image215",
+      "source_asset": "assets/image215.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        61
+      ],
+      "question_ids": [
+        "gat-13-iii"
+      ],
+      "latex": "y=x\\text{ line}"
+    },
+    {
+      "image_id": "image216",
+      "source_asset": "assets/image216.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        61
+      ],
+      "question_ids": [
+        "gat-13-iv"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image217",
+      "source_asset": "assets/image217.png",
+      "status": "retained_image",
+      "occurrences": 2,
+      "reference_pages": [
+        61,
+        68
+      ],
+      "question_ids": [
+        "gat-13-vi",
+        "gat-15-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image218",
+      "source_asset": "assets/image218.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        62
+      ],
+      "question_ids": [
+        "gat-13-vii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Matrix entries inside the diagram are extremely small; verify them before publishing."
+      ]
+    },
+    {
+      "image_id": "image219",
+      "source_asset": "assets/image219.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        63
+      ],
+      "question_ids": [
+        "gat-14-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image220",
+      "source_asset": "assets/image220.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        63
+      ],
+      "question_ids": [
+        "gat-14-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image221",
+      "source_asset": "assets/image221.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        63
+      ],
+      "question_ids": [
+        "gat-14-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image222",
+      "source_asset": "assets/image222.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        63
+      ],
+      "question_ids": [
+        "gat-14-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "The line label looks like “1” or plain “l”; verify whether it should be ℓ."
+      ]
+    },
+    {
+      "image_id": "image223",
+      "source_asset": "assets/image223.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        63
+      ],
+      "question_ids": [
+        "gat-14-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image224",
+      "source_asset": "assets/image224.svg",
+      "status": "latex",
+      "occurrences": 2,
+      "reference_pages": [
+        64,
+        69
+      ],
+      "question_ids": [
+        "gat-14-ii",
+        "gat-15-iii"
+      ],
+      "latex": "k"
+    },
+    {
+      "image_id": "image225",
+      "source_asset": "assets/image225.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        64
+      ],
+      "question_ids": [
+        "gat-14-iii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image226",
+      "source_asset": "assets/image226.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        64
+      ],
+      "question_ids": [
+        "gat-14-iv"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image227",
+      "source_asset": "assets/image227.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        65
+      ],
+      "question_ids": [
+        "gat-14-v"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Matrix entries inside the diagram are extremely small; verify them before publishing."
+      ]
+    },
+    {
+      "image_id": "image228",
+      "source_asset": "assets/image228.png",
+      "status": "latex",
+      "occurrences": 26,
+      "reference_pages": [
+        65,
+        70,
+        79,
+        85,
+        93,
+        94
+      ],
+      "question_ids": [
+        "gat-14-v",
+        "gat-15-vi",
+        "gat-17-viii",
+        "gat-19-i",
+        "gat-20-v",
+        "gat-20-vi",
+        "gat-20-viii"
+      ],
+      "latex": "\\cdot",
+      "note": "Source symbol is a centered dot even where surrounding prose reads it as matrix dimensions (\"by\"); not silently changed to a multiplication cross."
+    },
+    {
+      "image_id": "image229",
+      "source_asset": "assets/image229.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        66
+      ],
+      "question_ids": [
+        "gat-14-v"
+      ],
+      "latex": "A=\\begin{bmatrix}x & 4 \\\\ {}^{-}3 & y \\\\ 7 & 0 \\\\ 2\\cdot{x} & {}^{-}1\\end{bmatrix}"
+    },
+    {
+      "image_id": "image230",
+      "source_asset": "assets/image230.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        66
+      ],
+      "question_ids": [
+        "gat-14-v"
+      ],
+      "latex": "a_{41}"
+    },
+    {
+      "image_id": "image231",
+      "source_asset": "assets/image231.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        66
+      ],
+      "question_ids": [
+        "gat-14-v"
+      ],
+      "latex": "\\begin{bmatrix}5 & {}^{-}2 \\\\ 3 & 7 \\\\ {}^{-}1 & {}^{-}3\\end{bmatrix}"
+    },
+    {
+      "image_id": "image232",
+      "source_asset": "assets/image232.svg",
+      "status": "latex",
+      "occurrences": 4,
+      "reference_pages": [
+        66,
+        76
+      ],
+      "question_ids": [
+        "gat-14-vi",
+        "gat-16-vii"
+      ],
+      "latex": "\\begin{bmatrix}2 & {}^{-}5 \\\\ 3 & 4\\end{bmatrix}"
+    },
+    {
+      "image_id": "image233",
+      "source_asset": "assets/image233.svg",
+      "status": "latex",
+      "occurrences": 4,
+      "reference_pages": [
+        66,
+        76
+      ],
+      "question_ids": [
+        "gat-14-vi",
+        "gat-16-vii"
+      ],
+      "latex": "\\begin{bmatrix}1 & 3 \\\\ {}^{-}2 & 0\\end{bmatrix}"
+    },
+    {
+      "image_id": "image234",
+      "source_asset": "assets/image234.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        66
+      ],
+      "question_ids": [
+        "gat-14-vi"
+      ],
+      "latex": "a_{11}\\cdot b_{11}+a_{12}\\cdot b_{21}"
+    },
+    {
+      "image_id": "image235",
+      "source_asset": "assets/image235.png",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        67
+      ],
+      "question_ids": [
+        "gat-14-vi"
+      ],
+      "latex": "a_{21}\\cdot b_{12}+a_{22}\\cdot b_{22}"
+    },
+    {
+      "image_id": "image236",
+      "source_asset": "assets/image236.png",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        67
+      ],
+      "question_ids": [
+        "gat-14-vii"
+      ],
+      "latex": "\\begin{gathered}\\text{Matrix A - daily production}\\\\\\text{number of each style made}\\\\\\begin{array}{c|ccc}\\text{worker}\\backslash\\text{style number}&\\#1&\\#2&\\#3\\\\\\#1&8&4&6\\\\\\#2&6&6&8\\end{array}\\end{gathered}\\qquad\\begin{gathered}\\text{Matrix B - number of strips}\\\\\\text{of each type of wood}\\\\\\text{for each style}\\\\\\begin{array}{c|ccc}\\text{style}&\\text{oak }\\#1&\\text{walnut }\\#2&\\text{cherry }\\#3\\\\\\#1&10&10&0\\\\\\#2&8&6&6\\\\\\#3&0&10&10\\end{array}\\end{gathered}",
+      "note": "Converted labelled matrix layout to labelled LaTeX arrays; row and column labels and values retained."
+    },
+    {
+      "image_id": "image237",
+      "source_asset": "assets/image237.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        67
+      ],
+      "question_ids": [
+        "gat-14-viii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "The line label looks like “1” or plain “l”; verify whether it should be ℓ."
+      ]
+    },
+    {
+      "image_id": "image238",
+      "source_asset": "assets/image238.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        68
+      ],
+      "question_ids": [
+        "gat-15-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image239",
+      "source_asset": "assets/image239.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        68
+      ],
+      "question_ids": [
+        "gat-15-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image240",
+      "source_asset": "assets/image240.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        68
+      ],
+      "question_ids": [
+        "gat-15-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image241",
+      "source_asset": "assets/image241.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        69
+      ],
+      "question_ids": [
+        "gat-15-iii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image242",
+      "source_asset": "assets/image242.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        69
+      ],
+      "question_ids": [
+        "gat-15-iii"
+      ],
+      "latex": "j"
+    },
+    {
+      "image_id": "image243",
+      "source_asset": "assets/image243.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        69
+      ],
+      "question_ids": [
+        "gat-15-v"
+      ],
+      "latex": "s_{21}"
+    },
+    {
+      "image_id": "image244",
+      "source_asset": "assets/image244.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        70
+      ],
+      "question_ids": [
+        "gat-15-vi"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Matrix entries inside the diagram are extremely small; verify them before publishing."
+      ]
+    },
+    {
+      "image_id": "image245",
+      "source_asset": "assets/image245.svg",
+      "status": "latex",
+      "occurrences": 4,
+      "reference_pages": [
+        71,
+        81,
+        91
+      ],
+      "question_ids": [
+        "gat-15-vii",
+        "gat-18-iv",
+        "gat-20-i"
+      ],
+      "latex": "\\begin{bmatrix}1 & 0 \\\\ 0 & {}^{-}1\\end{bmatrix}"
+    },
+    {
+      "image_id": "image246",
+      "source_asset": "assets/image246.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        71
+      ],
+      "question_ids": [
+        "gat-15-vii"
+      ],
+      "latex": "\\begin{bmatrix}5 \\\\ {}^{-}2\\end{bmatrix}"
+    },
+    {
+      "image_id": "image247",
+      "source_asset": "assets/image247.svg",
+      "status": "latex",
+      "occurrences": 8,
+      "reference_pages": [
+        71,
+        83,
+        88,
+        89,
+        90
+      ],
+      "question_ids": [
+        "gat-15-vii",
+        "gat-18-vii",
+        "gat-19-vi",
+        "gat-19-viii",
+        "gat-20-i"
+      ],
+      "latex": "\\times"
+    },
+    {
+      "image_id": "image248",
+      "source_asset": "assets/image248.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        72
+      ],
+      "question_ids": [
+        "gat-16-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "The line label looks like “1” or plain “l”; verify whether it should be ℓ."
+      ]
+    },
+    {
+      "image_id": "image249",
+      "source_asset": "assets/image249.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        72
+      ],
+      "question_ids": [
+        "gat-16-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image250",
+      "source_asset": "assets/image250.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        73
+      ],
+      "question_ids": [
+        "gat-16-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image251",
+      "source_asset": "assets/image251.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        73
+      ],
+      "question_ids": [
+        "gat-16-iii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "The line label looks like “1” or plain “l”; verify whether it should be ℓ."
+      ]
+    },
+    {
+      "image_id": "image252",
+      "source_asset": "assets/image252.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        73
+      ],
+      "question_ids": [
+        "gat-16-iii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "The line label looks like “1” or plain “l”; verify whether it should be ℓ."
+      ]
+    },
+    {
+      "image_id": "image253",
+      "source_asset": "assets/image253.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        74
+      ],
+      "question_ids": [
+        "gat-16-v"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Matrix entries inside the diagram are extremely small; verify them before publishing."
+      ]
+    },
+    {
+      "image_id": "image254",
+      "source_asset": "assets/image254.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        74
+      ],
+      "question_ids": [
+        "gat-16-v"
+      ],
+      "latex": "6\\cdot0+6\\cdot6+8\\cdot10"
+    },
+    {
+      "image_id": "image255",
+      "source_asset": "assets/image255.png",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        74
+      ],
+      "question_ids": [
+        "gat-16-v"
+      ],
+      "latex": "\\begin{gathered}\\text{total number of strips}\\\\\\text{needed each day}\\\\C=\\begin{array}{c|ccc}\\text{worker}&\\text{oak}&\\text{walnut}&\\text{cherry}\\\\\\#1&\\phantom{116}&\\phantom{116}&\\phantom{116}\\\\\\#2&\\phantom{116}&\\phantom{116}&116\\end{array}\\end{gathered}",
+      "note": "Converted labelled incomplete matrix to a LaTeX array; all five intentionally blank entries retained."
+    },
+    {
+      "image_id": "image256",
+      "source_asset": "assets/image256.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        75
+      ],
+      "question_ids": [
+        "gat-16-v"
+      ],
+      "latex": "A\\cdot B=C"
+    },
+    {
+      "image_id": "image257",
+      "source_asset": "assets/image257.png",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        75
+      ],
+      "question_ids": [
+        "gat-16-vi"
+      ],
+      "latex": "\\begin{array}{c|ccc}&\\text{Children}&\\text{Students}&\\text{Adults}\\\\\\text{Cinema I}&225&110&50\\\\\\text{Cinema II}&75&180&225\\\\\\text{Cinema III}&280&85&110\\\\\\text{Cinema IV}&0&250&225\\end{array}",
+      "note": "Converted labelled matrix to a LaTeX array; row and column labels and values retained."
+    },
+    {
+      "image_id": "image258",
+      "source_asset": "assets/image258.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        75
+      ],
+      "question_ids": [
+        "gat-16-vi"
+      ],
+      "latex": "\\begin{bmatrix}3 \\\\ 5 \\\\ 8\\end{bmatrix}"
+    },
+    {
+      "image_id": "image259",
+      "source_asset": "assets/image259.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        75
+      ],
+      "question_ids": [
+        "gat-16-vi"
+      ],
+      "latex": "a_{21}\\cdot b_{11}+a_{22}\\cdot b_{21}+a_{23}\\cdot b_{31}"
+    },
+    {
+      "image_id": "image260",
+      "source_asset": "assets/image260.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        76
+      ],
+      "question_ids": [
+        "gat-16-vii"
+      ],
+      "latex": "\\begin{bmatrix}2 & 0 \\\\ 0 & 2\\end{bmatrix}\\cdot\\begin{bmatrix}1 & 0 & 1 \\\\ 0 & 1 & 1\\end{bmatrix}"
+    },
+    {
+      "image_id": "image261",
+      "source_asset": "assets/image261.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        77
+      ],
+      "question_ids": [
+        "gat-17-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Very small diagram labels; inspect before using this exercise."
+      ]
+    },
+    {
+      "image_id": "image262",
+      "source_asset": "assets/image262.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        77
+      ],
+      "question_ids": [
+        "gat-17-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image263",
+      "source_asset": "assets/image263.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        77
+      ],
+      "question_ids": [
+        "gat-17-ii"
+      ],
+      "latex": "\\begin{bmatrix}0 & 1 & 2 & 1 & 0 \\\\ 1 & 0 & 0 & \\phantom{0} & \\phantom{0} \\\\ 1 & 0 & \\phantom{0} & \\phantom{0} & \\phantom{0} \\\\ \\phantom{0} & \\phantom{0} & \\phantom{0} & \\phantom{0} & \\phantom{0} \\\\ \\phantom{0} & \\phantom{0} & \\phantom{0} & \\phantom{0} & \\phantom{0}\\end{bmatrix}",
+      "note": "Incomplete 5-by-5 exercise matrix: all fifteen missing entries remain blank, with phantom zeroes only reserving layout space."
+    },
+    {
+      "image_id": "image264",
+      "source_asset": "assets/image264.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        77
+      ],
+      "question_ids": [
+        "gat-17-iii"
+      ],
+      "latex": "\\begin{bmatrix}1 & 0 \\\\ 0 & {}^{-}1\\end{bmatrix}\\cdot\\begin{bmatrix}1 \\\\ 1\\end{bmatrix}"
+    },
+    {
+      "image_id": "image265",
+      "source_asset": "assets/image265.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        77
+      ],
+      "question_ids": [
+        "gat-17-iii"
+      ],
+      "latex": "\\begin{bmatrix}0 & 1 \\\\ 1 & 0\\end{bmatrix}\\cdot\\begin{bmatrix}1 \\\\ {}^{-}1\\end{bmatrix}"
+    },
+    {
+      "image_id": "image266",
+      "source_asset": "assets/image266.svg",
+      "status": "latex",
+      "occurrences": 2,
+      "reference_pages": [
+        77,
+        92
+      ],
+      "question_ids": [
+        "gat-17-iii",
+        "gat-20-iv"
+      ],
+      "latex": "\\begin{bmatrix}0 & 1 \\\\ 1 & 0\\end{bmatrix}\\cdot\\begin{bmatrix}1 & 0 \\\\ 0 & {}^{-}1\\end{bmatrix}"
+    },
+    {
+      "image_id": "image267",
+      "source_asset": "assets/image267.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        77
+      ],
+      "question_ids": [
+        "gat-17-iii"
+      ],
+      "latex": "\\begin{bmatrix}0 & {}^{-}1 \\\\ 1 & 0\\end{bmatrix}\\cdot\\begin{bmatrix}1 \\\\ 1\\end{bmatrix}"
+    },
+    {
+      "image_id": "image268",
+      "source_asset": "assets/image268.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        78
+      ],
+      "question_ids": [
+        "gat-17-iv"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image269",
+      "source_asset": "assets/image269.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        78
+      ],
+      "question_ids": [
+        "gat-17-iv"
+      ],
+      "latex": "a^2+b^2=c^2"
+    },
+    {
+      "image_id": "image270",
+      "source_asset": "assets/image270.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        78
+      ],
+      "question_ids": [
+        "gat-17-v"
+      ],
+      "latex": "\\begin{bmatrix}1 & 0 \\\\ 0 & {}^{-}1\\end{bmatrix}\\cdot\\begin{bmatrix}{}^{-}5 \\\\ 2\\end{bmatrix}"
+    },
+    {
+      "image_id": "image271",
+      "source_asset": "assets/image271.svg",
+      "status": "latex",
+      "occurrences": 2,
+      "reference_pages": [
+        78,
+        81
+      ],
+      "question_ids": [
+        "gat-17-v",
+        "gat-18-iv"
+      ],
+      "latex": "\\begin{bmatrix}1 & 0 \\\\ 0 & {}^{-}1\\end{bmatrix}\\cdot\\begin{bmatrix}4 \\\\ {}^{-}6\\end{bmatrix}"
+    },
+    {
+      "image_id": "image272",
+      "source_asset": "assets/image272.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        79
+      ],
+      "question_ids": [
+        "gat-17-v"
+      ],
+      "latex": "\\begin{bmatrix}1 & 0 \\\\ 0 & {}^{-}1\\end{bmatrix}\\cdot\\begin{bmatrix}{}^{-}5 & 4 \\\\ 2 & {}^{-}6\\end{bmatrix}"
+    },
+    {
+      "image_id": "image273",
+      "source_asset": "assets/image273.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        79
+      ],
+      "question_ids": [
+        "gat-17-v"
+      ],
+      "latex": "\\begin{bmatrix}1 & 0 \\\\ 0 & {}^{-}1\\end{bmatrix}\\cdot\\begin{bmatrix}x \\\\ y\\end{bmatrix}"
+    },
+    {
+      "image_id": "image274",
+      "source_asset": "assets/image274.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        79
+      ],
+      "question_ids": [
+        "gat-17-vi"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image275",
+      "source_asset": "assets/image275.svg",
+      "status": "latex",
+      "occurrences": 2,
+      "reference_pages": [
+        79,
+        83
+      ],
+      "question_ids": [
+        "gat-17-vii",
+        "gat-18-vii"
+      ],
+      "latex": "\\begin{bmatrix}3 & {}^{-}7 \\\\ 4 & 2\\end{bmatrix}\\cdot X=\\begin{bmatrix}3 & {}^{-}7 \\\\ 4 & 2\\end{bmatrix}"
+    },
+    {
+      "image_id": "image276",
+      "source_asset": "assets/image276.svg",
+      "status": "latex",
+      "occurrences": 2,
+      "reference_pages": [
+        79,
+        83
+      ],
+      "question_ids": [
+        "gat-17-vii",
+        "gat-18-vii"
+      ],
+      "latex": "X\\cdot\\begin{bmatrix}5 & \\sqrt{3} \\\\ {}^{-}2 & 1\\end{bmatrix}=\\begin{bmatrix}5 & \\sqrt{3} \\\\ {}^{-}2 & 1\\end{bmatrix}"
+    },
+    {
+      "image_id": "image277",
+      "source_asset": "assets/image277.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        79
+      ],
+      "question_ids": [
+        "gat-17-viii"
+      ],
+      "latex": "\\begin{bmatrix}0 & 2 & 1 \\\\ 1 & 0 & 3 \\\\ 1 & 1 & 0\\end{bmatrix}"
+    },
+    {
+      "image_id": "image278",
+      "source_asset": "assets/image278.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        79
+      ],
+      "question_ids": [
+        "gat-17-viii"
+      ],
+      "latex": "n_{21}\\cdot n_{13}+n_{22}\\cdot n_{23}+n_{23}\\cdot n_{33}"
+    },
+    {
+      "image_id": "image279",
+      "source_asset": "assets/image279.png",
+      "status": "retained_image",
+      "occurrences": 2,
+      "reference_pages": [
+        80,
+        85
+      ],
+      "question_ids": [
+        "gat-18-i",
+        "gat-19-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image280",
+      "source_asset": "assets/image280.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        80
+      ],
+      "question_ids": [
+        "gat-18-i"
+      ],
+      "latex": "5\\times5"
+    },
+    {
+      "image_id": "image281",
+      "source_asset": "assets/image281.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        80
+      ],
+      "question_ids": [
+        "gat-18-ii"
+      ],
+      "latex": "\\begin{bmatrix}0 & 1 \\\\ 1 & 0\\end{bmatrix}\\cdot\\begin{bmatrix}3 \\\\ 4\\end{bmatrix}"
+    },
+    {
+      "image_id": "image282",
+      "source_asset": "assets/image282.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        80
+      ],
+      "question_ids": [
+        "gat-18-ii"
+      ],
+      "latex": "\\begin{bmatrix}{}^{-}1 & 0 \\\\ 0 & 1\\end{bmatrix}\\cdot\\begin{bmatrix}4 \\\\ 3\\end{bmatrix}"
+    },
+    {
+      "image_id": "image283",
+      "source_asset": "assets/image283.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        80
+      ],
+      "question_ids": [
+        "gat-18-ii"
+      ],
+      "latex": "\\begin{bmatrix}{}^{-}1 & 0 \\\\ 0 & 1\\end{bmatrix}\\cdot\\begin{bmatrix}0 & 1 \\\\ 1 & 0\\end{bmatrix}"
+    },
+    {
+      "image_id": "image284",
+      "source_asset": "assets/image284.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        80
+      ],
+      "question_ids": [
+        "gat-18-ii"
+      ],
+      "latex": "\\begin{bmatrix}0 & {}^{-}1 \\\\ 1 & 0\\end{bmatrix}\\cdot\\begin{bmatrix}3 \\\\ 4\\end{bmatrix}"
+    },
+    {
+      "image_id": "image285",
+      "source_asset": "assets/image285.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        81
+      ],
+      "question_ids": [
+        "gat-18-iv"
+      ],
+      "latex": "\\begin{bmatrix}1 & 0 \\\\ 0 & {}^{-}1\\end{bmatrix}\\cdot\\begin{bmatrix}{}^{-}5 \\\\ 2\\end{bmatrix}=\\begin{bmatrix}{}^{-}5 \\\\ {}^{-}2\\end{bmatrix}"
+    },
+    {
+      "image_id": "image286",
+      "source_asset": "assets/image286.svg",
+      "status": "latex",
+      "occurrences": 3,
+      "reference_pages": [
+        81,
+        87
+      ],
+      "question_ids": [
+        "gat-18-iv",
+        "gat-19-ii"
+      ],
+      "latex": "2\\times1"
+    },
+    {
+      "image_id": "image287",
+      "source_asset": "assets/image287.svg",
+      "status": "latex",
+      "occurrences": 3,
+      "reference_pages": [
+        81
+      ],
+      "question_ids": [
+        "gat-18-iv"
+      ],
+      "latex": "\\begin{bmatrix}{}^{-}5 \\\\ 2\\end{bmatrix}"
+    },
+    {
+      "image_id": "image288",
+      "source_asset": "assets/image288.svg",
+      "status": "latex",
+      "occurrences": 2,
+      "reference_pages": [
+        81
+      ],
+      "question_ids": [
+        "gat-18-iv"
+      ],
+      "latex": "\\begin{bmatrix}{}^{-}5 \\\\ {}^{-}2\\end{bmatrix}"
+    },
+    {
+      "image_id": "image289",
+      "source_asset": "assets/image289.svg",
+      "status": "latex",
+      "occurrences": 3,
+      "reference_pages": [
+        81,
+        82
+      ],
+      "question_ids": [
+        "gat-18-iv"
+      ],
+      "latex": "2\\times2"
+    },
+    {
+      "image_id": "image290",
+      "source_asset": "assets/image290.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        81
+      ],
+      "question_ids": [
+        "gat-18-iv"
+      ],
+      "latex": "\\begin{bmatrix}4 \\\\ 6\\end{bmatrix}"
+    },
+    {
+      "image_id": "image291",
+      "source_asset": "assets/image291.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        82
+      ],
+      "question_ids": [
+        "gat-18-iv"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image292",
+      "source_asset": "assets/image292.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        82
+      ],
+      "question_ids": [
+        "gat-18-iv"
+      ],
+      "latex": "\\begin{bmatrix}{}^{-}1 & 0 \\\\ 0 & 1\\end{bmatrix}\\cdot\\begin{bmatrix}2 \\\\ {}^{-}7\\end{bmatrix}"
+    },
+    {
+      "image_id": "image293",
+      "source_asset": "assets/image293.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        82
+      ],
+      "question_ids": [
+        "gat-18-iv"
+      ],
+      "latex": "\\begin{bmatrix}{}^{-}1 & 0 \\\\ 0 & 1\\end{bmatrix}\\cdot\\begin{bmatrix}{}^{-}3 \\\\ {}^{-}5\\end{bmatrix}"
+    },
+    {
+      "image_id": "image294",
+      "source_asset": "assets/image294.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        82
+      ],
+      "question_ids": [
+        "gat-18-iv"
+      ],
+      "latex": "\\begin{bmatrix}{}^{-}1 & 0 \\\\ 0 & 1\\end{bmatrix}\\cdot\\begin{bmatrix}2 & {}^{-}3 & a \\\\ {}^{-}7 & {}^{-}5 & b\\end{bmatrix}"
+    },
+    {
+      "image_id": "image295",
+      "source_asset": "assets/image295.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        82
+      ],
+      "question_ids": [
+        "gat-18-iv"
+      ],
+      "latex": "\\begin{bmatrix}{}^{-}1 & 0 \\\\ 0 & 1\\end{bmatrix}\\cdot\\begin{bmatrix}x \\\\ y\\end{bmatrix}"
+    },
+    {
+      "image_id": "image296",
+      "source_asset": "assets/image296.svg",
+      "status": "latex",
+      "occurrences": 3,
+      "reference_pages": [
+        82
+      ],
+      "question_ids": [
+        "gat-18-iv",
+        "gat-18-v"
+      ],
+      "latex": "\\begin{bmatrix}{}^{-}1 & 0 \\\\ 0 & 1\\end{bmatrix}"
+    },
+    {
+      "image_id": "image297",
+      "source_asset": "assets/image297.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        83
+      ],
+      "question_ids": [
+        "gat-18-vi"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image298",
+      "source_asset": "assets/image298.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        83
+      ],
+      "question_ids": [
+        "gat-18-vii"
+      ],
+      "latex": "\\times"
+    },
+    {
+      "image_id": "image299",
+      "source_asset": "assets/image299.svg",
+      "status": "latex",
+      "occurrences": 4,
+      "reference_pages": [
+        83,
+        90
+      ],
+      "question_ids": [
+        "gat-18-vii",
+        "gat-20-i"
+      ],
+      "latex": "\\begin{bmatrix}1 & 0 \\\\ 0 & 1\\end{bmatrix}"
+    },
+    {
+      "image_id": "image300",
+      "source_asset": "assets/image300.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        83
+      ],
+      "question_ids": [
+        "gat-18-vii"
+      ],
+      "latex": "\\begin{bmatrix}a & b \\\\ c & d\\end{bmatrix}\\cdot X=\\begin{bmatrix}a & b \\\\ c & d\\end{bmatrix}"
+    },
+    {
+      "image_id": "image301",
+      "source_asset": "assets/image301.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        83
+      ],
+      "question_ids": [
+        "gat-18-vii"
+      ],
+      "latex": "X\\cdot\\begin{bmatrix}k & l \\\\ m & n\\end{bmatrix}=\\begin{bmatrix}k & l \\\\ m & n\\end{bmatrix}"
+    },
+    {
+      "image_id": "image302",
+      "source_asset": "assets/image302.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        84
+      ],
+      "question_ids": [
+        "gat-18-vii"
+      ],
+      "latex": "X\\cdot\\begin{bmatrix}1 & 0 \\\\ 0 & 1\\end{bmatrix}=\\begin{bmatrix}{}^{-}1 & 0 \\\\ 0 & 1\\end{bmatrix}"
+    },
+    {
+      "image_id": "image303",
+      "source_asset": "assets/image303.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        84
+      ],
+      "question_ids": [
+        "gat-18-viii"
+      ],
+      "latex": "\\begin{bmatrix}4 & 1 \\\\ 11 & 3\\end{bmatrix}\\cdot\\begin{bmatrix}3 & {}^{-}1 \\\\ {}^{-}11 & 4\\end{bmatrix}"
+    },
+    {
+      "image_id": "image304",
+      "source_asset": "assets/image304.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        84
+      ],
+      "question_ids": [
+        "gat-18-viii"
+      ],
+      "latex": "\\begin{bmatrix}1 & 0 & 2 \\\\ 0 & 1 & 1 \\\\ 0 & 1 & 0\\end{bmatrix}\\cdot\\begin{bmatrix}1 & 0 & 2 \\\\ 0 & 1 & 1 \\\\ 0 & 1 & 0\\end{bmatrix}"
+    },
+    {
+      "image_id": "image305",
+      "source_asset": "assets/image305.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        84
+      ],
+      "question_ids": [
+        "gat-18-ix"
+      ],
+      "latex": "r_{y=x}\\circ r_x"
+    },
+    {
+      "image_id": "image306",
+      "source_asset": "assets/image306.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        84
+      ],
+      "question_ids": [
+        "gat-18-ix"
+      ],
+      "latex": "r_y\\circ r_{y=x}"
+    },
+    {
+      "image_id": "image307",
+      "source_asset": "assets/image307.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        85
+      ],
+      "question_ids": [
+        "gat-19-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Matrix brackets are visibly segmented; entries are preserved."
+      ]
+    },
+    {
+      "image_id": "image308",
+      "source_asset": "assets/image308.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        86
+      ],
+      "question_ids": [
+        "gat-19-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image309",
+      "source_asset": "assets/image309.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        87
+      ],
+      "question_ids": [
+        "gat-19-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image310",
+      "source_asset": "assets/image310.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        87
+      ],
+      "question_ids": [
+        "gat-19-ii"
+      ],
+      "latex": "X\\cdot\\begin{bmatrix}1 & 0 \\\\ 0 & 1\\end{bmatrix}=\\begin{bmatrix}0 & {}^{-}1 \\\\ {}^{-}1 & 0\\end{bmatrix}"
+    },
+    {
+      "image_id": "image311",
+      "source_asset": "assets/image311.svg",
+      "status": "latex",
+      "occurrences": 2,
+      "reference_pages": [
+        87,
+        94
+      ],
+      "question_ids": [
+        "gat-19-iii",
+        "gat-20-vii"
+      ],
+      "latex": "X\\cdot\\begin{bmatrix}1 & 0 \\\\ 0 & 1\\end{bmatrix}=\\begin{bmatrix}0 & 1 \\\\ 1 & 0\\end{bmatrix}"
+    },
+    {
+      "image_id": "image312",
+      "source_asset": "assets/image312.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        88
+      ],
+      "question_ids": [
+        "gat-19-iv"
+      ],
+      "latex": "\\begin{bmatrix}{}^{-}1 & 0 \\\\ 0 & 1\\end{bmatrix}\\cdot\\begin{bmatrix}3 \\\\ 0\\end{bmatrix}"
+    },
+    {
+      "image_id": "image313",
+      "source_asset": "assets/image313.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        88
+      ],
+      "question_ids": [
+        "gat-19-iv"
+      ],
+      "latex": "\\begin{bmatrix}0 & {}^{-}1 \\\\ {}^{-}1 & 0\\end{bmatrix}\\cdot\\begin{bmatrix}{}^{-}3 \\\\ 0\\end{bmatrix}"
+    },
+    {
+      "image_id": "image314",
+      "source_asset": "assets/image314.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        88
+      ],
+      "question_ids": [
+        "gat-19-iv"
+      ],
+      "latex": "\\begin{bmatrix}0 & {}^{-}1 \\\\ {}^{-}1 & 0\\end{bmatrix}\\cdot\\begin{bmatrix}{}^{-}1 & 0 \\\\ 0 & 1\\end{bmatrix}"
+    },
+    {
+      "image_id": "image315",
+      "source_asset": "assets/image315.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        88
+      ],
+      "question_ids": [
+        "gat-19-iv"
+      ],
+      "latex": "\\begin{bmatrix}0 & {}^{-}1 \\\\ 1 & 0\\end{bmatrix}\\cdot\\begin{bmatrix}3 \\\\ 0\\end{bmatrix}"
+    },
+    {
+      "image_id": "image316",
+      "source_asset": "assets/image316.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        88
+      ],
+      "question_ids": [
+        "gat-19-v"
+      ],
+      "latex": "\\begin{bmatrix}3 & {}^{-}2 \\\\ 4 & 1\\end{bmatrix}\\cdot\\left(\\begin{bmatrix}2 & 5 \\\\ {}^{-}3 & {}^{-}1\\end{bmatrix}\\cdot\\begin{bmatrix}2 \\\\ 1\\end{bmatrix}\\right)"
+    },
+    {
+      "image_id": "image317",
+      "source_asset": "assets/image317.svg",
+      "status": "latex",
+      "occurrences": 2,
+      "reference_pages": [
+        88
+      ],
+      "question_ids": [
+        "gat-19-v"
+      ],
+      "latex": "\\begin{bmatrix}3 & {}^{-}2 \\\\ 4 & 1\\end{bmatrix}\\cdot T"
+    },
+    {
+      "image_id": "image318",
+      "source_asset": "assets/image318.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        88
+      ],
+      "question_ids": [
+        "gat-19-v"
+      ],
+      "latex": "\\left(\\begin{bmatrix}3 & {}^{-}2 \\\\ 4 & 1\\end{bmatrix}\\cdot\\begin{bmatrix}2 & 5 \\\\ {}^{-}3 & {}^{-}1\\end{bmatrix}\\right)\\cdot\\begin{bmatrix}2 \\\\ 1\\end{bmatrix}=U\\cdot\\begin{bmatrix}2 \\\\ 1\\end{bmatrix}"
+    },
+    {
+      "image_id": "image319",
+      "source_asset": "assets/image319.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        88
+      ],
+      "question_ids": [
+        "gat-19-v"
+      ],
+      "latex": "U\\cdot\\begin{bmatrix}2 \\\\ 1\\end{bmatrix}"
+    },
+    {
+      "image_id": "image320",
+      "source_asset": "assets/image320.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        88
+      ],
+      "question_ids": [
+        "gat-19-vi"
+      ],
+      "latex": "\\begin{bmatrix}{}^{-}1 & 0 \\\\ 0 & {}^{-}1\\end{bmatrix}\\cdot\\begin{bmatrix}1 & 0 & 1 \\\\ 0 & 1 & 1\\end{bmatrix}"
+    },
+    {
+      "image_id": "image321",
+      "source_asset": "assets/image321.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        88
+      ],
+      "question_ids": [
+        "gat-19-vi"
+      ],
+      "latex": "\\begin{bmatrix}{}^{-}1 & 0 \\\\ 0 & {}^{-}1\\end{bmatrix}"
+    },
+    {
+      "image_id": "image322",
+      "source_asset": "assets/image322.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        88
+      ],
+      "question_ids": [
+        "gat-19-vii"
+      ],
+      "latex": "\\begin{bmatrix}0 & 1 \\\\ {}^{-}1 & 0\\end{bmatrix}"
+    },
+    {
+      "image_id": "image323",
+      "source_asset": "assets/image323.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        89
+      ],
+      "question_ids": [
+        "gat-19-viii"
+      ],
+      "latex": "\\begin{bmatrix}0 & 1 & 0 & 2 \\\\ 1 & 0 & 0 & 1 \\\\ 2 & 0 & 0 & 1 \\\\ 1 & 1 & 0 & 0\\end{bmatrix}"
+    },
+    {
+      "image_id": "image324",
+      "source_asset": "assets/image324.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        89
+      ],
+      "question_ids": [
+        "gat-19-viii"
+      ],
+      "latex": "n_{31}\\cdot n_{12}+n_{32}\\cdot n_{22}+n_{33}\\cdot n_{32}+n_{34}\\cdot n_{42}"
+    },
+    {
+      "image_id": "image325",
+      "source_asset": "assets/image325.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        90
+      ],
+      "question_ids": [
+        "gat-20-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Matrix brackets are visibly segmented; entries are preserved."
+      ]
+    },
+    {
+      "image_id": "image326",
+      "source_asset": "assets/image326.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        91
+      ],
+      "question_ids": [
+        "gat-20-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image327",
+      "source_asset": "assets/image327.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        91
+      ],
+      "question_ids": [
+        "gat-20-i"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image328",
+      "source_asset": "assets/image328.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        91
+      ],
+      "question_ids": [
+        "gat-20-i"
+      ],
+      "latex": "r_x"
+    },
+    {
+      "image_id": "image329",
+      "source_asset": "assets/image329.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        91
+      ],
+      "question_ids": [
+        "gat-20-ii"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained."
+    },
+    {
+      "image_id": "image330",
+      "source_asset": "assets/image330.svg",
+      "status": "latex",
+      "occurrences": 2,
+      "reference_pages": [
+        92
+      ],
+      "question_ids": [
+        "gat-20-iii"
+      ],
+      "latex": "B\\cdot A"
+    },
+    {
+      "image_id": "image331",
+      "source_asset": "assets/image331.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        92
+      ],
+      "question_ids": [
+        "gat-20-iv"
+      ],
+      "latex": "\\begin{bmatrix}1 & 0 \\\\ 0 & {}^{-}1\\end{bmatrix}\\cdot\\begin{bmatrix}0 & 1 \\\\ 1 & 0\\end{bmatrix}"
+    },
+    {
+      "image_id": "image332",
+      "source_asset": "assets/image332.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        93
+      ],
+      "question_ids": [
+        "gat-20-v"
+      ],
+      "latex": "\\begin{bmatrix}3 & {}^{-}2 \\\\ 4 & 1\\end{bmatrix}\\cdot\\begin{bmatrix}2 & 5 \\\\ {}^{-}3 & {}^{-}1\\end{bmatrix}\\cdot\\begin{bmatrix}2 \\\\ 1\\end{bmatrix}"
+    },
+    {
+      "image_id": "image333",
+      "source_asset": "assets/image333.png",
+      "status": "retained_image",
+      "occurrences": 1,
+      "reference_pages": [
+        93
+      ],
+      "question_ids": [
+        "gat-20-v"
+      ],
+      "reason": "Diagram, graph, calculator screenshot, or annotated instructional layout; visual relationships retained.",
+      "source_image_issues": [
+        "Matrix brackets are visibly segmented; entries are preserved."
+      ]
+    },
+    {
+      "image_id": "image334",
+      "source_asset": "assets/image334.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        94
+      ],
+      "question_ids": [
+        "gat-20-vi"
+      ],
+      "latex": "\\begin{bmatrix}0 & 1 \\\\ 1 & 0\\end{bmatrix}\\cdot\\begin{bmatrix}x \\\\ y\\end{bmatrix}"
+    },
+    {
+      "image_id": "image335",
+      "source_asset": "assets/image335.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        94
+      ],
+      "question_ids": [
+        "gat-20-vi"
+      ],
+      "latex": "r_{y=x}(x,y)="
+    },
+    {
+      "image_id": "image336",
+      "source_asset": "assets/image336.svg",
+      "status": "latex",
+      "occurrences": 1,
+      "reference_pages": [
+        94
+      ],
+      "question_ids": [
+        "gat-20-viii"
+      ],
+      "latex": "\\begin{bmatrix}1 & 0.3 \\\\ 0 & 1\\end{bmatrix}"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "sisley-math-textbook",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/render-textbook.mjs",
+    "check": "node scripts/check-textbook.mjs"
+  },
+  "dependencies": {
+    "katex": "0.19.1",
+    "marked": "18.1.3"
+  }
+}
