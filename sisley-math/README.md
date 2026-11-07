@@ -3,6 +3,7 @@
 This folder preserves the first 20 GAT assignments from the supplied high-school math textbook, including the original Word document, editable Markdown and LaTeX, recovered graphics, an offline browser reading copy, and conversion records.
 
 - [Read the formatted textbook](gat-1-20/GAT-1-20.html).
+- [See highlighted changes in the textbook](gat-1-20/GAT-1-20-changes.html#new-network): yellow formula replacements are clickable comparisons; the blue network example shows the original and redrawn graph side by side.
 - [Edit the Markdown and LaTeX](gat-1-20/GAT-1-20.md).
 - [Review remaining conversion issues](gat-1-20/conversion-report.md) and [formula transcription notes](gat-1-20/formula-review.md).
 - [Compare formulas with their source images](gat-1-20/formula-comparison.html).

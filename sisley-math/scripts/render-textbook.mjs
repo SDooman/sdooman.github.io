@@ -4,6 +4,7 @@ import { fileURLToPath } from 'node:url';
 import { createRequire } from 'node:module';
 import katex from 'katex';
 import { Marked } from 'marked';
+import assert from 'node:assert/strict';
 
 const require = createRequire(import.meta.url);
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -17,12 +18,20 @@ fs.copyFileSync(path.join(katexRoot, 'LICENSE'), path.join(vendor, 'LICENSE'));
 fs.writeFileSync(path.join(vendor, 'VERSION'), `${katex.version}\n`);
 
 let renderedMath = 0;
+let reviewPlacements = null;
+let reviewIndex = 0;
+const escape = (s) => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 function math(latex, displayMode) {
   renderedMath++;
-  return katex.renderToString(latex, {
+  const result = katex.renderToString(latex, {
     displayMode, throwOnError: true, strict: 'error', trust: false,
     output: 'htmlAndMathml',
   });
+  if (!reviewPlacements) return result;
+  const placement = reviewPlacements[reviewIndex++];
+  assert.ok(placement, 'More formulas than recorded placements');
+  assert.ok(latex === placement.latex || /^[.,]$/.test(latex.slice(placement.latex.length)) && latex.startsWith(placement.latex), `Formula/source order mismatch at ${placement.id}`);
+  return `<button type="button" class="changed-math${displayMode ? ' changed-display' : ''}" id="change-${placement.id}" data-source="${escape(placement.asset)}" data-page="${placement.reference_page}" data-placement="${placement.id}" title="Image converted to a formula — click to compare with the original">${result}</button>`;
 }
 
 // Tokenize math before ordinary Markdown can reinterpret backslashes or underscores.
@@ -58,7 +67,7 @@ a{color:#175f9e}table{border-collapse:collapse;font-size:15px;max-width:100%}th,
 @media(max-width:600px){body{margin:24px auto;padding:0 16px;font-size:17px}.formula-pair{grid-template-columns:1fr}table{font-size:13px}th,td{padding:6px}}@media print{nav{display:none}body{max-width:none;margin:0}.katex-display{overflow:visible}h2{break-before:page}}
 `;
 function document(title, content) {
-  return `<!doctype html>\n<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>${title}</title><link rel="stylesheet" href="assets/vendor/katex/katex.min.css"><style>${style}</style></head><body><nav><a href="GAT-1-20.html">Textbook</a><a href="conversion-report.html">Conversion notes</a><a href="formula-review.html">Formula review</a><a href="formula-comparison.html">Source comparison</a></nav><main>${content}</main></body></html>\n`;
+  return `<!doctype html>\n<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>${title}</title><link rel="stylesheet" href="assets/vendor/katex/katex.min.css"><style>${style}</style></head><body><nav><a href="GAT-1-20.html">Textbook</a><a href="GAT-1-20-changes.html#new-network">Highlighted changes</a><a href="conversion-report.html">Conversion notes</a><a href="formula-review.html">Formula review</a><a href="formula-comparison.html">Source comparison</a></nav><main>${content}</main></body></html>\n`;
 }
 const counts = {};
 for (const [name, title] of [['GAT-1-20','GAT Assignments 1–20'],['conversion-report','Conversion notes'],['formula-review','Formula review']]) {
@@ -71,11 +80,38 @@ for (const [name, title] of [['GAT-1-20','GAT Assignments 1–20'],['conversion-
 }
 
 const transcription = JSON.parse(fs.readFileSync(path.join(out, 'formula-transcriptions.json'), 'utf8'));
-const escape = (s) => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 let comparison = '<h1>Formula source comparison</h1><p>Each distinct formula is shown once beside its retained source image. Raised minus signs, incomplete exercises, and source notation are preserved. See the formula review for issues.</p>';
 for (const item of transcription.assets.filter(a => a.status === 'latex')) {
   const links = item.question_ids.map(id=>`<a href="GAT-1-20.html#${id}">${id}</a>`).join(', ');
   comparison += `<section class="formula-pair" id="${item.image_id}"><div><h3>${item.image_id}: source image</h3><div class="source"><img src="${item.source_asset}" alt="Original ${item.image_id}"></div></div><div><h3>LaTeX transcription</h3>${math(item.latex,true)}<code>${escape(item.latex)}</code></div><div class="formula-note">Reference pages ${item.reference_pages.join(', ')} · ${links}${item.note?`<p>${escape(item.note)}</p>`:''}</div></section>`;
 }
 fs.writeFileSync(path.join(out,'formula-comparison.html'), document('Formula source comparison',comparison));
+
+// A reading copy with changes in their original question context. Match each
+// formula to its recorded placement, so identical formulas never lose provenance.
+const manifest = JSON.parse(fs.readFileSync(path.join(out, 'manifest.json'), 'utf8'));
+reviewPlacements = manifest.placements.filter(p => p.representation === 'latex');
+reviewIndex = 0;
+let review = marked.parse(fs.readFileSync(path.join(out, 'GAT-1-20.md'), 'utf8'))
+  .replace(/href="([^"#]+)\.md([#"])/g, 'href="$1.html$2');
+assert.equal(reviewIndex, reviewPlacements.length);
+reviewPlacements = null;
+const graphPattern = /<img\s+src="assets\/image262\.png"[^>]*>/g;
+assert.equal([...review.matchAll(graphPattern)].length, 1);
+const graphSource = path.join(root, 'visual-pipeline/examples/image262.svg');
+const graphCopy = path.join(out, 'assets/reconstructions/image262.svg');
+// Bundle the candidate with the reading copy so the textbook and historical
+// replay remain portable without needing the separate inventory UI.
+if (fs.existsSync(graphSource)) {
+  fs.mkdirSync(path.dirname(graphCopy), { recursive: true });
+  fs.copyFileSync(graphSource, graphCopy);
+}
+assert.ok(fs.existsSync(graphCopy), 'Missing reconstructed graph for the highlighted reading copy');
+review = review.replace(graphPattern, `<section class="changed-graph" id="new-network" aria-label="Newly redrawn network graph"><h4>New: network graph redrawn</h4><p class="change-note">Recreated as an editable drawing. This is a review candidate; the regular textbook still uses the original.</p><div class="graph-pair"><figure><figcaption>Original image</figcaption><img src="assets/image262.png" alt="Original network graph" width="381" height="96"></figure><figure><figcaption>New drawing</figcaption><img src="assets/reconstructions/image262.svg" alt="Reconstructed network graph with five numbered nodes and directed edges" width="381" height="104"></figure></div></section>`);
+const controls = `<aside class="changes-bar" aria-label="Highlighted changes"><strong>Changes highlighted</strong><span class="formula-key">Yellow: image → formula</span><span class="graph-key">Blue: new graph</span><a href="#new-network">Jump to new graph</a><button type="button" id="previous-change">Previous change</button><button type="button" id="next-change">Next change</button><span id="change-count" aria-live="polite"></span></aside><p class="change-intro">This is the textbook with 546 formula replacements highlighted and one new graph shown beside its original. Click any yellow formula to see the image it replaced.</p>`;
+const dialog = `<dialog id="source-dialog" aria-labelledby="source-title"><div class="dialog-heading"><h2 id="source-title">Image → formula</h2><button type="button" id="close-source" autofocus>Close</button></div><p id="source-page"></p><div class="source-pair"><section><h3>Original image</h3><img id="original-formula" alt="Original formula image"></section><section><h3>Converted formula</h3><div id="converted-formula"></div></section></div></dialog>`;
+let reviewDocument = document('GAT Assignments 1–20 — highlighted changes', controls + review + dialog);
+reviewDocument = reviewDocument.replace('</style>', fs.readFileSync(path.join(root, 'scripts/changes.css'), 'utf8') + '</style>');
+reviewDocument = reviewDocument.replace('</body>', `<script>${fs.readFileSync(path.join(root, 'scripts/changes.js'), 'utf8')}</script></body>`);
+fs.writeFileSync(path.join(out, 'GAT-1-20-changes.html'), reviewDocument);
 console.log(JSON.stringify({math_renderings:counts,katex:katex.version,offline:true}));
