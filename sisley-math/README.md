@@ -3,16 +3,18 @@
 This folder preserves the first 20 GAT assignments from the supplied high-school math textbook, including the original Word document, editable Markdown and LaTeX, recovered graphics, an offline browser reading copy, and conversion records.
 
 - [Read the formatted textbook](gat-1-20/GAT-1-20.html).
-- [See highlighted changes in the textbook](gat-1-20/GAT-1-20-changes.html#new-network): yellow formula replacements are clickable comparisons; the blue network example shows the original and redrawn graph side by side.
+- [See highlighted changes in the textbook](gat-1-20/GAT-1-20-changes.html#new-network): yellow formula replacements are clickable comparisons; 115 blue diagram reconstructions appear beside their originals, with readable formulas for the ten annotated-math drawings.
 - [Edit the Markdown and LaTeX](gat-1-20/GAT-1-20.md).
 - [Review remaining conversion issues](gat-1-20/conversion-report.md) and [formula transcription notes](gat-1-20/formula-review.md).
 - [Compare formulas with their source images](gat-1-20/formula-comparison.html).
-- [Classify and review all textbook graphics](visual-pipeline/review.html), with a [reusable PDF inventory pipeline](visual-pipeline/README.md) and a graph-to-code example.
+- [Classify and review all textbook graphics](visual-pipeline/review.html), with a [reusable PDF inventory pipeline](visual-pipeline/README.md) and source-vector recovery and mathematical transcriptions.
 - [Original Word document](source/GAT-1-20.doc).
 - [Project context and future ideas](PROJECT-NOTES.md).
 - [Python/JavaScript conversion scripts and replay instructions](conversion/README.md), including the image-recovery code and saved intermediate inputs.
 
 The reading copy contains 20 assignments and 170 stable question anchors. It renders 546 formula placements from 220 distinct graphics as LaTeX and retains 120 diagram or instructional-image placements. All 336 recovered source graphics remain available for comparison. The original Word document's SHA-256 is recorded in `gat-1-20/manifest.json`.
+
+The highlighted review copy now includes 115 diagram reconstruction candidates: four semantic networks, ten annotated-math drawings with structured entries/LaTeX, and 101 other vector drawings. Twelve coordinate diagrams also retain explicitly labelled mathematical coordinates. Only the calculator screenshot remains without a code reconstruction. The waveform in image1 is explicitly approximate; recovered drawing paths do not imply a solved geometry constraint model.
 
 The HTML and its local assets are checked in, so reading the textbook requires no build step or external math service. Once this folder is deployed through the existing GitHub Pages site, its reading URL is `/sisley-math/gat-1-20/GAT-1-20.html`.
 

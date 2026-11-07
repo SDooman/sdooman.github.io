@@ -1,0 +1,764 @@
+{
+  "image218": {
+    "kind": "annotated-math",
+    "review": "source_transcribed_needs_final_review",
+    "matrices": [
+      {
+        "id": "A",
+        "entries": [
+          [
+            8,
+            4,
+            6
+          ],
+          [
+            6,
+            6,
+            8
+          ]
+        ],
+        "row_labels": [
+          "worker #1",
+          "worker #2"
+        ],
+        "column_labels": [
+          "style #1",
+          "style #2",
+          "style #3"
+        ]
+      },
+      {
+        "id": "B",
+        "entries": [
+          [
+            10,
+            10,
+            0
+          ],
+          [
+            8,
+            6,
+            6
+          ],
+          [
+            0,
+            10,
+            10
+          ]
+        ],
+        "row_labels": [
+          "style #1",
+          "style #2",
+          "style #3"
+        ],
+        "column_labels": [
+          "oak",
+          "walnut",
+          "cherry"
+        ]
+      }
+    ],
+    "expressions": [],
+    "annotations": [],
+    "layout_link": "SVG source paths retain the printed arrangement. These mathematical records are separate; changing them does not yet reflow the source drawing.",
+    "source_note": "The source matrix A entries are tiny. Values transcribed from positioned PDF glyphs and checked against the enlarged original; source layout is preserved."
+  },
+  "image227": {
+    "kind": "annotated-math",
+    "review": "source_transcribed_needs_final_review",
+    "matrices": [
+      {
+        "id": "A",
+        "entries": [
+          [
+            8,
+            4,
+            6
+          ],
+          [
+            6,
+            6,
+            8
+          ]
+        ]
+      }
+    ],
+    "expressions": [],
+    "annotations": [
+      {
+        "type": "highlight-row",
+        "matrix": "A",
+        "row": 1,
+        "label": "Row #1"
+      },
+      {
+        "type": "highlight-row",
+        "matrix": "A",
+        "row": 2,
+        "label": "Row #2"
+      },
+      {
+        "type": "highlight-column",
+        "matrix": "A",
+        "column": 2,
+        "label": "Column #2"
+      }
+    ],
+    "layout_link": "SVG source paths retain the printed arrangement. These mathematical records are separate; changing them does not yet reflow the source drawing."
+  },
+  "image244": {
+    "kind": "annotated-math",
+    "review": "source_transcribed_needs_final_review",
+    "matrices": [
+      {
+        "id": "A",
+        "entries": [
+          [
+            8,
+            4,
+            6
+          ],
+          [
+            6,
+            6,
+            8
+          ]
+        ],
+        "row_labels": [
+          "worker #1",
+          "worker #2"
+        ],
+        "column_labels": [
+          "style #1",
+          "style #2",
+          "style #3"
+        ]
+      },
+      {
+        "id": "B",
+        "entries": [
+          [
+            10,
+            10,
+            0
+          ],
+          [
+            8,
+            6,
+            6
+          ],
+          [
+            0,
+            10,
+            10
+          ]
+        ],
+        "row_labels": [
+          "style #1",
+          "style #2",
+          "style #3"
+        ],
+        "column_labels": [
+          "oak",
+          "walnut",
+          "cherry"
+        ]
+      }
+    ],
+    "expressions": [],
+    "annotations": [
+      {
+        "type": "highlight-row",
+        "matrix": "A",
+        "row": 2
+      },
+      {
+        "type": "highlight-column",
+        "matrix": "B",
+        "column": 2
+      },
+      {
+        "type": "arrow",
+        "from": {
+          "matrix": "A",
+          "row": 2,
+          "column": 1
+        },
+        "to": {
+          "matrix": "B",
+          "row": 1,
+          "column": 2
+        }
+      },
+      {
+        "type": "arrow",
+        "from": {
+          "matrix": "A",
+          "row": 2,
+          "column": 2
+        },
+        "to": {
+          "matrix": "B",
+          "row": 2,
+          "column": 2
+        }
+      },
+      {
+        "type": "arrow",
+        "from": {
+          "matrix": "A",
+          "row": 2,
+          "column": 3
+        },
+        "to": {
+          "matrix": "B",
+          "row": 3,
+          "column": 2
+        }
+      }
+    ],
+    "layout_link": "SVG source paths retain the printed arrangement. These mathematical records are separate; changing them does not yet reflow the source drawing.",
+    "source_note": "The source matrix A entries are tiny. Values transcribed from positioned PDF glyphs and checked against the enlarged original; source layout is preserved."
+  },
+  "image253": {
+    "kind": "annotated-math",
+    "review": "source_transcribed_needs_final_review",
+    "matrices": [
+      {
+        "id": "A",
+        "entries": [
+          [
+            8,
+            4,
+            6
+          ],
+          [
+            6,
+            6,
+            8
+          ]
+        ],
+        "row_labels": [
+          "worker #1",
+          "worker #2"
+        ],
+        "column_labels": [
+          "style #1",
+          "style #2",
+          "style #3"
+        ]
+      },
+      {
+        "id": "B",
+        "entries": [
+          [
+            10,
+            10,
+            0
+          ],
+          [
+            8,
+            6,
+            6
+          ],
+          [
+            0,
+            10,
+            10
+          ]
+        ],
+        "row_labels": [
+          "style #1",
+          "style #2",
+          "style #3"
+        ],
+        "column_labels": [
+          "oak",
+          "walnut",
+          "cherry"
+        ]
+      }
+    ],
+    "expressions": [],
+    "annotations": [
+      {
+        "type": "highlight-row",
+        "matrix": "A",
+        "row": 2
+      },
+      {
+        "type": "highlight-column",
+        "matrix": "B",
+        "column": 3
+      },
+      {
+        "type": "arrow",
+        "from": {
+          "matrix": "A",
+          "row": 2,
+          "column": 1
+        },
+        "to": {
+          "matrix": "B",
+          "row": 1,
+          "column": 3
+        }
+      },
+      {
+        "type": "arrow",
+        "from": {
+          "matrix": "A",
+          "row": 2,
+          "column": 2
+        },
+        "to": {
+          "matrix": "B",
+          "row": 2,
+          "column": 3
+        }
+      },
+      {
+        "type": "arrow",
+        "from": {
+          "matrix": "A",
+          "row": 2,
+          "column": 3
+        },
+        "to": {
+          "matrix": "B",
+          "row": 3,
+          "column": 3
+        }
+      }
+    ],
+    "layout_link": "SVG source paths retain the printed arrangement. These mathematical records are separate; changing them does not yet reflow the source drawing.",
+    "source_note": "The source matrix A entries are tiny. Values transcribed from positioned PDF glyphs and checked against the enlarged original; source layout is preserved."
+  },
+  "image291": {
+    "kind": "annotated-math",
+    "review": "source_transcribed_needs_final_review",
+    "matrices": [
+      {
+        "id": "reflection",
+        "entries": [
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            -1
+          ]
+        ]
+      },
+      {
+        "id": "pre_images",
+        "entries": [
+          [
+            -5,
+            4
+          ],
+          [
+            2,
+            -6
+          ]
+        ]
+      },
+      {
+        "id": "images",
+        "entries": [
+          [
+            -5,
+            4
+          ],
+          [
+            -2,
+            6
+          ]
+        ]
+      }
+    ],
+    "expressions": [],
+    "annotations": [
+      {
+        "type": "column-label",
+        "matrix": "pre_images",
+        "column": 1,
+        "label": "first pre-image"
+      },
+      {
+        "type": "column-label",
+        "matrix": "pre_images",
+        "column": 2,
+        "label": "second pre-image"
+      },
+      {
+        "type": "column-label",
+        "matrix": "images",
+        "column": 1,
+        "label": "first image"
+      },
+      {
+        "type": "column-label",
+        "matrix": "images",
+        "column": 2,
+        "label": "second image"
+      }
+    ],
+    "layout_link": "SVG source paths retain the printed arrangement. These mathematical records are separate; changing them does not yet reflow the source drawing.",
+    "equation": {
+      "left_product": [
+        "reflection",
+        "pre_images"
+      ],
+      "right": "images"
+    },
+    "notation": "Raised minus signs in the source are preserved in LaTeX exports."
+  },
+  "image307": {
+    "kind": "annotated-math",
+    "review": "source_transcribed_needs_final_review",
+    "matrices": [
+      {
+        "id": "left_N",
+        "entries": [
+          [
+            0,
+            1,
+            2,
+            1,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            0,
+            1
+          ],
+          [
+            0,
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ],
+        "row_labels": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "id": "right_N",
+        "entries": [
+          [
+            0,
+            1,
+            2,
+            1,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            0,
+            1
+          ],
+          [
+            0,
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ],
+        "column_labels": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      }
+    ],
+    "expressions": [],
+    "annotations": [
+      {
+        "type": "highlight-row",
+        "matrix": "left_N",
+        "row": 2,
+        "label": "row for direct connections from point 2 to other points"
+      },
+      {
+        "type": "highlight-column",
+        "matrix": "right_N",
+        "column": 3,
+        "label": "column for direct connections to point 3 from other points"
+      }
+    ],
+    "layout_link": "SVG source paths retain the printed arrangement. These mathematical records are separate; changing them does not yet reflow the source drawing.",
+    "source_between_matrices": "\\cdot"
+  },
+  "image325": {
+    "kind": "annotated-math",
+    "review": "source_transcribed_needs_final_review",
+    "matrices": [
+      {
+        "id": "identity",
+        "entries": [
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "blank_image",
+        "entries": [
+          [
+            null,
+            null
+          ],
+          [
+            null,
+            null
+          ]
+        ],
+        "blank_meaning": "exercise entries intentionally blank"
+      }
+    ],
+    "expressions": [
+      {
+        "id": "equation",
+        "latex": "A\\cdot\\begin{bmatrix}1 & 0 \\\\ 0 & 1\\end{bmatrix}=\\begin{bmatrix}\\phantom{0} & \\phantom{0} \\\\ \\phantom{0} & \\phantom{0}\\end{bmatrix}"
+      }
+    ],
+    "annotations": [
+      {
+        "type": "column-label",
+        "matrix": "blank_image",
+        "column": 1,
+        "label": "the image of (1,0)"
+      },
+      {
+        "type": "column-label",
+        "matrix": "blank_image",
+        "column": 2,
+        "label": "the image of (0,1)"
+      }
+    ],
+    "layout_link": "SVG source paths retain the printed arrangement. These mathematical records are separate; changing them does not yet reflow the source drawing."
+  },
+  "image326": {
+    "kind": "annotated-math",
+    "review": "source_transcribed_needs_final_review",
+    "matrices": [
+      {
+        "id": "blank_image",
+        "entries": [
+          [
+            null,
+            null
+          ],
+          [
+            null,
+            null
+          ]
+        ],
+        "blank_meaning": "exercise entries intentionally blank"
+      }
+    ],
+    "expressions": [],
+    "annotations": [
+      {
+        "type": "column-label",
+        "matrix": "blank_image",
+        "column": 1,
+        "label": "the image of (1,0)"
+      },
+      {
+        "type": "column-label",
+        "matrix": "blank_image",
+        "column": 2,
+        "label": "the image of (0,1)"
+      }
+    ],
+    "layout_link": "SVG source paths retain the printed arrangement. These mathematical records are separate; changing them does not yet reflow the source drawing."
+  },
+  "image333": {
+    "kind": "annotated-math",
+    "review": "source_transcribed_needs_final_review",
+    "matrices": [
+      {
+        "id": "matrix_3",
+        "entries": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "matrix_2",
+        "entries": [
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            -1
+          ]
+        ]
+      },
+      {
+        "id": "matrix_1",
+        "entries": [
+          [
+            0
+          ],
+          [
+            2
+          ]
+        ]
+      }
+    ],
+    "expressions": [],
+    "annotations": [
+      {
+        "type": "matrix-label",
+        "matrix": "matrix_3",
+        "label": "matrix #3"
+      },
+      {
+        "type": "matrix-label",
+        "matrix": "matrix_2",
+        "label": "matrix #2"
+      },
+      {
+        "type": "matrix-label",
+        "matrix": "matrix_1",
+        "label": "matrix #1"
+      }
+    ],
+    "layout_link": "SVG source paths retain the printed arrangement. These mathematical records are separate; changing them does not yet reflow the source drawing.",
+    "product_order": [
+      "matrix_3",
+      "matrix_2",
+      "matrix_1"
+    ]
+  },
+  "image166": {
+    "kind": "annotated-math",
+    "review": "source_transcribed_needs_final_review",
+    "matrices": [],
+    "expressions": [
+      {
+        "id": "point_a",
+        "latex": "(5,{}^{-}2)"
+      },
+      {
+        "id": "point_b",
+        "latex": "(11,4)"
+      },
+      {
+        "id": "origin",
+        "latex": "(0,0)"
+      },
+      {
+        "id": "difference",
+        "latex": "(6,6)"
+      },
+      {
+        "id": "distance",
+        "latex": "\\sqrt{6^{2}+6^{2}}=\\sqrt{72}"
+      },
+      {
+        "id": "result",
+        "latex": "\\sqrt{72}"
+      }
+    ],
+    "annotations": [
+      {
+        "type": "arrow",
+        "from": "point_a",
+        "to": "origin"
+      },
+      {
+        "type": "arrow",
+        "from": "point_b",
+        "to": "difference"
+      },
+      {
+        "type": "arrow",
+        "from": "difference",
+        "to": "distance"
+      },
+      {
+        "type": "arrow",
+        "from": "distance",
+        "to": "result"
+      }
+    ],
+    "layout_link": "SVG source paths retain the printed arrangement. These mathematical records are separate; changing them does not yet reflow the source drawing.",
+    "points": {
+      "point_a": [
+        5,
+        -2
+      ],
+      "point_b": [
+        11,
+        4
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "difference": [
+        6,
+        6
+      ]
+    }
+  }
+}

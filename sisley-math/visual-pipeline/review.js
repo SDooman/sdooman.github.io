@@ -62,9 +62,10 @@ function render() {
     const conversion = element('div'); conversion.append(element('div', 'Machine-readable representation', 'sourceLabel'));
     if (a.conversion.kind === 'latex') {
       conversion.append(element('pre', a.conversion.latex));
-    } else if (a.conversion.kind === 'network-scene') {
+    } else if (['network-scene','vector-scene'].includes(a.conversion.kind)) {
       conversion.append(sourceImage(a.conversion.preview, `Candidate reconstruction of ${a.id}`));
       const link = element('a', 'Open editable scene JSON'); link.href = a.conversion.path; conversion.append(link);
+      if (a.conversion.representation_level) conversion.append(element('p', a.conversion.representation_level === 'annotated-math' ? 'Source drawing plus transcribed matrices/formulas.' : 'Recovered drawing primitives; mathematical constraints have not been inferred.', 'meta'));
     } else {
       conversion.append(element('p', `Next representation: ${categories.get(a.classification.category).target}`));
       conversion.append(element('p', categories.get(a.classification.category).review, 'meta'));

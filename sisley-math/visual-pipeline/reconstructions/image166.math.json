@@ -1,0 +1,26 @@
+[
+  {
+    "id": "point_a",
+    "latex": "(5,{}^{-}2)"
+  },
+  {
+    "id": "point_b",
+    "latex": "(11,4)"
+  },
+  {
+    "id": "origin",
+    "latex": "(0,0)"
+  },
+  {
+    "id": "difference",
+    "latex": "(6,6)"
+  },
+  {
+    "id": "distance",
+    "latex": "\\sqrt{6^{2}+6^{2}}=\\sqrt{72}"
+  },
+  {
+    "id": "result",
+    "latex": "\\sqrt{72}"
+  }
+]

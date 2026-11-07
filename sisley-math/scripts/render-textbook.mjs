@@ -96,19 +96,51 @@ let review = marked.parse(fs.readFileSync(path.join(out, 'GAT-1-20.md'), 'utf8')
   .replace(/href="([^"#]+)\.md([#"])/g, 'href="$1.html$2');
 assert.equal(reviewIndex, reviewPlacements.length);
 reviewPlacements = null;
-const graphPattern = /<img\s+src="assets\/image262\.png"[^>]*>/g;
-assert.equal([...review.matchAll(graphPattern)].length, 1);
-const graphSource = path.join(root, 'visual-pipeline/examples/image262.svg');
-const graphCopy = path.join(out, 'assets/reconstructions/image262.svg');
-// Bundle the candidate with the reading copy so the textbook and historical
-// replay remain portable without needing the separate inventory UI.
-if (fs.existsSync(graphSource)) {
-  fs.mkdirSync(path.dirname(graphCopy), { recursive: true });
-  fs.copyFileSync(graphSource, graphCopy);
+// Copy reconstructions and their readable math into the portable textbook bundle.
+// Historical replay can rebuild from this bundled manifest without the pipeline.
+const pipelineRoot = path.join(root, 'visual-pipeline');
+const diagramManifest = path.join(out, 'diagram-conversions.json');
+if (fs.existsSync(path.join(pipelineRoot, 'gat-catalog.json'))) {
+  const catalog = JSON.parse(fs.readFileSync(path.join(pipelineRoot, 'gat-catalog.json'), 'utf8'));
+  const diagrams = [];
+  fs.mkdirSync(path.join(out, 'assets/reconstructions'), {recursive: true});
+  for (const asset of catalog.assets.filter(a => ['network-scene','vector-scene'].includes(a.conversion.kind))) {
+    const converted = `assets/reconstructions/${asset.id}.svg`;
+    fs.copyFileSync(path.resolve(pipelineRoot, asset.conversion.preview), path.join(out, converted));
+    const mathPath = path.resolve(pipelineRoot, asset.conversion.path.replace('.scene.json', '.math.json'));
+    diagrams.push({id:asset.id, source:`assets/${asset.id}.png`, converted,
+      category:asset.classification.category, kind:asset.conversion.kind,
+      representation_level:asset.conversion.representation_level || 'network',
+      approximate_trace:asset.id==='image1', review:asset.conversion.review,
+      math:fs.existsSync(mathPath) ? JSON.parse(fs.readFileSync(mathPath,'utf8')) : []});
+  }
+  fs.writeFileSync(diagramManifest, JSON.stringify({version:1, diagrams}, null, 2)+'\n');
 }
-assert.ok(fs.existsSync(graphCopy), 'Missing reconstructed graph for the highlighted reading copy');
-review = review.replace(graphPattern, `<section class="changed-graph" id="new-network" aria-label="Newly redrawn network graph"><h4>New: network graph redrawn</h4><p class="change-note">Recreated as an editable drawing. This is a review candidate; the regular textbook still uses the original.</p><div class="graph-pair"><figure><figcaption>Original image</figcaption><img src="assets/image262.png" alt="Original network graph" width="381" height="96"></figure><figure><figcaption>New drawing</figcaption><img src="assets/reconstructions/image262.svg" alt="Reconstructed network graph with five numbered nodes and directed edges" width="381" height="104"></figure></div></section>`);
-const controls = `<aside class="changes-bar" aria-label="Highlighted changes"><strong>Changes highlighted</strong><span class="formula-key">Yellow: image → formula</span><span class="graph-key">Blue: new graph</span><a href="#new-network">Jump to new graph</a><button type="button" id="previous-change">Previous change</button><button type="button" id="next-change">Next change</button><span id="change-count" aria-live="polite"></span></aside><p class="change-intro">This is the textbook with 546 formula replacements highlighted and one new graph shown beside its original. Click any yellow formula to see the image it replaced.</p>`;
+const diagramData = JSON.parse(fs.readFileSync(diagramManifest, 'utf8')).diagrams;
+const diagramsBySource = new Map(diagramData.map(item => [item.source, item]));
+const imagePlacements = manifest.placements.filter(p => p.representation === 'image');
+let imageIndex = 0, diagramAppearances = 0;
+const occurrences = new Map();
+review = review.replace(/<img\s+src="(assets\/image\d+\.png)"[^>]*>/g, (original, src) => {
+  const placement = imagePlacements[imageIndex++];
+  assert.equal(placement.asset, src, 'Image/source order changed');
+  const item = diagramsBySource.get(src);
+  if (!item) return original;
+  diagramAppearances++;
+  const occurrence = (occurrences.get(item.id) || 0) + 1;
+  occurrences.set(item.id, occurrence);
+  const anchor = item.id === 'image262' && occurrence === 1 ? 'new-network' : `diagram-${item.id}-${occurrence}`;
+  const title = item.kind === 'network-scene' ? 'Network redrawn' : item.approximate_trace ? 'Drawing recovered · waveform traced' : item.math.length ? 'Drawing and formulas recovered' : 'Drawing recovered as vectors';
+  const note = item.approximate_trace ? 'The waveform is an approximate trace, not an exact function. Compare its shape with the original.' : 'Review candidate — compare the drawing and labels with the original.';
+  const width = /\bwidth="([^"]+)"/.exec(original)?.[1] || '600';
+  const mathContent = item.math.length ? `<button type="button" class="toggle-diagram-math" aria-expanded="false" aria-controls="math-${placement.id}">Show readable formulas</button><span class="diagram-math" id="math-${placement.id}" hidden>${item.math.map(m => `<span class="math-entry"><span class="math-entry-label">${escape(m.id.replaceAll('_',' '))}</span>${math(m.latex, true)}</span>`).join('')}</span>` : '';
+  // Phrasing elements keep the handful of inline source diagrams valid inside
+  // their original paragraphs; CSS supplies the block comparison layout.
+  return `<span class="changed-graph" id="${anchor}" data-diagram="${item.id}" data-placement="${placement.id}" role="group" aria-label="${title}"><span class="diagram-heading">${title}</span><span class="change-note">${note} Reference page ${placement.reference_page}.</span><span class="graph-pair"><span class="diagram-side"><span class="diagram-caption">Original image</span>${original.replace('<img ', '<img loading="lazy" ')}</span><span class="diagram-side"><span class="diagram-caption">Reconstruction</span><img loading="lazy" src="${item.converted}" alt="Reconstruction of ${item.id}" width="${width}"></span></span>${mathContent}</span>`;
+});
+assert.equal(imageIndex, imagePlacements.length);
+assert.equal(occurrences.size, diagramData.length, 'A reconstruction is missing from the reading copy');
+const controls = `<aside class="changes-bar" aria-label="Highlighted changes"><strong>Changes highlighted</strong><span class="formula-key">Yellow: image → formula</span><span class="graph-key">Blue: reconstructed diagram</span><a href="#diagram-image279-1">Networks</a><a href="#diagram-image218-1">Matrices</a><a href="#diagram-image1-1">Geometry</a><label>Browse <select id="change-filter"><option value="diagrams">Diagrams only</option><option value="all">All changes</option></select></label><button type="button" id="previous-change">Previous</button><button type="button" id="next-change">Next</button><span id="change-count" aria-live="polite"></span></aside><p class="change-intro">${diagramData.length} diagram reconstructions appear in ${diagramAppearances} places, each beside its original. Blue comparisons include four networks and ten annotated-math drawings; use “Show readable formulas” to inspect their transcriptions. The calculator screenshot remains an image. Yellow highlights mark 546 earlier formula replacements; click one to compare it with its source.</p>`;
 const dialog = `<dialog id="source-dialog" aria-labelledby="source-title"><div class="dialog-heading"><h2 id="source-title">Image → formula</h2><button type="button" id="close-source" autofocus>Close</button></div><p id="source-page"></p><div class="source-pair"><section><h3>Original image</h3><img id="original-formula" alt="Original formula image"></section><section><h3>Converted formula</h3><div id="converted-formula"></div></section></div></dialog>`;
 let reviewDocument = document('GAT Assignments 1–20 — highlighted changes', controls + review + dialog);
 reviewDocument = reviewDocument.replace('</style>', fs.readFileSync(path.join(root, 'scripts/changes.css'), 'utf8') + '</style>');

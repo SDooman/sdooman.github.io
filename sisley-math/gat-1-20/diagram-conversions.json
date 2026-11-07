@@ -1,0 +1,1380 @@
+{
+  "version": 1,
+  "diagrams": [
+    {
+      "id": "image1",
+      "source": "assets/image1.png",
+      "converted": "assets/reconstructions/image1.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": true,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image2",
+      "source": "assets/image2.png",
+      "converted": "assets/reconstructions/image2.svg",
+      "category": "coordinate_plot",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image3",
+      "source": "assets/image3.png",
+      "converted": "assets/reconstructions/image3.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image5",
+      "source": "assets/image5.png",
+      "converted": "assets/reconstructions/image5.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image6",
+      "source": "assets/image6.png",
+      "converted": "assets/reconstructions/image6.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image9",
+      "source": "assets/image9.png",
+      "converted": "assets/reconstructions/image9.svg",
+      "category": "coordinate_plot",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image19",
+      "source": "assets/image19.png",
+      "converted": "assets/reconstructions/image19.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image20",
+      "source": "assets/image20.png",
+      "converted": "assets/reconstructions/image20.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image70",
+      "source": "assets/image70.png",
+      "converted": "assets/reconstructions/image70.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image73",
+      "source": "assets/image73.png",
+      "converted": "assets/reconstructions/image73.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image76",
+      "source": "assets/image76.png",
+      "converted": "assets/reconstructions/image76.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image90",
+      "source": "assets/image90.png",
+      "converted": "assets/reconstructions/image90.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image92",
+      "source": "assets/image92.png",
+      "converted": "assets/reconstructions/image92.svg",
+      "category": "coordinate_plot",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image109",
+      "source": "assets/image109.png",
+      "converted": "assets/reconstructions/image109.svg",
+      "category": "coordinate_plot",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image110",
+      "source": "assets/image110.png",
+      "converted": "assets/reconstructions/image110.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image117",
+      "source": "assets/image117.png",
+      "converted": "assets/reconstructions/image117.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image121",
+      "source": "assets/image121.png",
+      "converted": "assets/reconstructions/image121.svg",
+      "category": "rotation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image122",
+      "source": "assets/image122.png",
+      "converted": "assets/reconstructions/image122.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image123",
+      "source": "assets/image123.png",
+      "converted": "assets/reconstructions/image123.svg",
+      "category": "coordinate_plot",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image124",
+      "source": "assets/image124.png",
+      "converted": "assets/reconstructions/image124.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image127",
+      "source": "assets/image127.png",
+      "converted": "assets/reconstructions/image127.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image128",
+      "source": "assets/image128.png",
+      "converted": "assets/reconstructions/image128.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image131",
+      "source": "assets/image131.png",
+      "converted": "assets/reconstructions/image131.svg",
+      "category": "rotation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image132",
+      "source": "assets/image132.png",
+      "converted": "assets/reconstructions/image132.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image133",
+      "source": "assets/image133.png",
+      "converted": "assets/reconstructions/image133.svg",
+      "category": "coordinate_plot",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image134",
+      "source": "assets/image134.png",
+      "converted": "assets/reconstructions/image134.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image137",
+      "source": "assets/image137.png",
+      "converted": "assets/reconstructions/image137.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image138",
+      "source": "assets/image138.png",
+      "converted": "assets/reconstructions/image138.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image139",
+      "source": "assets/image139.png",
+      "converted": "assets/reconstructions/image139.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image140",
+      "source": "assets/image140.png",
+      "converted": "assets/reconstructions/image140.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image141",
+      "source": "assets/image141.png",
+      "converted": "assets/reconstructions/image141.svg",
+      "category": "rotation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image142",
+      "source": "assets/image142.png",
+      "converted": "assets/reconstructions/image142.svg",
+      "category": "rotation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image143",
+      "source": "assets/image143.png",
+      "converted": "assets/reconstructions/image143.svg",
+      "category": "rotation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image144",
+      "source": "assets/image144.png",
+      "converted": "assets/reconstructions/image144.svg",
+      "category": "rotation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image145",
+      "source": "assets/image145.png",
+      "converted": "assets/reconstructions/image145.svg",
+      "category": "rotation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image146",
+      "source": "assets/image146.png",
+      "converted": "assets/reconstructions/image146.svg",
+      "category": "rotation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image147",
+      "source": "assets/image147.png",
+      "converted": "assets/reconstructions/image147.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image152",
+      "source": "assets/image152.png",
+      "converted": "assets/reconstructions/image152.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image153",
+      "source": "assets/image153.png",
+      "converted": "assets/reconstructions/image153.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image155",
+      "source": "assets/image155.png",
+      "converted": "assets/reconstructions/image155.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image156",
+      "source": "assets/image156.png",
+      "converted": "assets/reconstructions/image156.svg",
+      "category": "coordinate_plot",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image160",
+      "source": "assets/image160.png",
+      "converted": "assets/reconstructions/image160.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image161",
+      "source": "assets/image161.png",
+      "converted": "assets/reconstructions/image161.svg",
+      "category": "reflection_translation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image162",
+      "source": "assets/image162.png",
+      "converted": "assets/reconstructions/image162.svg",
+      "category": "map",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image163",
+      "source": "assets/image163.png",
+      "converted": "assets/reconstructions/image163.svg",
+      "category": "coordinate_plot",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image166",
+      "source": "assets/image166.png",
+      "converted": "assets/reconstructions/image166.svg",
+      "category": "calculation_flow",
+      "kind": "vector-scene",
+      "representation_level": "annotated-math",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": [
+        {
+          "id": "point_a",
+          "latex": "(5,{}^{-}2)"
+        },
+        {
+          "id": "point_b",
+          "latex": "(11,4)"
+        },
+        {
+          "id": "origin",
+          "latex": "(0,0)"
+        },
+        {
+          "id": "difference",
+          "latex": "(6,6)"
+        },
+        {
+          "id": "distance",
+          "latex": "\\sqrt{6^{2}+6^{2}}=\\sqrt{72}"
+        },
+        {
+          "id": "result",
+          "latex": "\\sqrt{72}"
+        }
+      ]
+    },
+    {
+      "id": "image167",
+      "source": "assets/image167.png",
+      "converted": "assets/reconstructions/image167.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image168",
+      "source": "assets/image168.png",
+      "converted": "assets/reconstructions/image168.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image169",
+      "source": "assets/image169.png",
+      "converted": "assets/reconstructions/image169.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image170",
+      "source": "assets/image170.png",
+      "converted": "assets/reconstructions/image170.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image171",
+      "source": "assets/image171.png",
+      "converted": "assets/reconstructions/image171.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image172",
+      "source": "assets/image172.png",
+      "converted": "assets/reconstructions/image172.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image173",
+      "source": "assets/image173.png",
+      "converted": "assets/reconstructions/image173.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image177",
+      "source": "assets/image177.png",
+      "converted": "assets/reconstructions/image177.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image178",
+      "source": "assets/image178.png",
+      "converted": "assets/reconstructions/image178.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image183",
+      "source": "assets/image183.png",
+      "converted": "assets/reconstructions/image183.svg",
+      "category": "rotation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image184",
+      "source": "assets/image184.png",
+      "converted": "assets/reconstructions/image184.svg",
+      "category": "rotation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image185",
+      "source": "assets/image185.png",
+      "converted": "assets/reconstructions/image185.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image186",
+      "source": "assets/image186.png",
+      "converted": "assets/reconstructions/image186.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image187",
+      "source": "assets/image187.png",
+      "converted": "assets/reconstructions/image187.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image188",
+      "source": "assets/image188.png",
+      "converted": "assets/reconstructions/image188.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image189",
+      "source": "assets/image189.png",
+      "converted": "assets/reconstructions/image189.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image190",
+      "source": "assets/image190.png",
+      "converted": "assets/reconstructions/image190.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image191",
+      "source": "assets/image191.png",
+      "converted": "assets/reconstructions/image191.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image195",
+      "source": "assets/image195.png",
+      "converted": "assets/reconstructions/image195.svg",
+      "category": "rotation",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image198",
+      "source": "assets/image198.png",
+      "converted": "assets/reconstructions/image198.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image199",
+      "source": "assets/image199.png",
+      "converted": "assets/reconstructions/image199.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image203",
+      "source": "assets/image203.png",
+      "converted": "assets/reconstructions/image203.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image204",
+      "source": "assets/image204.png",
+      "converted": "assets/reconstructions/image204.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image205",
+      "source": "assets/image205.png",
+      "converted": "assets/reconstructions/image205.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image206",
+      "source": "assets/image206.png",
+      "converted": "assets/reconstructions/image206.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image207",
+      "source": "assets/image207.png",
+      "converted": "assets/reconstructions/image207.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image210",
+      "source": "assets/image210.png",
+      "converted": "assets/reconstructions/image210.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image211",
+      "source": "assets/image211.png",
+      "converted": "assets/reconstructions/image211.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image212",
+      "source": "assets/image212.png",
+      "converted": "assets/reconstructions/image212.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image213",
+      "source": "assets/image213.png",
+      "converted": "assets/reconstructions/image213.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image214",
+      "source": "assets/image214.png",
+      "converted": "assets/reconstructions/image214.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image216",
+      "source": "assets/image216.png",
+      "converted": "assets/reconstructions/image216.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image217",
+      "source": "assets/image217.png",
+      "converted": "assets/reconstructions/image217.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image218",
+      "source": "assets/image218.png",
+      "converted": "assets/reconstructions/image218.svg",
+      "category": "annotated_matrix",
+      "kind": "vector-scene",
+      "representation_level": "annotated-math",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": [
+        {
+          "id": "A",
+          "latex": "\\begin{bmatrix}8 & 4 & 6 \\\\ 6 & 6 & 8\\end{bmatrix}"
+        },
+        {
+          "id": "B",
+          "latex": "\\begin{bmatrix}10 & 10 & 0 \\\\ 8 & 6 & 6 \\\\ 0 & 10 & 10\\end{bmatrix}"
+        }
+      ]
+    },
+    {
+      "id": "image219",
+      "source": "assets/image219.png",
+      "converted": "assets/reconstructions/image219.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image220",
+      "source": "assets/image220.png",
+      "converted": "assets/reconstructions/image220.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image221",
+      "source": "assets/image221.png",
+      "converted": "assets/reconstructions/image221.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image222",
+      "source": "assets/image222.png",
+      "converted": "assets/reconstructions/image222.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image223",
+      "source": "assets/image223.png",
+      "converted": "assets/reconstructions/image223.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image225",
+      "source": "assets/image225.png",
+      "converted": "assets/reconstructions/image225.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image226",
+      "source": "assets/image226.png",
+      "converted": "assets/reconstructions/image226.svg",
+      "category": "shapes_symmetry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image227",
+      "source": "assets/image227.png",
+      "converted": "assets/reconstructions/image227.svg",
+      "category": "annotated_matrix",
+      "kind": "vector-scene",
+      "representation_level": "annotated-math",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": [
+        {
+          "id": "A",
+          "latex": "\\begin{bmatrix}8 & 4 & 6 \\\\ 6 & 6 & 8\\end{bmatrix}"
+        }
+      ]
+    },
+    {
+      "id": "image237",
+      "source": "assets/image237.png",
+      "converted": "assets/reconstructions/image237.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image238",
+      "source": "assets/image238.png",
+      "converted": "assets/reconstructions/image238.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image239",
+      "source": "assets/image239.png",
+      "converted": "assets/reconstructions/image239.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image240",
+      "source": "assets/image240.png",
+      "converted": "assets/reconstructions/image240.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image241",
+      "source": "assets/image241.png",
+      "converted": "assets/reconstructions/image241.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image244",
+      "source": "assets/image244.png",
+      "converted": "assets/reconstructions/image244.svg",
+      "category": "annotated_matrix",
+      "kind": "vector-scene",
+      "representation_level": "annotated-math",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": [
+        {
+          "id": "A",
+          "latex": "\\begin{bmatrix}8 & 4 & 6 \\\\ 6 & 6 & 8\\end{bmatrix}"
+        },
+        {
+          "id": "B",
+          "latex": "\\begin{bmatrix}10 & 10 & 0 \\\\ 8 & 6 & 6 \\\\ 0 & 10 & 10\\end{bmatrix}"
+        }
+      ]
+    },
+    {
+      "id": "image248",
+      "source": "assets/image248.png",
+      "converted": "assets/reconstructions/image248.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image249",
+      "source": "assets/image249.png",
+      "converted": "assets/reconstructions/image249.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image250",
+      "source": "assets/image250.png",
+      "converted": "assets/reconstructions/image250.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image251",
+      "source": "assets/image251.png",
+      "converted": "assets/reconstructions/image251.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image252",
+      "source": "assets/image252.png",
+      "converted": "assets/reconstructions/image252.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image253",
+      "source": "assets/image253.png",
+      "converted": "assets/reconstructions/image253.svg",
+      "category": "annotated_matrix",
+      "kind": "vector-scene",
+      "representation_level": "annotated-math",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": [
+        {
+          "id": "A",
+          "latex": "\\begin{bmatrix}8 & 4 & 6 \\\\ 6 & 6 & 8\\end{bmatrix}"
+        },
+        {
+          "id": "B",
+          "latex": "\\begin{bmatrix}10 & 10 & 0 \\\\ 8 & 6 & 6 \\\\ 0 & 10 & 10\\end{bmatrix}"
+        }
+      ]
+    },
+    {
+      "id": "image261",
+      "source": "assets/image261.png",
+      "converted": "assets/reconstructions/image261.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image262",
+      "source": "assets/image262.png",
+      "converted": "assets/reconstructions/image262.svg",
+      "category": "network",
+      "kind": "network-scene",
+      "representation_level": "network",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image268",
+      "source": "assets/image268.png",
+      "converted": "assets/reconstructions/image268.svg",
+      "category": "geometry",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image274",
+      "source": "assets/image274.png",
+      "converted": "assets/reconstructions/image274.svg",
+      "category": "coordinate_plot",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image279",
+      "source": "assets/image279.png",
+      "converted": "assets/reconstructions/image279.svg",
+      "category": "network",
+      "kind": "network-scene",
+      "representation_level": "network",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image291",
+      "source": "assets/image291.png",
+      "converted": "assets/reconstructions/image291.svg",
+      "category": "annotated_matrix",
+      "kind": "vector-scene",
+      "representation_level": "annotated-math",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": [
+        {
+          "id": "reflection",
+          "latex": "\\begin{bmatrix}1 & 0 \\\\ 0 & {}^{-}1\\end{bmatrix}"
+        },
+        {
+          "id": "pre_images",
+          "latex": "\\begin{bmatrix}{}^{-}5 & 4 \\\\ 2 & {}^{-}6\\end{bmatrix}"
+        },
+        {
+          "id": "images",
+          "latex": "\\begin{bmatrix}{}^{-}5 & 4 \\\\ {}^{-}2 & 6\\end{bmatrix}"
+        }
+      ]
+    },
+    {
+      "id": "image297",
+      "source": "assets/image297.png",
+      "converted": "assets/reconstructions/image297.svg",
+      "category": "coordinate_plot",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image307",
+      "source": "assets/image307.png",
+      "converted": "assets/reconstructions/image307.svg",
+      "category": "annotated_matrix",
+      "kind": "vector-scene",
+      "representation_level": "annotated-math",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": [
+        {
+          "id": "left_N",
+          "latex": "\\begin{bmatrix}0 & 1 & 2 & 1 & 0 \\\\ 1 & 0 & 0 & 0 & 0 \\\\ 1 & 0 & 0 & 0 & 1 \\\\ 0 & 1 & 1 & 0 & 0 \\\\ 0 & 0 & 0 & 1 & 0\\end{bmatrix}"
+        },
+        {
+          "id": "right_N",
+          "latex": "\\begin{bmatrix}0 & 1 & 2 & 1 & 0 \\\\ 1 & 0 & 0 & 0 & 0 \\\\ 1 & 0 & 0 & 0 & 1 \\\\ 0 & 1 & 1 & 0 & 0 \\\\ 0 & 0 & 0 & 1 & 0\\end{bmatrix}"
+        }
+      ]
+    },
+    {
+      "id": "image308",
+      "source": "assets/image308.png",
+      "converted": "assets/reconstructions/image308.svg",
+      "category": "network",
+      "kind": "network-scene",
+      "representation_level": "network",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image309",
+      "source": "assets/image309.png",
+      "converted": "assets/reconstructions/image309.svg",
+      "category": "coordinate_plot",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image325",
+      "source": "assets/image325.png",
+      "converted": "assets/reconstructions/image325.svg",
+      "category": "annotated_matrix",
+      "kind": "vector-scene",
+      "representation_level": "annotated-math",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": [
+        {
+          "id": "identity",
+          "latex": "\\begin{bmatrix}1 & 0 \\\\ 0 & 1\\end{bmatrix}"
+        },
+        {
+          "id": "blank_image",
+          "latex": "\\begin{bmatrix}\\phantom{0} & \\phantom{0} \\\\ \\phantom{0} & \\phantom{0}\\end{bmatrix}"
+        },
+        {
+          "id": "equation",
+          "latex": "A\\cdot\\begin{bmatrix}1 & 0 \\\\ 0 & 1\\end{bmatrix}=\\begin{bmatrix}\\phantom{0} & \\phantom{0} \\\\ \\phantom{0} & \\phantom{0}\\end{bmatrix}"
+        }
+      ]
+    },
+    {
+      "id": "image326",
+      "source": "assets/image326.png",
+      "converted": "assets/reconstructions/image326.svg",
+      "category": "annotated_matrix",
+      "kind": "vector-scene",
+      "representation_level": "annotated-math",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": [
+        {
+          "id": "blank_image",
+          "latex": "\\begin{bmatrix}\\phantom{0} & \\phantom{0} \\\\ \\phantom{0} & \\phantom{0}\\end{bmatrix}"
+        }
+      ]
+    },
+    {
+      "id": "image327",
+      "source": "assets/image327.png",
+      "converted": "assets/reconstructions/image327.svg",
+      "category": "coordinate_plot",
+      "kind": "vector-scene",
+      "representation_level": "drawing-primitives",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image329",
+      "source": "assets/image329.png",
+      "converted": "assets/reconstructions/image329.svg",
+      "category": "network",
+      "kind": "network-scene",
+      "representation_level": "network",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": []
+    },
+    {
+      "id": "image333",
+      "source": "assets/image333.png",
+      "converted": "assets/reconstructions/image333.svg",
+      "category": "annotated_matrix",
+      "kind": "vector-scene",
+      "representation_level": "annotated-math",
+      "approximate_trace": false,
+      "review": "needs_review",
+      "math": [
+        {
+          "id": "matrix_3",
+          "latex": "\\begin{bmatrix}0 & 1 \\\\ 1 & 0\\end{bmatrix}"
+        },
+        {
+          "id": "matrix_2",
+          "latex": "\\begin{bmatrix}1 & 0 \\\\ 0 & {}^{-}1\\end{bmatrix}"
+        },
+        {
+          "id": "matrix_1",
+          "latex": "\\begin{bmatrix}0 \\\\ 2\\end{bmatrix}"
+        }
+      ]
+    }
+  ]
+}

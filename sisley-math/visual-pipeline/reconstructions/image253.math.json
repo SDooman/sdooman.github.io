@@ -1,0 +1,10 @@
+[
+  {
+    "id": "A",
+    "latex": "\\begin{bmatrix}8 & 4 & 6 \\\\ 6 & 6 & 8\\end{bmatrix}"
+  },
+  {
+    "id": "B",
+    "latex": "\\begin{bmatrix}10 & 10 & 0 \\\\ 8 & 6 & 6 \\\\ 0 & 10 & 10\\end{bmatrix}"
+  }
+]

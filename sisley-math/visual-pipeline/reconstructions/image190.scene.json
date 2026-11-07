@@ -1,0 +1,363 @@
+{
+  "version": 1,
+  "kind": "vector",
+  "source_asset_id": "image190",
+  "title": "Recovered drawing of GAT image190",
+  "description": "Source vector paths preserved. Drawing positions do not imply exact mathematical coordinates or constraints.",
+  "view_box": [
+    35.0,
+    35.0,
+    78.0,
+    78.0
+  ],
+  "coordinate_meaning": "PDF drawing points, top-left origin; original PDF transforms retained within SVG elements.",
+  "representation_level": "drawing-primitives",
+  "provenance": {
+    "atlas_sha256": "6bdf191a0f1aa38ea91cf928cd7d2ced680cb7271f8d51fbca2f7fa30d645415",
+    "atlas_page": 67,
+    "original_asset_sha256": "8bc753debbc9cc993f1587a3dd9cc3b8a7f4dc8760830feb94de9af6ed27d1b4",
+    "png_sha256": "16a821d6815758572c71cf5989cb95d79d706884b3606e1add89d600bfb581d2",
+    "method": "Poppler SVG extraction from saved vector atlas; exact retained PNG crop"
+  },
+  "elements": [
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(100%, 100%, 100%)",
+        "fill-opacity": "1",
+        "d": "M 36 36 L 112 36 L 112 112 L 36 112 Z M 36 36 ",
+        "id": "primitive-0001"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "2",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 37 755 L 111 755 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0002"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "2",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 111 755 L 111 681 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0003"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "2",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 111 681 L 37 681 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0004"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "2",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 37 681 L 37 755 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0005"
+      }
+    }
+  ],
+  "labels": [],
+  "source_drawing_primitives": [
+    {
+      "id": "drawing-0000",
+      "object_type": "line",
+      "x0": 37.0,
+      "x1": 111.0,
+      "top": 37.0,
+      "bottom": 37.0,
+      "path": [
+        [
+          "m",
+          [
+            37.0,
+            37.0
+          ]
+        ],
+        [
+          "l",
+          [
+            111.0,
+            37.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          37.0,
+          37.0
+        ],
+        [
+          111.0,
+          37.0
+        ]
+      ],
+      "linewidth": 2.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "drawing-0001",
+      "object_type": "line",
+      "x0": 111.0,
+      "x1": 111.0,
+      "top": 37.0,
+      "bottom": 111.0,
+      "path": [
+        [
+          "m",
+          [
+            111.0,
+            37.0
+          ]
+        ],
+        [
+          "l",
+          [
+            111.0,
+            111.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          111.0,
+          37.0
+        ],
+        [
+          111.0,
+          111.0
+        ]
+      ],
+      "linewidth": 2.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "drawing-0002",
+      "object_type": "line",
+      "x0": 37.0,
+      "x1": 111.0,
+      "top": 111.0,
+      "bottom": 111.0,
+      "path": [
+        [
+          "m",
+          [
+            111.0,
+            111.0
+          ]
+        ],
+        [
+          "l",
+          [
+            37.0,
+            111.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          111.0,
+          111.0
+        ],
+        [
+          37.0,
+          111.0
+        ]
+      ],
+      "linewidth": 2.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "drawing-0003",
+      "object_type": "line",
+      "x0": 37.0,
+      "x1": 37.0,
+      "top": 37.0,
+      "bottom": 111.0,
+      "path": [
+        [
+          "m",
+          [
+            37.0,
+            111.0
+          ]
+        ],
+        [
+          "l",
+          [
+            37.0,
+            37.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          37.0,
+          111.0
+        ],
+        [
+          37.0,
+          37.0
+        ]
+      ],
+      "linewidth": 2.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "drawing-0004",
+      "object_type": "rect",
+      "x0": 36.0,
+      "x1": 112.0,
+      "top": 36.0,
+      "bottom": 112.0,
+      "path": [
+        [
+          "m",
+          [
+            36.0,
+            36.0
+          ]
+        ],
+        [
+          "l",
+          [
+            112.0,
+            36.0
+          ]
+        ],
+        [
+          "l",
+          [
+            112.0,
+            112.0
+          ]
+        ],
+        [
+          "l",
+          [
+            36.0,
+            112.0
+          ]
+        ],
+        [
+          "l",
+          [
+            36.0,
+            36.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          36.0,
+          36.0
+        ],
+        [
+          112.0,
+          36.0
+        ],
+        [
+          112.0,
+          112.0
+        ],
+        [
+          36.0,
+          112.0
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "label_review": "Extracted PDF text may contain legacy symbol encodings; SVG glyph outlines preserve the visible labels.",
+  "notes": [],
+  "review": "needs_review"
+}

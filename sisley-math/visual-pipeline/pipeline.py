@@ -12,6 +12,7 @@ import shutil
 from urllib.parse import quote
 
 from scene import render as render_scene, adjacency, validate as validate_scene
+from vector_scene import render as render_vector, validate as validate_vector
 
 HERE = Path(__file__).resolve().parent
 TAXONOMY = json.loads((HERE / 'taxonomy.json').read_text())['categories']
@@ -99,7 +100,7 @@ def validate(catalog, base):
         conv = asset['conversion']
         if conv['status'] not in ('unconverted', 'candidate', 'converted') or conv['review'] not in ('needs_review', 'verified'):
             raise ValueError('Invalid conversion state')
-        if conv['kind'] not in ('image', 'latex', 'network-scene'):
+        if conv['kind'] not in ('image', 'latex', 'network-scene', 'vector-scene'):
             raise ValueError('Converter not implemented; preserve the image and record a proposed target in the taxonomy')
         if conv['status'] == 'unconverted' and (conv['kind'] != 'image' or conv['review'] == 'verified'):
             raise ValueError('Unconverted assets must retain an image and need review')
@@ -107,13 +108,14 @@ def validate(catalog, base):
             raise ValueError('Converted assets need a machine-readable representation')
         if conv['kind'] == 'latex' and (not isinstance(conv.get('latex'), str) or not conv['latex'].strip()):
             raise ValueError('Missing LaTeX string')
-        if conv['kind'] == 'network-scene':
+        if conv['kind'] in ('network-scene','vector-scene'):
             scene = read(local(base, conv['path']))
-            validate_scene(scene)
+            (validate_scene if conv['kind']=='network-scene' else validate_vector)(scene)
             if scene.get('source_asset_id', asset['id']) != asset['id']:
                 raise ValueError('Scene references a different source asset')
-            if local(base, conv['preview']).read_text() != render_scene(scene):
-                raise ValueError('Scene preview is stale; rerun render-network')
+            expected = (render_scene if conv['kind']=='network-scene' else render_vector)(scene)
+            if local(base, conv['preview']).read_text() != expected:
+                raise ValueError('Scene preview is stale; rerun the corresponding renderer')
         if conv['review'] == 'verified' and not conv.get('review_evidence'):
             raise ValueError('Verified conversions need review evidence')
     placement_ids = [p['id'] for p in catalog['placements']]
@@ -353,6 +355,14 @@ def render(args):
         write(args.adjacency, adjacency(scene))
 
 
+def render_vector_command(args):
+    from vector_scene import latex_records
+    scene = read(args.scene)
+    Path(args.output).write_text(render_vector(scene))
+    if args.math:
+        write(args.math, latex_records(scene))
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     commands = parser.add_subparsers(dest='command', required=True)
@@ -370,6 +380,8 @@ def main():
     p.add_argument('catalog'); p.set_defaults(run=lambda a: print(json.dumps(validate(read(a.catalog), Path(a.catalog).resolve().parent))))
     p = commands.add_parser('render-network', help='Render a directed multigraph scene to SVG and adjacency data')
     p.add_argument('scene'); p.add_argument('output'); p.add_argument('--adjacency'); p.set_defaults(run=render)
+    p = commands.add_parser('render-vector', help='Render an editable vector scene; optionally export its structured math')
+    p.add_argument('scene'); p.add_argument('output'); p.add_argument('--math'); p.set_defaults(run=render_vector_command)
     args = parser.parse_args()
     if getattr(args, 'dpi', 144) < 36 or getattr(args, 'dpi', 144) > 600:
         parser.error('DPI must be between 36 and 600')

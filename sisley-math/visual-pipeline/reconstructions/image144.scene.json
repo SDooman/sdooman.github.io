@@ -1,0 +1,3370 @@
+{
+  "version": 1,
+  "kind": "vector",
+  "source_asset_id": "image144",
+  "title": "Recovered drawing of GAT image144",
+  "description": "Source vector paths preserved. Drawing positions do not imply exact mathematical coordinates or constraints.",
+  "view_box": [
+    35.0,
+    35.0,
+    53.33333333333333,
+    60.0
+  ],
+  "coordinate_meaning": "PDF drawing points, top-left origin; original PDF transforms retained within SVG elements.",
+  "representation_level": "drawing-primitives",
+  "provenance": {
+    "atlas_sha256": "6bdf191a0f1aa38ea91cf928cd7d2ced680cb7271f8d51fbca2f7fa30d645415",
+    "atlas_page": 37,
+    "original_asset_sha256": "b6b8f7347790b69f7453a5f8b043a554217022a51fcfd4289352eb31f20126a6",
+    "png_sha256": "b7b05dac169468414c7857eca49d21ea0cbb990c0a29368998c82c688595af46",
+    "method": "Poppler SVG extraction from saved vector atlas; exact retained PNG crop"
+  },
+  "elements": [
+    {
+      "tag": "defs",
+      "attributes": {
+        "id": "primitive-0001"
+      },
+      "children": [
+        {
+          "tag": "g",
+          "attributes": {
+            "id": "primitive-0002"
+          },
+          "children": [
+            {
+              "tag": "g",
+              "attributes": {
+                "id": "glyph-0-0"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attributes": {
+                    "d": "M 0.1875 -1.40625 C 0.1875 -1.445312 0.195312 -1.492188 0.21875 -1.546875 C 0.25 -1.597656 0.285156 -1.644531 0.328125 -1.6875 C 0.367188 -1.726562 0.425781 -1.757812 0.5 -1.78125 C 0.570312 -1.8125 0.644531 -1.828125 0.71875 -1.828125 C 0.78125 -1.828125 0.84375 -1.816406 0.90625 -1.796875 C 0.96875 -1.785156 1.019531 -1.757812 1.0625 -1.71875 C 1.113281 -1.6875 1.15625 -1.640625 1.1875 -1.578125 C 1.21875 -1.515625 1.234375 -1.445312 1.234375 -1.375 C 1.234375 -1.320312 1.222656 -1.269531 1.203125 -1.21875 C 1.191406 -1.175781 1.171875 -1.128906 1.140625 -1.078125 C 1.109375 -1.035156 1.078125 -1 1.046875 -0.96875 C 1.023438 -0.9375 0.988281 -0.894531 0.9375 -0.84375 L 0.625 -0.5625 L 0.578125 -0.515625 C 0.566406 -0.492188 0.546875 -0.460938 0.515625 -0.421875 C 0.484375 -0.390625 0.457031 -0.351562 0.4375 -0.3125 C 0.414062 -0.269531 0.40625 -0.226562 0.40625 -0.1875 L 0.9375 -0.1875 C 0.988281 -0.1875 1.03125 -0.207031 1.0625 -0.25 C 1.09375 -0.300781 1.125 -0.378906 1.15625 -0.484375 C 1.164062 -0.484375 1.175781 -0.484375 1.1875 -0.484375 C 1.207031 -0.484375 1.222656 -0.476562 1.234375 -0.46875 C 1.234375 -0.414062 1.222656 -0.34375 1.203125 -0.25 C 1.191406 -0.15625 1.179688 -0.0703125 1.171875 0 C 1.078125 0 1 0 0.9375 0 L 0.15625 0 C 0.15625 -0.09375 0.175781 -0.179688 0.21875 -0.265625 C 0.269531 -0.359375 0.363281 -0.472656 0.5 -0.609375 L 0.71875 -0.828125 C 0.800781 -0.921875 0.863281 -1.007812 0.90625 -1.09375 C 0.945312 -1.175781 0.96875 -1.265625 0.96875 -1.359375 C 0.96875 -1.429688 0.957031 -1.488281 0.9375 -1.53125 C 0.925781 -1.582031 0.90625 -1.617188 0.875 -1.640625 C 0.84375 -1.671875 0.8125 -1.691406 0.78125 -1.703125 C 0.757812 -1.710938 0.734375 -1.71875 0.703125 -1.71875 C 0.609375 -1.71875 0.535156 -1.695312 0.484375 -1.65625 C 0.429688 -1.625 0.40625 -1.585938 0.40625 -1.546875 C 0.40625 -1.535156 0.410156 -1.519531 0.421875 -1.5 C 0.429688 -1.476562 0.4375 -1.46875 0.4375 -1.46875 C 0.4375 -1.445312 0.4375 -1.425781 0.4375 -1.40625 C 0.4375 -1.375 0.421875 -1.34375 0.390625 -1.3125 C 0.359375 -1.289062 0.328125 -1.28125 0.296875 -1.28125 C 0.265625 -1.28125 0.238281 -1.289062 0.21875 -1.3125 C 0.195312 -1.34375 0.1875 -1.375 0.1875 -1.40625 Z M 0.1875 -1.40625 ",
+                    "id": "primitive-0004"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "g",
+              "attributes": {
+                "id": "glyph-0-1"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attributes": {
+                    "d": "M 0.8125 -1.515625 C 0.65625 -1.304688 0.460938 -1.019531 0.234375 -0.65625 L 0.8125 -0.65625 Z M 1.296875 -0.65625 C 1.316406 -0.65625 1.328125 -0.640625 1.328125 -0.609375 C 1.328125 -0.585938 1.316406 -0.566406 1.296875 -0.546875 C 1.285156 -0.523438 1.269531 -0.515625 1.25 -0.515625 L 1.046875 -0.515625 L 1.046875 -0.234375 C 1.046875 -0.203125 1.046875 -0.175781 1.046875 -0.15625 C 1.054688 -0.144531 1.066406 -0.132812 1.078125 -0.125 C 1.097656 -0.113281 1.117188 -0.101562 1.140625 -0.09375 C 1.160156 -0.09375 1.1875 -0.09375 1.21875 -0.09375 C 1.238281 -0.09375 1.25 -0.09375 1.25 -0.09375 C 1.257812 -0.0820312 1.265625 -0.0625 1.265625 -0.03125 C 1.265625 -0.0078125 1.257812 0 1.25 0 C 1.125 0 1.015625 0 0.921875 0 C 0.816406 0 0.695312 0 0.5625 0 C 0.5625 0 0.5625 -0.0078125 0.5625 -0.03125 C 0.5625 -0.0625 0.5625 -0.0820312 0.5625 -0.09375 C 0.65625 -0.09375 0.71875 -0.101562 0.75 -0.125 C 0.789062 -0.144531 0.8125 -0.179688 0.8125 -0.234375 L 0.8125 -0.515625 L 0.203125 -0.515625 C 0.140625 -0.515625 0.0976562 -0.554688 0.078125 -0.640625 C 0.210938 -0.847656 0.359375 -1.0625 0.515625 -1.28125 C 0.671875 -1.507812 0.796875 -1.679688 0.890625 -1.796875 C 0.910156 -1.816406 0.925781 -1.828125 0.9375 -1.828125 L 1.046875 -1.828125 C 1.046875 -1.804688 1.046875 -1.707031 1.046875 -1.53125 L 1.046875 -0.65625 Z M 1.296875 -0.65625 ",
+                    "id": "primitive-0006"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "g",
+              "attributes": {
+                "id": "glyph-0-2"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attributes": {
+                    "d": "M 0.703125 -1.71875 C 0.671875 -1.71875 0.640625 -1.710938 0.609375 -1.703125 C 0.578125 -1.691406 0.546875 -1.664062 0.515625 -1.625 C 0.492188 -1.59375 0.472656 -1.546875 0.453125 -1.484375 C 0.429688 -1.421875 0.410156 -1.332031 0.390625 -1.21875 C 0.378906 -1.113281 0.375 -0.988281 0.375 -0.84375 C 0.375 -0.789062 0.375 -0.738281 0.375 -0.6875 C 0.382812 -0.644531 0.390625 -0.59375 0.390625 -0.53125 C 0.398438 -0.46875 0.410156 -0.410156 0.421875 -0.359375 C 0.441406 -0.304688 0.460938 -0.257812 0.484375 -0.21875 C 0.503906 -0.175781 0.53125 -0.140625 0.5625 -0.109375 C 0.601562 -0.0859375 0.644531 -0.078125 0.6875 -0.078125 C 0.695312 -0.078125 0.707031 -0.078125 0.71875 -0.078125 C 0.738281 -0.078125 0.757812 -0.0820312 0.78125 -0.09375 C 0.800781 -0.113281 0.820312 -0.128906 0.84375 -0.140625 C 0.863281 -0.160156 0.882812 -0.1875 0.90625 -0.21875 C 0.925781 -0.257812 0.941406 -0.300781 0.953125 -0.34375 C 0.984375 -0.476562 1 -0.6875 1 -0.96875 C 1 -1.15625 0.984375 -1.304688 0.953125 -1.421875 C 0.921875 -1.546875 0.878906 -1.628906 0.828125 -1.671875 C 0.796875 -1.703125 0.753906 -1.71875 0.703125 -1.71875 Z M 0.6875 0.03125 C 0.5625 0.03125 0.457031 -0.0078125 0.375 -0.09375 C 0.289062 -0.175781 0.226562 -0.285156 0.1875 -0.421875 C 0.144531 -0.566406 0.125 -0.71875 0.125 -0.875 C 0.125 -1 0.132812 -1.109375 0.15625 -1.203125 C 0.175781 -1.304688 0.203125 -1.394531 0.234375 -1.46875 C 0.273438 -1.539062 0.316406 -1.601562 0.359375 -1.65625 C 0.410156 -1.71875 0.460938 -1.757812 0.515625 -1.78125 C 0.578125 -1.8125 0.640625 -1.828125 0.703125 -1.828125 C 0.847656 -1.828125 0.96875 -1.765625 1.0625 -1.640625 C 1.195312 -1.453125 1.265625 -1.207031 1.265625 -0.90625 C 1.265625 -0.769531 1.25 -0.644531 1.21875 -0.53125 C 1.195312 -0.425781 1.164062 -0.335938 1.125 -0.265625 C 1.082031 -0.203125 1.035156 -0.144531 0.984375 -0.09375 C 0.929688 -0.0507812 0.878906 -0.0195312 0.828125 0 C 0.773438 0.0195312 0.726562 0.03125 0.6875 0.03125 Z M 0.6875 0.03125 ",
+                    "id": "primitive-0008"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "g",
+              "attributes": {
+                "id": "glyph-1-0"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attributes": {
+                    "d": "M 0.109375 -0.515625 C 0.109375 -0.679688 0.148438 -0.816406 0.234375 -0.921875 C 0.335938 -1.035156 0.46875 -1.09375 0.625 -1.09375 C 0.707031 -1.09375 0.773438 -1.082031 0.828125 -1.0625 C 0.890625 -1.039062 0.941406 -1.007812 0.984375 -0.96875 C 1.023438 -0.9375 1.054688 -0.894531 1.078125 -0.84375 C 1.109375 -0.789062 1.128906 -0.738281 1.140625 -0.6875 C 1.148438 -0.632812 1.15625 -0.582031 1.15625 -0.53125 C 1.15625 -0.445312 1.140625 -0.367188 1.109375 -0.296875 C 1.085938 -0.222656 1.050781 -0.160156 1 -0.109375 C 0.90625 -0.015625 0.78125 0.03125 0.625 0.03125 C 0.5625 0.03125 0.5 0.0195312 0.4375 0 C 0.375 -0.0195312 0.320312 -0.046875 0.28125 -0.078125 C 0.25 -0.117188 0.21875 -0.160156 0.1875 -0.203125 C 0.15625 -0.253906 0.132812 -0.304688 0.125 -0.359375 C 0.113281 -0.410156 0.109375 -0.460938 0.109375 -0.515625 Z M 0.59375 -1.015625 C 0.40625 -1.015625 0.3125 -0.863281 0.3125 -0.5625 C 0.3125 -0.507812 0.316406 -0.457031 0.328125 -0.40625 C 0.347656 -0.351562 0.367188 -0.300781 0.390625 -0.25 C 0.421875 -0.195312 0.457031 -0.148438 0.5 -0.109375 C 0.550781 -0.078125 0.601562 -0.0625 0.65625 -0.0625 C 0.695312 -0.0625 0.726562 -0.0664062 0.75 -0.078125 C 0.78125 -0.0859375 0.8125 -0.109375 0.84375 -0.140625 C 0.875 -0.171875 0.894531 -0.210938 0.90625 -0.265625 C 0.925781 -0.316406 0.9375 -0.378906 0.9375 -0.453125 C 0.9375 -0.628906 0.90625 -0.765625 0.84375 -0.859375 C 0.789062 -0.960938 0.707031 -1.015625 0.59375 -1.015625 Z M 0.59375 -1.015625 ",
+                    "id": "primitive-0010"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-0"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 58 91 L 64 91 L 64 94 L 58 94 Z M 58 91 ",
+                "id": "primitive-0012"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-1"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 60 91 L 67 91 L 67 94 L 60 94 Z M 60 91 ",
+                "id": "primitive-0014"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-2"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 63 90 L 70 90 L 70 94 L 63 94 Z M 63 90 ",
+                "id": "primitive-0016"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-3"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 83 72 L 87.5 72 L 87.5 78 L 83 78 Z M 83 72 ",
+                "id": "primitive-0018"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-4"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 84 69 L 87.5 69 L 87.5 76 L 84 76 Z M 84 69 ",
+                "id": "primitive-0020"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-5"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 84 67 L 87.5 67 L 87.5 73 L 84 73 Z M 84 67 ",
+                "id": "primitive-0022"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-6"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 85 64 L 87.5 64 L 87.5 71 L 85 71 Z M 85 64 ",
+                "id": "primitive-0024"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-7"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 86 65 L 87.5 65 L 87.5 67 L 86 67 Z M 86 65 ",
+                "id": "primitive-0026"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-8"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 85 61 L 87.5 61 L 87.5 68 L 85 68 Z M 85 61 ",
+                "id": "primitive-0028"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-9"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 84 59 L 87.5 59 L 87.5 65 L 84 65 Z M 84 59 ",
+                "id": "primitive-0030"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-10"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 84 56 L 87.5 56 L 87.5 62 L 84 62 Z M 84 56 ",
+                "id": "primitive-0032"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-11"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 83 53 L 87.5 53 L 87.5 60 L 83 60 Z M 83 53 ",
+                "id": "primitive-0034"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 60 92.75 L 59 92.75 L 59 93.75 L 60 93.75 Z M 60 92.75 ",
+        "id": "primitive-0035"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 60 92.75 L 59 92.75 L 59 93.75 L 60 93.75 Z M 60 92.75 ",
+        "id": "primitive-0036"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 60 92.75 L 59 92.75 L 59 93.75 L 60 93.75 Z M 60 92.75 ",
+        "id": "primitive-0037"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 60 92.75 L 59 92.75 L 59 93.75 L 60 93.75 Z M 60 92.75 ",
+        "id": "primitive-0038"
+      }
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-0)",
+        "id": "primitive-0039"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill": "none",
+            "stroke-width": "1",
+            "stroke-linecap": "butt",
+            "stroke-linejoin": "miter",
+            "stroke": "rgb(0%, 0%, 0%)",
+            "stroke-opacity": "1",
+            "stroke-miterlimit": "1",
+            "d": "M 59.5 698.75 L 62.25 699 ",
+            "transform": "matrix(1, 0, 0, -1, 0, 792)",
+            "id": "primitive-0040"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-1)",
+        "id": "primitive-0041"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill": "none",
+            "stroke-width": "1",
+            "stroke-linecap": "butt",
+            "stroke-linejoin": "miter",
+            "stroke": "rgb(0%, 0%, 0%)",
+            "stroke-opacity": "1",
+            "stroke-miterlimit": "1",
+            "d": "M 62.25 699 L 65 699.25 ",
+            "transform": "matrix(1, 0, 0, -1, 0, 792)",
+            "id": "primitive-0042"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-2)",
+        "id": "primitive-0043"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill": "none",
+            "stroke-width": "1",
+            "stroke-linecap": "butt",
+            "stroke-linejoin": "miter",
+            "stroke": "rgb(0%, 0%, 0%)",
+            "stroke-opacity": "1",
+            "stroke-miterlimit": "1",
+            "d": "M 65 699.25 L 67.75 700 ",
+            "transform": "matrix(1, 0, 0, -1, 0, 792)",
+            "id": "primitive-0044"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 67.75 700 L 70.25 701 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0045"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 70.25 701 L 72.5 702 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0046"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 72.5 702 L 74.75 703.5 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0047"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 74.75 703.5 L 77 705 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0048"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 77 705 L 78.75 706.75 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0049"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 78.75 706.75 L 80.5 708.75 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0050"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 80.5 708.75 L 82.25 711 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0051"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 82.25 711 L 83.5 713.25 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0052"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 83.5 713.25 L 84.75 715.5 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0053"
+      }
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-3)",
+        "id": "primitive-0054"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill": "none",
+            "stroke-width": "1",
+            "stroke-linecap": "butt",
+            "stroke-linejoin": "miter",
+            "stroke": "rgb(0%, 0%, 0%)",
+            "stroke-opacity": "1",
+            "stroke-miterlimit": "1",
+            "d": "M 84.75 715.5 L 85.75 718 ",
+            "transform": "matrix(1, 0, 0, -1, 0, 792)",
+            "id": "primitive-0055"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-4)",
+        "id": "primitive-0056"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill": "none",
+            "stroke-width": "1",
+            "stroke-linecap": "butt",
+            "stroke-linejoin": "miter",
+            "stroke": "rgb(0%, 0%, 0%)",
+            "stroke-opacity": "1",
+            "stroke-miterlimit": "1",
+            "d": "M 85.75 718 L 86.25 720.75 ",
+            "transform": "matrix(1, 0, 0, -1, 0, 792)",
+            "id": "primitive-0057"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-5)",
+        "id": "primitive-0058"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill": "none",
+            "stroke-width": "1",
+            "stroke-linecap": "butt",
+            "stroke-linejoin": "miter",
+            "stroke": "rgb(0%, 0%, 0%)",
+            "stroke-opacity": "1",
+            "stroke-miterlimit": "1",
+            "d": "M 86.25 720.75 L 86.75 723.25 ",
+            "transform": "matrix(1, 0, 0, -1, 0, 792)",
+            "id": "primitive-0059"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-6)",
+        "id": "primitive-0060"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill": "none",
+            "stroke-width": "1",
+            "stroke-linecap": "butt",
+            "stroke-linejoin": "miter",
+            "stroke": "rgb(0%, 0%, 0%)",
+            "stroke-opacity": "1",
+            "stroke-miterlimit": "1",
+            "d": "M 86.75 723.25 L 87 726.25 ",
+            "transform": "matrix(1, 0, 0, -1, 0, 792)",
+            "id": "primitive-0061"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-7)",
+        "id": "primitive-0062"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill-rule": "evenodd",
+            "fill": "rgb(0%, 0%, 0%)",
+            "fill-opacity": "1",
+            "d": "M 87.5 65.25 L 86.5 65.25 L 86.5 66.25 L 87.5 66.25 Z M 87.5 65.25 ",
+            "id": "primitive-0063"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-8)",
+        "id": "primitive-0064"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill": "none",
+            "stroke-width": "1",
+            "stroke-linecap": "butt",
+            "stroke-linejoin": "miter",
+            "stroke": "rgb(0%, 0%, 0%)",
+            "stroke-opacity": "1",
+            "stroke-miterlimit": "1",
+            "d": "M 87 726.25 L 86.75 729 ",
+            "transform": "matrix(1, 0, 0, -1, 0, 792)",
+            "id": "primitive-0065"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-9)",
+        "id": "primitive-0066"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill": "none",
+            "stroke-width": "1",
+            "stroke-linecap": "butt",
+            "stroke-linejoin": "miter",
+            "stroke": "rgb(0%, 0%, 0%)",
+            "stroke-opacity": "1",
+            "stroke-miterlimit": "1",
+            "d": "M 86.75 729 L 86.25 731.5 ",
+            "transform": "matrix(1, 0, 0, -1, 0, 792)",
+            "id": "primitive-0067"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-10)",
+        "id": "primitive-0068"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill": "none",
+            "stroke-width": "1",
+            "stroke-linecap": "butt",
+            "stroke-linejoin": "miter",
+            "stroke": "rgb(0%, 0%, 0%)",
+            "stroke-opacity": "1",
+            "stroke-miterlimit": "1",
+            "d": "M 86.25 731.5 L 85.75 734.25 ",
+            "transform": "matrix(1, 0, 0, -1, 0, 792)",
+            "id": "primitive-0069"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-11)",
+        "id": "primitive-0070"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill": "none",
+            "stroke-width": "1",
+            "stroke-linecap": "butt",
+            "stroke-linejoin": "miter",
+            "stroke": "rgb(0%, 0%, 0%)",
+            "stroke-opacity": "1",
+            "stroke-miterlimit": "1",
+            "d": "M 85.75 734.25 L 84.75 736.75 ",
+            "transform": "matrix(1, 0, 0, -1, 0, 792)",
+            "id": "primitive-0071"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 84.75 736.75 L 83.5 739.25 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0072"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 83.5 739.25 L 82.25 741.5 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0073"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 82.25 741.5 L 80.5 743.5 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0074"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 80.5 743.5 L 78.75 745.5 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0075"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 78.75 745.5 L 77 747.25 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0076"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 77 747.25 L 74.75 748.75 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0077"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 74.75 748.75 L 72.5 750.25 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0078"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 72.5 750.25 L 70.25 751.25 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0079"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 70.25 751.25 L 67.75 752.25 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0080"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 67.75 752.25 L 65 753 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0081"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 65 753 L 62.25 753.25 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0082"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 62.25 753.25 L 59.5 753.5 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0083"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 60 38 L 59 38 L 59 39 L 60 39 Z M 60 38 ",
+        "id": "primitive-0084"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 59.5 753.5 L 56.25 753.25 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0085"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 56.25 753.25 L 53 752.75 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0086"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 53 752.75 L 50 751.75 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0087"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 50 751.75 L 47 749.5 ",
+        "transform": "matrix(1, 0, 0, -1, 0, 792)",
+        "id": "primitive-0088"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 44 39.75 C 45.5 40.75 47.101562 41.949219 48 43.75 C 48.351562 44.449219 48.75 45.25 49 46.25 L 37.5 49.75 Z M 44 39.75 ",
+        "id": "primitive-0089"
+      }
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "id": "primitive-0090"
+      },
+      "children": [
+        {
+          "tag": "use",
+          "attributes": {
+            "{http://www.w3.org/1999/xlink}href": "#glyph-0-0",
+            "x": "46",
+            "y": "75",
+            "id": "primitive-0091"
+          }
+        },
+        {
+          "tag": "use",
+          "attributes": {
+            "{http://www.w3.org/1999/xlink}href": "#glyph-0-1",
+            "x": "47.392",
+            "y": "75",
+            "id": "primitive-0092"
+          }
+        },
+        {
+          "tag": "use",
+          "attributes": {
+            "{http://www.w3.org/1999/xlink}href": "#glyph-0-2",
+            "x": "48.784",
+            "y": "75",
+            "id": "primitive-0093"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "id": "primitive-0094"
+      },
+      "children": [
+        {
+          "tag": "use",
+          "attributes": {
+            "{http://www.w3.org/1999/xlink}href": "#glyph-1-0",
+            "x": "65",
+            "y": "69",
+            "id": "primitive-0095"
+          }
+        }
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "label-0000",
+      "text": "2",
+      "bbox_pt": [
+        46.0,
+        72.73800000000006,
+        47.392,
+        75.73800000000006
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 3.0
+    },
+    {
+      "id": "label-0001",
+      "text": "4",
+      "bbox_pt": [
+        47.392,
+        72.73800000000006,
+        48.784000000000006,
+        75.73800000000006
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 3.0
+    },
+    {
+      "id": "label-0002",
+      "text": "0",
+      "bbox_pt": [
+        48.784,
+        72.73800000000006,
+        50.176,
+        75.73800000000006
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 3.0
+    },
+    {
+      "id": "label-0003",
+      "text": "o",
+      "bbox_pt": [
+        65.0,
+        67.11500000000001,
+        66.2575,
+        69.61500000000001
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 2.5
+    }
+  ],
+  "source_drawing_primitives": [
+    {
+      "id": "drawing-0000",
+      "object_type": "line",
+      "x0": 59.5,
+      "x1": 62.25,
+      "top": 93.0,
+      "bottom": 93.25,
+      "path": [
+        [
+          "m",
+          [
+            59.5,
+            93.25
+          ]
+        ],
+        [
+          "l",
+          [
+            62.25,
+            93.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          59.5,
+          93.25
+        ],
+        [
+          62.25,
+          93.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0001",
+      "object_type": "line",
+      "x0": 62.25,
+      "x1": 65.0,
+      "top": 92.75,
+      "bottom": 93.0,
+      "path": [
+        [
+          "m",
+          [
+            62.25,
+            93.0
+          ]
+        ],
+        [
+          "l",
+          [
+            65.0,
+            92.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          62.25,
+          93.0
+        ],
+        [
+          65.0,
+          92.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0002",
+      "object_type": "line",
+      "x0": 65.0,
+      "x1": 67.75,
+      "top": 92.0,
+      "bottom": 92.75,
+      "path": [
+        [
+          "m",
+          [
+            65.0,
+            92.75
+          ]
+        ],
+        [
+          "l",
+          [
+            67.75,
+            92.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          65.0,
+          92.75
+        ],
+        [
+          67.75,
+          92.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0003",
+      "object_type": "line",
+      "x0": 67.75,
+      "x1": 70.25,
+      "top": 91.0,
+      "bottom": 92.0,
+      "path": [
+        [
+          "m",
+          [
+            67.75,
+            92.0
+          ]
+        ],
+        [
+          "l",
+          [
+            70.25,
+            91.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          67.75,
+          92.0
+        ],
+        [
+          70.25,
+          91.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0004",
+      "object_type": "line",
+      "x0": 70.25,
+      "x1": 72.5,
+      "top": 90.0,
+      "bottom": 91.0,
+      "path": [
+        [
+          "m",
+          [
+            70.25,
+            91.0
+          ]
+        ],
+        [
+          "l",
+          [
+            72.5,
+            90.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          70.25,
+          91.0
+        ],
+        [
+          72.5,
+          90.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0005",
+      "object_type": "line",
+      "x0": 72.5,
+      "x1": 74.75,
+      "top": 88.5,
+      "bottom": 90.0,
+      "path": [
+        [
+          "m",
+          [
+            72.5,
+            90.0
+          ]
+        ],
+        [
+          "l",
+          [
+            74.75,
+            88.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          72.5,
+          90.0
+        ],
+        [
+          74.75,
+          88.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0006",
+      "object_type": "line",
+      "x0": 74.75,
+      "x1": 77.0,
+      "top": 87.0,
+      "bottom": 88.5,
+      "path": [
+        [
+          "m",
+          [
+            74.75,
+            88.5
+          ]
+        ],
+        [
+          "l",
+          [
+            77.0,
+            87.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          74.75,
+          88.5
+        ],
+        [
+          77.0,
+          87.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0007",
+      "object_type": "line",
+      "x0": 77.0,
+      "x1": 78.75,
+      "top": 85.25,
+      "bottom": 87.0,
+      "path": [
+        [
+          "m",
+          [
+            77.0,
+            87.0
+          ]
+        ],
+        [
+          "l",
+          [
+            78.75,
+            85.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          77.0,
+          87.0
+        ],
+        [
+          78.75,
+          85.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0008",
+      "object_type": "line",
+      "x0": 78.75,
+      "x1": 80.5,
+      "top": 83.25,
+      "bottom": 85.25,
+      "path": [
+        [
+          "m",
+          [
+            78.75,
+            85.25
+          ]
+        ],
+        [
+          "l",
+          [
+            80.5,
+            83.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          78.75,
+          85.25
+        ],
+        [
+          80.5,
+          83.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0009",
+      "object_type": "line",
+      "x0": 80.5,
+      "x1": 82.25,
+      "top": 81.0,
+      "bottom": 83.25,
+      "path": [
+        [
+          "m",
+          [
+            80.5,
+            83.25
+          ]
+        ],
+        [
+          "l",
+          [
+            82.25,
+            81.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          80.5,
+          83.25
+        ],
+        [
+          82.25,
+          81.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0010",
+      "object_type": "line",
+      "x0": 82.25,
+      "x1": 83.5,
+      "top": 78.75,
+      "bottom": 81.0,
+      "path": [
+        [
+          "m",
+          [
+            82.25,
+            81.0
+          ]
+        ],
+        [
+          "l",
+          [
+            83.5,
+            78.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          82.25,
+          81.0
+        ],
+        [
+          83.5,
+          78.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0011",
+      "object_type": "line",
+      "x0": 83.5,
+      "x1": 84.75,
+      "top": 76.5,
+      "bottom": 78.75,
+      "path": [
+        [
+          "m",
+          [
+            83.5,
+            78.75
+          ]
+        ],
+        [
+          "l",
+          [
+            84.75,
+            76.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          83.5,
+          78.75
+        ],
+        [
+          84.75,
+          76.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0012",
+      "object_type": "line",
+      "x0": 84.75,
+      "x1": 85.75,
+      "top": 74.0,
+      "bottom": 76.5,
+      "path": [
+        [
+          "m",
+          [
+            84.75,
+            76.5
+          ]
+        ],
+        [
+          "l",
+          [
+            85.75,
+            74.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          84.75,
+          76.5
+        ],
+        [
+          85.75,
+          74.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0013",
+      "object_type": "line",
+      "x0": 85.75,
+      "x1": 86.25,
+      "top": 71.25,
+      "bottom": 74.0,
+      "path": [
+        [
+          "m",
+          [
+            85.75,
+            74.0
+          ]
+        ],
+        [
+          "l",
+          [
+            86.25,
+            71.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          85.75,
+          74.0
+        ],
+        [
+          86.25,
+          71.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0014",
+      "object_type": "line",
+      "x0": 86.25,
+      "x1": 86.75,
+      "top": 68.75,
+      "bottom": 71.25,
+      "path": [
+        [
+          "m",
+          [
+            86.25,
+            71.25
+          ]
+        ],
+        [
+          "l",
+          [
+            86.75,
+            68.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          86.25,
+          71.25
+        ],
+        [
+          86.75,
+          68.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0015",
+      "object_type": "line",
+      "x0": 86.75,
+      "x1": 87.0,
+      "top": 65.75,
+      "bottom": 68.75,
+      "path": [
+        [
+          "m",
+          [
+            86.75,
+            68.75
+          ]
+        ],
+        [
+          "l",
+          [
+            87.0,
+            65.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          86.75,
+          68.75
+        ],
+        [
+          87.0,
+          65.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0016",
+      "object_type": "line",
+      "x0": 86.75,
+      "x1": 87.0,
+      "top": 63.0,
+      "bottom": 65.75,
+      "path": [
+        [
+          "m",
+          [
+            87.0,
+            65.75
+          ]
+        ],
+        [
+          "l",
+          [
+            86.75,
+            63.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          87.0,
+          65.75
+        ],
+        [
+          86.75,
+          63.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0017",
+      "object_type": "line",
+      "x0": 86.25,
+      "x1": 86.75,
+      "top": 60.5,
+      "bottom": 63.0,
+      "path": [
+        [
+          "m",
+          [
+            86.75,
+            63.0
+          ]
+        ],
+        [
+          "l",
+          [
+            86.25,
+            60.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          86.75,
+          63.0
+        ],
+        [
+          86.25,
+          60.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0018",
+      "object_type": "line",
+      "x0": 85.75,
+      "x1": 86.25,
+      "top": 57.75,
+      "bottom": 60.5,
+      "path": [
+        [
+          "m",
+          [
+            86.25,
+            60.5
+          ]
+        ],
+        [
+          "l",
+          [
+            85.75,
+            57.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          86.25,
+          60.5
+        ],
+        [
+          85.75,
+          57.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0019",
+      "object_type": "line",
+      "x0": 84.75,
+      "x1": 85.75,
+      "top": 55.25,
+      "bottom": 57.75,
+      "path": [
+        [
+          "m",
+          [
+            85.75,
+            57.75
+          ]
+        ],
+        [
+          "l",
+          [
+            84.75,
+            55.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          85.75,
+          57.75
+        ],
+        [
+          84.75,
+          55.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0020",
+      "object_type": "line",
+      "x0": 83.5,
+      "x1": 84.75,
+      "top": 52.75,
+      "bottom": 55.25,
+      "path": [
+        [
+          "m",
+          [
+            84.75,
+            55.25
+          ]
+        ],
+        [
+          "l",
+          [
+            83.5,
+            52.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          84.75,
+          55.25
+        ],
+        [
+          83.5,
+          52.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0021",
+      "object_type": "line",
+      "x0": 82.25,
+      "x1": 83.5,
+      "top": 50.5,
+      "bottom": 52.75,
+      "path": [
+        [
+          "m",
+          [
+            83.5,
+            52.75
+          ]
+        ],
+        [
+          "l",
+          [
+            82.25,
+            50.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          83.5,
+          52.75
+        ],
+        [
+          82.25,
+          50.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0022",
+      "object_type": "line",
+      "x0": 80.5,
+      "x1": 82.25,
+      "top": 48.5,
+      "bottom": 50.5,
+      "path": [
+        [
+          "m",
+          [
+            82.25,
+            50.5
+          ]
+        ],
+        [
+          "l",
+          [
+            80.5,
+            48.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          82.25,
+          50.5
+        ],
+        [
+          80.5,
+          48.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0023",
+      "object_type": "line",
+      "x0": 78.75,
+      "x1": 80.5,
+      "top": 46.5,
+      "bottom": 48.5,
+      "path": [
+        [
+          "m",
+          [
+            80.5,
+            48.5
+          ]
+        ],
+        [
+          "l",
+          [
+            78.75,
+            46.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          80.5,
+          48.5
+        ],
+        [
+          78.75,
+          46.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0024",
+      "object_type": "line",
+      "x0": 77.0,
+      "x1": 78.75,
+      "top": 44.75,
+      "bottom": 46.5,
+      "path": [
+        [
+          "m",
+          [
+            78.75,
+            46.5
+          ]
+        ],
+        [
+          "l",
+          [
+            77.0,
+            44.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          78.75,
+          46.5
+        ],
+        [
+          77.0,
+          44.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0025",
+      "object_type": "line",
+      "x0": 74.75,
+      "x1": 77.0,
+      "top": 43.25,
+      "bottom": 44.75,
+      "path": [
+        [
+          "m",
+          [
+            77.0,
+            44.75
+          ]
+        ],
+        [
+          "l",
+          [
+            74.75,
+            43.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          77.0,
+          44.75
+        ],
+        [
+          74.75,
+          43.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0026",
+      "object_type": "line",
+      "x0": 72.5,
+      "x1": 74.75,
+      "top": 41.75,
+      "bottom": 43.25,
+      "path": [
+        [
+          "m",
+          [
+            74.75,
+            43.25
+          ]
+        ],
+        [
+          "l",
+          [
+            72.5,
+            41.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          74.75,
+          43.25
+        ],
+        [
+          72.5,
+          41.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0027",
+      "object_type": "line",
+      "x0": 70.25,
+      "x1": 72.5,
+      "top": 40.75,
+      "bottom": 41.75,
+      "path": [
+        [
+          "m",
+          [
+            72.5,
+            41.75
+          ]
+        ],
+        [
+          "l",
+          [
+            70.25,
+            40.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          72.5,
+          41.75
+        ],
+        [
+          70.25,
+          40.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0028",
+      "object_type": "line",
+      "x0": 67.75,
+      "x1": 70.25,
+      "top": 39.75,
+      "bottom": 40.75,
+      "path": [
+        [
+          "m",
+          [
+            70.25,
+            40.75
+          ]
+        ],
+        [
+          "l",
+          [
+            67.75,
+            39.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          70.25,
+          40.75
+        ],
+        [
+          67.75,
+          39.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0029",
+      "object_type": "line",
+      "x0": 65.0,
+      "x1": 67.75,
+      "top": 39.0,
+      "bottom": 39.75,
+      "path": [
+        [
+          "m",
+          [
+            67.75,
+            39.75
+          ]
+        ],
+        [
+          "l",
+          [
+            65.0,
+            39.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          67.75,
+          39.75
+        ],
+        [
+          65.0,
+          39.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0030",
+      "object_type": "line",
+      "x0": 62.25,
+      "x1": 65.0,
+      "top": 38.75,
+      "bottom": 39.0,
+      "path": [
+        [
+          "m",
+          [
+            65.0,
+            39.0
+          ]
+        ],
+        [
+          "l",
+          [
+            62.25,
+            38.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          65.0,
+          39.0
+        ],
+        [
+          62.25,
+          38.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0031",
+      "object_type": "line",
+      "x0": 59.5,
+      "x1": 62.25,
+      "top": 38.5,
+      "bottom": 38.75,
+      "path": [
+        [
+          "m",
+          [
+            62.25,
+            38.75
+          ]
+        ],
+        [
+          "l",
+          [
+            59.5,
+            38.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          62.25,
+          38.75
+        ],
+        [
+          59.5,
+          38.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0032",
+      "object_type": "line",
+      "x0": 56.25,
+      "x1": 59.5,
+      "top": 38.5,
+      "bottom": 38.75,
+      "path": [
+        [
+          "m",
+          [
+            59.5,
+            38.5
+          ]
+        ],
+        [
+          "l",
+          [
+            56.25,
+            38.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          59.5,
+          38.5
+        ],
+        [
+          56.25,
+          38.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0033",
+      "object_type": "line",
+      "x0": 53.0,
+      "x1": 56.25,
+      "top": 38.75,
+      "bottom": 39.25,
+      "path": [
+        [
+          "m",
+          [
+            56.25,
+            38.75
+          ]
+        ],
+        [
+          "l",
+          [
+            53.0,
+            39.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          56.25,
+          38.75
+        ],
+        [
+          53.0,
+          39.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0034",
+      "object_type": "line",
+      "x0": 50.0,
+      "x1": 53.0,
+      "top": 39.25,
+      "bottom": 40.25,
+      "path": [
+        [
+          "m",
+          [
+            53.0,
+            39.25
+          ]
+        ],
+        [
+          "l",
+          [
+            50.0,
+            40.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          53.0,
+          39.25
+        ],
+        [
+          50.0,
+          40.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0035",
+      "object_type": "line",
+      "x0": 47.0,
+      "x1": 50.0,
+      "top": 40.25,
+      "bottom": 42.5,
+      "path": [
+        [
+          "m",
+          [
+            50.0,
+            40.25
+          ]
+        ],
+        [
+          "l",
+          [
+            47.0,
+            42.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          50.0,
+          40.25
+        ],
+        [
+          47.0,
+          42.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0036",
+      "object_type": "rect",
+      "x0": 59.0,
+      "x1": 60.0,
+      "top": 92.75,
+      "bottom": 93.75,
+      "path": [
+        [
+          "m",
+          [
+            60.0,
+            92.75
+          ]
+        ],
+        [
+          "l",
+          [
+            59.0,
+            92.75
+          ]
+        ],
+        [
+          "l",
+          [
+            59.0,
+            93.75
+          ]
+        ],
+        [
+          "l",
+          [
+            60.0,
+            93.75
+          ]
+        ],
+        [
+          "l",
+          [
+            60.0,
+            92.75
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          60.0,
+          92.75
+        ],
+        [
+          59.0,
+          92.75
+        ],
+        [
+          59.0,
+          93.75
+        ],
+        [
+          60.0,
+          93.75
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0037",
+      "object_type": "rect",
+      "x0": 59.0,
+      "x1": 60.0,
+      "top": 92.75,
+      "bottom": 93.75,
+      "path": [
+        [
+          "m",
+          [
+            60.0,
+            92.75
+          ]
+        ],
+        [
+          "l",
+          [
+            59.0,
+            92.75
+          ]
+        ],
+        [
+          "l",
+          [
+            59.0,
+            93.75
+          ]
+        ],
+        [
+          "l",
+          [
+            60.0,
+            93.75
+          ]
+        ],
+        [
+          "l",
+          [
+            60.0,
+            92.75
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          60.0,
+          92.75
+        ],
+        [
+          59.0,
+          92.75
+        ],
+        [
+          59.0,
+          93.75
+        ],
+        [
+          60.0,
+          93.75
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0038",
+      "object_type": "rect",
+      "x0": 59.0,
+      "x1": 60.0,
+      "top": 92.75,
+      "bottom": 93.75,
+      "path": [
+        [
+          "m",
+          [
+            60.0,
+            92.75
+          ]
+        ],
+        [
+          "l",
+          [
+            59.0,
+            92.75
+          ]
+        ],
+        [
+          "l",
+          [
+            59.0,
+            93.75
+          ]
+        ],
+        [
+          "l",
+          [
+            60.0,
+            93.75
+          ]
+        ],
+        [
+          "l",
+          [
+            60.0,
+            92.75
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          60.0,
+          92.75
+        ],
+        [
+          59.0,
+          92.75
+        ],
+        [
+          59.0,
+          93.75
+        ],
+        [
+          60.0,
+          93.75
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0039",
+      "object_type": "rect",
+      "x0": 59.0,
+      "x1": 60.0,
+      "top": 92.75,
+      "bottom": 93.75,
+      "path": [
+        [
+          "m",
+          [
+            60.0,
+            92.75
+          ]
+        ],
+        [
+          "l",
+          [
+            59.0,
+            92.75
+          ]
+        ],
+        [
+          "l",
+          [
+            59.0,
+            93.75
+          ]
+        ],
+        [
+          "l",
+          [
+            60.0,
+            93.75
+          ]
+        ],
+        [
+          "l",
+          [
+            60.0,
+            92.75
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          60.0,
+          92.75
+        ],
+        [
+          59.0,
+          92.75
+        ],
+        [
+          59.0,
+          93.75
+        ],
+        [
+          60.0,
+          93.75
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0040",
+      "object_type": "rect",
+      "x0": 86.5,
+      "x1": 87.5,
+      "top": 65.25,
+      "bottom": 66.25,
+      "path": [
+        [
+          "m",
+          [
+            87.5,
+            65.25
+          ]
+        ],
+        [
+          "l",
+          [
+            86.5,
+            65.25
+          ]
+        ],
+        [
+          "l",
+          [
+            86.5,
+            66.25
+          ]
+        ],
+        [
+          "l",
+          [
+            87.5,
+            66.25
+          ]
+        ],
+        [
+          "l",
+          [
+            87.5,
+            65.25
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          87.5,
+          65.25
+        ],
+        [
+          86.5,
+          65.25
+        ],
+        [
+          86.5,
+          66.25
+        ],
+        [
+          87.5,
+          66.25
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0041",
+      "object_type": "rect",
+      "x0": 59.0,
+      "x1": 60.0,
+      "top": 38.0,
+      "bottom": 39.0,
+      "path": [
+        [
+          "m",
+          [
+            60.0,
+            38.0
+          ]
+        ],
+        [
+          "l",
+          [
+            59.0,
+            38.0
+          ]
+        ],
+        [
+          "l",
+          [
+            59.0,
+            39.0
+          ]
+        ],
+        [
+          "l",
+          [
+            60.0,
+            39.0
+          ]
+        ],
+        [
+          "l",
+          [
+            60.0,
+            38.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          60.0,
+          38.0
+        ],
+        [
+          59.0,
+          38.0
+        ],
+        [
+          59.0,
+          39.0
+        ],
+        [
+          60.0,
+          39.0
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "drawing-0042",
+      "object_type": "curve",
+      "x0": 37.5,
+      "x1": 49.0,
+      "top": 39.75,
+      "bottom": 49.75,
+      "path": [
+        [
+          "m",
+          [
+            44.0,
+            39.75
+          ]
+        ],
+        [
+          "c",
+          [
+            45.5,
+            40.75
+          ],
+          [
+            47.1,
+            41.950000000000045
+          ],
+          [
+            48.0,
+            43.75
+          ]
+        ],
+        [
+          "c",
+          [
+            48.35,
+            44.450000000000045
+          ],
+          [
+            48.75,
+            45.25
+          ],
+          [
+            49.0,
+            46.25
+          ]
+        ],
+        [
+          "l",
+          [
+            37.5,
+            49.75
+          ]
+        ],
+        [
+          "l",
+          [
+            44.0,
+            39.75
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          44.0,
+          39.75
+        ],
+        [
+          48.0,
+          43.75
+        ],
+        [
+          49.0,
+          46.25
+        ],
+        [
+          37.5,
+          49.75
+        ],
+        [
+          44.0,
+          39.75
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "label_review": "Extracted PDF text may contain legacy symbol encodings; SVG glyph outlines preserve the visible labels.",
+  "notes": [],
+  "review": "needs_review"
+}
