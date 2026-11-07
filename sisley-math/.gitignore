@@ -1,4 +1,9 @@
 /node_modules/
+/conversion/node_modules/
+/conversion/.venv/
+__pycache__/
+*.pyc
+.conversion-work/
 .DS_Store
 
 # The site's root ignore rule excludes directories named vendor. These

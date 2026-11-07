@@ -1,0 +1,149 @@
+{
+  "description": "Conversion scripts and checkpoints retained from the GAT 1-20 recovery. Only machine-specific module/source paths are adjusted in script copies.",
+  "scripts": [
+    {
+      "file": "scripts/build_markdown.py",
+      "original_sha256": "249477d26d30948411441a04f0e39f37beda6fc88bcfb001204eac95e99152e9",
+      "preserved_sha256": "6f29ad27ce71957b94915bed61b60ebe800ca43e89d864e7532b76451cd1f2ed",
+      "portability_edits": [
+        "Read the preserved source/GAT-1-20.doc rather than a Downloads path."
+      ]
+    },
+    {
+      "file": "scripts/collect_images.py",
+      "original_sha256": "1cab77ae55663a6a0a51fde31997feab4a60694d9661ed0c714b887b00504659",
+      "preserved_sha256": "1cab77ae55663a6a0a51fde31997feab4a60694d9661ed0c714b887b00504659",
+      "portability_edits": []
+    },
+    {
+      "file": "scripts/finalize.py",
+      "original_sha256": "0603c9c23ea6b5cd3a14c80a644435b72a5e08093b284446050fe3e999f16782",
+      "preserved_sha256": "0603c9c23ea6b5cd3a14c80a644435b72a5e08093b284446050fe3e999f16782",
+      "portability_edits": []
+    },
+    {
+      "file": "scripts/fix_pict2.py",
+      "original_sha256": "5c483898bf7398ff0223cf1addc4a1bf67b410b27f2b34c6deba8c51f83523a2",
+      "preserved_sha256": "5c483898bf7398ff0223cf1addc4a1bf67b410b27f2b34c6deba8c51f83523a2",
+      "portability_edits": []
+    },
+    {
+      "file": "scripts/inspect_document.py",
+      "original_sha256": "9f67035c378047b8442d68d45f5007383d0e10f83108ccfa3557af932a032de4",
+      "preserved_sha256": "9f67035c378047b8442d68d45f5007383d0e10f83108ccfa3557af932a032de4",
+      "portability_edits": []
+    },
+    {
+      "file": "scripts/make_atlas.py",
+      "original_sha256": "eed04f5827e243004cc6c8d663eceb7ab2fd316d97b02d5439b39e5d80d6139e",
+      "preserved_sha256": "eed04f5827e243004cc6c8d663eceb7ab2fd316d97b02d5439b39e5d80d6139e",
+      "portability_edits": []
+    },
+    {
+      "file": "scripts/pict_equations.py",
+      "original_sha256": "1439d72c917910d46a13a5c5d504cfad784082abd8545fcfcfa619ad62e36401",
+      "preserved_sha256": "1439d72c917910d46a13a5c5d504cfad784082abd8545fcfcfa619ad62e36401",
+      "portability_edits": []
+    },
+    {
+      "file": "scripts/preview.cjs",
+      "original_sha256": "3811dc5d27d0103e286d85cb21ae698d74539d92dfb85c900e76e2d30d76ac33",
+      "preserved_sha256": "e97cf85f8e51dba56ac05b0396a2650a340f0f9f744ce73736470f25e8da5567",
+      "portability_edits": [
+        "Replaced machine-specific marked import with the package name.",
+        "Replaced machine-specific playwright import with the package name."
+      ]
+    },
+    {
+      "file": "scripts/render_equations.cjs",
+      "original_sha256": "9861a1b7a34093dd60e3d2b500723e5661965f0114581797c0a387bfbfcb04c9",
+      "preserved_sha256": "d4ba4c57c0119d124e9a4b82a6faf549dcde70a5525c6fe230c9a3a04e66eb5f",
+      "portability_edits": [
+        "Replaced machine-specific sharp import with the package name."
+      ]
+    },
+    {
+      "file": "scripts/transcribe_formulas.py",
+      "original_sha256": "da1f570fa7d7e0527a1a49cec9b072d11fbb4f232c0c6dc611462d89dd89e945",
+      "preserved_sha256": "da1f570fa7d7e0527a1a49cec9b072d11fbb4f232c0c6dc611462d89dd89e945",
+      "portability_edits": []
+    }
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoints/GAT 1-20.docx",
+      "sha256": "a7ac9d2d6002d38e2e772c92a4cf3ae2933a7f2f6f5f62c9302b3d28c964497b",
+      "bytes": 1011392
+    },
+    {
+      "file": "checkpoints/sized.docx",
+      "sha256": "87bcd098753e07228e6f07fb7c7824a91d81398cac52343e5b67a610b11d4321",
+      "bytes": 3642921
+    },
+    {
+      "file": "checkpoints/sized.pdf",
+      "sha256": "e27611181263a040f812985c529efb0373472a73ffeabce07edb967a57ff0faa",
+      "bytes": 994871
+    },
+    {
+      "file": "checkpoints/atlas.docx",
+      "sha256": "83a8803df594003bfebdaebd2d1aedbdaa418d890cd6b812a38ab830e3e73f61",
+      "bytes": 1793228
+    },
+    {
+      "file": "checkpoints/atlas.pdf",
+      "sha256": "6bdf191a0f1aa38ea91cf928cd7d2ced680cb7271f8d51fbca2f7fa30d645415",
+      "bytes": 300354
+    },
+    {
+      "file": "checkpoints/equations.json",
+      "sha256": "efd19c6f6fb3129a33b7be48f329095bd828ae20a331c62be08aac6f423e88c3",
+      "bytes": 468955
+    },
+    {
+      "file": "checkpoints/diagrams.json",
+      "sha256": "6448f935ee29f8e9c7116ae0b3daa67d6e0b16ffcd125178cc8825f3c6e78658",
+      "bytes": 29375
+    },
+    {
+      "file": "checkpoints/atlas.json",
+      "sha256": "c36625cea53d53070a2218eccf552fea15fbdfd0f20346308c8c9252f8421a31",
+      "bytes": 11027
+    },
+    {
+      "file": "checkpoints/pict2-fixes.json",
+      "sha256": "16877de34ab752a0d8de3ceb1fa0d10e358cf1bccc48718d614d19cae28e5ac1",
+      "bytes": 3896
+    },
+    {
+      "file": "checkpoints/paragraphs.json",
+      "sha256": "ac620c57d059e9395800cfd47751d379676537e81f51b1c8d7ea961c11126d09",
+      "bytes": 410202
+    },
+    {
+      "file": "checkpoints/pre-latex/GAT-1-20.html",
+      "sha256": "35266f333bab7893648f2a020a6726882719ceea7461944b8140dfe432c4ee9f",
+      "bytes": 160738
+    },
+    {
+      "file": "checkpoints/pre-latex/GAT-1-20.md",
+      "sha256": "db8276f8f89a719d9911e293a37efa572b10473791181bca2cee55196f5e89e2",
+      "bytes": 145281
+    },
+    {
+      "file": "checkpoints/pre-latex/README.md",
+      "sha256": "886cfecc02245a36427485365ff9c685211c591f2839d6ac83be6fe4ebdf5266",
+      "bytes": 1859
+    },
+    {
+      "file": "checkpoints/pre-latex/conversion-report.md",
+      "sha256": "ce7fc8de64f5ac6f27e4f41488d6bbc11b9b8c869c5e49e47977c46de50b15e5",
+      "bytes": 8418
+    },
+    {
+      "file": "checkpoints/pre-latex/manifest.json",
+      "sha256": "6e8cb70d82faa2e123e6c773ad3f65246d121ca525281ab2b3063eff95e8f7fb",
+      "bytes": 415553
+    }
+  ]
+}

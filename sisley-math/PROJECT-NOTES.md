@@ -21,6 +21,7 @@ The first source is `source/GAT-1-20.doc`, originally named `GAT 1-20.doc`. Its 
 - `manifest.json` maps the source, questions, image occurrences, reference pages, and LaTeX representations.
 - `formula-transcriptions.json` records the conversion decision for every graphic. `formula-comparison.html` displays all converted formulas beside their retained source images.
 - The build uses pinned Marked and KaTeX dependencies. Generated HTML, math fonts, and styles are stored locally for offline reading.
+- `conversion/` preserves the Python and JavaScript recovery/transcription scripts, their dependency versions, and the imported DOCX, size-corrected DOCX/PDF, diagram atlas, extracted metadata, and pre-LaTeX baseline. Its README describes isolated replay and document-specific assumptions.
 
 ## Known limitations
 
