@@ -1,0 +1,193 @@
+{
+  "classification": "One primary visual category per retained source asset; overlapping subjects are assigned once.",
+  "unique_source_assets": 116,
+  "appearances": 120,
+  "categories": [
+    {
+      "category": "Angles, triangles, and parallel/intersecting lines",
+      "distinct_images": 39,
+      "appearances": 39,
+      "image_ids": [
+        "image70",
+        "image73",
+        "image90",
+        "image122",
+        "image132",
+        "image147",
+        "image153",
+        "image178",
+        "image185",
+        "image186",
+        "image187",
+        "image188",
+        "image189",
+        "image198",
+        "image199",
+        "image203",
+        "image207",
+        "image210",
+        "image211",
+        "image212",
+        "image213",
+        "image214",
+        "image219",
+        "image220",
+        "image221",
+        "image222",
+        "image223",
+        "image237",
+        "image238",
+        "image239",
+        "image240",
+        "image241",
+        "image248",
+        "image249",
+        "image250",
+        "image251",
+        "image252",
+        "image261",
+        "image268"
+      ]
+    },
+    {
+      "category": "Reflection and translation constructions",
+      "distinct_images": 19,
+      "appearances": 19,
+      "image_ids": [
+        "image3",
+        "image5",
+        "image6",
+        "image20",
+        "image76",
+        "image110",
+        "image117",
+        "image124",
+        "image127",
+        "image128",
+        "image134",
+        "image137",
+        "image138",
+        "image139",
+        "image140",
+        "image152",
+        "image155",
+        "image160",
+        "image161"
+      ]
+    },
+    {
+      "category": "Shapes, symmetry, and labelled geometric patterns",
+      "distinct_images": 19,
+      "appearances": 22,
+      "image_ids": [
+        "image1",
+        "image19",
+        "image167",
+        "image168",
+        "image169",
+        "image170",
+        "image171",
+        "image172",
+        "image173",
+        "image177",
+        "image190",
+        "image191",
+        "image204",
+        "image205",
+        "image206",
+        "image216",
+        "image217",
+        "image225",
+        "image226"
+      ]
+    },
+    {
+      "category": "Coordinate-plane diagrams",
+      "distinct_images": 12,
+      "appearances": 12,
+      "image_ids": [
+        "image2",
+        "image9",
+        "image92",
+        "image109",
+        "image123",
+        "image133",
+        "image156",
+        "image163",
+        "image274",
+        "image297",
+        "image309",
+        "image327"
+      ]
+    },
+    {
+      "category": "Rotations, circular point arrangements, and turn arrows",
+      "distinct_images": 11,
+      "appearances": 11,
+      "image_ids": [
+        "image121",
+        "image131",
+        "image141",
+        "image142",
+        "image143",
+        "image144",
+        "image145",
+        "image146",
+        "image183",
+        "image184",
+        "image195"
+      ]
+    },
+    {
+      "category": "Matrices with labels, boxes, or explanatory arrows",
+      "distinct_images": 9,
+      "appearances": 9,
+      "image_ids": [
+        "image218",
+        "image227",
+        "image244",
+        "image253",
+        "image291",
+        "image307",
+        "image325",
+        "image326",
+        "image333"
+      ]
+    },
+    {
+      "category": "Directed network graphs",
+      "distinct_images": 4,
+      "appearances": 5,
+      "image_ids": [
+        "image262",
+        "image279",
+        "image308",
+        "image329"
+      ]
+    },
+    {
+      "category": "Annotated calculation flow",
+      "distinct_images": 1,
+      "appearances": 1,
+      "image_ids": [
+        "image166"
+      ]
+    },
+    {
+      "category": "Street grid/map",
+      "distinct_images": 1,
+      "appearances": 1,
+      "image_ids": [
+        "image162"
+      ]
+    },
+    {
+      "category": "Calculator screenshot",
+      "distinct_images": 1,
+      "appearances": 1,
+      "image_ids": [
+        "image15"
+      ]
+    }
+  ]
+}

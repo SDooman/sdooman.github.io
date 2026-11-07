@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "categories": [
+    {"id":"formula","label":"Formulas and mathematical notation","target":"latex","review":"Check every symbol, grouping, blank entry and source error; LaTeX is presentation, not executable semantics."},
+    {"id":"geometry","label":"Angles, triangles and intersecting/parallel lines","target":"geometry-scene","review":"Preserve labels and explicit givens; never infer lengths, parallelism or right angles from appearance."},
+    {"id":"reflection_translation","label":"Reflection and translation constructions","target":"geometry-scene","review":"Separate stated transformations from approximate drawing coordinates."},
+    {"id":"shapes_symmetry","label":"Shapes, symmetry and geometric patterns","target":"geometry-scene","review":"Preserve shape boundaries, labels and symmetry markings."},
+    {"id":"coordinate_plot","label":"Coordinate-plane diagrams","target":"plot-scene","review":"Record axes, scales, units and labelled points; do not infer an exact function from a curve."},
+    {"id":"rotation","label":"Rotations and circular point arrangements","target":"geometry-scene","review":"Check centre, orientation, arc direction and stated angles."},
+    {"id":"annotated_matrix","label":"Matrices with labels, boxes or arrows","target":"annotated-math","review":"Transcribe entries separately from the explanatory layout; preserve blanks."},
+    {"id":"network","label":"Directed network graphs","target":"network-scene","review":"Check every node, directed edge, loop and parallel edge independently of the layout."},
+    {"id":"calculation_flow","label":"Annotated calculation flow","target":"annotated-math","review":"Preserve expressions, arrow direction and explanatory labels."},
+    {"id":"map","label":"Street grids and maps","target":"network-scene","review":"Record connectivity separately from geographic or drawing positions."},
+    {"id":"screenshot","label":"Calculator and software screenshots","target":"image-with-transcript","review":"Keep the screenshot; transcribe visible keys, screen text and instructions."},
+    {"id":"table","label":"Data tables","target":"table-json","review":"Check cell contents, merged headers, units, footnotes and blanks."},
+    {"id":"text","label":"Text embedded in an image","target":"markdown","review":"Check transcription against the source, including formatting that carries meaning."},
+    {"id":"mixed","label":"Mixed or compound figure","target":"component-regions","review":"Split into linked component regions before converting; preserve the parent layout."},
+    {"id":"scan","label":"Scanned page requiring segmentation","target":"component-regions","review":"Locate all figures and text on the page before attempting category conversions."},
+    {"id":"illustration","label":"Photographs and illustrations","target":"image-with-description","review":"Keep the original; add a useful description without invented details."},
+    {"id":"decorative","label":"Decorative marks","target":"preserve-image","review":"Confirm that the mark carries no mathematical or instructional content."},
+    {"id":"unclassified","label":"Needs classification","target":"review","review":"Inspect the source and surrounding question; use mixed when a single category would lose meaning."}
+  ]
+}

@@ -35,3 +35,11 @@ The first source is `source/GAT-1-20.doc`, originally named `GAT 1-20.doc`. Its 
 ## Suggested continuation
 
 Resolve the flagged formulas and diagram labels, obtain the missing sketch sheets, and preserve additional textbook sections using the same question IDs and source records. A later platform prototype can build on this content with a browser computation environment and local progress storage. These are future ideas rather than implemented features or fixed technology choices.
+
+## Visual preservation pipeline
+
+The user wants a reusable system to categorize visuals across textbooks, recover as much content as possible as machine-readable text or graphics code, and only then evolve the faithful reproduction into learner-programmable graphics and animations. Preserve mathematical meaning separately from drawing coordinates; do not infer exact functions or geometry constraints from appearance.
+
+`visual-pipeline/` now provides the category registry, an imported catalog of all 336 graphics/666 occurrences, a filterable offline classification review page, and a Python PDF inventory/review CLI. PDF crops, full-page context, positioned text and vector commands are retained; generic PDF segmentation and classification still need review. New PDFs are not automatically semantically classified or OCR-transcribed. Existing LaTeX is linked into the catalog.
+
+A candidate reconstruction of image262 stores five nodes and ten directed edges as JSON and generates both SVG and adjacency-matrix data. The original textbook figure remains in place. Other geometry, plot and annotated-math renderers, a vision/OCR proposal adapter, animation and learner execution are future increments. The pipeline README distinguishes implemented capabilities from planned targets and documents validation.

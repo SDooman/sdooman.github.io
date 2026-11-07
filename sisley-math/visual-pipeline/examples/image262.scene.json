@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "kind": "network",
+  "title": "Candidate reconstruction of GAT image262",
+  "source_asset_id": "image262",
+  "review": "needs_review",
+  "coordinate_meaning": "Approximate source-image drawing positions, not mathematical measurements.",
+  "notes": ["Transcribed by visual inspection. Parallel directed edges are intentional.", "This candidate is not substituted into the textbook. Review all arrows and compare the side-by-side drawing first."],
+  "width": 880,
+  "height": 240,
+  "nodes": [
+    {"id":"1","label":"1","x":45,"y":138,"label_dx":-40,"label_dy":28},
+    {"id":"2","label":"2","x":472,"y":205,"label_dx":-9,"label_dy":-15},
+    {"id":"3","label":"3","x":263,"y":13,"label_dx":5,"label_dy":36},
+    {"id":"4","label":"4","x":823,"y":180,"label_dx":18,"label_dy":28},
+    {"id":"5","label":"5","x":708,"y":26,"label_dx":-24,"label_dy":33}
+  ],
+  "edges": [
+    {"id":"e13-top","from":"1","to":"3","directed":true,"controls":[[155,-15]]},
+    {"id":"e13-inner","from":"1","to":"3","directed":true,"controls":[[209,132]],"arrow_at":0.72},
+    {"id":"e31-inner","from":"3","to":"1","directed":true,"controls":[[209,132]],"arrow_at":0.70},
+    {"id":"e35","from":"3","to":"5","directed":true},
+    {"id":"e54","from":"5","to":"4","directed":true},
+    {"id":"e43","from":"4","to":"3","directed":true},
+    {"id":"e14","from":"1","to":"4","directed":true},
+    {"id":"e12","from":"1","to":"2","directed":true},
+    {"id":"e21","from":"2","to":"1","directed":true,"arrow_at":0.65},
+    {"id":"e42","from":"4","to":"2","directed":true}
+  ]
+}

@@ -6,6 +6,7 @@ This folder preserves the first 20 GAT assignments from the supplied high-school
 - [Edit the Markdown and LaTeX](gat-1-20/GAT-1-20.md).
 - [Review remaining conversion issues](gat-1-20/conversion-report.md) and [formula transcription notes](gat-1-20/formula-review.md).
 - [Compare formulas with their source images](gat-1-20/formula-comparison.html).
+- [Classify and review all textbook graphics](visual-pipeline/review.html), with a [reusable PDF inventory pipeline](visual-pipeline/README.md) and a graph-to-code example.
 - [Original Word document](source/GAT-1-20.doc).
 - [Project context and future ideas](PROJECT-NOTES.md).
 - [Python/JavaScript conversion scripts and replay instructions](conversion/README.md), including the image-recovery code and saved intermediate inputs.
