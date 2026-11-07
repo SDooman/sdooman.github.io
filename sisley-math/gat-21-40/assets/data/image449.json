@@ -1,0 +1,37 @@
+{
+  "kind": "table",
+  "headers": [
+    "L1",
+    "L2"
+  ],
+  "rows": [
+    [
+      1,
+      7
+    ],
+    [
+      2,
+      13
+    ],
+    [
+      6,
+      26
+    ],
+    [
+      7,
+      30
+    ],
+    [
+      10,
+      35
+    ],
+    [
+      11,
+      33
+    ]
+  ],
+  "title": null,
+  "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+  "source_asset_id": "image449",
+  "review": "needs_review"
+}

@@ -1,0 +1,27 @@
+{
+  "kind": "annotated-math",
+  "expressions": [
+    {
+      "id": "expression-1",
+      "latex": "y=\\frac{{}^{-}5}{8}\\cdot x"
+    },
+    {
+      "id": "expression-2",
+      "latex": "T_1(x,y)=(x+{}^{-}2,y+3)"
+    },
+    {
+      "id": "expression-3",
+      "latex": "(y+{}^{-}3)=\\frac{{}^{-}5}{8}\\cdot(x+2)"
+    },
+    {
+      "id": "expression-4",
+      "latex": "T_2(x,y)=(x+6,y+{}^{-}2)"
+    },
+    {
+      "id": "expression-5",
+      "latex": "(y+2)=\\frac{{}^{-}5}{8}\\cdot(x+{}^{-}6)"
+    }
+  ],
+  "source_asset_id": "image421",
+  "review": "needs_review"
+}

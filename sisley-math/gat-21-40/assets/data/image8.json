@@ -1,0 +1,54 @@
+{
+  "kind": "annotated-math",
+  "expressions": [
+    {
+      "id": "expression-1",
+      "latex": "\\begin{bmatrix}0&1\\\\1&0\\end{bmatrix}\\cdot\\begin{bmatrix}1&0\\\\0&{}^{-}1\\end{bmatrix}\\begin{bmatrix}0\\\\2\\end{bmatrix}"
+    },
+    {
+      "id": "expression-2",
+      "latex": "(r_{y=x}\\circ r_x)(0,2)"
+    }
+  ],
+  "matrices": [
+    {
+      "id": "matrix3",
+      "entries": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "matrix2",
+      "entries": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          -1
+        ]
+      ]
+    },
+    {
+      "id": "matrix1",
+      "entries": [
+        [
+          0
+        ],
+        [
+          2
+        ]
+      ]
+    }
+  ],
+  "source_asset_id": "image8",
+  "review": "needs_review"
+}

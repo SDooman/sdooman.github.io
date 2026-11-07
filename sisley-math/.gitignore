@@ -10,6 +10,8 @@ __pycache__/
 # checked-in math fonts and styles are required by the offline textbook.
 !gat-1-20/assets/vendor/
 !gat-1-20/assets/vendor/**
+!gat-21-40/assets/vendor/
+!gat-21-40/assets/vendor/**
 
 /.venv/
 /working/

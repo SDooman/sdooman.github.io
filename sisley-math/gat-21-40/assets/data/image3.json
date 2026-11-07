@@ -1,0 +1,59 @@
+{
+  "kind": "annotated-matrix",
+  "row_labels": [
+    "D",
+    "LA",
+    "NY",
+    "SL",
+    "SE"
+  ],
+  "column_labels": [
+    "D",
+    "LA",
+    "NY",
+    "SL",
+    "SE"
+  ],
+  "entries": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "notes": [
+    "Blank direct-flight matrix exercise. No entries have been supplied."
+  ],
+  "source_asset_id": "image3",
+  "review": "needs_review"
+}

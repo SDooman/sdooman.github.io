@@ -1,0 +1,37 @@
+{
+  "kind": "table",
+  "headers": [
+    "Year in which Olympic record was set",
+    "Record in seconds"
+  ],
+  "rows": [
+    [
+      1948,
+      "109.2"
+    ],
+    [
+      1956,
+      "107.7"
+    ],
+    [
+      1960,
+      "106.3"
+    ],
+    [
+      1964,
+      "105.1"
+    ],
+    [
+      1976,
+      "103.5"
+    ],
+    [
+      1984,
+      "103.0"
+    ]
+  ],
+  "title": "800-meter run for men",
+  "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+  "source_asset_id": "image464",
+  "review": "needs_review"
+}

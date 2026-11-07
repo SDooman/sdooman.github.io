@@ -1,0 +1,33 @@
+{
+  "kind": "table",
+  "headers": [
+    "Size transformation magnitude",
+    "Image of $(1,\\sqrt{2})$"
+  ],
+  "rows": [
+    [
+      "${}^{-}3$",
+      null
+    ],
+    [
+      "${}^{-}1$",
+      null
+    ],
+    [
+      2,
+      null
+    ],
+    [
+      4,
+      null
+    ],
+    [
+      7,
+      null
+    ]
+  ],
+  "title": null,
+  "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+  "source_asset_id": "image205",
+  "review": "needs_review"
+}

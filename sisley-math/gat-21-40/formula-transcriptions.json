@@ -1,0 +1,3920 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "image1",
+      "latex": "y-\\text{axis}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image1.png",
+      "notes": []
+    },
+    {
+      "id": "image6",
+      "latex": "\\left[ \\begin{matrix}0 & 1 \\\\ 1 & 0\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image6.png",
+      "notes": []
+    },
+    {
+      "id": "image7",
+      "latex": "\\left[ \\begin{matrix}{}^{-}1 & 0 \\\\ 0 & 1\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image7.png",
+      "notes": []
+    },
+    {
+      "id": "image9",
+      "latex": "\\left[ \\begin{matrix}0 \\\\ {}^{-}2\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image9.png",
+      "notes": []
+    },
+    {
+      "id": "image10",
+      "latex": "\\left[ \\begin{matrix}0 \\\\ 2\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image10.png",
+      "notes": []
+    },
+    {
+      "id": "image11",
+      "latex": "x-\\text{axis}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image11.png",
+      "notes": []
+    },
+    {
+      "id": "image12",
+      "latex": "\\left[ \\begin{matrix}0 \\\\ {}^{-}2\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image12.png",
+      "notes": []
+    },
+    {
+      "id": "image13",
+      "latex": "\\left[ \\begin{matrix}{}^{-}2 \\\\ 0\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image13.png",
+      "notes": []
+    },
+    {
+      "id": "image14",
+      "latex": "\\left[ \\begin{matrix}0 \\\\ {}^{-}2\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image14.png",
+      "notes": []
+    },
+    {
+      "id": "image15",
+      "latex": "\\left[ \\begin{matrix}0 & {}^{-}1 \\\\ 1 & 0\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image15.png",
+      "notes": []
+    },
+    {
+      "id": "image16",
+      "latex": "\\left[ \\begin{matrix}0 \\\\ 2\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image16.png",
+      "notes": []
+    },
+    {
+      "id": "image17",
+      "latex": "\\left[ \\begin{matrix}{}^{-}2 \\\\ 0\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image17.png",
+      "notes": []
+    },
+    {
+      "id": "image18",
+      "latex": "\\times ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image18.png",
+      "notes": []
+    },
+    {
+      "id": "image19",
+      "latex": "\\left[ \\begin{matrix}0 \\\\ 2\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image19.png",
+      "notes": []
+    },
+    {
+      "id": "image20",
+      "latex": "r_{y=x}\\circ r_{x}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image20.png",
+      "notes": []
+    },
+    {
+      "id": "image21",
+      "latex": "\\times ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image21.png",
+      "notes": []
+    },
+    {
+      "id": "image22",
+      "latex": "\\left[ \\begin{matrix}0 & {}^{-}1 \\\\ 1 & 0\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image22.png",
+      "notes": []
+    },
+    {
+      "id": "image23",
+      "latex": "r_{y=x}\\circ r_{x}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image23.png",
+      "notes": []
+    },
+    {
+      "id": "image24",
+      "latex": "r_{y=x}\\circ r_{x}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image24.png",
+      "notes": []
+    },
+    {
+      "id": "image26",
+      "latex": "\\text{T}_{\\text{2}}\\circ \\text{T}_{\\text{1}}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image26.png",
+      "notes": []
+    },
+    {
+      "id": "image27",
+      "latex": "\\left[ \\begin{matrix}{}^{-}1 & 0 \\\\ 0 & 1\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}0 & 1 \\\\ 1 & 0\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image27.png",
+      "notes": []
+    },
+    {
+      "id": "image28",
+      "latex": "\\left[ \\begin{matrix}0 & 1 \\\\ 1 & 0\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}{}^{-}1 & 0 \\\\ 0 & 1\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image28.png",
+      "notes": []
+    },
+    {
+      "id": "image29",
+      "latex": "\\left[ \\begin{matrix}\\text{a} & \\text{b} \\\\ \\text{c} & \\text{d}\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image29.png",
+      "notes": []
+    },
+    {
+      "id": "image30",
+      "latex": "\\left[ \\begin{matrix}\\text{a} & \\text{b} \\\\ \\text{c} & \\text{d}\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}\\text{0} \\\\ \\text{0}\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image30.png",
+      "notes": []
+    },
+    {
+      "id": "image31",
+      "latex": "\\left[ \\begin{matrix}0 \\\\ 0\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image31.png",
+      "notes": []
+    },
+    {
+      "id": "image32",
+      "latex": "\\times ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image32.png",
+      "notes": []
+    },
+    {
+      "id": "image33",
+      "latex": "\\times ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image33.png",
+      "notes": []
+    },
+    {
+      "id": "image37",
+      "latex": "\\text{(a}+\\text{b)}^{\\text{2}}=\\text{(a}+\\text{b)}\\cdot \\text{(a}+\\text{b)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image37.png",
+      "notes": []
+    },
+    {
+      "id": "image38",
+      "latex": "\\text{(a}+\\text{b)}\\cdot \\text{(a}+\\text{b)=(a+b)}\\cdot \\text{a+(a+b)}\\cdot \\text{b}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image38.png",
+      "notes": []
+    },
+    {
+      "id": "image39",
+      "latex": "x\\cdot \\mathrm{(}y+z\\mathrm{)}=x\\cdot y+x\\cdot z",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image39.png",
+      "notes": []
+    },
+    {
+      "id": "image40",
+      "latex": "\\mathrm{(}x+y\\mathrm{)}\\cdot z=x\\cdot z+y\\cdot z",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image40.png",
+      "notes": []
+    },
+    {
+      "id": "image41",
+      "latex": "\\text{(a}+\\text{b)}\\cdot \\text{a}+\\text{(a}+\\text{b)}\\cdot \\text{b}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image41.png",
+      "notes": []
+    },
+    {
+      "id": "image42",
+      "latex": "\\times ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image42.png",
+      "notes": []
+    },
+    {
+      "id": "image43",
+      "latex": "y-\\text{axis}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image43.png",
+      "notes": []
+    },
+    {
+      "id": "image44",
+      "latex": "y={}^{-}x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image44.png",
+      "notes": []
+    },
+    {
+      "id": "image45",
+      "latex": "2\\times 2",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image45.png",
+      "notes": []
+    },
+    {
+      "id": "image46",
+      "latex": "\\times ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image46.png",
+      "notes": []
+    },
+    {
+      "id": "image47",
+      "latex": "\\times ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image47.png",
+      "notes": []
+    },
+    {
+      "id": "image48",
+      "latex": "\\times ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image48.png",
+      "notes": []
+    },
+    {
+      "id": "image50",
+      "latex": "\\frac{1}{2}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image50.png",
+      "notes": []
+    },
+    {
+      "id": "image51",
+      "latex": "\\frac{{}^{-}1}{2}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image51.png",
+      "notes": []
+    },
+    {
+      "id": "image52",
+      "latex": "{}^{-}\\pi ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image52.png",
+      "notes": []
+    },
+    {
+      "id": "image54",
+      "latex": "\\frac{1}{2}\\mathrm{.}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image54.png",
+      "notes": []
+    },
+    {
+      "id": "image55",
+      "latex": "\\frac{{}^{-}1}{2}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image55.png",
+      "notes": []
+    },
+    {
+      "id": "image57",
+      "latex": "\\frac{1}{2}\\cdot \\text{b}\\cdot \\text{h}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image57.png",
+      "notes": []
+    },
+    {
+      "id": "image61",
+      "latex": "\\left( \\sqrt{2} \\right)^{2}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image61.png",
+      "notes": []
+    },
+    {
+      "id": "image62",
+      "latex": "\\left( {}^{-}3\\cdot \\sqrt{2} \\right)^{2}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image62.png",
+      "notes": []
+    },
+    {
+      "id": "image63",
+      "latex": "r_{y=x}\\circ r_{x}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image63.png",
+      "notes": []
+    },
+    {
+      "id": "image64",
+      "latex": "r_{x}\\circ r_{y=x}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image64.png",
+      "notes": []
+    },
+    {
+      "id": "image65",
+      "latex": "r_{y={}^{-}x}\\circ r_{y={}^{-}x}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image65.png",
+      "notes": []
+    },
+    {
+      "id": "image67",
+      "latex": "\\text{(a}+\\text{b)}^{\\text{2}}=\\text{(a}+\\text{b)}\\cdot \\text{(a}+\\text{b)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image67.png",
+      "notes": []
+    },
+    {
+      "id": "image68",
+      "latex": "\\frac{{}^{-}7}{8}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image68.png",
+      "notes": []
+    },
+    {
+      "id": "image69",
+      "latex": "{}^{-}\\mathrm{(}{}^{-}2\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image69.png",
+      "notes": []
+    },
+    {
+      "id": "image71",
+      "latex": "\\left[ \\begin{matrix}\\text{k} & \\text{0} \\\\ \\text{0} & \\text{k}\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image71.png",
+      "notes": []
+    },
+    {
+      "id": "image72",
+      "latex": "\\left[ \\begin{matrix}\\text{k} & \\text{0} \\\\ \\text{0} & \\text{k}\\end{matrix} \\right]\\left[ \\begin{matrix}x \\\\ y\\end{matrix} \\right]=\\left[ \\begin{matrix}\\text{k}\\cdot x \\\\ \\text{k}\\cdot y\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image72.png",
+      "notes": []
+    },
+    {
+      "id": "image73",
+      "latex": "\\text{S}_{\\frac{1}{2}}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image73.png",
+      "notes": []
+    },
+    {
+      "id": "image74",
+      "latex": "_{{}^{-}2}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image74.png",
+      "notes": []
+    },
+    {
+      "id": "image76",
+      "latex": "\\text{S}_{\\frac{1}{2}}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image76.png",
+      "notes": []
+    },
+    {
+      "id": "image77",
+      "latex": "\\left[ \\begin{matrix}3 & 2 \\\\ {}^{-}5 & {}^{-}4\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image77.png",
+      "notes": []
+    },
+    {
+      "id": "image78",
+      "latex": "\\text{R}_{90}\\circ r_{x}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image78.png",
+      "notes": []
+    },
+    {
+      "id": "image79",
+      "latex": "r_{x}\\circ \\text{R}_{90}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image79.png",
+      "notes": []
+    },
+    {
+      "id": "image80",
+      "latex": "r_{y=x}\\circ r_{y=x}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image80.png",
+      "notes": []
+    },
+    {
+      "id": "image82",
+      "latex": "x=1",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image82.png",
+      "notes": []
+    },
+    {
+      "id": "image83",
+      "latex": "x=1",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image83.png",
+      "notes": []
+    },
+    {
+      "id": "image84",
+      "latex": "\\left[ \\begin{matrix}1 & 2 \\\\ 0 & 1\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image84.png",
+      "notes": []
+    },
+    {
+      "id": "image85",
+      "latex": "x=1",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image85.png",
+      "notes": []
+    },
+    {
+      "id": "image86",
+      "latex": "\\left[ \\begin{matrix}0 \\\\ 0\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image86.png",
+      "notes": []
+    },
+    {
+      "id": "image87",
+      "latex": "\\frac{9}{4}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image87.png",
+      "notes": []
+    },
+    {
+      "id": "image88",
+      "latex": "\\sqrt{\\left( \\sqrt{2} \\right)^{2}+\\left( \\sqrt{2} \\right)^{2}}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image88.png",
+      "notes": []
+    },
+    {
+      "id": "image89",
+      "latex": "\\sqrt{\\left( {}^{-}3\\cdot \\sqrt{2} \\right)^{2}+\\left( {}^{-}3\\cdot \\sqrt{2} \\right)^{2}}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image89.png",
+      "notes": []
+    },
+    {
+      "id": "image93",
+      "latex": "\\text{S}_{\\text{2}}\\circ \\text{S}_{3}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image93.png",
+      "notes": []
+    },
+    {
+      "id": "image94",
+      "latex": "\\text{S}_{\\frac{\\text{4}}{\\text{3}}}\\circ \\text{S}_{\\frac{3}{4}}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image94.png",
+      "notes": []
+    },
+    {
+      "id": "image96",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image96.png",
+      "notes": []
+    },
+    {
+      "id": "image97",
+      "latex": "\\frac{3}{5}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image97.png",
+      "notes": []
+    },
+    {
+      "id": "image98",
+      "latex": "\\left( \\frac{1}{3}\\mathrm{,}{}^{-}2 \\right)",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image98.png",
+      "notes": []
+    },
+    {
+      "id": "image99",
+      "latex": "\\left( {}^{-}\\pi \\mathrm{,}3 \\right)",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image99.png",
+      "notes": []
+    },
+    {
+      "id": "image100",
+      "latex": "\\frac{{}^{-}3}{\\pi }",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image100.png",
+      "notes": []
+    },
+    {
+      "id": "image102",
+      "latex": "\\text{S}_{{}^{-}3}\\mathrm{(}x\\mathrm{,}y\\mathrm{)}=\\mathrm{(}{}^{-}3\\cdot x\\mathrm{,}{}^{-}3\\cdot y\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image102.png",
+      "notes": []
+    },
+    {
+      "id": "image106",
+      "latex": "1\\mathrm{.}3\\cdot \\sqrt{200}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image106.png",
+      "notes": []
+    },
+    {
+      "id": "image109",
+      "latex": "\\left[ \\begin{matrix}\\frac{{}^{-}2}{7} & 0 \\\\ 0 & \\frac{{}^{-}2}{7}\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}\\frac{{}^{-}3}{2} & 0 \\\\ 0 & \\frac{{}^{-}3}{2}\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image109.png",
+      "notes": []
+    },
+    {
+      "id": "image110",
+      "latex": "\\text{S}_{\\text{d}}\\circ \\text{S}_{\\text{c}}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image110.png",
+      "notes": []
+    },
+    {
+      "id": "image112",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image112.png",
+      "notes": []
+    },
+    {
+      "id": "image113",
+      "latex": "y-\\text{axis}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image113.png",
+      "notes": []
+    },
+    {
+      "id": "image114",
+      "latex": "x-\\text{axis}\\mathrm{.}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image114.png",
+      "notes": []
+    },
+    {
+      "id": "image116",
+      "latex": "\\ell _{1}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image116.png",
+      "notes": []
+    },
+    {
+      "id": "image117",
+      "latex": "\\ell _{3}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image117.png",
+      "notes": []
+    },
+    {
+      "id": "image118",
+      "latex": "\\left( {}^{-}1\\mathrm{,}\\frac{{}^{-}\\sqrt{2}}{2} \\right)",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image118.png",
+      "notes": []
+    },
+    {
+      "id": "image119",
+      "latex": "\\ell _{2}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image119.png",
+      "notes": []
+    },
+    {
+      "id": "image120",
+      "latex": "x-\\text{axis}\\mathrm{.}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image120.png",
+      "notes": []
+    },
+    {
+      "id": "image121",
+      "latex": "x+2\\cdot y=10",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image121.png",
+      "notes": []
+    },
+    {
+      "id": "image130",
+      "latex": "\\times ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image130.png",
+      "notes": []
+    },
+    {
+      "id": "image131",
+      "latex": "\\times ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image131.png",
+      "notes": []
+    },
+    {
+      "id": "image134",
+      "latex": "\\text{S}_{\\text{k}}\\circ \\text{S}_{\\frac{{}^{-}2}{3}}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image134.png",
+      "notes": []
+    },
+    {
+      "id": "image135",
+      "latex": "\\left[ \\begin{matrix}1 & 0 \\\\ 0 & 1\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image135.png",
+      "notes": []
+    },
+    {
+      "id": "image136",
+      "latex": "\\text{S}_{\\text{2}}\\circ \\text{S}_{\\text{k}}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image136.png",
+      "notes": []
+    },
+    {
+      "id": "image137",
+      "latex": "\\left[ \\begin{matrix}5 & 0 \\\\ 0 & 5\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image137.png",
+      "notes": []
+    },
+    {
+      "id": "image138",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image138.png",
+      "notes": []
+    },
+    {
+      "id": "image139",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image139.png",
+      "notes": []
+    },
+    {
+      "id": "image140",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image140.png",
+      "notes": []
+    },
+    {
+      "id": "image142",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image142.png",
+      "notes": []
+    },
+    {
+      "id": "image143",
+      "latex": "\\left( \\frac{{}^{-}8}{7}\\mathrm{,}\\frac{1}{3} \\right)",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image143.png",
+      "notes": []
+    },
+    {
+      "id": "image144",
+      "latex": "\\frac{{}^{-}8}{7}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image144.png",
+      "notes": []
+    },
+    {
+      "id": "image145",
+      "latex": "\\frac{{}^{-}7}{8}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image145.png",
+      "notes": []
+    },
+    {
+      "id": "image146",
+      "latex": "\\frac{{}^{-}7}{8}\\cdot \\frac{1}{3}=\\frac{{}^{-}7}{24}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image146.png",
+      "notes": []
+    },
+    {
+      "id": "image147",
+      "latex": "\\frac{{}^{-}7}{24}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image147.png",
+      "notes": []
+    },
+    {
+      "id": "image148",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image148.png",
+      "notes": []
+    },
+    {
+      "id": "image150",
+      "latex": "\\ell _{1}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image150.png",
+      "notes": []
+    },
+    {
+      "id": "image151",
+      "latex": "\\ell _{2}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image151.png",
+      "notes": []
+    },
+    {
+      "id": "image152",
+      "latex": "\\ell _{3}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image152.png",
+      "notes": []
+    },
+    {
+      "id": "image153",
+      "latex": "\\ell _{1}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image153.png",
+      "notes": []
+    },
+    {
+      "id": "image154",
+      "latex": "\\ell _{2}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image154.png",
+      "notes": []
+    },
+    {
+      "id": "image155",
+      "latex": "\\ell _{3}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image155.png",
+      "notes": []
+    },
+    {
+      "id": "image156",
+      "latex": "y-\\text{axis}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image156.png",
+      "notes": []
+    },
+    {
+      "id": "image158",
+      "latex": "k",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image158.png",
+      "notes": []
+    },
+    {
+      "id": "image159",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image159.png",
+      "notes": []
+    },
+    {
+      "id": "image160",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image160.png",
+      "notes": []
+    },
+    {
+      "id": "image161",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image161.png",
+      "notes": []
+    },
+    {
+      "id": "image162",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image162.png",
+      "notes": []
+    },
+    {
+      "id": "image163",
+      "latex": "k",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image163.png",
+      "notes": []
+    },
+    {
+      "id": "image165",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image165.png",
+      "notes": []
+    },
+    {
+      "id": "image166",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image166.png",
+      "notes": []
+    },
+    {
+      "id": "image167",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image167.png",
+      "notes": []
+    },
+    {
+      "id": "image172",
+      "latex": "\\left[ \\begin{matrix}1 & 0 \\\\ 0 & 1\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image172.png",
+      "notes": []
+    },
+    {
+      "id": "image173",
+      "latex": "\\text{S}_{\\frac{{}^{-}\\text{3}}{\\text{4}}}\\circ \\text{S}_{\\text{k}}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image173.png",
+      "notes": []
+    },
+    {
+      "id": "image174",
+      "latex": "\\text{S}_{{}^{-}\\text{3}}\\circ \\text{S}_{\\text{k}}=\\text{S}_{\\text{7}}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image174.png",
+      "notes": []
+    },
+    {
+      "id": "image177",
+      "latex": "\\ell _{1}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image177.png",
+      "notes": []
+    },
+    {
+      "id": "image178",
+      "latex": "\\sqrt{3}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image178.png",
+      "notes": []
+    },
+    {
+      "id": "image179",
+      "latex": "\\ell _{2}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image179.png",
+      "notes": []
+    },
+    {
+      "id": "image180",
+      "latex": "\\ell _{3}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image180.png",
+      "notes": []
+    },
+    {
+      "id": "image181",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image181.png",
+      "notes": []
+    },
+    {
+      "id": "image182",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image182.png",
+      "notes": []
+    },
+    {
+      "id": "image183",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image183.png",
+      "notes": []
+    },
+    {
+      "id": "image184",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image184.png",
+      "notes": []
+    },
+    {
+      "id": "image185",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image185.png",
+      "notes": []
+    },
+    {
+      "id": "image186",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image186.png",
+      "notes": []
+    },
+    {
+      "id": "image187",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image187.png",
+      "notes": []
+    },
+    {
+      "id": "image188",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image188.png",
+      "notes": []
+    },
+    {
+      "id": "image190",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image190.png",
+      "notes": []
+    },
+    {
+      "id": "image191",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image191.png",
+      "notes": []
+    },
+    {
+      "id": "image192",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image192.png",
+      "notes": []
+    },
+    {
+      "id": "image194",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image194.png",
+      "notes": []
+    },
+    {
+      "id": "image197",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image197.png",
+      "notes": []
+    },
+    {
+      "id": "image198",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image198.png",
+      "notes": []
+    },
+    {
+      "id": "image201",
+      "latex": "\\mathrm{(}1\\mathrm{,}\\pi \\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image201.png",
+      "notes": []
+    },
+    {
+      "id": "image202",
+      "latex": "y=2\\mathrm{.}3\\cdot x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image202.png",
+      "notes": []
+    },
+    {
+      "id": "image203",
+      "latex": "y=2\\mathrm{.}3\\cdot \\mathrm{(}x+3\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image203.png",
+      "notes": []
+    },
+    {
+      "id": "image208",
+      "latex": "\\mathrm{(}5+{}^{-}3\\mathrm{,}{}^{-}7\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image208.png",
+      "notes": []
+    },
+    {
+      "id": "image210",
+      "latex": "\\mathrm{(}5+{}^{-}3\\mathrm{,}{}^{-}7\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image210.png",
+      "notes": []
+    },
+    {
+      "id": "image211",
+      "latex": "y={}^{-}1\\mathrm{.}4\\cdot \\mathrm{(}x+3\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image211.png",
+      "notes": []
+    },
+    {
+      "id": "image212",
+      "latex": "y={}^{-}1\\mathrm{.}4\\cdot x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image212.png",
+      "notes": []
+    },
+    {
+      "id": "image213",
+      "latex": "\\mathrm{(}5\\mathrm{,}{}^{-}7\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image213.png",
+      "notes": []
+    },
+    {
+      "id": "image215",
+      "latex": "\\mathrm{(}5\\mathrm{,}{}^{-}7\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image215.png",
+      "notes": []
+    },
+    {
+      "id": "image217",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image217.png",
+      "notes": []
+    },
+    {
+      "id": "image218",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image218.png",
+      "notes": []
+    },
+    {
+      "id": "image219",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image219.png",
+      "notes": []
+    },
+    {
+      "id": "image220",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image220.png",
+      "notes": []
+    },
+    {
+      "id": "image222",
+      "latex": "\\times ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image222.png",
+      "notes": []
+    },
+    {
+      "id": "image223",
+      "latex": "\\sqrt{0\\mathrm{.}9}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image223.png",
+      "notes": []
+    },
+    {
+      "id": "image225",
+      "latex": "\\mathrm{(}1\\mathrm{,}\\sqrt{0\\mathrm{.}9}\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image225.png",
+      "notes": []
+    },
+    {
+      "id": "image226",
+      "latex": "\\sqrt{0\\mathrm{.}9}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image226.png",
+      "notes": []
+    },
+    {
+      "id": "image227",
+      "latex": "\\mathrm{(}1\\mathrm{,}\\sqrt{0\\mathrm{.}9}\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image227.png",
+      "notes": []
+    },
+    {
+      "id": "image228",
+      "latex": "\\mathrm{(}1\\mathrm{,}\\sqrt{0\\mathrm{.}9}\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image228.png",
+      "notes": []
+    },
+    {
+      "id": "image229",
+      "latex": "\\mathrm{(}1\\mathrm{,}\\sqrt{0\\mathrm{.}9}\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image229.png",
+      "notes": []
+    },
+    {
+      "id": "image230",
+      "latex": "\\sqrt{0\\mathrm{.}9}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image230.png",
+      "notes": []
+    },
+    {
+      "id": "image232",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image232.png",
+      "notes": []
+    },
+    {
+      "id": "image233",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image233.png",
+      "notes": []
+    },
+    {
+      "id": "image234",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image234.png",
+      "notes": []
+    },
+    {
+      "id": "image235",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image235.png",
+      "notes": []
+    },
+    {
+      "id": "image236",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image236.png",
+      "notes": []
+    },
+    {
+      "id": "image237",
+      "latex": "\\text{T}_{1}\\mathrm{(}x\\mathrm{,}y\\mathrm{)}=",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image237.png",
+      "notes": []
+    },
+    {
+      "id": "image238",
+      "latex": "\\text{T}_{2}\\mathrm{(}x\\mathrm{,}y\\mathrm{)}=",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image238.png",
+      "notes": []
+    },
+    {
+      "id": "image239",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image239.png",
+      "notes": []
+    },
+    {
+      "id": "image240",
+      "latex": "\\text{R}_{90}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image240.png",
+      "notes": []
+    },
+    {
+      "id": "image241",
+      "latex": "\\text{R}_{90}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image241.png",
+      "notes": []
+    },
+    {
+      "id": "image242",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image242.png",
+      "notes": []
+    },
+    {
+      "id": "image245",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image245.png",
+      "notes": []
+    },
+    {
+      "id": "image246",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image246.png",
+      "notes": []
+    },
+    {
+      "id": "image247",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image247.png",
+      "notes": []
+    },
+    {
+      "id": "image248",
+      "latex": "y=\\text{m}\\cdot x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image248.png",
+      "notes": []
+    },
+    {
+      "id": "image249",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image249.png",
+      "notes": []
+    },
+    {
+      "id": "image250",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image250.png",
+      "notes": []
+    },
+    {
+      "id": "image251",
+      "latex": "y=\\text{m}\\cdot x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image251.png",
+      "notes": []
+    },
+    {
+      "id": "image252",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image252.png",
+      "notes": []
+    },
+    {
+      "id": "image253",
+      "latex": "y=\\text{m}\\cdot x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image253.png",
+      "notes": []
+    },
+    {
+      "id": "image255",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image255.png",
+      "notes": []
+    },
+    {
+      "id": "image256",
+      "latex": "\\sqrt{0\\mathrm{.}63}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image256.png",
+      "notes": []
+    },
+    {
+      "id": "image257",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image257.png",
+      "notes": []
+    },
+    {
+      "id": "image258",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image258.png",
+      "notes": []
+    },
+    {
+      "id": "image261",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image261.png",
+      "notes": []
+    },
+    {
+      "id": "image262",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image262.png",
+      "notes": []
+    },
+    {
+      "id": "image263",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image263.png",
+      "notes": []
+    },
+    {
+      "id": "image264",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image264.png",
+      "notes": []
+    },
+    {
+      "id": "image265",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image265.png",
+      "notes": []
+    },
+    {
+      "id": "image266",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image266.png",
+      "notes": []
+    },
+    {
+      "id": "image267",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image267.png",
+      "notes": []
+    },
+    {
+      "id": "image268",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image268.png",
+      "notes": []
+    },
+    {
+      "id": "image269",
+      "latex": "\\text{T}_{1}\\mathrm{(}x\\mathrm{,}y\\mathrm{)}=",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image269.png",
+      "notes": []
+    },
+    {
+      "id": "image270",
+      "latex": "\\text{T}_{2}\\mathrm{(}x\\mathrm{,}y\\mathrm{)}=",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image270.png",
+      "notes": []
+    },
+    {
+      "id": "image271",
+      "latex": "\\mathrm{(}y+{}^{-}7\\mathrm{)}=\\frac{{}^{-}9}{8}\\cdot \\mathrm{(}x+3\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image271.png",
+      "notes": []
+    },
+    {
+      "id": "image272",
+      "latex": "\\mathrm{(}y+2\\mathrm{)}=\\frac{{}^{-}9}{8}\\cdot \\mathrm{(}x+{}^{-}5\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image272.png",
+      "notes": []
+    },
+    {
+      "id": "image273",
+      "latex": "y={}^{-}11\\mathrm{.}5\\cdot x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image273.png",
+      "notes": []
+    },
+    {
+      "id": "image274",
+      "latex": "\\mathrm{(}y+10\\mathrm{)}={}^{-}11\\mathrm{.}5\\cdot \\mathrm{(}x+{}^{-}9\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image274.png",
+      "notes": []
+    },
+    {
+      "id": "image275",
+      "latex": "y",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image275.png",
+      "notes": []
+    },
+    {
+      "id": "image276",
+      "latex": "\\mathrm{(}y+{}^{-}2\\mathrm{)}=1\\mathrm{.}4\\cdot \\mathrm{(}x+7\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image276.png",
+      "notes": []
+    },
+    {
+      "id": "image277",
+      "latex": "\\mathrm{(}y+13\\mathrm{)}=1\\mathrm{.}4\\cdot x+9\\mathrm{.}8",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image277.png",
+      "notes": []
+    },
+    {
+      "id": "image278",
+      "latex": "\\mathrm{(}y+\\pi \\mathrm{)}=1\\mathrm{.}4\\cdot x+9\\mathrm{.}8",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image278.png",
+      "notes": []
+    },
+    {
+      "id": "image279",
+      "latex": "y=2\\cdot \\mathrm{(}x+{}^{-}3\\mathrm{)}+8",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image279.png",
+      "notes": []
+    },
+    {
+      "id": "image280",
+      "latex": "y=\\mathrm{a}\\cdot x+\\text{b}\\mathrm{.}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image280.png",
+      "notes": []
+    },
+    {
+      "id": "image281",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image281.png",
+      "notes": []
+    },
+    {
+      "id": "image282",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image282.png",
+      "notes": []
+    },
+    {
+      "id": "image284",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image284.png",
+      "notes": []
+    },
+    {
+      "id": "image285",
+      "latex": "\\frac{1}{5}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image285.png",
+      "notes": []
+    },
+    {
+      "id": "image286",
+      "latex": "\\frac{1}{5}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image286.png",
+      "notes": []
+    },
+    {
+      "id": "image287",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image287.png",
+      "notes": []
+    },
+    {
+      "id": "image288",
+      "latex": "\\frac{1}{5}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image288.png",
+      "notes": []
+    },
+    {
+      "id": "image289",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image289.png",
+      "notes": []
+    },
+    {
+      "id": "image290",
+      "latex": "y=\\frac{1}{5}\\cdot x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image290.png",
+      "notes": []
+    },
+    {
+      "id": "image291",
+      "latex": "\\frac{1}{5}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image291.png",
+      "notes": []
+    },
+    {
+      "id": "image292",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image292.png",
+      "notes": []
+    },
+    {
+      "id": "image293",
+      "latex": "\\frac{1}{5}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image293.png",
+      "notes": []
+    },
+    {
+      "id": "image294",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image294.png",
+      "notes": []
+    },
+    {
+      "id": "image295",
+      "latex": "y=\\frac{1}{5}\\cdot x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image295.png",
+      "notes": []
+    },
+    {
+      "id": "image296",
+      "latex": "y=\\frac{1}{5}\\cdot x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image296.png",
+      "notes": []
+    },
+    {
+      "id": "image297",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image297.png",
+      "notes": []
+    },
+    {
+      "id": "image298",
+      "latex": "\\mathrm{(}x\\mathrm{,}y\\mathrm{)}=\\mathrm{(}x+{}^{-}5\\mathrm{,}y+3\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image298.png",
+      "notes": []
+    },
+    {
+      "id": "image299",
+      "latex": "\\mathrm{(}x\\mathrm{,}y\\mathrm{)}=\\mathrm{(}x+5\\mathrm{,}y+5\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image299.png",
+      "notes": []
+    },
+    {
+      "id": "image300",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image300.png",
+      "notes": []
+    },
+    {
+      "id": "image301",
+      "latex": "y=\\frac{1}{5}\\cdot x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image301.png",
+      "notes": []
+    },
+    {
+      "id": "image302",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image302.png",
+      "notes": []
+    },
+    {
+      "id": "image303",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image303.png",
+      "notes": []
+    },
+    {
+      "id": "image304",
+      "latex": "\\mathrm{(}y+{}^{-}5\\mathrm{)}=\\frac{1}{5}\\cdot \\mathrm{(}x+{}^{-}5\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image304.png",
+      "notes": []
+    },
+    {
+      "id": "image305",
+      "latex": "\\mathrm{(}y+{}^{-}3\\mathrm{)}=\\frac{1}{5}\\cdot \\mathrm{(}x+5\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image305.png",
+      "notes": []
+    },
+    {
+      "id": "image306",
+      "latex": "\\mathrm{(}y+{}^{-}5\\mathrm{)}=\\frac{1}{5}\\cdot \\mathrm{(}x+3\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image306.png",
+      "notes": []
+    },
+    {
+      "id": "image307",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image307.png",
+      "notes": []
+    },
+    {
+      "id": "image308",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image308.png",
+      "notes": []
+    },
+    {
+      "id": "image309",
+      "latex": "\\text{R}_{90}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image309.png",
+      "notes": []
+    },
+    {
+      "id": "image310",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image310.png",
+      "notes": []
+    },
+    {
+      "id": "image311",
+      "latex": "\\frac{7}{5}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image311.png",
+      "notes": []
+    },
+    {
+      "id": "image312",
+      "latex": "\\frac{7}{5}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image312.png",
+      "notes": []
+    },
+    {
+      "id": "image313",
+      "latex": "\\frac{{}^{-}5}{7}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image313.png",
+      "notes": []
+    },
+    {
+      "id": "image314",
+      "latex": "y=1\\mathrm{.}6\\cdot x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image314.png",
+      "notes": []
+    },
+    {
+      "id": "image315",
+      "latex": "\\mathrm{(}y+{}^{-}5\\mathrm{)}=1\\mathrm{.}6\\cdot \\mathrm{(}x+8\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image315.png",
+      "notes": []
+    },
+    {
+      "id": "image316",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image316.png",
+      "notes": []
+    },
+    {
+      "id": "image317",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image317.png",
+      "notes": []
+    },
+    {
+      "id": "image318",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image318.png",
+      "notes": []
+    },
+    {
+      "id": "image319",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image319.png",
+      "notes": []
+    },
+    {
+      "id": "image320",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image320.png",
+      "notes": []
+    },
+    {
+      "id": "image321",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image321.png",
+      "notes": []
+    },
+    {
+      "id": "image322",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image322.png",
+      "notes": []
+    },
+    {
+      "id": "image323",
+      "latex": "\\text{T}_{1}\\mathrm{(}x\\mathrm{,}y\\mathrm{)}=",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image323.png",
+      "notes": []
+    },
+    {
+      "id": "image324",
+      "latex": "\\text{T}_{2}\\mathrm{(}x\\mathrm{,}y\\mathrm{)}=",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image324.png",
+      "notes": []
+    },
+    {
+      "id": "image325",
+      "latex": "\\mathrm{(}y+2\\mathrm{)}=\\frac{7}{8}\\cdot \\mathrm{(}x+5\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image325.png",
+      "notes": []
+    },
+    {
+      "id": "image326",
+      "latex": "\\mathrm{(}y+{}^{-}5\\mathrm{)}=\\frac{7}{8}\\cdot \\mathrm{(}x+{}^{-}3\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image326.png",
+      "notes": []
+    },
+    {
+      "id": "image327",
+      "latex": "\\mathrm{(}y+9\\mathrm{)}=\\frac{7}{8}\\cdot \\mathrm{(}x+13\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image327.png",
+      "notes": []
+    },
+    {
+      "id": "image328",
+      "latex": "y",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image328.png",
+      "notes": []
+    },
+    {
+      "id": "image329",
+      "latex": "y=\\text{a}\\cdot x+\\text{b}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image329.png",
+      "notes": []
+    },
+    {
+      "id": "image330",
+      "latex": "\\mathrm{(}y+2\\mathrm{)}=\\frac{7}{8}\\cdot \\mathrm{(}x+5\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image330.png",
+      "notes": []
+    },
+    {
+      "id": "image331",
+      "latex": "\\mathrm{(}y+{}^{-}5\\mathrm{)}=\\frac{7}{8}\\cdot \\mathrm{(}x+{}^{-}3\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image331.png",
+      "notes": []
+    },
+    {
+      "id": "image332",
+      "latex": "\\mathrm{(}y+9\\mathrm{)}=\\frac{7}{8}\\cdot \\mathrm{(}x+13\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image332.png",
+      "notes": []
+    },
+    {
+      "id": "image333",
+      "latex": "x\\cdot \\frac{18}{11}=35",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image333.png",
+      "notes": []
+    },
+    {
+      "id": "image335",
+      "latex": "y={}^{-}2\\mathrm{.}8\\cdot x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image335.png",
+      "notes": []
+    },
+    {
+      "id": "image337",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image337.png",
+      "notes": []
+    },
+    {
+      "id": "image338",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image338.png",
+      "notes": []
+    },
+    {
+      "id": "image339",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image339.png",
+      "notes": []
+    },
+    {
+      "id": "image340",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image340.png",
+      "notes": []
+    },
+    {
+      "id": "image341",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image341.png",
+      "notes": []
+    },
+    {
+      "id": "image342",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image342.png",
+      "notes": []
+    },
+    {
+      "id": "image343",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image343.png",
+      "notes": []
+    },
+    {
+      "id": "image344",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image344.png",
+      "notes": []
+    },
+    {
+      "id": "image345",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image345.png",
+      "notes": []
+    },
+    {
+      "id": "image346",
+      "latex": "y+{}^{-}7=\\frac{{}^{-}4}{13}\\cdot \\mathrm{(}x+2\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image346.png",
+      "notes": []
+    },
+    {
+      "id": "image347",
+      "latex": "y+7=\\frac{{}^{-}4}{13}\\cdot \\mathrm{(}x+{}^{-}2\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image347.png",
+      "notes": []
+    },
+    {
+      "id": "image348",
+      "latex": "y+{}^{-}3=\\frac{{}^{-}4}{13}\\cdot \\mathrm{(}x+{}^{-}11\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image348.png",
+      "notes": []
+    },
+    {
+      "id": "image349",
+      "latex": "y+3=\\frac{{}^{-}4}{13}\\cdot \\mathrm{(}x+11\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image349.png",
+      "notes": []
+    },
+    {
+      "id": "image350",
+      "latex": "y",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image350.png",
+      "notes": []
+    },
+    {
+      "id": "image351",
+      "latex": "y=\\text{a}\\cdot x+\\text{b}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image351.png",
+      "notes": []
+    },
+    {
+      "id": "image352",
+      "latex": "y+{}^{-}7=\\frac{{}^{-}4}{13}\\cdot \\mathrm{(}x+2\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image352.png",
+      "notes": []
+    },
+    {
+      "id": "image353",
+      "latex": "y+{}^{-}3=\\frac{{}^{-}4}{13}\\cdot \\mathrm{(}x+{}^{-}11\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image353.png",
+      "notes": []
+    },
+    {
+      "id": "image354",
+      "latex": "x-\\text{axis}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image354.png",
+      "notes": []
+    },
+    {
+      "id": "image355",
+      "latex": "y-\\text{axis}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image355.png",
+      "notes": []
+    },
+    {
+      "id": "image356",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image356.png",
+      "notes": []
+    },
+    {
+      "id": "image358",
+      "latex": "\\text{S}_{\\frac{\\text{1}}{\\text{a}}}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image358.png",
+      "notes": []
+    },
+    {
+      "id": "image359",
+      "latex": "\\left( 1\\mathrm{,}\\frac{\\text{a}}{\\text{b}} \\right)",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image359.png",
+      "notes": []
+    },
+    {
+      "id": "image360",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image360.png",
+      "notes": []
+    },
+    {
+      "id": "image361",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image361.png",
+      "notes": []
+    },
+    {
+      "id": "image362",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image362.png",
+      "notes": []
+    },
+    {
+      "id": "image363",
+      "latex": "\\left[ \\begin{matrix}\\text{0} & {}^{-}\\text{1} \\\\ \\text{1} & \\text{0}\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}\\text{a} \\\\ \\text{b}\\end{matrix} \\right]=\\left[ \\begin{matrix}{}^{-}\\text{b} \\\\ \\text{a}\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image363.png",
+      "notes": []
+    },
+    {
+      "id": "image364",
+      "latex": "\\left( 1\\mathrm{,}\\frac{{}^{-}\\text{a}}{\\text{b}} \\right)",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image364.png",
+      "notes": []
+    },
+    {
+      "id": "image365",
+      "latex": "\\text{S}_{\\frac{{}^{-}1}{\\text{b}}}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image365.png",
+      "notes": []
+    },
+    {
+      "id": "image366",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image366.png",
+      "notes": []
+    },
+    {
+      "id": "image367",
+      "latex": "\\frac{\\text{b}}{\\text{a}}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image367.png",
+      "notes": []
+    },
+    {
+      "id": "image368",
+      "latex": "\\frac{{}^{-}\\text{a}}{\\text{b}}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image368.png",
+      "notes": []
+    },
+    {
+      "id": "image369",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image369.png",
+      "notes": []
+    },
+    {
+      "id": "image370",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image370.png",
+      "notes": []
+    },
+    {
+      "id": "image371",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image371.png",
+      "notes": []
+    },
+    {
+      "id": "image372",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image372.png",
+      "notes": []
+    },
+    {
+      "id": "image373",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image373.png",
+      "notes": []
+    },
+    {
+      "id": "image374",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image374.png",
+      "notes": []
+    },
+    {
+      "id": "image376",
+      "latex": "y=3\\cdot \\mathrm{(}x+5\\mathrm{)}+11",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image376.png",
+      "notes": []
+    },
+    {
+      "id": "image378",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image378.png",
+      "notes": []
+    },
+    {
+      "id": "image379",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image379.png",
+      "notes": []
+    },
+    {
+      "id": "image380",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image380.png",
+      "notes": []
+    },
+    {
+      "id": "image381",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image381.png",
+      "notes": []
+    },
+    {
+      "id": "image382",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image382.png",
+      "notes": []
+    },
+    {
+      "id": "image383",
+      "latex": "\\mathrm{(}x\\mathrm{,}y\\mathrm{)}=\\mathrm{(}x+{}^{-}2\\mathrm{,}y+3\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image383.png",
+      "notes": []
+    },
+    {
+      "id": "image384",
+      "latex": "\\frac{1}{3}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image384.png",
+      "notes": []
+    },
+    {
+      "id": "image385",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image385.png",
+      "notes": []
+    },
+    {
+      "id": "image386",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image386.png",
+      "notes": []
+    },
+    {
+      "id": "image387",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image387.png",
+      "notes": []
+    },
+    {
+      "id": "image388",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image388.png",
+      "notes": []
+    },
+    {
+      "id": "image389",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image389.png",
+      "notes": []
+    },
+    {
+      "id": "image390",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image390.png",
+      "notes": []
+    },
+    {
+      "id": "image391",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image391.png",
+      "notes": []
+    },
+    {
+      "id": "image393",
+      "latex": "y=3\\mathrm{.}4\\cdot x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image393.png",
+      "notes": []
+    },
+    {
+      "id": "image396",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image396.png",
+      "notes": []
+    },
+    {
+      "id": "image398",
+      "latex": "y={}^{-}4\\cdot \\mathrm{(}x+2\\mathrm{)}+{}^{-}8",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image398.png",
+      "notes": []
+    },
+    {
+      "id": "image400",
+      "latex": "y={}^{-}3\\cdot x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image400.png",
+      "notes": []
+    },
+    {
+      "id": "image404",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image404.png",
+      "notes": []
+    },
+    {
+      "id": "image405",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image405.png",
+      "notes": []
+    },
+    {
+      "id": "image406",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image406.png",
+      "notes": []
+    },
+    {
+      "id": "image407",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image407.png",
+      "notes": []
+    },
+    {
+      "id": "image408",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image408.png",
+      "notes": []
+    },
+    {
+      "id": "image409",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image409.png",
+      "notes": []
+    },
+    {
+      "id": "image410",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image410.png",
+      "notes": []
+    },
+    {
+      "id": "image411",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image411.png",
+      "notes": []
+    },
+    {
+      "id": "image412",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image412.png",
+      "notes": []
+    },
+    {
+      "id": "image414",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image414.png",
+      "notes": []
+    },
+    {
+      "id": "image415",
+      "latex": "y=\\frac{{}^{-}5}{8}\\cdot x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image415.png",
+      "notes": []
+    },
+    {
+      "id": "image416",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image416.png",
+      "notes": []
+    },
+    {
+      "id": "image417",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image417.png",
+      "notes": []
+    },
+    {
+      "id": "image418",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image418.png",
+      "notes": []
+    },
+    {
+      "id": "image419",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image419.png",
+      "notes": []
+    },
+    {
+      "id": "image420",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image420.png",
+      "notes": []
+    },
+    {
+      "id": "image422",
+      "latex": "y=\\frac{{}^{-}5}{8}\\cdot \\mathrm{(}x+2\\mathrm{)}+3",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image422.png",
+      "notes": []
+    },
+    {
+      "id": "image423",
+      "latex": "y=\\frac{{}^{-}5}{8}\\cdot \\mathrm{(}x+{}^{-}6\\mathrm{)}+{}^{-}2",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image423.png",
+      "notes": []
+    },
+    {
+      "id": "image424",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image424.png",
+      "notes": []
+    },
+    {
+      "id": "image425",
+      "latex": "y=\\frac{{}^{-}5}{8}\\cdot x+\\frac{14}{8}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image425.png",
+      "notes": []
+    },
+    {
+      "id": "image426",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image426.png",
+      "notes": []
+    },
+    {
+      "id": "image427",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image427.png",
+      "notes": []
+    },
+    {
+      "id": "image428",
+      "latex": "y=3\\cdot \\mathrm{(}x+{}^{-}4\\mathrm{)}+17",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image428.png",
+      "notes": []
+    },
+    {
+      "id": "image432",
+      "latex": "y=\\frac{24}{9}\\cdot \\mathrm{(}x+{}^{-}1\\mathrm{.}5\\mathrm{)}+10",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image432.png",
+      "notes": []
+    },
+    {
+      "id": "image434",
+      "latex": "\\sqrt{9}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image434.png",
+      "notes": []
+    },
+    {
+      "id": "image435",
+      "latex": "6^{2}=36",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image435.png",
+      "notes": []
+    },
+    {
+      "id": "image436",
+      "latex": "5^{2}=10",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image436.png",
+      "notes": []
+    },
+    {
+      "id": "image437",
+      "latex": "\\frac{1}{6}\\div 2=\\frac{1}{12}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image437.png",
+      "notes": []
+    },
+    {
+      "id": "image438",
+      "latex": "x+y=10",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image438.png",
+      "notes": []
+    },
+    {
+      "id": "image439",
+      "latex": "x+2\\cdot y=16",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image439.png",
+      "notes": []
+    },
+    {
+      "id": "image440",
+      "latex": "\\begin{array}{l}\\mathrm{(\\#}1\\mathrm{)}\\hspace{0.5em}\\mathrm{(}y+{}^{-}7\\mathrm{)}={}^{-}2\\cdot \\mathrm{(}x+{}^{-}4\\mathrm{);}\\hspace{2.25em}\\text{(\\#2)}\\hspace{0.75em}y+{}^{-}7={}^{-}2\\cdot x+\\mathrm{\\_\\_\\_\\_} \\\\ \\mathrm{(\\#}3\\mathrm{)}\\hspace{0.5em}y={}^{-}2\\cdot x+\\mathrm{\\_\\_\\_;}\\hspace{4.0em}\\text{(\\#4)}\\hspace{0.5em}\\mathrm{\\_\\_\\_}+1\\cdot y=15\\end{array}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image440.png",
+      "notes": []
+    },
+    {
+      "id": "image441",
+      "latex": "2x+{}^{-}3y=11",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image441.png",
+      "notes": []
+    },
+    {
+      "id": "image442",
+      "latex": "y=",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image442.png",
+      "notes": []
+    },
+    {
+      "id": "image443",
+      "latex": "x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image443.png",
+      "notes": []
+    },
+    {
+      "id": "image445",
+      "latex": "\\frac{70}{3}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image445.png",
+      "notes": []
+    },
+    {
+      "id": "image446",
+      "latex": "y=\\frac{24}{9}\\cdot \\mathrm{(}x-1\\mathrm{.}5\\mathrm{)}+10+\\frac{14}{9}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image446.png",
+      "notes": []
+    },
+    {
+      "id": "image447",
+      "latex": "y=\\frac{24}{9}\\cdot x+\\mathrm{\\_\\_\\_}+10+\\frac{14}{9}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image447.png",
+      "notes": []
+    },
+    {
+      "id": "image448",
+      "latex": "y=\\frac{24}{9}\\cdot x+\\mathrm{\\_\\_\\_}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image448.png",
+      "notes": []
+    },
+    {
+      "id": "image451",
+      "latex": "y=\\frac{24}{9}\\cdot \\mathrm{(}x+{}^{-}1\\mathrm{.}5\\mathrm{)}+10",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image451.png",
+      "notes": []
+    },
+    {
+      "id": "image452",
+      "latex": "y=\\frac{24}{9}\\cdot \\mathrm{(}x+{}^{-}1\\mathrm{.}5\\mathrm{)}+10",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image452.png",
+      "notes": []
+    },
+    {
+      "id": "image454",
+      "latex": "y=\\frac{24}{9}\\cdot \\mathrm{(}x+{}^{-}1\\mathrm{.}5\\mathrm{)}+10",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image454.png",
+      "notes": []
+    },
+    {
+      "id": "image455",
+      "latex": "y=\\frac{24}{9}\\cdot \\mathrm{(}x+{}^{-}1\\mathrm{.}5\\mathrm{)}+10",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image455.png",
+      "notes": []
+    },
+    {
+      "id": "image456",
+      "latex": "\\mathrm{(}6\\mathrm{.}5\\mathrm{,}\\frac{70}{3}\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image456.png",
+      "notes": []
+    },
+    {
+      "id": "image457",
+      "latex": "28-\\frac{70}{3}=\\frac{84}{3}-\\frac{70}{3}=\\frac{14}{3}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image457.png",
+      "notes": []
+    },
+    {
+      "id": "image458",
+      "latex": "\\mathrm{(}6\\mathrm{.}5\\mathrm{,}\\frac{70}{3}\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image458.png",
+      "notes": []
+    },
+    {
+      "id": "image459",
+      "latex": "\\frac{1}{3}\\cdot \\frac{14}{3}=\\frac{14}{9}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image459.png",
+      "notes": []
+    },
+    {
+      "id": "image460",
+      "latex": "\\mathrm{(}x\\mathrm{,}y\\mathrm{)}=\\mathrm{(}x\\mathrm{,}y+\\frac{14}{9}\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image460.png",
+      "notes": []
+    },
+    {
+      "id": "image463",
+      "latex": "y=\\frac{24}{9}\\cdot \\mathrm{(}x+{}^{-}1\\mathrm{.}5\\mathrm{)}+10+\\frac{14}{9}\\hspace{0.5em}\\text{or}\\hspace{0.75em}y=\\frac{24}{9}\\cdot x+\\frac{{}^{-}36}{9}+\\frac{90}{9}+\\frac{14}{9}\\hspace{0.5em}\\text{or}\\hspace{0.5em}y=\\frac{24}{9}\\cdot x+\\frac{68}{9}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image463.png",
+      "notes": []
+    },
+    {
+      "id": "image466",
+      "latex": "3+2=\\sqrt{25}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image466.png",
+      "notes": []
+    },
+    {
+      "id": "image467",
+      "latex": "7>0",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image467.png",
+      "notes": []
+    },
+    {
+      "id": "image468",
+      "latex": "4\\div \\frac{1}{4}=1",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image468.png",
+      "notes": []
+    },
+    {
+      "id": "image469",
+      "latex": "0\\mathrm{.}3=\\frac{3}{10}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image469.png",
+      "notes": []
+    },
+    {
+      "id": "image470",
+      "latex": "\\sqrt{3^{2}+4^{2}}=3+4",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image470.png",
+      "notes": []
+    },
+    {
+      "id": "image471",
+      "latex": "{}^{-}7^{2}=49",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image471.png",
+      "notes": []
+    },
+    {
+      "id": "image472",
+      "latex": "x=4",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image472.png",
+      "notes": []
+    },
+    {
+      "id": "image473",
+      "latex": "x>3",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image473.png",
+      "notes": []
+    },
+    {
+      "id": "image474",
+      "latex": "1\\cdot x+0\\cdot y=4",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image474.png",
+      "notes": []
+    },
+    {
+      "id": "image475",
+      "latex": "0\\cdot x+1\\cdot y=3",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image475.png",
+      "notes": []
+    },
+    {
+      "id": "image476",
+      "latex": "1\\cdot x+0\\cdot y=4",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image476.png",
+      "notes": []
+    },
+    {
+      "id": "image477",
+      "latex": "0\\cdot x+1\\cdot y=3",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image477.png",
+      "notes": []
+    },
+    {
+      "id": "image478",
+      "latex": "\\text{a}\\cdot x+\\text{b}\\cdot y=\\text{c}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image478.png",
+      "notes": []
+    },
+    {
+      "id": "image479",
+      "latex": "\\mathrm{(}y+11\\mathrm{)}=5\\cdot \\mathrm{(}x+{}^{-}4\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image479.png",
+      "notes": []
+    },
+    {
+      "id": "image480",
+      "latex": "\\mathrm{(}y+{}^{-}1\\mathrm{.}2\\mathrm{)}={}^{-}0\\mathrm{.}6\\cdot \\mathrm{(}x+3\\mathrm{.}1\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image480.png",
+      "notes": []
+    },
+    {
+      "id": "image481",
+      "latex": "\\mathrm{(}y+{}^{-}106\\mathrm{.}3\\mathrm{)}={}^{-}0\\mathrm{.}52\\cdot \\mathrm{(}x+{}^{-}1956\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image481.png",
+      "notes": []
+    },
+    {
+      "id": "image483",
+      "latex": "y={}^{-}x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image483.png",
+      "notes": []
+    },
+    {
+      "id": "image484",
+      "latex": "r_{y={}^{-}x}\\circ \\text{R}_{270}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image484.png",
+      "notes": []
+    },
+    {
+      "id": "image485",
+      "latex": "\\text{a}\\cdot x+\\text{b}\\cdot y=\\text{c}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image485.png",
+      "notes": []
+    },
+    {
+      "id": "image486",
+      "latex": "\\mathrm{(}y+{}^{-}9\\mathrm{)}={}^{-}4\\cdot \\mathrm{(}x+7\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image486.png",
+      "notes": []
+    },
+    {
+      "id": "image487",
+      "latex": "\\mathrm{(}y+2\\mathrm{.}7\\mathrm{)}={}^{-}1\\mathrm{.}3\\cdot \\mathrm{(}x+{}^{-}5\\mathrm{.}7\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image487.png",
+      "notes": []
+    },
+    {
+      "id": "image488",
+      "latex": "\\mathrm{(}y+{}^{-}115\\mathrm{.}3\\mathrm{)}={}^{-}1\\mathrm{.}31\\cdot \\mathrm{(}x+{}^{-}1972\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image488.png",
+      "notes": []
+    },
+    {
+      "id": "image491",
+      "latex": "y=2\\cdot x+3",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image491.png",
+      "notes": []
+    },
+    {
+      "id": "image492",
+      "latex": "{}^{-}12\\cdot x+7\\cdot y=12",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image492.png",
+      "notes": []
+    },
+    {
+      "id": "image493",
+      "latex": "5\\cdot x+\\frac{{}^{-}3}{7}\\cdot y=4",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image493.png",
+      "notes": []
+    },
+    {
+      "id": "image495",
+      "latex": "3=\\sqrt{9}\\text{ and }{}^{-}2^{2}=4",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image495.png",
+      "notes": []
+    },
+    {
+      "id": "image496",
+      "latex": "3=\\sqrt{9}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image496.png",
+      "notes": []
+    },
+    {
+      "id": "image497",
+      "latex": "{}^{-}2^{2}=4",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image497.png",
+      "notes": []
+    },
+    {
+      "id": "image498",
+      "latex": "3=\\sqrt{9}\\text{ and }{}^{-}2^{2}=4",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image498.png",
+      "notes": []
+    },
+    {
+      "id": "image499",
+      "latex": "x^{2}=4",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image499.png",
+      "notes": []
+    },
+    {
+      "id": "image500",
+      "latex": "x<0",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image500.png",
+      "notes": []
+    },
+    {
+      "id": "image501",
+      "latex": "x^{2}=4",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image501.png",
+      "notes": []
+    },
+    {
+      "id": "image502",
+      "latex": "x<0",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image502.png",
+      "notes": []
+    },
+    {
+      "id": "image503",
+      "latex": "2^{2}=4",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image503.png",
+      "notes": []
+    },
+    {
+      "id": "image504",
+      "latex": "x+y=10",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image504.png",
+      "notes": []
+    },
+    {
+      "id": "image505",
+      "latex": "x+y=10",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image505.png",
+      "notes": []
+    },
+    {
+      "id": "image506",
+      "latex": "\\left\\{ \\begin{array}{l}x+y=10 \\\\ x<y\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image506.png",
+      "notes": []
+    },
+    {
+      "id": "image507",
+      "latex": "x+y=10",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image507.png",
+      "notes": []
+    },
+    {
+      "id": "image508",
+      "latex": "\\left\\{ \\begin{array}{l}x>y \\\\ x+y<0\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image508.png",
+      "notes": []
+    },
+    {
+      "id": "image509",
+      "latex": "\\left\\{ \\begin{array}{l}2\\cdot x+y=2 \\\\ x+y={}^{-}1\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image509.png",
+      "notes": []
+    },
+    {
+      "id": "image510",
+      "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+0\\cdot y=3 \\\\ 0\\cdot x+1\\cdot y={}^{-}4\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image510.png",
+      "notes": []
+    },
+    {
+      "id": "image511",
+      "latex": "\\left\\{ \\begin{array}{l}x+2\\cdot y=10 \\\\ x<y\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image511.png",
+      "notes": []
+    },
+    {
+      "id": "image513",
+      "latex": "\\text{a}\\cdot x+\\text{b}\\cdot y=\\text{c}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image513.png",
+      "notes": []
+    },
+    {
+      "id": "image514",
+      "latex": "\\mathrm{(}y+{}^{-}8\\mathrm{)}={}^{-}11\\cdot \\mathrm{(}x+15\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image514.png",
+      "notes": []
+    },
+    {
+      "id": "image515",
+      "latex": "\\mathrm{(}y+2\\mathrm{.}7\\mathrm{)}=1\\mathrm{.}7\\cdot \\mathrm{(}x+{}^{-}5\\mathrm{.}6\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image515.png",
+      "notes": []
+    },
+    {
+      "id": "image516",
+      "latex": "\\mathrm{(}y+{}^{-}19\\mathrm{.}81\\mathrm{)}={}^{-}0\\mathrm{.}352\\cdot \\mathrm{(}x+{}^{-}1988\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image516.png",
+      "notes": []
+    },
+    {
+      "id": "image518",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image518.png",
+      "notes": []
+    },
+    {
+      "id": "image519",
+      "latex": "\\mathrm{(}y+{}^{-}1\\mathrm{)}=\\frac{1}{2}\\cdot \\mathrm{(}x+2\\mathrm{)}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image519.png",
+      "notes": []
+    },
+    {
+      "id": "image520",
+      "latex": "y=\\frac{1}{2}\\cdot \\mathrm{(}x+2\\mathrm{)}+1",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image520.png",
+      "notes": []
+    },
+    {
+      "id": "image521",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image521.png",
+      "notes": []
+    },
+    {
+      "id": "image524",
+      "latex": "\\left\\{ \\begin{array}{l}x^{2}=25 \\\\ x<{}^{-}2\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image524.png",
+      "notes": []
+    },
+    {
+      "id": "image525",
+      "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+0\\cdot y=10 \\\\ 0\\cdot x+1\\cdot y={}^{-}4\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image525.png",
+      "notes": []
+    },
+    {
+      "id": "image526",
+      "latex": "y=\\text{a}\\cdot x+\\text{b}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image526.png",
+      "notes": []
+    },
+    {
+      "id": "image529",
+      "latex": "y=\\text{a}\\cdot x+\\text{b}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image529.png",
+      "notes": []
+    },
+    {
+      "id": "image530",
+      "latex": "y=\\text{a}\\cdot x+\\text{b}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image530.png",
+      "notes": []
+    },
+    {
+      "id": "image531",
+      "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+1\\cdot y={}^{-}7 \\\\ 0\\cdot x+1\\cdot y={}^{-}9\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image531.png",
+      "notes": []
+    },
+    {
+      "id": "image532",
+      "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+3\\cdot y={}^{-}5\\hspace{1.75em}\\text{A}_{\\text{1}} \\\\ 5\\cdot x+{}^{-}2\\cdot y=7\\hspace{1.5em}\\text{B}_{\\text{1}}\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image532.png",
+      "notes": []
+    },
+    {
+      "id": "image533",
+      "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+3\\cdot y\\text{ }={}^{-}5\\hspace{1.25em}\\text{A}_{\\text{2}} \\\\ 0\\cdot x+\\hspace{1.25em}\\text{=}\\hspace{2.25em}\\text{B}_{\\text{2}}\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image533.png",
+      "notes": []
+    },
+    {
+      "id": "image534",
+      "latex": "\\left( \\frac{11}{17}\\mathrm{,}\\frac{{}^{-}32}{17} \\right)",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image534.png",
+      "notes": []
+    },
+    {
+      "id": "image535",
+      "latex": "\\left\\{ \\begin{array}{l}3\\cdot x+4\\cdot y={}^{-}1 \\\\ {}^{-}5\\cdot x+{}^{-}7\\cdot y={}^{-}3\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image535.png",
+      "notes": []
+    },
+    {
+      "id": "image536",
+      "latex": "\\left\\{ \\begin{array}{l}14\\cdot x+18\\cdot y=2 \\\\ 7\\cdot x+9\\cdot y=1\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image536.png",
+      "notes": []
+    },
+    {
+      "id": "image537",
+      "latex": "\\left\\{ \\begin{array}{l}4\\cdot x+6\\cdot y=4 \\\\ 3\\cdot x+7\\cdot y=13\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image537.png",
+      "notes": []
+    },
+    {
+      "id": "image538",
+      "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+\\frac{6}{4}\\cdot y=1 \\\\ 3\\cdot x+7\\cdot y=13\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image538.png",
+      "notes": []
+    },
+    {
+      "id": "image539",
+      "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+\\frac{6}{4}\\cdot y=1 \\\\ 0\\cdot x+\\frac{10}{4}\\cdot y=10\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image539.png",
+      "notes": []
+    },
+    {
+      "id": "image540",
+      "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+\\frac{6}{4}\\cdot y=1 \\\\ 0\\cdot x+1\\cdot y=4\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image540.png",
+      "notes": []
+    },
+    {
+      "id": "image541",
+      "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+0\\cdot y=\\frac{{}^{-}20}{4} \\\\ 0\\cdot x+1\\cdot y=4\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image541.png",
+      "notes": []
+    },
+    {
+      "id": "image542",
+      "latex": "\\left[ \\begin{matrix}{}^{-}1\\mathrm{.}7 & 14 \\\\ 3\\mathrm{.}72 & {}^{-}0\\mathrm{.}122\\end{matrix} \\right]\\cdot \\text{X}=\\left[ \\begin{matrix}{}^{-}1\\mathrm{.}7 & 14 \\\\ 3\\mathrm{.}72 & {}^{-}0\\mathrm{.}122\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image542.png",
+      "notes": []
+    },
+    {
+      "id": "image544",
+      "latex": "y=x",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image544.png",
+      "notes": []
+    },
+    {
+      "id": "image545",
+      "latex": "\\text{R}_{90}\\circ r_{y=x}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image545.png",
+      "notes": []
+    },
+    {
+      "id": "image546",
+      "latex": "r_{y=x}\\circ \\text{R}_{90}",
+      "method": "native-equation-tree",
+      "status": "candidate",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image546.png",
+      "notes": []
+    }
+  ]
+}

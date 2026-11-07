@@ -1,0 +1,11 @@
+{
+  "kind": "annotated-math",
+  "expressions": [
+    {
+      "id": "expression-1",
+      "latex": "\\overset{x}{\\boxed{\\phantom{00}}}+{}^{-}3\\cdot \\overset{y}{\\boxed{\\phantom{00}}}=10"
+    }
+  ],
+  "source_asset_id": "image169",
+  "review": "needs_review"
+}

@@ -1,0 +1,14 @@
+{
+  "kind": "screenshot-transcript",
+  "lines": [
+    "Med–Med",
+    "y=ax+b",
+    "a=2.666666667",
+    "b=7.555555556"
+  ],
+  "notes": [
+    "Displayed rounded decimals, not substituted exact rational values."
+  ],
+  "source_asset_id": "image462",
+  "review": "needs_review"
+}

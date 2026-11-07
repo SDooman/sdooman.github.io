@@ -1,0 +1,157 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>GAT 21–40 conversion notes</title><link rel="stylesheet" href="assets/vendor/katex/katex.min.css"><style>html{scroll-behavior:smooth}body{max-width:1000px;margin:32px auto;padding:0 24px;font:18px/1.65 Georgia,serif;color:#202124;background:white}h1,h2,h3,nav,summary,button,select,.review-summary{font-family:system-ui,sans-serif}h1{font-size:2rem;line-height:1.3}h2{border-top:1px solid #ddd;margin-top:56px;padding-top:24px}h3{margin-top:28px}nav{font-size:14px;margin-bottom:24px;display:flex;flex-wrap:wrap;gap:16px}a{color:#175f9e}img{max-width:100%;height:auto;vertical-align:middle}table{border-collapse:collapse;font-size:16px;max-width:100%;margin:20px 0}th,td{padding:8px 12px;border:1px solid #ccc;text-align:left}th{background:#f3f5f7}pre{overflow:auto;font-size:14px}blockquote{margin:16px 0;padding:8px 16px;background:#f5f5f5;font-size:16px}.katex{font-size:1.06em}.katex-display{overflow-x:auto;overflow-y:hidden;padding:6px 0}.review-table{display:table;border-collapse:collapse;font:14px/1.4 system-ui,sans-serif;width:100%;margin:12px 0}.review-row{display:table-row}.review-cell{display:table-cell;border:1px solid #ccd2d7;padding:7px;vertical-align:middle}.review-header{font-weight:600;background:#f1f4f7}.data-links{display:block;font:13px/1.5 system-ui,sans-serif;margin-top:8px}.retained-media{border-color:#c59734!important;background:#fffbef!important}.review-summary{font-size:15px;color:#475569}.media-gallery{display:grid;gap:24px}.media-card{padding:22px;border:1px solid #ddd;border-radius:6px;scroll-margin-top:130px}.media-card h2{font-size:18px;border:0;margin:0 0 12px;padding:0}.media-card .graph-pair{align-items:center}.media-card img{max-height:320px;object-fit:contain}.gallery-controls{position:sticky;top:0;background:#fff;padding:12px;border-bottom:1px solid #ddd;z-index:5;font:14px system-ui;display:flex;gap:12px;flex-wrap:wrap}.code-source{overflow-wrap:anywhere;font:13px/1.5 monospace}.gallery-filtered{display:none}@media(max-width:640px){body{padding:0 14px;font-size:17px}table{font-size:13px}th,td{padding:5px}.review-cell{padding:4px}.media-card{padding:12px}}@media print{nav,.changes-bar,.gallery-controls{display:none}h2{break-before:page}}
+.changed-math{font:inherit;color:inherit;border:0;border-bottom:2px solid #d29c18;border-radius:4px;background:#fff0b3;padding:3px 5px;margin:0 2px;cursor:pointer;max-width:100%;vertical-align:baseline;text-align:left}
+.changed-math:hover,.changed-math:focus-visible{background:#ffe38a;outline:2px solid #986d06;outline-offset:2px}
+.changed-display{display:block;margin:14px 0;padding:6px 12px;overflow-x:auto;width:fit-content;max-width:100%}
+.changed-display .katex-display{margin:6px 0}.changed-math,.changed-graph{scroll-margin-top:180px}
+.changed-graph{display:block;border:3px solid #3583b7;border-radius:8px;background:#edf7ff;padding:20px;margin:24px 0}
+.diagram-heading{display:block;font:700 20px/1.3 system-ui,sans-serif;color:#145c8a;margin:0 0 10px}
+.diagram-side{display:block;margin:0;padding:12px;background:white;border-radius:5px;min-width:0}
+.diagram-caption{display:block;font:600 13px/1.5 system-ui,sans-serif;margin-bottom:12px;color:#285c7e}
+.diagram-math{display:block;margin-top:14px;padding:16px;background:white;border-radius:5px}.diagram-math[hidden]{display:none}.math-entry{display:block;overflow-x:auto}.math-entry-label{font:600 14px/1.5 system-ui,sans-serif}.toggle-diagram-math{font:14px system-ui,sans-serif;padding:8px 12px;margin-top:16px;border:1px solid #3583b7;border-radius:5px;background:white;color:#145c8a;cursor:pointer}
+.changed-graph h4{font:700 20px/1.3 system-ui,sans-serif;color:#145c8a;margin:0 0 10px}
+.graph-pair,.source-pair{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:24px}
+.graph-pair figure{margin:0;padding:12px;background:white;border-radius:5px}.graph-pair figcaption{font:600 13px/1.5 system-ui,sans-serif;margin-bottom:12px;color:#285c7e}
+.change-note,.change-intro{font:15px/1.6 system-ui,sans-serif}.change-note{display:block;margin:0 0 18px}
+.changes-bar{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:10px 16px;flex-wrap:wrap;padding:14px;margin:0 -14px 24px;background:#fffffff5;backdrop-filter:blur(8px);border-bottom:1px solid #ccd4db;font:13px/1.4 system-ui,sans-serif;box-shadow:0 3px 9px #0000000a}
+.changes-bar strong{font-size:15px}.formula-key,.graph-key{padding:4px 8px;border-radius:4px}.formula-key{background:#fff0b3}.graph-key{background:#edf7ff;border:1px solid #3583b7}
+.changes-bar button,#close-source{font:inherit;padding:7px 10px;background:white;border:1px solid #9caeba;border-radius:5px;color:#163e59;cursor:pointer}
+#change-count{color:#55636e}dialog{width:min(850px,calc(100vw - 32px));max-height:85vh;overflow:auto;border:1px solid #9caeba;border-radius:10px;padding:24px;color:#202124;background:white}dialog::backdrop{background:#172d4066}
+.dialog-heading{display:flex;justify-content:space-between;align-items:center;gap:20px}.dialog-heading h2{font-size:22px;margin:0;padding:0;border:0}.source-pair h3{font-size:16px;margin:12px 0}.source-pair section{min-width:0;overflow-x:auto;padding:12px;background:#f6f7f8;border-radius:5px}#source-page{font:14px system-ui,sans-serif;color:#52616c}
+@media(max-width:650px){.graph-pair,.source-pair{grid-template-columns:1fr}.changes-bar{gap:8px;padding:10px}.changed-graph{padding:12px}.changed-math,.changed-graph{scroll-margin-top:225px}}
+@media print{.changes-bar,dialog{display:none}.changed-math{background:#fff0b3;print-color-adjust:exact}.changed-graph{break-inside:avoid}}
+</style></head><body><nav><a href="GAT-21-40.html">Textbook</a><a href="GAT-21-40-changes.html">Highlighted changes</a><a href="media-review.html">All media comparisons</a><a href="conversion-report.html">Conversion notes</a><a href="../gat-1-20/GAT-1-20.html">Assignments 1–20</a></nav><main><h1>Conversion notes for GAT 21–40</h1>
+<p>All 20 assignments, 175 main question anchors and 546 graphic placements are preserved. The Markdown contains the original body text, 435 LaTeX replacements, 16 editable tables, 89 SVG drawings and six retained images. Original EMFs, embedded PDFs and raster previews remain available.</p>
+<h2>Graphics by category</h2>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th align="right">Count</th>
+<th>Representation</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Formulas and mathematical notation</td>
+<td align="right">435</td>
+<td>LaTeX and native equation tree</td>
+</tr>
+<tr>
+<td>Directed network graphs</td>
+<td align="right">1</td>
+<td>SVG/JSON; annotated math records where applicable</td>
+</tr>
+<tr>
+<td>Matrices with labels, boxes or arrows</td>
+<td align="right">3</td>
+<td>SVG/JSON; annotated math records where applicable</td>
+</tr>
+<tr>
+<td>Dilations and size transformations</td>
+<td align="right">6</td>
+<td>SVG/JSON; annotated math records where applicable</td>
+</tr>
+<tr>
+<td>Angles, triangles and intersecting/parallel lines</td>
+<td align="right">21</td>
+<td>SVG/JSON; two mixed raster illustrations retained</td>
+</tr>
+<tr>
+<td>Coordinate-plane diagrams</td>
+<td align="right">32</td>
+<td>SVG/JSON; annotated math records where applicable</td>
+</tr>
+<tr>
+<td>Shapes, symmetry and geometric patterns</td>
+<td align="right">2</td>
+<td>SVG/JSON; annotated math records where applicable</td>
+</tr>
+<tr>
+<td>Annotated calculation flow</td>
+<td align="right">26</td>
+<td>SVG/JSON; annotated math records where applicable</td>
+</tr>
+<tr>
+<td>Data tables</td>
+<td align="right">16</td>
+<td>Markdown/HTML table, JSON and source vectors</td>
+</tr>
+<tr>
+<td>Calculator and software screenshots</td>
+<td align="right">4</td>
+<td>Original and transcript/data reference</td>
+</tr>
+</tbody></table>
+<h2>Pagination</h2>
+<p>The source metadata reports <strong>85 pages</strong>. The original LibreOffice render left legacy EMFs blank. A reference copy using the recovered original artwork renders to <strong>95 pages</strong>. Reference page numbers below identify that copy; original printed numbering and page breaks are not certified. Print spacing, headers and footers are reflowed in Markdown.</p>
+<h2>Issues by reference page</h2>
+<table>
+<thead>
+<tr>
+<th>Reference page</th>
+<th>Assignment/question</th>
+<th>Issue</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>23</td>
+<td><a href="GAT-21-40-changes.html#diagram-image101-1">25 VII</a></td>
+<td>The printed A-prime and B-prime coordinate labels appear swapped relative to their drawn positions. Source labels are preserved.</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="GAT-21-40-changes.html#diagram-image123-1">26 VIII</a></td>
+<td>The source intentionally shows the false statement 3 + 2·4 = 10 while teaching non-solutions. It is preserved exactly.</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="GAT-21-40-changes.html#diagram-image129-1">27 I</a></td>
+<td>The negative sign in the A-prime coordinate is faint/raised; compare with image104 and the source.</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="GAT-21-40-changes.html#diagram-image133-1">27 II</a></td>
+<td>The water-fill texture contains two raster fragments; retain the original artwork.</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="GAT-21-40-changes.html#diagram-image175-1">28 III</a></td>
+<td>The flag/person illustration contains two raster fragments; retain the original artwork.</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="GAT-21-40-changes.html#diagram-image199-1">28 VII</a></td>
+<td>The source right-hand side is a raised negative 10; it is preserved.</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="GAT-21-40-changes.html#diagram-image259-1">31 III</a></td>
+<td>The source labels C=(2,5.07), alongside B=(1,2.54). This potential rounding/typing inconsistency is preserved.</td>
+</tr>
+<tr>
+<td>74</td>
+<td><a href="GAT-21-40-changes.html#diagram-image430-1">36 I</a></td>
+<td>Calculator scatterplot screenshot; source data are available in image429, but display scale and selected markers are not inferred.</td>
+</tr>
+<tr>
+<td>78</td>
+<td><a href="GAT-21-40-changes.html#diagram-image450-1">37 I</a></td>
+<td>Calculator scatterplot/line screenshot; source data are in image449. A mathematical plot can be built later without imitating screen pixels.</td>
+</tr>
+<tr>
+<td>79</td>
+<td><a href="GAT-21-40-changes.html#diagram-image453-1">37 I</a></td>
+<td>Calculator plot with vector annotations; screenshot retained and printed coordinate labels transcribed.</td>
+</tr>
+<tr>
+<td>80</td>
+<td><a href="GAT-21-40-changes.html#diagram-image462-1">37 I</a></td>
+<td>Calculator results screen retained; visible text is transcribed.</td>
+</tr>
+</tbody></table>
+<h2>Review and reuse</h2>
+<p>All replacements are candidates for source-fidelity review. The original equation tree, source glyphs and rendered formulas are kept separately. Syntax and symbol checks do not establish an answer-key audit. Exercise blanks, source errors and historical data are preserved; no missing answers have been supplied.</p>
+<p>The 105 raster-free vector scenes include the 16 tables; the counts are overlapping representations, not additional graphics. SVG glyph outlines preserve labels visually. Positioned text in drawing JSON can contain legacy symbol encodings and should not be treated as corrected mathematical text. Drawing coordinates are layout positions, not inferred lengths or constraints.</p>
+<p>The 16 structured table records drive the Markdown/HTML tables. Annotated mathematical records have readable LaTeX panels, but changing those records does not yet relayout their source vector drawings. Learner execution, animation and progress storage remain future work.</p>
+<p>The six raster-containing graphics retain their original pixels. Three are calculator plots, one is a calculator results screen, and two are geometry illustrations with raster components. This conversion does not claim those six are fully vectorized.</p>
+<p><a href="GAT-21-40-changes.html">Highlighted textbook</a> · <a href="media-review.html">All media comparisons</a> · <a href="GAT-21-40.html">Plain textbook</a></p>
+</main></body></html>

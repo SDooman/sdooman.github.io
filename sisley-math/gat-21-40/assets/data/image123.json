@@ -1,0 +1,11 @@
+{
+  "kind": "annotated-math",
+  "expressions": [
+    {
+      "id": "expression-1",
+      "latex": "\\overset{x}{\\boxed{3}}+2\\cdot\\overset{y}{\\boxed{4}}=10\\longrightarrow 3+2\\cdot4=10"
+    }
+  ],
+  "source_asset_id": "image123",
+  "review": "needs_review"
+}

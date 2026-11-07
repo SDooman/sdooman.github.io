@@ -1,0 +1,15 @@
+{
+  "kind": "annotated-math",
+  "expressions": [
+    {
+      "id": "expression-1",
+      "latex": "\\overset{x}{\\boxed{\\phantom{00}}}+\\overset{y}{\\boxed{\\phantom{00}}}=10"
+    },
+    {
+      "id": "expression-2",
+      "latex": "x+y=10"
+    }
+  ],
+  "source_asset_id": "image127",
+  "review": "needs_review"
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "table",
+  "headers": [
+    "Size transformation magnitude",
+    "Image of $(1,\\sqrt{0.9})$"
+  ],
+  "rows": [
+    [
+      "${}^{-}3$",
+      "$({}^{-}3,{}^{-}3\\cdot\\sqrt{0.9})$"
+    ],
+    [
+      "${}^{-}1$",
+      "$({}^{-}1,{}^{-}1\\cdot\\sqrt{0.9})$"
+    ],
+    [
+      2,
+      "$(2,2\\cdot\\sqrt{0.9})$"
+    ],
+    [
+      4,
+      "$(4,4\\cdot\\sqrt{0.9})$"
+    ],
+    [
+      7,
+      "$(7,7\\cdot\\sqrt{0.9})$"
+    ]
+  ],
+  "title": null,
+  "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+  "source_asset_id": "image224",
+  "review": "needs_review"
+}

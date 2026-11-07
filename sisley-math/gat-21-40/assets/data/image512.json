@@ -1,0 +1,44 @@
+{
+  "kind": "table",
+  "headers": [
+    "Team",
+    "Wins in 1954",
+    "Wins in 1955"
+  ],
+  "rows": [
+    [
+      "Braves",
+      89,
+      85
+    ],
+    [
+      "Dodgers",
+      92,
+      98
+    ],
+    [
+      "Cubs",
+      64,
+      72
+    ],
+    [
+      "Reds",
+      74,
+      75
+    ],
+    [
+      "Giants",
+      97,
+      80
+    ],
+    [
+      "Phillies",
+      75,
+      77
+    ]
+  ],
+  "title": "Number of season wins for six National League teams",
+  "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+  "source_asset_id": "image512",
+  "review": "needs_review"
+}

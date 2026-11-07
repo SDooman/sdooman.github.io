@@ -1,0 +1,662 @@
+[
+  {
+    "id": "image2",
+    "status": "vector-candidate",
+    "labels": 34,
+    "primitives": 88
+  },
+  {
+    "id": "image3",
+    "status": "vector-candidate",
+    "labels": 18,
+    "primitives": 6
+  },
+  {
+    "id": "image4",
+    "status": "vector-candidate",
+    "labels": 3,
+    "primitives": 7
+  },
+  {
+    "id": "image5",
+    "status": "vector-candidate",
+    "labels": 12,
+    "primitives": 11
+  },
+  {
+    "id": "image8",
+    "status": "vector-candidate",
+    "labels": 182,
+    "primitives": 12
+  },
+  {
+    "id": "image25",
+    "status": "vector-candidate",
+    "labels": 135,
+    "primitives": 8
+  },
+  {
+    "id": "image34",
+    "status": "vector-candidate",
+    "labels": 11,
+    "primitives": 21
+  },
+  {
+    "id": "image35",
+    "status": "vector-candidate",
+    "labels": 4,
+    "primitives": 17
+  },
+  {
+    "id": "image36",
+    "status": "vector-candidate",
+    "labels": 14,
+    "primitives": 18
+  },
+  {
+    "id": "image49",
+    "status": "vector-candidate",
+    "labels": 13,
+    "primitives": 22
+  },
+  {
+    "id": "image53",
+    "status": "vector-candidate",
+    "labels": 32,
+    "primitives": 53
+  },
+  {
+    "id": "image56",
+    "status": "vector-candidate",
+    "labels": 3,
+    "primitives": 7
+  },
+  {
+    "id": "image58",
+    "status": "vector-candidate",
+    "labels": 3,
+    "primitives": 11
+  },
+  {
+    "id": "image59",
+    "status": "vector-candidate",
+    "labels": 3,
+    "primitives": 15
+  },
+  {
+    "id": "image60",
+    "status": "vector-candidate",
+    "labels": 63,
+    "primitives": 24
+  },
+  {
+    "id": "image66",
+    "status": "vector-candidate",
+    "labels": 17,
+    "primitives": 30
+  },
+  {
+    "id": "image70",
+    "status": "vector-candidate",
+    "labels": 7,
+    "primitives": 10
+  },
+  {
+    "id": "image75",
+    "status": "vector-candidate",
+    "labels": 11,
+    "primitives": 24
+  },
+  {
+    "id": "image81",
+    "status": "vector-candidate",
+    "labels": 16,
+    "primitives": 30
+  },
+  {
+    "id": "image90",
+    "status": "vector-candidate",
+    "labels": 15,
+    "primitives": 2
+  },
+  {
+    "id": "image91",
+    "status": "vector-candidate",
+    "labels": 39,
+    "primitives": 37
+  },
+  {
+    "id": "image92",
+    "status": "vector-candidate",
+    "labels": 7,
+    "primitives": 14
+  },
+  {
+    "id": "image95",
+    "status": "vector-candidate",
+    "labels": 1,
+    "primitives": 3
+  },
+  {
+    "id": "image101",
+    "status": "vector-candidate",
+    "labels": 92,
+    "primitives": 65
+  },
+  {
+    "id": "image103",
+    "status": "vector-candidate",
+    "labels": 48,
+    "primitives": 7
+  },
+  {
+    "id": "image104",
+    "status": "vector-candidate",
+    "labels": 25,
+    "primitives": 18
+  },
+  {
+    "id": "image105",
+    "status": "vector-candidate",
+    "labels": 19,
+    "primitives": 36
+  },
+  {
+    "id": "image107",
+    "status": "vector-candidate",
+    "labels": 9,
+    "primitives": 14
+  },
+  {
+    "id": "image108",
+    "status": "vector-candidate",
+    "labels": 14,
+    "primitives": 36
+  },
+  {
+    "id": "image111",
+    "status": "vector-candidate",
+    "labels": 1,
+    "primitives": 3
+  },
+  {
+    "id": "image115",
+    "status": "vector-candidate",
+    "labels": 36,
+    "primitives": 43
+  },
+  {
+    "id": "image122",
+    "status": "vector-candidate",
+    "labels": 8,
+    "primitives": 4
+  },
+  {
+    "id": "image123",
+    "status": "vector-candidate",
+    "labels": 18,
+    "primitives": 6
+  },
+  {
+    "id": "image124",
+    "status": "vector-candidate",
+    "labels": 8,
+    "primitives": 4
+  },
+  {
+    "id": "image125",
+    "status": "vector-candidate",
+    "labels": 18,
+    "primitives": 6
+  },
+  {
+    "id": "image126",
+    "status": "vector-candidate",
+    "labels": 37,
+    "primitives": 4
+  },
+  {
+    "id": "image127",
+    "status": "vector-candidate",
+    "labels": 33,
+    "primitives": 4
+  },
+  {
+    "id": "image128",
+    "status": "vector-candidate",
+    "labels": 7,
+    "primitives": 4
+  },
+  {
+    "id": "image129",
+    "status": "vector-candidate",
+    "labels": 25,
+    "primitives": 18
+  },
+  {
+    "id": "image132",
+    "status": "vector-candidate",
+    "labels": 27,
+    "primitives": 33
+  },
+  {
+    "id": "image133",
+    "status": "original-retained",
+    "raster_fragments": 2
+  },
+  {
+    "id": "image141",
+    "status": "vector-candidate",
+    "labels": 46,
+    "primitives": 21
+  },
+  {
+    "id": "image149",
+    "status": "vector-candidate",
+    "labels": 70,
+    "primitives": 52
+  },
+  {
+    "id": "image157",
+    "status": "vector-candidate",
+    "labels": 44,
+    "primitives": 43
+  },
+  {
+    "id": "image164",
+    "status": "vector-candidate",
+    "labels": 17,
+    "primitives": 36
+  },
+  {
+    "id": "image168",
+    "status": "vector-candidate",
+    "labels": 41,
+    "primitives": 4
+  },
+  {
+    "id": "image169",
+    "status": "vector-candidate",
+    "labels": 10,
+    "primitives": 4
+  },
+  {
+    "id": "image170",
+    "status": "vector-candidate",
+    "labels": 3,
+    "primitives": 76
+  },
+  {
+    "id": "image171",
+    "status": "vector-candidate",
+    "labels": 10,
+    "primitives": 14
+  },
+  {
+    "id": "image175",
+    "status": "original-retained",
+    "raster_fragments": 2
+  },
+  {
+    "id": "image176",
+    "status": "vector-candidate",
+    "labels": 49,
+    "primitives": 41
+  },
+  {
+    "id": "image189",
+    "status": "vector-candidate",
+    "labels": 60,
+    "primitives": 28
+  },
+  {
+    "id": "image193",
+    "status": "vector-candidate",
+    "labels": 56,
+    "primitives": 10
+  },
+  {
+    "id": "image195",
+    "status": "vector-candidate",
+    "labels": 56,
+    "primitives": 10
+  },
+  {
+    "id": "image196",
+    "status": "vector-candidate",
+    "labels": 18,
+    "primitives": 37
+  },
+  {
+    "id": "image199",
+    "status": "vector-candidate",
+    "labels": 12,
+    "primitives": 4
+  },
+  {
+    "id": "image200",
+    "status": "vector-candidate",
+    "labels": 70,
+    "primitives": 11
+  },
+  {
+    "id": "image204",
+    "status": "vector-candidate",
+    "labels": 117,
+    "primitives": 18
+  },
+  {
+    "id": "image205",
+    "status": "vector-candidate",
+    "labels": 47,
+    "primitives": 14
+  },
+  {
+    "id": "image206",
+    "status": "vector-candidate",
+    "labels": 215,
+    "primitives": 12
+  },
+  {
+    "id": "image207",
+    "status": "vector-candidate",
+    "labels": 38,
+    "primitives": 4
+  },
+  {
+    "id": "image209",
+    "status": "vector-candidate",
+    "labels": 46,
+    "primitives": 4
+  },
+  {
+    "id": "image214",
+    "status": "vector-candidate",
+    "labels": 47,
+    "primitives": 4
+  },
+  {
+    "id": "image216",
+    "status": "vector-candidate",
+    "labels": 46,
+    "primitives": 4
+  },
+  {
+    "id": "image221",
+    "status": "vector-candidate",
+    "labels": 3,
+    "primitives": 8
+  },
+  {
+    "id": "image224",
+    "status": "vector-candidate",
+    "labels": 144,
+    "primitives": 34
+  },
+  {
+    "id": "image231",
+    "status": "vector-candidate",
+    "labels": 104,
+    "primitives": 3
+  },
+  {
+    "id": "image243",
+    "status": "vector-candidate",
+    "labels": 11,
+    "primitives": 14
+  },
+  {
+    "id": "image244",
+    "status": "vector-candidate",
+    "labels": 105,
+    "primitives": 24
+  },
+  {
+    "id": "image254",
+    "status": "vector-candidate",
+    "labels": 38,
+    "primitives": 23
+  },
+  {
+    "id": "image259",
+    "status": "vector-candidate",
+    "labels": 33,
+    "primitives": 12
+  },
+  {
+    "id": "image260",
+    "status": "vector-candidate",
+    "labels": 84,
+    "primitives": 2
+  },
+  {
+    "id": "image283",
+    "status": "vector-candidate",
+    "labels": 24,
+    "primitives": 24
+  },
+  {
+    "id": "image334",
+    "status": "vector-candidate",
+    "labels": 8,
+    "primitives": 14
+  },
+  {
+    "id": "image336",
+    "status": "vector-candidate",
+    "labels": 55,
+    "primitives": 30
+  },
+  {
+    "id": "image357",
+    "status": "vector-candidate",
+    "labels": 92,
+    "primitives": 35
+  },
+  {
+    "id": "image375",
+    "status": "vector-candidate",
+    "labels": 16,
+    "primitives": 7
+  },
+  {
+    "id": "image377",
+    "status": "vector-candidate",
+    "labels": 61,
+    "primitives": 33
+  },
+  {
+    "id": "image392",
+    "status": "vector-candidate",
+    "labels": 200,
+    "primitives": 14
+  },
+  {
+    "id": "image394",
+    "status": "vector-candidate",
+    "labels": 24,
+    "primitives": 4
+  },
+  {
+    "id": "image395",
+    "status": "vector-candidate",
+    "labels": 25,
+    "primitives": 4
+  },
+  {
+    "id": "image397",
+    "status": "vector-candidate",
+    "labels": 131,
+    "primitives": 12
+  },
+  {
+    "id": "image399",
+    "status": "vector-candidate",
+    "labels": 21,
+    "primitives": 7
+  },
+  {
+    "id": "image401",
+    "status": "vector-candidate",
+    "labels": 26,
+    "primitives": 4
+  },
+  {
+    "id": "image402",
+    "status": "vector-candidate",
+    "labels": 26,
+    "primitives": 4
+  },
+  {
+    "id": "image403",
+    "status": "vector-candidate",
+    "labels": 70,
+    "primitives": 20
+  },
+  {
+    "id": "image413",
+    "status": "vector-candidate",
+    "labels": 93,
+    "primitives": 18
+  },
+  {
+    "id": "image421",
+    "status": "vector-candidate",
+    "labels": 82,
+    "primitives": 12
+  },
+  {
+    "id": "image429",
+    "status": "vector-candidate",
+    "labels": 131,
+    "primitives": 12
+  },
+  {
+    "id": "image430",
+    "status": "original-retained",
+    "raster_fragments": 1
+  },
+  {
+    "id": "image431",
+    "status": "vector-candidate",
+    "labels": 23,
+    "primitives": 11
+  },
+  {
+    "id": "image433",
+    "status": "vector-candidate",
+    "labels": 35,
+    "primitives": 6
+  },
+  {
+    "id": "image444",
+    "status": "vector-candidate",
+    "labels": 28,
+    "primitives": 16
+  },
+  {
+    "id": "image449",
+    "status": "vector-candidate",
+    "labels": 23,
+    "primitives": 11
+  },
+  {
+    "id": "image450",
+    "status": "original-retained",
+    "raster_fragments": 1
+  },
+  {
+    "id": "image453",
+    "status": "original-retained",
+    "raster_fragments": 1
+  },
+  {
+    "id": "image461",
+    "status": "vector-candidate",
+    "labels": 75,
+    "primitives": 14
+  },
+  {
+    "id": "image462",
+    "status": "original-retained",
+    "raster_fragments": 1
+  },
+  {
+    "id": "image464",
+    "status": "vector-candidate",
+    "labels": 239,
+    "primitives": 20
+  },
+  {
+    "id": "image465",
+    "status": "vector-candidate",
+    "labels": 131,
+    "primitives": 12
+  },
+  {
+    "id": "image482",
+    "status": "vector-candidate",
+    "labels": 27,
+    "primitives": 16
+  },
+  {
+    "id": "image489",
+    "status": "vector-candidate",
+    "labels": 144,
+    "primitives": 13
+  },
+  {
+    "id": "image490",
+    "status": "vector-candidate",
+    "labels": 4,
+    "primitives": 4
+  },
+  {
+    "id": "image494",
+    "status": "vector-candidate",
+    "labels": 402,
+    "primitives": 18
+  },
+  {
+    "id": "image512",
+    "status": "vector-candidate",
+    "labels": 143,
+    "primitives": 13
+  },
+  {
+    "id": "image517",
+    "status": "vector-candidate",
+    "labels": 22,
+    "primitives": 15
+  },
+  {
+    "id": "image522",
+    "status": "vector-candidate",
+    "labels": 334,
+    "primitives": 19
+  },
+  {
+    "id": "image523",
+    "status": "vector-candidate",
+    "labels": 5,
+    "primitives": 5
+  },
+  {
+    "id": "image527",
+    "status": "vector-candidate",
+    "labels": 8,
+    "primitives": 18
+  },
+  {
+    "id": "image528",
+    "status": "vector-candidate",
+    "labels": 21,
+    "primitives": 15
+  },
+  {
+    "id": "image543",
+    "status": "vector-candidate",
+    "labels": 27,
+    "primitives": 16
+  }
+]

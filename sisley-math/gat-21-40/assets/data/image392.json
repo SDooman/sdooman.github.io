@@ -1,0 +1,19 @@
+{
+  "kind": "annotated-math",
+  "expressions": [
+    {
+      "id": "expression-1",
+      "latex": "y=\\frac13\\cdot x"
+    },
+    {
+      "id": "expression-2",
+      "latex": "T(x,y)=(x+{}^{-}2,y+3)"
+    },
+    {
+      "id": "expression-3",
+      "latex": "(y+{}^{-}3)=\\frac13\\cdot(x+2)"
+    }
+  ],
+  "source_asset_id": "image392",
+  "review": "needs_review"
+}
