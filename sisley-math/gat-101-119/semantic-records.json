@@ -1,0 +1,221 @@
+{
+  "image271": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "time in seconds",
+      "distance in meters"
+    ],
+    "rows": [
+      [
+        "1",
+        "4.2"
+      ],
+      [
+        "2",
+        "3.45"
+      ],
+      [
+        "3",
+        "2.85"
+      ],
+      [
+        "4",
+        "2.32"
+      ],
+      [
+        "5",
+        "1.5"
+      ],
+      [
+        "6",
+        "0.85"
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "5cb385df9a218ebf1422a841543cb1a21bb87020ca3a4932cbd64f7390620493"
+  },
+  "image278": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "time in seconds",
+      "distance in meters"
+    ],
+    "rows": [
+      [
+        "1",
+        "1.95"
+      ],
+      [
+        "2",
+        "3.17"
+      ],
+      [
+        "3",
+        "4.31"
+      ],
+      [
+        "4",
+        "5.22"
+      ],
+      [
+        "5",
+        "6.4"
+      ],
+      [
+        "6",
+        "7.64"
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "8f51f8b7d5140a635c08ef25c1174d0f9ddbde84b1261809c45f864fb2cd9c0d"
+  },
+  "image24": {
+    "kind": "embedded-equations",
+    "expressions": [
+      {
+        "id": "image24-1",
+        "latex": "60^{\\text{o}}",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image24-2",
+        "latex": "60^{\\text{o}}",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      }
+    ],
+    "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+    "source_sha256": "1342b8ee14b359978e58764d17282c844633dbbfe5212b62f2708189a1faf543"
+  },
+  "image143": {
+    "kind": "embedded-equations",
+    "expressions": [
+      {
+        "id": "image143-1",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image143-2",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      }
+    ],
+    "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+    "source_sha256": "836d3852db7156c94ae23158a237f2e77e6b27f4d30293954161ec762230d547"
+  },
+  "image261": {
+    "kind": "embedded-equations",
+    "expressions": [
+      {
+        "id": "image261-1",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image261-2",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image261-3",
+        "latex": "m",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image261-4",
+        "latex": "m",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      }
+    ],
+    "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+    "source_sha256": "c3ac8af5f00153f28959694c21db8a5222b7b460b562f979bb7f36c3bae0acae"
+  },
+  "image276": {
+    "kind": "embedded-equations",
+    "expressions": [
+      {
+        "id": "image276-1",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image276-2",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      }
+    ],
+    "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+    "source_sha256": "e72d7a07086c4c613e0c138b3c6d626e7e4d941bdbeeb7929082174b39e62b58"
+  },
+  "image277": {
+    "kind": "embedded-equations",
+    "expressions": [
+      {
+        "id": "image277-1",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image277-2",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      }
+    ],
+    "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+    "source_sha256": "b206d24162bb71ac1bc5a03e953e35446dacc2636c9f358ac051a0cf2eecf6ea"
+  },
+  "image281": {
+    "kind": "embedded-equations",
+    "expressions": [
+      {
+        "id": "image281-1",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image281-2",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      }
+    ],
+    "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+    "source_sha256": "b42c42a734b15f1728808867f3d494dec4e603b1e7dc787912c141a0634819e4"
+  },
+  "image282": {
+    "kind": "embedded-equations",
+    "expressions": [
+      {
+        "id": "image282-1",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image282-2",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      }
+    ],
+    "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+    "source_sha256": "f985cbf58c939ba1cb0a019c82a2f9a30c2dea39a1b19ced17490b766ae835f5"
+  }
+}

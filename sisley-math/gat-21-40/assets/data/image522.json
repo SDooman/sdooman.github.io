@@ -1,0 +1,74 @@
+{
+  "kind": "table",
+  "headers": [
+    "Year",
+    "Name, nation",
+    "Time in seconds"
+  ],
+  "rows": [
+    [
+      1948,
+      "Patton, USA",
+      "21.1"
+    ],
+    [
+      1952,
+      "Stanfield, USA",
+      "20.7"
+    ],
+    [
+      1956,
+      "Morrow, USA",
+      "20.6"
+    ],
+    [
+      1960,
+      "Berruti, Italy",
+      "20.5"
+    ],
+    [
+      1964,
+      "Carr, USA",
+      "20.3"
+    ],
+    [
+      1968,
+      "Smith, USA",
+      "19.83"
+    ],
+    [
+      1972,
+      "Borzov, USSR",
+      "20.00"
+    ],
+    [
+      1976,
+      "Quarrie, Jamaica",
+      "20.23"
+    ],
+    [
+      1980,
+      "Mennea, Italy",
+      "20.19"
+    ],
+    [
+      1984,
+      "Lewis, USA",
+      "19.80"
+    ],
+    [
+      1988,
+      "DeLoach, USA",
+      "19.75"
+    ],
+    [
+      1992,
+      "Marsh, USA",
+      "20.01"
+    ]
+  ],
+  "title": "200-meter run for men, Olympic gold medal times",
+  "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+  "source_asset_id": "image522",
+  "review": "needs_review"
+}

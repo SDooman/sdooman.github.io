@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 258" role="img">
+<title>Candidate reconstruction of GAT image279</title>
+<rect width="100%" height="100%" fill="white"/>
+<g data-edge="e13-top"><title>1 to 3</title><path d="M 47 144 Q 161 -17 274 13" fill="none" stroke="black" stroke-width="3"/><path d="M 12 0 L -10 -9 L -10 9 Z" transform="translate(160.75 30.75) rotate(-29.98892242200853)"/></g>
+<g data-edge="e13-inner"><title>1 to 3</title><path d="M 47 144 Q 213 138 274 13" fill="none" stroke="black" stroke-width="3"/><path d="M 12 0 L -10 -9 L -10 9 Z" transform="translate(231.608 73.6704) rotate(-45.402775646428466)"/></g>
+<g data-edge="e31-inner"><title>3 to 1</title><path d="M 274 13 Q 213 138 47 144" fill="none" stroke="black" stroke-width="3"/><path d="M 12 0 L -10 -9 L -10 9 Z" transform="translate(137.15000000000003 129.69) rotate(162.77462061734033)"/></g>
+<g data-edge="e35"><title>3 to 5</title><path d="M 274 13 L 738 27" fill="none" stroke="black" stroke-width="3"/><path d="M 12 0 L -10 -9 L -10 9 Z" transform="translate(529.2 20.700000000000003) rotate(1.7282276504985419)"/></g>
+<g data-edge="e54"><title>5 to 4</title><path d="M 738 27 L 858 187" fill="none" stroke="black" stroke-width="3"/><path d="M 12 0 L -10 -9 L -10 9 Z" transform="translate(804.0 115.0) rotate(53.13010235415496)"/></g>
+<g data-edge="e43"><title>4 to 3</title><path d="M 858 187 L 274 13" fill="none" stroke="black" stroke-width="3"/><path d="M 12 0 L -10 -9 L -10 9 Z" transform="translate(536.8 91.3) rotate(-163.4088268975346)"/></g>
+<g data-edge="e14"><title>1 to 4</title><path d="M 47 144 L 858 187" fill="none" stroke="black" stroke-width="3"/><path d="M 12 0 L -10 -9 L -10 9 Z" transform="translate(493.05 167.65) rotate(3.0350354112375486)"/></g>
+<g data-edge="e12"><title>1 to 2</title><path d="M 47 144 L 492 214" fill="none" stroke="black" stroke-width="3"/><path d="M 12 0 L -10 -9 L -10 9 Z" transform="translate(291.75 182.5) rotate(8.939565003151527)"/></g>
+<g data-edge="e21"><title>2 to 1</title><path d="M 492 214 L 47 144" fill="none" stroke="black" stroke-width="3"/><path d="M 12 0 L -10 -9 L -10 9 Z" transform="translate(202.75 168.5) rotate(-171.06043499684867)"/></g>
+<g data-edge="e42"><title>4 to 2</title><path d="M 858 187 L 492 214" fill="none" stroke="black" stroke-width="3"/><path d="M 12 0 L -10 -9 L -10 9 Z" transform="translate(656.7 201.85) rotate(175.78090465075135)"/></g>
+<g data-node="1"><circle cx="47" cy="144" r="9"/><text x="5" y="173" font-family="serif" font-size="28">1</text></g>
+<g data-node="2"><circle cx="492" cy="214" r="9"/><text x="462" y="244" font-family="serif" font-size="28">2</text></g>
+<g data-node="3"><circle cx="274" cy="13" r="9"/><text x="278" y="53" font-family="serif" font-size="28">3</text></g>
+<g data-node="4"><circle cx="858" cy="187" r="9"/><text x="878" y="217" font-family="serif" font-size="28">4</text></g>
+<g data-node="5"><circle cx="738" cy="27" r="9"/><text x="716" y="61" font-family="serif" font-size="28">5</text></g>
+</svg>

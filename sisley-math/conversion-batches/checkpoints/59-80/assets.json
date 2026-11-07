@@ -1,0 +1,6772 @@
+[
+  {
+    "id": "image1",
+    "original": "word/media/image1.pct",
+    "sha256": "7b9f3b55cbda4e11b7159d5d43aa88cbb58e988c365cd19e6fb8b76064d492f0",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 190,
+    "height": 143,
+    "atlas_page": 1,
+    "atlas_bbox_pt": [
+      36.0,
+      612.75,
+      226.0,
+      756.0
+    ],
+    "text": "−\nQ=( 3, a)\nA= (7,4)\nO P",
+    "pdf_width": 192,
+    "pdf_height": 145.25,
+    "pdf_sha256": "e1ed473feff596c3972b0e874d763617ff83c49fe919755a51f7a571979d8398",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image2",
+    "original": "word/media/image2.pct",
+    "sha256": "caa9ebe5d18d2ce9d7562a9d1374f924fd8b5d80c5b2d788d52045132fad2ee8",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image2-1",
+        "offset_in_original": 1666,
+        "bytes": 124,
+        "sha256": "c36cb8408c5085c1f34efc1c932e507e86cb8c9c80ef3d99ab8a9c4eaa3497d0"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 87,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image3",
+    "original": "word/media/image3.pct",
+    "sha256": "855d820643d9fb43235670d5a2b76bfedfdc17dd146dbc0e61d84e535a9250fc",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image3-1",
+        "offset_in_original": 1639,
+        "bytes": 111,
+        "sha256": "1731bb3cc97997d93b0835839406158c2b60f107794dd0190ac0b50be1931cd4"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 79,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image4",
+    "original": "word/media/image4.emf",
+    "sha256": "9090bc947e644cffa006550b22d1591b74a7aeea8531c85ce8e648fc4d7287d5",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "8857fc97a466494b4a1694645136d24ed42227c5274f5c89e4f49f556f03f6cf",
+    "text": "* a b c d e f g\na f a e g b d c\nb a b c d e f g\nc e c d a g b f\nd g d a e f c b\ne b e g f c a d\nf d f b c a g e\ng c g f b d e a",
+    "pdf_width": 113,
+    "pdf_height": 113,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image5",
+    "original": "word/media/image5.pct",
+    "sha256": "4b6b24086d164ce09501cfbad62dbb376276934748e3a92354bd70b0d114557a",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image5-1",
+        "offset_in_original": 520,
+        "bytes": 12,
+        "sha256": "877176c720a51894811ef0320fbc2cd7776f8b35c4e547d28d5ee2d41bff92b3"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 7,
+    "height": 6,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image6",
+    "original": "word/media/image6.pct",
+    "sha256": "4a694df0637e2214944fc17502a7c5a1a2d8473e1303e4752fee4b867f3bd813",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image6-1",
+        "offset_in_original": 758,
+        "bytes": 42,
+        "sha256": "fb5232c4b1058a1bf67701b97b8234090d2a6e684d6f2fc5a4a3b811a16c18e8"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 73,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image7",
+    "original": "word/media/image7.pct",
+    "sha256": "2dd9db2d08cb3b2ecc415ff9f81b9a53688113b2baabd264d997b375fd1d053c",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image7-1",
+        "offset_in_original": 758,
+        "bytes": 42,
+        "sha256": "5ebe4cd6cbd765a8699b4a34d2a505a4bfa8c22560e52e40f424783f614bd25e"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 73,
+    "height": 12,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image8",
+    "original": "word/media/image8.pct",
+    "sha256": "26b8bc4dca207f330542be177043ed5f44c7b97aedd86be55aae7a9d5de7e87b",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image8-1",
+        "offset_in_original": 762,
+        "bytes": 42,
+        "sha256": "83917492a3d18d020e651e7f1934a038fa576a85367b05b073d346f0756bc450"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 73,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image9",
+    "original": "word/media/image9.pct",
+    "sha256": "00c15a48a435a9a9efafc57be1f27999523b4c1db4f8e37397d3c86074d491a7",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image9-1",
+        "offset_in_original": 657,
+        "bytes": 30,
+        "sha256": "bbde45fc63e78a8223e98a5f56060c77bd813035a91556420f9dd75bfd2f53a6"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 42,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image10",
+    "original": "word/media/image10.pct",
+    "sha256": "9928bc1b426cdbf6e0f4af8494f03aa687dc7e7c298b0724a1a041479badd624",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image10-1",
+        "offset_in_original": 657,
+        "bytes": 30,
+        "sha256": "56a4db02b83be8b208daecaadbb956b77f3759907a5a98d49fdb6c85e2ea6c74"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 42,
+    "height": 12,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image11",
+    "original": "word/media/image11.pct",
+    "sha256": "6679d990813e1f5931b578a047b044b17761948b1ca5ced3b0c92e16353da906",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image11-1",
+        "offset_in_original": 661,
+        "bytes": 27,
+        "sha256": "0ceff98496e4471c9bd44504aa7b0fd439a2900a7e0987f74d40d711514659e3"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 45,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image12",
+    "original": "word/media/image12.pct",
+    "sha256": "8b06f92f5e7dd40f0fc8b6cd07b3dd748a391228186ed20823ec0a4f54b71b51",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 150,
+    "height": 141,
+    "atlas_page": 2,
+    "atlas_bbox_pt": [
+      36.0,
+      614.5,
+      186.75,
+      756.0
+    ],
+    "text": "-\nQ= ( 1, a)\nA= (-6, 2)\nP\nO",
+    "pdf_width": 152.75,
+    "pdf_height": 143.5,
+    "pdf_sha256": "02b7ca25716609f443022e575c29816f9d84b9cfc518a88afaed31f1168fdd2e",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image13",
+    "original": "word/media/image13.pct",
+    "sha256": "7ce895fd810565742df612be5bd52b738e26602732dc7f035ff4cb75932ab43e",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image13-1",
+        "offset_in_original": 3035,
+        "bytes": 12,
+        "sha256": "b5c95b385738ba6168b68b14184b3aee176b3892a395849f231bd58f928e27ef"
+      },
+      {
+        "id": "image13-2",
+        "offset_in_original": 3678,
+        "bytes": 12,
+        "sha256": "b5c95b385738ba6168b68b14184b3aee176b3892a395849f231bd58f928e27ef"
+      }
+    ],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 92,
+    "height": 164,
+    "atlas_page": 3,
+    "atlas_bbox_pt": [
+      36.0,
+      591.5,
+      128.0,
+      756.0
+    ],
+    "text": "C\nA\nB\nl",
+    "pdf_width": 94,
+    "pdf_height": 166.5,
+    "pdf_sha256": "9f77706308a7797c5c6de1d81ae96f4b47c7d001371b8b3d68927b8cbf890840",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image14",
+    "original": "word/media/image14.pct",
+    "sha256": "49f265d6b8927806c26ba1c064f077f22b7542fa725ac5b2554f4eea647e3ce6",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image14-1",
+        "offset_in_original": 521,
+        "bytes": 12,
+        "sha256": "b5c95b385738ba6168b68b14184b3aee176b3892a395849f231bd58f928e27ef"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 8,
+    "height": 12,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image15",
+    "original": "word/media/image15.pct",
+    "sha256": "f2cf878301f2f21433d101a4299c0b31cbb93be1ed990edd5441dc511ea1f794",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image15-1",
+        "offset_in_original": 974,
+        "bytes": 57,
+        "sha256": "faf2d6edd4c846c07b38beb3d8ff8d431b2799153ab72642d4c79afdad62a2bd"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 67,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image16",
+    "original": "word/media/image16.pct",
+    "sha256": "6921d13d15196c66fbfc919e011040f05c9aedc759f97fb360f97968057810b1",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image16-1",
+        "offset_in_original": 894,
+        "bytes": 54,
+        "sha256": "3f8bc53a770a84530aa444773684dbdb9221e09c1475c4f7b8a6c12e6bc0a21a"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 70,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image17",
+    "original": "word/media/image17.emf",
+    "sha256": "0fbd2f2662179dfe96ccddf36ceec1bf425a171331d2f7b320d60f50b2b0b6f7",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "fe959d2da4c165fbe4799d7455fb21ebf6d719eca4e283818830fdd33deb6bcf",
+    "text": "* a b c d e f g\na f a e g b d c\nb a b c d e f g\nc e c d a g b f\nd g d a e f c b\ne b e g f c a d\nf d f b c a g e\ng c g f b d e a",
+    "pdf_width": 113,
+    "pdf_height": 113,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image18",
+    "original": "word/media/image18.pct",
+    "sha256": "e4bccbdcb07809b7f8d7b6a703b91032644bf4dbe24052be68f187f5bbf30023",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 136,
+    "height": 137,
+    "atlas_page": 4,
+    "atlas_bbox_pt": [
+      36.0,
+      620.0,
+      174.0,
+      756.0
+    ],
+    "text": "* a b c d e f g\na f a e g b d c\nb a b c d e f g\nc e c d a g b f\nd g d a e f c b\ne b e g f c a d\nf d f b c a g e\ng c g f b d e a",
+    "pdf_width": 140,
+    "pdf_height": 138,
+    "pdf_sha256": "f9eafded7fc4d1a28a0c6b2485d28ba07fd3dccfc573efd7ab86dd820e1e8259",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image19",
+    "original": "word/media/image19.pct",
+    "sha256": "9279428e68c3902f5a0f8df20d4252d9ecacdfc9713a3eb8c7d525118a5070aa",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image19-1",
+        "offset_in_original": 751,
+        "bytes": 51,
+        "sha256": "c0863a281dce65eefd9ff7f116594ec2414f25937b667a7839c2c9ab9f202a2e"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 36,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image20",
+    "original": "word/media/image20.pct",
+    "sha256": "0bbb888c0a00a6a5fff8edf6c34b1933055dc581da42e588b3f6043b8bd24f6c",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image20-1",
+        "offset_in_original": 589,
+        "bytes": 18,
+        "sha256": "e7b9db5874d7b5ddbb6d9d501470143f4e44845e7c78e314a47de910193fa7c4"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 26,
+    "height": 11,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image21",
+    "original": "word/media/image21.pct",
+    "sha256": "c4566fda47cf60c9b87f8e00bf67b22bfbfeedd7bab162e0ae8674e2689147a0",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image21-1",
+        "offset_in_original": 954,
+        "bytes": 54,
+        "sha256": "8a713c24509574e6f7ea949a0d458b13250c2629c4cd68c677c522e096281fbd"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 84,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image22",
+    "original": "word/media/image22.pct",
+    "sha256": "402a19194dd13e9948af85fb8b7363982857df42b9eb6e04e2cc8f6c30a6dec4",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image22-1",
+        "offset_in_original": 758,
+        "bytes": 36,
+        "sha256": "9c0712dc9f3c79dcdccb51ec99f3541c437287b81626cc448cca6d3d6869df87"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 70,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image23",
+    "original": "word/media/image23.emf",
+    "sha256": "8ea420334001fbbc24e26c97ee92a13733f98d11329b823190d50b1a111b6fdb",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "atlas_page": 5,
+    "atlas_bbox_pt": [
+      36.0,
+      736.0,
+      47.0,
+      756.0
+    ],
+    "text": "",
+    "pdf_width": 13,
+    "pdf_height": 22,
+    "pdf_sha256": "a713d2de2a0fca93959ae98c68acd1f139cf4c4b18f7172d041c6be952606473",
+    "contains_raster": true,
+    "raster_fragments": 1
+  },
+  {
+    "id": "image24",
+    "original": "word/media/image24.emf",
+    "sha256": "957825d11b7ccd1990aeec4188ba9cf599be9217fed874a53a443ceeae0da5f8",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "7f2dc574fdc818490706fcb26a72fecfc72ac87353cf7b1c0a49d9eb5e94113f",
+    "text": "* a b c d e f g\na f a e g b d c\nb a b c d e f g\nc e c d a g b f\nd g d a e f c b\ne b e g f c a d\nf d f b c a g e\ng c g f b d e a",
+    "pdf_width": 112,
+    "pdf_height": 114,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image25",
+    "original": "word/media/image25.pct",
+    "sha256": "ac2cca58758f2f05092f23890b3b53a2358d89adce17ac126fc1e364dbda54cf",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image25-1",
+        "offset_in_original": 751,
+        "bytes": 51,
+        "sha256": "6371c654d158eb6f5d38cf8b2190434b2512c2cdeaccfcc51957854b4269f935"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 36,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image26",
+    "original": "word/media/image26.pct",
+    "sha256": "8aa240b939258aa6569448258eed0efaf09cd0d9301bac20ab10c2721288934b",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image26-1",
+        "offset_in_original": 1296,
+        "bytes": 141,
+        "sha256": "996db8776cb72461a7e11f92e544de7f1f3a1922b9708e748d0cb77678bb8f75"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 122,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image27",
+    "original": "word/media/image27.pct",
+    "sha256": "c27fd436d770df118560ca5c8975ce9853117c3e7a5ebe42e02177f2107604d6",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image27-1",
+        "offset_in_original": 1025,
+        "bytes": 96,
+        "sha256": "008dcc191fab5fccc691890ad993267ceebfc38f9907478d46c158010f9f9490"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 76,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image28",
+    "original": "word/media/image28.pct",
+    "sha256": "077f0e149f7b8bbe4e2bb8626779a85a2036dbe862fd8692721f35c8c5d0fabf",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image28-1",
+        "offset_in_original": 1025,
+        "bytes": 96,
+        "sha256": "c377bab47edcdea1875860c7458122e0cc4336af0b413a65eff75c029895e0b8"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 76,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image29",
+    "original": "word/media/image29.emf",
+    "sha256": "3bcb4bc5a1434d06e68dc00e883a4140353510e7714b6649eddd95fa95bf33aa",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "be295dd527c989fdb19591bf87400ec54858f3e88f9f82713d17a794f016248f",
+    "text": "* a b c d e f g\na f a e g b d c\nb a b c d e f g\nc e c d a g b f\nd g d a e f c b\ne b e g f c a d\nf d f b c a g e\ng c g f b d e a",
+    "pdf_width": 112,
+    "pdf_height": 114,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image30",
+    "original": "word/media/image30.pct",
+    "sha256": "303b993e373d0573d5a773f6744ba6806679afe5e1ae65ee9aa2551e2950d4a6",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 123,
+    "height": 161,
+    "atlas_page": 6,
+    "atlas_bbox_pt": [
+      36.0,
+      594.5,
+      159.75,
+      756.0
+    ],
+    "text": "P\nA\nA'\nB\nl",
+    "pdf_width": 125.75,
+    "pdf_height": 163.5,
+    "pdf_sha256": "c2f8b818910ce718f5d0db33c86dc716a7fb4d2e7cda71cdf2db434d9e06aac0",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image31",
+    "original": "word/media/image31.emf",
+    "sha256": "66ee6d9c3680f2abf3361bb42a03833091be941d29d6c1514d827ef8beab41b4",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "adcbb39547e7b664ae59291d5a9e4b525cc82137e368d50b4e6c0d3d40dafe61",
+    "text": "D= (10.5, a)\nA= (3, 5)\nC=(9, 3)\nB= (15, 1)\nE= (4,b)",
+    "pdf_width": 207.75,
+    "pdf_height": 162.75,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image32",
+    "original": "word/media/image32.pct",
+    "sha256": "0937fcfe0eea19f301fee085357274bbc28fcec49d84d839c82eca7e7fba59d6",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 7,
+    "height": 7,
+    "atlas_page": 7,
+    "atlas_bbox_pt": [
+      36.0,
+      749.0,
+      43.0,
+      756.0
+    ],
+    "text": "",
+    "pdf_width": 9,
+    "pdf_height": 9,
+    "pdf_sha256": "780f433adf7db592e7c0029c01142518c689ce6c9724ef3c0b927d3f6cd0d574",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image33",
+    "original": "word/media/image33.pct",
+    "sha256": "4e23fc40ca230a3abf58c6d36ed408067967ef8813f3f949b255f1878800184b",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 267,
+    "height": 121,
+    "atlas_page": 8,
+    "atlas_bbox_pt": [
+      36.0,
+      635.0,
+      303.5,
+      756.0
+    ],
+    "text": "line with equationx+2⋅y=12",
+    "pdf_width": 269.5,
+    "pdf_height": 123,
+    "pdf_sha256": "5be6dc52e8d60f963f40c9f0c6f87e9e7bfab3f713a9730c042de62c27c64515",
+    "contains_raster": true,
+    "raster_fragments": 1
+  },
+  {
+    "id": "image34",
+    "original": "word/media/image34.pct",
+    "sha256": "a885a74827cb86de7027701dc9d29c52d2ff6426cb82d07a308ab0fa339741b1",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 222,
+    "height": 134,
+    "atlas_page": 9,
+    "atlas_bbox_pt": [
+      36.0,
+      621.25,
+      258.5,
+      756.0
+    ],
+    "text": "(0, 6)\nREGION OF SOLUTIONS\nboundary of the (12, 0)\nregion of solutions\nrepresented with dashes",
+    "pdf_width": 224.5,
+    "pdf_height": 136.75,
+    "pdf_sha256": "85d550e4101e924ea78b23a02dddb2fbef249d75d2f5abb75e6971ba0ac9ad63",
+    "contains_raster": true,
+    "raster_fragments": 1
+  },
+  {
+    "id": "image35",
+    "original": "word/media/image35.pct",
+    "sha256": "26e1521eec3a2778e84ad5766c19290e650391c0d8dd3b197d9c442e4353dd8b",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 163,
+    "height": 95,
+    "atlas_page": 10,
+    "atlas_bbox_pt": [
+      36.0,
+      660.25,
+      199.0,
+      756.0
+    ],
+    "text": "(3, 8)\n(11, 2)",
+    "pdf_width": 165,
+    "pdf_height": 97.75,
+    "pdf_sha256": "acfda0bb03484ce7f8fb9c8f47ba836cd565b8e55ddbb56ebe15f59c6d9bd909",
+    "contains_raster": true,
+    "raster_fragments": 1
+  },
+  {
+    "id": "image36",
+    "original": "word/media/image36.pct",
+    "sha256": "3c8dd9b1f8b31b3012f0783c52f78cebff43a8c57bb67367a37709e806578f38",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image36-1",
+        "offset_in_original": 945,
+        "bytes": 77,
+        "sha256": "2113c0bad44adf53d8a0cd0b979557f45a5a983e0dd6089d3d4e8ba6978913f3"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 66,
+    "height": 38,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image37",
+    "original": "word/media/image37.pct",
+    "sha256": "b879ae8b0f74ceb67f1e56f22f52d1ed17a030f47e0576b5aa1954b7ca4f393e",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image37-1",
+        "offset_in_original": 1023,
+        "bytes": 83,
+        "sha256": "7260990dae6498e1b9f52840879a64f9df7a3838ced513971f4b333ac7f7f00c"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 92,
+    "height": 30,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image38",
+    "original": "word/media/image38.pct",
+    "sha256": "4936092413491863c9f08454936f1ba29acb6f5ea0548de97aa91b78af00d251",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 191,
+    "height": 162,
+    "atlas_page": 11,
+    "atlas_bbox_pt": [
+      36.0,
+      593.5,
+      227.75,
+      756.0
+    ],
+    "text": "E= (5,b)\nD= (8, a)\nB= (17, 7)\nC= (10, 5)\nA= (3, 3)",
+    "pdf_width": 193.75,
+    "pdf_height": 164.5,
+    "pdf_sha256": "f6722a4abfbee274f6de1abaed3b12ffcb7ff8a1967847af32c7f8478e883700",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image39",
+    "original": "word/media/image39.pct",
+    "sha256": "0e4026d4f3e180972e778df0586ad8af9855f4b0bba46e4535a9e269ea254ffa",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image39-1",
+        "offset_in_original": 771,
+        "bytes": 36,
+        "sha256": "9eef834977766d470f00f07bfd88df19136357c0989ced4251c51e48c52083c8"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 35,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image40",
+    "original": "word/media/image40.pct",
+    "sha256": "c65cc9c23fa8460672d992a21afa78bcee58dbed3e088674c19630496ff20258",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image40-1",
+        "offset_in_original": 764,
+        "bytes": 36,
+        "sha256": "7bd2c2ec769b7cafa9ccef22e83aaa0a0b0b43ebe4f93283a133a4b05bde0d04"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 35,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image41",
+    "original": "word/media/image41.pct",
+    "sha256": "9910b6bc089e1df58ad95e226b5b5bbb3755d52b63b54bdf219707a4173b3c0b",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image41-1",
+        "offset_in_original": 642,
+        "bytes": 24,
+        "sha256": "931667aae8253827c8d6140f1cf01b0802ceca3879b91b06d66b328d4593d95d"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 10,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image42",
+    "original": "word/media/image42.pct",
+    "sha256": "a0a2fa53ecfd055588a29a47e59a53eaf6b772405f720e4acf27884831d63284",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 145,
+    "height": 143,
+    "atlas_page": 12,
+    "atlas_bbox_pt": [
+      36.0,
+      619.9,
+      173.75,
+      756.0
+    ],
+    "text": "-inverse\n*\nof that element\nelement\na\nb\nc\nd\ne\nf\ng",
+    "pdf_width": 139.75,
+    "pdf_height": 138.10000000000002,
+    "pdf_sha256": "3b359bddce69315bbd6bce41a287ff3110d2ac3c541024cd1aa2008b19223701",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image43",
+    "original": "word/media/image43.pct",
+    "sha256": "b2ad9573e3e1bfdc9fd6edfd9b866340a8c7b7c5346b3e1480599f45194e8d27",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image43-1",
+        "offset_in_original": 780,
+        "bytes": 69,
+        "sha256": "c4dcd57cce1731a5b16f30827e3f04c79bf2e463f345c13c401deb54896c4c78"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 76,
+    "height": 18,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image44",
+    "original": "word/media/image44.pct",
+    "sha256": "960344b3231f89f1f83943c93e7a26c9d84b9cc14815cf92a73e007186c0dec5",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image44-1",
+        "offset_in_original": 1926,
+        "bytes": 158,
+        "sha256": "e6784aac982ae4edebfee5b27673cb4060a49cb8f605ad11456067d75d6d44a0"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 65,
+    "height": 66,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image45",
+    "original": "word/media/image45.pct",
+    "sha256": "2a462d44688f7390bec3c8d51c5bcfd966cfe6f3e13da59c95dc7526bfd189f8",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image45-1",
+        "offset_in_original": 2275,
+        "bytes": 209,
+        "sha256": "2035698352381d68a5d092be18222b62fd36158f269be03fce936c0a390b8ff0"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 123,
+    "height": 66,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image46",
+    "original": "word/media/image46.pct",
+    "sha256": "076f55a7beeeeeeb25f6e83f65a55cad638f092590facb03aaeb75b6663ebe4a",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image46-1",
+        "offset_in_original": 913,
+        "bytes": 74,
+        "sha256": "3250150476ef21120cf328de25daf215e10b4824d61822ba10968bdd793157d4"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 57,
+    "height": 29,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image47",
+    "original": "word/media/image47.pct",
+    "sha256": "f08f3d46d5b9f08682d428cff39c2f400541c470d8cab819f6131fc5ec5ad05f",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image47-1",
+        "offset_in_original": 800,
+        "bytes": 75,
+        "sha256": "127d163dc3e918082a65355ea153b4a7f27eac8e979c4e2517d1f772742c16ed"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 62,
+    "height": 18,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image48",
+    "original": "word/media/image48.pct",
+    "sha256": "2435022a8a6b14d3d635b4a29216f9836ab916ba7468e9dff60098960ccb6749",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 124,
+    "height": 156,
+    "atlas_page": 13,
+    "atlas_bbox_pt": [
+      36.0,
+      600.0,
+      160.5,
+      756.0
+    ],
+    "text": "(13,17)\n(3,5)",
+    "pdf_width": 126.5,
+    "pdf_height": 158,
+    "pdf_sha256": "df6d558227f6b2ed8840c75a08f653ed8cb6bdc1e39ac3fbe376fee5bde205ba",
+    "contains_raster": true,
+    "raster_fragments": 1
+  },
+  {
+    "id": "image49",
+    "original": "word/media/image49.pct",
+    "sha256": "178eefeaa958c44937de0c06b66c33da72525c671d5cadfa0b59b044a2ed5fd8",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 208,
+    "height": 94,
+    "atlas_page": 14,
+    "atlas_bbox_pt": [
+      36.0,
+      662.0,
+      244.0,
+      756.0
+    ],
+    "text": "(6,9)\n-\n(27, 4)",
+    "pdf_width": 210,
+    "pdf_height": 96,
+    "pdf_sha256": "df96180b25e6a8dabe9740c7aa63d470107773d2addc92e68734362d503678a1",
+    "contains_raster": true,
+    "raster_fragments": 1
+  },
+  {
+    "id": "image50",
+    "original": "word/media/image50.pct",
+    "sha256": "44321a8fd266389fe257a6210b790d5b17aadee60b2e12f064ed89ba5e5a05d5",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image50-1",
+        "offset_in_original": 945,
+        "bytes": 77,
+        "sha256": "ec105160b90efac0e7e5b03303bca453cadb89b332bbbcda5063918b9d96761f"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 65,
+    "height": 38,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image51",
+    "original": "word/media/image51.pct",
+    "sha256": "06c9d47599c97a97aaf5d79c353dc26c812247bfd0502407ef2475256a3eba93",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 158,
+    "height": 47,
+    "atlas_page": 15,
+    "atlas_bbox_pt": [
+      36.0,
+      708.25,
+      194.75,
+      756.0
+    ],
+    "text": "",
+    "pdf_width": 160.75,
+    "pdf_height": 49.75,
+    "pdf_sha256": "208b229814c7908c2dac8c87141c7ecc3132c173a5a967df5e922bfdc49ac00d",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image52",
+    "original": "word/media/image52.pct",
+    "sha256": "96d2f7f2d4836dfda38b7888992488d4d6e70154826ff3a2c1cd4f5905e1668d",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image52-1",
+        "offset_in_original": 700,
+        "bytes": 37,
+        "sha256": "3be6dbabda87b244b810f31d1ae031b6961c07b48ff74c8275e88805cfc148b8"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 17,
+    "height": 32,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image53",
+    "original": "word/media/image53.pct",
+    "sha256": "c427f989b21a8ff11ef09c6aa93f82e0a89b0370ef3fbd94c33705a1acdce161",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image53-1",
+        "offset_in_original": 1049,
+        "bytes": 79,
+        "sha256": "0aa712e2f680ba8d753618ddc63faed26320520ed1f95960d6a12d42b0fbe689"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 76,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image54",
+    "original": "word/media/image54.pct",
+    "sha256": "c0eaaddc7ef79be2711af2db2c274f0fa5cd9bea0c470ac325ae1675c30384a4",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 136,
+    "height": 112,
+    "atlas_page": 16,
+    "atlas_bbox_pt": [
+      36.0,
+      644.0,
+      172.0,
+      756.0
+    ],
+    "text": "* a b c d e f g\na f a e g b d c\nb a b c d e f g\nc e c d a g b f\nd g d a e f c b\ne b e g f c a d\nf d f b c a g e\ng c g f b d e a",
+    "pdf_width": 138,
+    "pdf_height": 114,
+    "pdf_sha256": "a9d8a3a0d728b79002d2cf8a6cef7e2cfcee707250e21a4fcd1730a3082565a7",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image55",
+    "original": "word/media/image55.pct",
+    "sha256": "164674718a327e83efb80e46e2d9018b9578aa93053efa9fa3fce3195140cd0d",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image55-1",
+        "offset_in_original": 689,
+        "bytes": 36,
+        "sha256": "51c612d6b3d263bcb3e40c1f12d7f7da295baa4851db8bf8f2255bc9a68119e9"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 16,
+    "height": 29,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image56",
+    "original": "word/media/image56.pct",
+    "sha256": "b489cd1ddfd3d8ff724e0e237188f7b1e49e494986a6561b155fedfbc3d25cae",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image56-1",
+        "offset_in_original": 1050,
+        "bytes": 129,
+        "sha256": "d96fc87855e65fa3a8e375c6fcfbb081a207c48bd889729772dff261b358a358"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 125,
+    "height": 27,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image57",
+    "original": "word/media/image57.pct",
+    "sha256": "579ff90ee673ef3de37e863b9d3ab599d95c8fc15ff7a92631637d607499caaa",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image57-1",
+        "offset_in_original": 1836,
+        "bytes": 155,
+        "sha256": "62da03f9c20d24c892f7e1a17116e04d61514663c707b44e9a349d7e54e42365"
+      }
+    ],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 152,
+    "height": 25,
+    "atlas_page": 17,
+    "atlas_bbox_pt": [
+      36.0,
+      674.4,
+      516.0,
+      756.0
+    ],
+    "text": "___o T o X =T o T\n( )\n− − (6,3)\n(3, 7) ( 3,7)\n€",
+    "pdf_width": 482,
+    "pdf_height": 83.60000000000002,
+    "pdf_sha256": "db54c58b24d8c8b46bdbd737e61b9be0d474706266e6a277455db9ff01527712",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image58",
+    "original": "word/media/image58.pct",
+    "sha256": "e7aa35dc5d081b9c3b207271e3575c1b149ceb4ffff8f74f7e4757406df8b685",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image58-1",
+        "offset_in_original": 1139,
+        "bytes": 125,
+        "sha256": "e03f9d9698e3d1332236f5d7fbbf820b7dc51630265e1cf6239dad4aff65d230"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 128,
+    "height": 27,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image59",
+    "original": "word/media/image59.pct",
+    "sha256": "9810cf4d7692a14dcc29ff95b141705eba51ece4a208e11090c9322fbd377c37",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image59-1",
+        "offset_in_original": 700,
+        "bytes": 36,
+        "sha256": "88e74aea5a45336006d61c4501e3557e24eb623adfb57169ec9cf0dacc753c0b"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 66,
+    "height": 12,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image60",
+    "original": "word/media/image60.pct",
+    "sha256": "fde0c8cf53254dd4450c5ccc434e5d6d8e0e3697109bb08438fe2242ec4e33ad",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image60-1",
+        "offset_in_original": 1019,
+        "bytes": 108,
+        "sha256": "36ce43839e98f07d67975e5d034fc85a138a4381d3c7d8b87cbc252722cca3e5"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 102,
+    "height": 20,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image61",
+    "original": "word/media/image61.pct",
+    "sha256": "265cb17a3fd774eee47c84f16840c5c0bf125ed66f53e0a943570a499bfee393",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image61-1",
+        "offset_in_original": 1278,
+        "bytes": 124,
+        "sha256": "f76c3a106277ba5dc4b3a72c4e81da9539cde7cfc032e807feb75766b5dd6115"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 121,
+    "height": 31,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image62",
+    "original": "word/media/image62.pct",
+    "sha256": "13d9e766263268b4e3168472dbaaa00f018eed216148a8dcf40e1ca75373cf71",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image62-1",
+        "offset_in_original": 1142,
+        "bytes": 87,
+        "sha256": "08de7cf66e9d4876b78c39c7dd17d2ff67fb82548eea662779dfca75b53efb74"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 92,
+    "height": 46,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image63",
+    "original": "word/media/image63.pct",
+    "sha256": "b965ef623a6a3561270a7b6effed512a0923a7d9c26e5f6973823d5b83fa8504",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image63-1",
+        "offset_in_original": 610,
+        "bytes": 24,
+        "sha256": "9a8c29c6fc5ca835ca1ede255e04fa8971908883ff847b565e7d0c682d4d05c8"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 41,
+    "height": 12,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image64",
+    "original": "word/media/image64.pct",
+    "sha256": "8213c6138ba96e0d7006cddd2a51a002b31c36195e8273fcf2ba582b7426e048",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image64-1",
+        "offset_in_original": 784,
+        "bytes": 75,
+        "sha256": "5eb98b5a76f846a05aa0a890c7ab878b1eb97259f6f809813b7047640929a930"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 85,
+    "height": 18,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image65",
+    "original": "word/media/image65.pct",
+    "sha256": "f948fd6c141fc6f1fcc532b3b36be9c039859f2bb0a47b05fc9eda2061e05203",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image65-1",
+        "offset_in_original": 1851,
+        "bytes": 132,
+        "sha256": "2b92d38e0aa0cc784378b77f3b3f404d8b410174e5ee92ad8b007727474d199e"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 57,
+    "height": 63,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image66",
+    "original": "word/media/image66.pct",
+    "sha256": "b7529fa6dc1092e8d267844f374b2531e17e42cb5c2b4aef4cf1ddb1a1f59f99",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image66-1",
+        "offset_in_original": 2200,
+        "bytes": 183,
+        "sha256": "6c33dec4e7ca5b2f98a2c2e3d1f1cc7063468bd0d74955caa9a4f5b21e23edc8"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 115,
+    "height": 63,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image67",
+    "original": "word/media/image67.pct",
+    "sha256": "b7b12b5bb44a01fe67830a9d528c53bc5aecb0068112b35925856fbb00205dc2",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 168,
+    "height": 146,
+    "atlas_page": 18,
+    "atlas_bbox_pt": [
+      36.0,
+      609.5,
+      204.5,
+      756.0
+    ],
+    "text": "(6,25) (15,21)\n(4,6)\n(11,3)",
+    "pdf_width": 170.5,
+    "pdf_height": 148.5,
+    "pdf_sha256": "fb0e6d7e3543e395bff2d78f062824d16fc06a0dfa038a7cc27be4784b1bf550",
+    "contains_raster": true,
+    "raster_fragments": 1
+  },
+  {
+    "id": "image68",
+    "original": "word/media/image68.pct",
+    "sha256": "4b929fa740b906a7c99e07d479488cfd56604b5d54bde6285c5a943be190a31b",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image68-1",
+        "offset_in_original": 760,
+        "bytes": 39,
+        "sha256": "6fa57e7a2feb6de82c03b6c62cb17000e6d721681ba582e773c96a581f7a406a"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 68,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image69",
+    "original": "word/media/image69.pct",
+    "sha256": "14c4db0017ae38b4cf770d5ccedb040c8bae4786179f55478a627c48d63d2c17",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image69-1",
+        "offset_in_original": 617,
+        "bytes": 27,
+        "sha256": "013db939f30e03d34f7197a37595f8d17373697d85adaab5bbbb9c46d20380f6"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 40,
+    "height": 12,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image70",
+    "original": "word/media/image70.pct",
+    "sha256": "0e50939a311fadbb9858e0c04db5b9f3515b9760292af56a7c04a16a7599fc4c",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image70-1",
+        "offset_in_original": 617,
+        "bytes": 27,
+        "sha256": "c4b64fd1fa88ebae8ff062f59752e395e139e5d6c9d289f3fc867a4a44f7a5cb"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 39,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image71",
+    "original": "word/media/image71.pct",
+    "sha256": "4a8808667aa50e81a98fe918c9e15e6d9814f88f22ab9ed1c693fc008127c58a",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 217,
+    "height": 60,
+    "atlas_page": 19,
+    "atlas_bbox_pt": [
+      36.0,
+      696.0,
+      253.0,
+      756.0
+    ],
+    "text": "",
+    "pdf_width": 219,
+    "pdf_height": 62,
+    "pdf_sha256": "81d8ec12bf9a424860911cb10282cf57734790c073b2961a1fee84abd4483668",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image72",
+    "original": "word/media/image72.pct",
+    "sha256": "1f124aba64f524b48a822d144093a9eb94727b38b0c131af880e7afda728f1ab",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image72-1",
+        "offset_in_original": 700,
+        "bytes": 37,
+        "sha256": "ce5aed3ead67e3b267a839c3dcef87bf8b07f530f9261fc3865ed334afbb3192"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 19,
+    "height": 32,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image73",
+    "original": "word/media/image73.pct",
+    "sha256": "8e940b83cbe7c67f70dd28b79ea065b3204c59e5b329137140662e13e9780397",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image73-1",
+        "offset_in_original": 642,
+        "bytes": 24,
+        "sha256": "68cb6332aecbe1bcb6e7f6ac03ac342fa657fc8f12439cf290c969a3c49f82a4"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 10,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image74",
+    "original": "word/media/image74.pct",
+    "sha256": "575f67c9be1f655cf098a8f0deb4adb9e32f122608df5c26fd6afb89e535c37a",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image74-1",
+        "offset_in_original": 2042,
+        "bytes": 178,
+        "sha256": "a173a0935f1a7764da3cd5de08e302ab106ec56b8053b5e846231b565cbe4bf9"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 75,
+    "height": 68,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image75",
+    "original": "word/media/image75.pct",
+    "sha256": "3dc00d85277c602c614541154b6f2fbbec1bf606e946666dd36ec6b1aae0a9df",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image75-1",
+        "offset_in_original": 751,
+        "bytes": 51,
+        "sha256": "c96f616bbb696a017d3c38f8b87eca0de2e465c4655027aa2b565e73a29a3aca"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 36,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image76",
+    "original": "word/media/image76.pct",
+    "sha256": "f1bbea69b183cd93732a9b9d6679f0036f41ea7ba9edfa1fc502598e3a7c1700",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image76-1",
+        "offset_in_original": 1048,
+        "bytes": 126,
+        "sha256": "5a2036345e0af9c7cc74f60f8355747b42bf605974334ad17194a9fb10f02768"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 122,
+    "height": 26,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image77",
+    "original": "word/media/image77.pct",
+    "sha256": "1cecf0b2739f92da4457b7e559ba014705166497269886b996f6d6b2f8eaf2a5",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image77-1",
+        "offset_in_original": 1000,
+        "bytes": 105,
+        "sha256": "1d41155368caf83c262f97e476298401b792210d202e05a835dbaea948555d2f"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 98,
+    "height": 20,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image78",
+    "original": "word/media/image78.pct",
+    "sha256": "1a2b36ea8e8a935085b4ef3226ceb8fe964d6132f99589e54307df097812017f",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 377,
+    "height": 112,
+    "atlas_page": 20,
+    "atlas_bbox_pt": [
+      36.0,
+      643.25,
+      413.0,
+      756.0
+    ],
+    "text": "( R 25 oX )= R 40\nR−\n25\no\n(\nR\n25\noX )=R−\n25\noR\n40\n(attaaching the inverse)\n(\nR−\n25\noR\n25 )\noX =R\n15\n(associating the inverses)\nR\n0\noX =R\n15\n(replacing associated inverses with the identity)\nX=R (lettaing identity “fade out”)\n15",
+    "pdf_width": 379,
+    "pdf_height": 114.75,
+    "pdf_sha256": "46d18b5e802fd471d66f85deb9518e839d3c0acf30d598a04cf7bcc110ee1588",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image79",
+    "original": "word/media/image79.pct",
+    "sha256": "343e0921f0ef0657c688d5a65dade765d6b68107281372efa0364409b5354acf",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image79-1",
+        "offset_in_original": 1161,
+        "bytes": 145,
+        "sha256": "a7e6c913073c536d65e47609e4a29c1fa81b77fa8fb1cc990e3ffe1ada445560"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 136,
+    "height": 27,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image80",
+    "original": "word/media/image80.pct",
+    "sha256": "bf4ec0a3e1c88069f78f346f8f960f5376313c0c6786c012113e08b81e3f171a",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image80-1",
+        "offset_in_original": 1406,
+        "bytes": 174,
+        "sha256": "11a6f09f2b77adf672b72a3c7b74b3467c4ad20c6d7306e617c5fe8cfbff72f1"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 178,
+    "height": 27,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image81",
+    "original": "word/media/image81.pct",
+    "sha256": "c2016c91e511c4de6fea0598d506d893c1d2729f16eff24b06c73b132b0faa0a",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image81-1",
+        "offset_in_original": 1216,
+        "bytes": 131,
+        "sha256": "ccf05de7976df63a7850b40c86199a76ffdf68f331afe77654e856fa3ab7f556"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 138,
+    "height": 27,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image82",
+    "original": "word/media/image82.pct",
+    "sha256": "cee7a64326f1d38ce4fe5f53d455ae0b257ce84754dece50962db97ed97e36a9",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image82-1",
+        "offset_in_original": 1132,
+        "bytes": 107,
+        "sha256": "6882f37e6e758dd668f044b7c9fcdd2cdbf7d3902a5988e167161cfce6d6e5e2"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 100,
+    "height": 45,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image83",
+    "original": "word/media/image83.pct",
+    "sha256": "5b6d51d5a70904595cd60a2e05339ac26bef6cab2b49ab84379467426d698e8a",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image83-1",
+        "offset_in_original": 1326,
+        "bytes": 123,
+        "sha256": "b13ed2f62b9d0b02b00d2b91659089ef2d912632bbdc9db76778984bd1e66372"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 119,
+    "height": 45,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image84",
+    "original": "word/media/image84.pct",
+    "sha256": "ad6efcb5951ebe13bff8826679b969675f1dae059e778b81ba92879e9252b9ef",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image84-1",
+        "offset_in_original": 1207,
+        "bytes": 99,
+        "sha256": "641f28b4d7632a12eb4a2de07033cb7490d8240e92beedabee0df4acef3f1d92"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 95,
+    "height": 46,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image85",
+    "original": "word/media/image85.pct",
+    "sha256": "3334502a20ba672eb154d322f89a032719da5a0ca709697af7af989f56203eec",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image85-1",
+        "offset_in_original": 988,
+        "bytes": 104,
+        "sha256": "e7d9e0ee1d42f0da3ef94f5f82d5801583da1f8fef856caab05b65e47a48a695"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 114,
+    "height": 18,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image86",
+    "original": "word/media/image86.pct",
+    "sha256": "6ddb37c3dfe82de64b0f41ce57f4069f72560b0cdab346dabebcc92811c3ff0d",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image86-1",
+        "offset_in_original": 1154,
+        "bytes": 124,
+        "sha256": "d550caaa7522cd1582faf9bd984236ebbc9fc73b1de98176693439ec6e50093b"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 144,
+    "height": 20,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image87",
+    "original": "word/media/image87.pct",
+    "sha256": "091fc2d6cf0a112e0d0b8588878d514b1322d970bc7ff2049c6f05d84010ebc0",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image87-1",
+        "offset_in_original": 1041,
+        "bytes": 94,
+        "sha256": "c3fa0fcb37cd375885cc6b6517cea563283cc7f6a91c71bc47dd0f76267de33c"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 109,
+    "height": 24,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image88",
+    "original": "word/media/image88.pct",
+    "sha256": "946a4e852cfcbd0900ac9653847a6697994b1fa4e8423e49cc298c611204b678",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 156,
+    "height": 153,
+    "atlas_page": 21,
+    "atlas_bbox_pt": [
+      36.0,
+      602.25,
+      192.25,
+      756.0
+    ],
+    "text": "(15, 21)\n(6,19)\n(4, 6)\n(11,-3)",
+    "pdf_width": 158.25,
+    "pdf_height": 155.75,
+    "pdf_sha256": "9fafbac42557807aea48c964bbea510ae71ca3003b68fb954024325a3fc1fb1a",
+    "contains_raster": true,
+    "raster_fragments": 1
+  },
+  {
+    "id": "image89",
+    "original": "word/media/image89.pct",
+    "sha256": "27a1ecbd45a473f3d6edfe7558d30e1f5ebca1b911f8eab07f0f8a10967fd8aa",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image89-1",
+        "offset_in_original": 760,
+        "bytes": 39,
+        "sha256": "d2009cf8d7d3044329315ebdf7671fef8e75d2667c620b7d97a79cfe74e9fb4f"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 68,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image90",
+    "original": "word/media/image90.pct",
+    "sha256": "37df262d1e12dfadf53f0c85831fa76c3024f75389814dc82d49fcc92b6826c0",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 226,
+    "height": 137,
+    "atlas_page": 22,
+    "atlas_bbox_pt": [
+      36.0,
+      619.0,
+      262.0,
+      756.0
+    ],
+    "text": "-\nB= ( 10, 14)\nA= (7, 4)\nO",
+    "pdf_width": 228,
+    "pdf_height": 139,
+    "pdf_sha256": "c21982489df1404acb8d7d3cadeb5919458a2136e17ff214235270072d541801",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image91",
+    "original": "word/media/image91.pct",
+    "sha256": "620c652b003fc0022c1bdcaa2f679ea77d43652d34f568a1626d835720a26f6f",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image91-1",
+        "offset_in_original": 888,
+        "bytes": 129,
+        "sha256": "6ce8cb70933830351df07bfd31b0dd8ac4b46be4340d06b3ee356f238aafe8aa"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 123,
+    "height": 19,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image92",
+    "original": "word/media/image92.pct",
+    "sha256": "8c6a272f64690539f51b012f8c964874866c7909c555b017c3cac31372aed520",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image92-1",
+        "offset_in_original": 935,
+        "bytes": 95,
+        "sha256": "2940c2ca4b7c2416ca62c2b2bcaa3e005eccb3dcdb057234ae08a1f931053330"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 84,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image93",
+    "original": "word/media/image93.pct",
+    "sha256": "59453d1cb1ccee8ae4372093d66daf41fbeee609a6e16cb3c1616dafde8553c1",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image93-1",
+        "offset_in_original": 589,
+        "bytes": 18,
+        "sha256": "e7b9db5874d7b5ddbb6d9d501470143f4e44845e7c78e314a47de910193fa7c4"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 27,
+    "height": 11,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image94",
+    "original": "word/media/image94.emf",
+    "sha256": "4503b4680ee88dec73ecdfc72e91c31ad2a1579482a7b16c8b41bf5d93a73170",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "9306edfd42e0504a37e5a5d1c6ce99c6f258f5c4aaeb6ae3810c3caa4f8942fc",
+    "text": "opposites\n⎡− − ⎤ ⎡− ⎤\n3 1 3 1\n⎢ ⎥ ⎢ ⎥\nmatrix for R 150 ⎢ 2 2 ⎥ ⎢ 2 2 ⎥ matrix for R- 150\n⎢ 1 − 3⎥ ⎢ −1 − 3⎥\n⎣ ⎢ 2 2 ⎦ ⎥ ⎣ ⎢ 2 2 ⎦ ⎥\nopposites",
+    "pdf_width": 372.75,
+    "pdf_height": 165,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image95",
+    "original": "word/media/image95.pct",
+    "sha256": "a8ab55a95f527986c4d7aea23dc5a47580079c88cc21ba94533a2529f8161f34",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image95-1",
+        "offset_in_original": 3124,
+        "bytes": 355,
+        "sha256": "d75e5a7bbf6658a0a31406757787d5cc391a339ebc10f3996f85235a4936fc15"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 193,
+    "height": 68,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image96",
+    "original": "word/media/image96.pct",
+    "sha256": "b56920508b1cdaf8c593dd2babe63a95ecc1afead5154e3e20db57bb7068e5c0",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 182,
+    "height": 139,
+    "atlas_page": 23,
+    "atlas_bbox_pt": [
+      36.0,
+      617.0,
+      218.0,
+      756.0
+    ],
+    "text": "opposites\n⎡5 2⎤ ⎡ 5 − 2 ⎤\n⎣ ⎢ 7 3⎦ ⎥ ⎣ ⎢ − 7 3 ⎦ ⎥\nopposites",
+    "pdf_width": 184,
+    "pdf_height": 141,
+    "pdf_sha256": "6fd283609900f1164091d88a5c7a08f8cbe01ca0347a2afb35a34cc4806532b1",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image97",
+    "original": "word/media/image97.pct",
+    "sha256": "dd12323cff5a513751b8a1222b12f093847a3c027994d20246ecfb271068098b",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image97-1",
+        "offset_in_original": 1454,
+        "bytes": 199,
+        "sha256": "6735774301716154392c7605338d1d694f8f0dbce97adf79497f5bc86176ff9a"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 148,
+    "height": 38,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image98",
+    "original": "word/media/image98.pct",
+    "sha256": "5a4111299db751498d63d06f598bd54d27c6b73e4b42eb46395763785af4f8ed",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 185,
+    "height": 139,
+    "atlas_page": 24,
+    "atlas_bbox_pt": [
+      36.0,
+      617.0,
+      221.0,
+      756.0
+    ],
+    "text": "opposites\n⎡5 2⎤ switched ⎡ 3 − 2 ⎤\n⎢ ⎥ ⎢ ⎥\n⎣7 3⎦ −\n⎣ 7 5 ⎦\nopposites",
+    "pdf_width": 187,
+    "pdf_height": 141,
+    "pdf_sha256": "b78ae4b5ee8cbf85dee2ebd69fa7ac6711bec818d8f6c736ba23ecd951ed3759",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image99",
+    "original": "word/media/image99.pct",
+    "sha256": "48a4064c061c434821d6a7b602ff25865581f69943fb29f4d44d058705105ff6",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image99-1",
+        "offset_in_original": 1378,
+        "bytes": 167,
+        "sha256": "ff61cee2d3f23ff2d375dd290d43085f99a8eb23c92345728c1831c66069bbaa"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 134,
+    "height": 38,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image100",
+    "original": "word/media/image100.pct",
+    "sha256": "9a29f64bb33cdb9270c795c704f5d25f5a00f8239eb0c6eb74063eb7d5770a74",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image100-1",
+        "offset_in_original": 833,
+        "bytes": 77,
+        "sha256": "5394d6e2bf55148d4ce6c81a805d5d66f6977c15c2c52aa264297b0ac42df7fb"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 44,
+    "height": 38,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image101",
+    "original": "word/media/image101.pct",
+    "sha256": "208605d9197e8ca29a5d84e4e2fd22e8c3ec0595bb98eda2b18330220cfdc66b",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image101-1",
+        "offset_in_original": 756,
+        "bytes": 54,
+        "sha256": "c52c817c4da00aacdecdc7ab2da02ccb9d0b15ebfc16b612e5e5d29a12f68c2b"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 41,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image102",
+    "original": "word/media/image102.pct",
+    "sha256": "6f876da855503e0de71b65652a0b10c2d5fbdebc64a89b5f42cb348e8cfc840c",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image102-1",
+        "offset_in_original": 1142,
+        "bytes": 106,
+        "sha256": "0b8952665746073c0d22fda08523730e804f0962551b64dde5bea3a7afd62264"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 97,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image103",
+    "original": "word/media/image103.pct",
+    "sha256": "fc232ce2488ab2af95c393e550b7f82cd70757a81693af60f0f27be0f4fa86bd",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image103-1",
+        "offset_in_original": 837,
+        "bytes": 53,
+        "sha256": "28f1c62d656085be4a531468805b9c740f04507f109db751349435177fd86a76"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 51,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image104",
+    "original": "word/media/image104.pct",
+    "sha256": "de6cb59c567804a7041f9da3319035840f0874d5b846301ca9d685850a900ec2",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image104-1",
+        "offset_in_original": 1058,
+        "bytes": 112,
+        "sha256": "92eb4cfe41a809230c44ca15b537f7d87ff56462702d386ea8f63f04f2075d97"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 72,
+    "height": 38,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image105",
+    "original": "word/media/image105.pct",
+    "sha256": "4a4a760880d396b0b447f00569ccae23aef57cbf02ebe851cb773baa95725bc8",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image105-1",
+        "offset_in_original": 793,
+        "bytes": 64,
+        "sha256": "1d68123ef49c8e5db98bfa00eeea59e997deb008cbebf644f1ace40559a7636a"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 45,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image106",
+    "original": "word/media/image106.pct",
+    "sha256": "3bd8ec839b6cfac0dae0c75dcb273b76469ec23ff81ee1a0b833aa4d7e9f616b",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image106-1",
+        "offset_in_original": 1100,
+        "bytes": 122,
+        "sha256": "a945df0a466f77bb6a25a499259759cf377dfc1e011a71dc26758b60445844a6"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 90,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image107",
+    "original": "word/media/image107.pct",
+    "sha256": "691aff59259bf50d619c84b5948f07dbff5f24bb693b7e9ac89c9abd40916a00",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image107-1",
+        "offset_in_original": 747,
+        "bytes": 54,
+        "sha256": "a74ee3b31f90876b5a4d9229435b9c5e5ba7f307fe5930af2e62d7d6612f33c8"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 26,
+    "height": 38,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image108",
+    "original": "word/media/image108.pct",
+    "sha256": "0939f28d3bbd9859c2036e7f8b2bc42efe979b44dcaa0bdd4e106216feb890f0",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image108-1",
+        "offset_in_original": 1308,
+        "bytes": 169,
+        "sha256": "90ab71e6c55daad1744a3a1341dbaf901ca47c0fdd5b9c42b4454740855576c3"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 135,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image109",
+    "original": "word/media/image109.pct",
+    "sha256": "7ba92cc30d1c32cecf958eb42a8ce1eafd18476ea4a6d87e5a3bb7322f71e553",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image109-1",
+        "offset_in_original": 2489,
+        "bytes": 334,
+        "sha256": "93422e22092e4408732938191af30d51da137ee2fc3bb4bedf1bb85e7cec6fdb"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 215,
+    "height": 65,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image110",
+    "original": "word/media/image110.pct",
+    "sha256": "049011778e82bc59b4962baffa9018fe17970fee9ad1e057ed8d8e1c52b80cfe",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image110-1",
+        "offset_in_original": 2386,
+        "bytes": 293,
+        "sha256": "26be9e7e770c3e011e21d7485c7548b1cc2aaa71efc0dc868ee5f24cc15c74c8"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 188,
+    "height": 67,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image111",
+    "original": "word/media/image111.pct",
+    "sha256": "65e0db67cfced677b617701d11ec3a30da188eb4fbb9a2fade9a74ea925f4b34",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image111-1",
+        "offset_in_original": 1081,
+        "bytes": 107,
+        "sha256": "9070552b33152f5f3a57102cbcffd0c8e8a224eb5c7d4160bd9edfeb21725fb3"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 96,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image112",
+    "original": "word/media/image112.pct",
+    "sha256": "e90f8421835857f8db438ebf5ca381d988b1981b0e1ff1b57fe691d0d95791db",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image112-1",
+        "offset_in_original": 890,
+        "bytes": 74,
+        "sha256": "0a7e3445c03a20c5fe12aa406e519dcb1eed4cbbd67907f75bd233fe60f9ea04"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 61,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image113",
+    "original": "word/media/image113.pct",
+    "sha256": "d1bf560c4feb4d6412cd1062115567ba4a0d481858edb5063ad062a1873030e0",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image113-1",
+        "offset_in_original": 732,
+        "bytes": 42,
+        "sha256": "e8b22c47ca3781ff55246425ee885899001e061c5fa922343bf48f32fbfd1524"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 82,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image114",
+    "original": "word/media/image114.emf",
+    "sha256": "0fbc3d640a982f2d72a3afdc6811fc311ce92fba365588613ea42f498627c6cd",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "28efce82bb95afb7d2e6b1d670d3c9d5bd52f2680de32572b726256b604d59fe",
+    "text": "B= (5, 14)\nA= (12, 4)\nO",
+    "pdf_width": 169,
+    "pdf_height": 146.25,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image115",
+    "original": "word/media/image115.pct",
+    "sha256": "316bb4493da7ba284e926dc973b7fc3744e8595eb332cb55b5627ae58e62a260",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image115-1",
+        "offset_in_original": 908,
+        "bytes": 116,
+        "sha256": "5ee44f27e2c54007a14b02dd7178313b2617d564fd7a73dd6563a242e0498ded"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 118,
+    "height": 19,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image116",
+    "original": "word/media/image116.pct",
+    "sha256": "e9c17101f042bac4524dcb6e94422f90ebe445ba9d0d47fb8152c62372fbadf1",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image116-1",
+        "offset_in_original": 901,
+        "bytes": 82,
+        "sha256": "d1fcff44486cb9c433011d446296e6aec6ce98c2c02b1282743128a9d0b5a0ad"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 75,
+    "height": 29,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image117",
+    "original": "word/media/image117.pct",
+    "sha256": "6abadd08b1546abc90b194dfba5c20fb86998cbd843ef312a108747e556c9a23",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image117-1",
+        "offset_in_original": 1105,
+        "bytes": 122,
+        "sha256": "811d1b8c4e09ce35dc3a436ed14cd560547c8c4c5565c388b91db82dee597a37"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 91,
+    "height": 38,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image118",
+    "original": "word/media/image118.pct",
+    "sha256": "688c26d295ef1cd5d73ffc10bc56863b6a8c006b8ebfde4e797aa5a23f27088f",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image118-1",
+        "offset_in_original": 751,
+        "bytes": 51,
+        "sha256": "3c98a64fc784a5a62ab6f80d7aa6d599bf379f87c7a885b385b3b345ba0dee9f"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 36,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image119",
+    "original": "word/media/image119.pct",
+    "sha256": "90e55194487400006c5ef19fac5a43bca7442413109faa0f42510eada5f92f31",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image119-1",
+        "offset_in_original": 1120,
+        "bytes": 100,
+        "sha256": "b4576875c8e5c404300786de117ae0cf23fa2877b7ca0fabff220c6a4a94b68a"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 92,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image120",
+    "original": "word/media/image120.pct",
+    "sha256": "bd438e7ca856947e78a6cd5b5011ceacf4ce82cbda2ce86d954eaf237af71f9a",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image120-1",
+        "offset_in_original": 1307,
+        "bytes": 166,
+        "sha256": "b1f9a969a79d636e22b5af614f4e2b8ff24b6e5bcae3949e9f82091162eedc32"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 134,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image121",
+    "original": "word/media/image121.pct",
+    "sha256": "6b8a04229e6dc41aa745e547fbf84a35acbf89629a194a50eae4c3f1e45d306f",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image121-1",
+        "offset_in_original": 2469,
+        "bytes": 316,
+        "sha256": "015b0595c1bfe2c2ac9707dce88240cf58e19f667bc3462abb8977e3da612d3c"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 211,
+    "height": 65,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image122",
+    "original": "word/media/image122.pct",
+    "sha256": "7f77d6a499f692831d2e3a0d8207244428e074a304159e6449f5a2faa57c6d58",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image122-1",
+        "offset_in_original": 2367,
+        "bytes": 275,
+        "sha256": "a252062385be8234abc20d0d2f60bb644aaccc4308e9648888c356b2d41b6a06"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 185,
+    "height": 67,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image123",
+    "original": "word/media/image123.pct",
+    "sha256": "3756410dd29b0b0ceac14fe5a9e4d63dd4d6bbc0931dbed02841cf1d88e754cf",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image123-1",
+        "offset_in_original": 816,
+        "bytes": 57,
+        "sha256": "88845482ea71ab4339b9b62d041d7a0f03d8ac1d487fe0e509365be5e3ca5300"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 102,
+    "height": 13,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image124",
+    "original": "word/media/image124.pct",
+    "sha256": "bf0e4acfc7dd7bab78bc6d247d33adb825c0ee7861043a8aa6eefaa178e35623",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image124-1",
+        "offset_in_original": 814,
+        "bytes": 54,
+        "sha256": "6d3b6a33886a4ab55b450508b25da3b28c77f1a4ff86fb5c87dc6b2e9ba77c48"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 97,
+    "height": 13,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image125",
+    "original": "word/media/image125.pct",
+    "sha256": "46c4f5a598b3834fcf047a7bd7e6c425d8a0cbf97c34c49a4b30f4f41215de91",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image125-1",
+        "offset_in_original": 817,
+        "bytes": 57,
+        "sha256": "f74a89b8ed99f1a2507432061b7bb21cf7d63669aebef59c9925b560cbfff2b0"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 102,
+    "height": 13,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image126",
+    "original": "word/media/image126.pct",
+    "sha256": "d7af43f5d5d0840087a79907cc03cc758635d53f83660c3b185107ee25021cd1",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image126-1",
+        "offset_in_original": 762,
+        "bytes": 42,
+        "sha256": "919534e2913e7ddcf59f0eef78002d023f18fb99c09ab7d34eaa116f4c7f34c1"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 73,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image127",
+    "original": "word/media/image127.pct",
+    "sha256": "f0e49fcd0f06172be16a939c92e38d30c3f4e8a039cb46b7857387bd783056e1",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image127-1",
+        "offset_in_original": 708,
+        "bytes": 30,
+        "sha256": "f8ffb15d912f5030a07dc73c21db3d8dcd5d4bf85af0ef951814b8aab18256b8"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 58,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image128",
+    "original": "word/media/image128.pct",
+    "sha256": "fec709696023631320ae367d7f25cbdf23edaed8b4ecc8b857c2b2f03b046abb",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image128-1",
+        "offset_in_original": 765,
+        "bytes": 45,
+        "sha256": "2ca00e7614127364bb4707a1e96978bcdeebf6200c3a98fe6ac4a5a39e3d1377"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 79,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image129",
+    "original": "word/media/image129.pct",
+    "sha256": "7f968bde90d30b8184269439be952962ca24207ba2bef9e7208325ab3852e267",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image129-1",
+        "offset_in_original": 1064,
+        "bytes": 94,
+        "sha256": "7274b426cde30f52e17dbb36a1e2456864de9feb06088c86024ba88b7993e5b2"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 85,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image130",
+    "original": "word/media/image130.emf",
+    "sha256": "5d584fa5116ae82276c443e7053e1cb61cf56456d715499626c25e4c57fbbc76",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "f4f17540fad5642ae833574f45682bbb2ebf5161affe31bc8a4a9dc7a10741a3",
+    "text": "B=(4, 5)\nO\nA=(10,-6)",
+    "pdf_width": 186,
+    "pdf_height": 151.75,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image131",
+    "original": "word/media/image131.pct",
+    "sha256": "85ba64107b3e7dfbb8c1e3101c04781d25cf663be87fe4a5599bb770a385d9ea",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image131-1",
+        "offset_in_original": 833,
+        "bytes": 77,
+        "sha256": "4fdb9ce0d3e90d1d6b311204a8963fc967f27a579668c0c2d9dbde9a12b5e30c"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 53,
+    "height": 37,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image132",
+    "original": "word/media/image132.pct",
+    "sha256": "d7b306ca3b23cdeaaf0eac74d7ad358311927b37135d9fc843d51e9d5e8d379b",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image132-1",
+        "offset_in_original": 1378,
+        "bytes": 167,
+        "sha256": "c5d01862465673b6fda789feb8a4d6bc1d8f4bef2e117ffe1becd18e896e982a"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 135,
+    "height": 37,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image133",
+    "original": "word/media/image133.pct",
+    "sha256": "341aa09715128633a38074e4ed8afdd139884856d90004834c6fe264300199c9",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image133-1",
+        "offset_in_original": 642,
+        "bytes": 24,
+        "sha256": "388284fc951258533f033a278911e1699869f74d3ef704e1912c9c99fc882c27"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 11,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image134",
+    "original": "word/media/image134.pct",
+    "sha256": "664dbe5d725ca2135197ecaf6ec7c4433fb6b934de344913d2bb59cb15335e97",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image134-1",
+        "offset_in_original": 3562,
+        "bytes": 480,
+        "sha256": "58204b69db8cb2ebd879286177a8de97c8859d75ea06f2fb7addeacb854b93e8"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 280,
+    "height": 64,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image135",
+    "original": "word/media/image135.pct",
+    "sha256": "2428ba99dba7b8d8f183fdcccd2e93b9f928430d4c44446554a6802a4a5756c9",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image135-1",
+        "offset_in_original": 832,
+        "bytes": 77,
+        "sha256": "42efb86d2c1219d11d5d5d982c2bbcb89200757201559d85db58c18c02f842fd"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 49,
+    "height": 36,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image136",
+    "original": "word/media/image136.pct",
+    "sha256": "5ffe03f796baaefdb91d11aee67dd994af38923bc04b9fd5ca93d91e4a0f8df7",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image136-1",
+        "offset_in_original": 720,
+        "bytes": 43,
+        "sha256": "ad28d1e51a40fc0b6460c165966f345310d5871fd4a589bfb25c75080e577a39"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 53,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image137",
+    "original": "word/media/image137.pct",
+    "sha256": "fcaa8f104ea63820f7212924a7485473c0ec4fa43d56b5799f060953e1da28b5",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image137-1",
+        "offset_in_original": 1103,
+        "bytes": 122,
+        "sha256": "9c14b9747ab0d27264311c51f750f27cea1a2f6d5fedad76b8b3477df444f836"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 89,
+    "height": 36,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image138",
+    "original": "word/media/image138.pct",
+    "sha256": "0bbc8f06f97fe2787622e4a8ffeed663fd55262613e9d4791e1dac5a8288ba99",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image138-1",
+        "offset_in_original": 1116,
+        "bytes": 113,
+        "sha256": "55b22b4b6f597edc4264794c397c0092ee7fe5a62090f35a58e3b52eaf82678d"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 133,
+    "height": 36,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image139",
+    "original": "word/media/image139.pct",
+    "sha256": "7773090efe8ab5fa7812d40d486f47824d17b03fff1ab9d9740f0e8a44ccefd9",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image139-1",
+        "offset_in_original": 852,
+        "bytes": 55,
+        "sha256": "7c29e637f5a96a9cf72866aba26796cb6326788abcf3bf284a75b4dfa336ed5b"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 55,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image140",
+    "original": "word/media/image140.pct",
+    "sha256": "8f5cd025366853347ad86b031809c323bc28bfacdcb76dde3b42a68918b3e96c",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image140-1",
+        "offset_in_original": 1987,
+        "bytes": 261,
+        "sha256": "51e69bdb73b65fd6e69a16429c512e0cb9493dc66aa6ce6ad4d197f105b11e82"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 135,
+    "height": 60,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image141",
+    "original": "word/media/image141.pct",
+    "sha256": "446c94403deccb9edd5a0e9bd445ad429f92257c5b39ea9d3f3b257578bc4c88",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image141-1",
+        "offset_in_original": 683,
+        "bytes": 30,
+        "sha256": "8910f01633a9d5121e3b1c247fbe21149a36f11040f76afd7f12d795270dee81"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 51,
+    "height": 12,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image142",
+    "original": "word/media/image142.pct",
+    "sha256": "0f29f416dfa11a82a3e9efb9780bbff92befb874842249798e468aac5740dc45",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image142-1",
+        "offset_in_original": 513,
+        "bytes": 12,
+        "sha256": "df21b2670b0a5248db9934714ef7b48d0eb7a0163143f78c51f3e644b37766dd"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 10,
+    "height": 10,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image143",
+    "original": "word/media/image143.pct",
+    "sha256": "5c16ff16b8f60031b82b06cc407bf2f7eb2b5ab6810124cc19aedd9f8a7b6a2b",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image143-1",
+        "offset_in_original": 1856,
+        "bytes": 197,
+        "sha256": "a68b6262e08ef5d3b4831b8c06d0cf9c1b5f0976613023293137e8ea2561d8c3"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 124,
+    "height": 60,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image144",
+    "original": "word/media/image144.pct",
+    "sha256": "4d96624a953631282f0e82ebeab9c9b7b1c10f148d02f50d060a9a6b21069ecb",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image144-1",
+        "offset_in_original": 751,
+        "bytes": 51,
+        "sha256": "92b7babcd0985c76a890853b61f8d96c4cda87662bfa49bdb96ab84548be6423"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 37,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image145",
+    "original": "word/media/image145.pct",
+    "sha256": "2f083d29df632d467bb045f3fd54c29f7cf841c3781db326d6e5c999f05292ed",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image145-1",
+        "offset_in_original": 1299,
+        "bytes": 160,
+        "sha256": "44033081786e55323a68fda7fd4b8d7c63dc61fd564d685253e926c8f8a0c9a5"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 124,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image146",
+    "original": "word/media/image146.pct",
+    "sha256": "13c364be38016c6748f32b2eaacb2d2b8c8dd577f2b2773529b80e92a32a8a1d",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image146-1",
+        "offset_in_original": 1053,
+        "bytes": 85,
+        "sha256": "d2903a915b672be93cddbf9a4d1b3395c2318dfa3deb6194037605371072e226"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 74,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image147",
+    "original": "word/media/image147.pct",
+    "sha256": "59e7e489731cb261bd32fb8e8267855dcc1f7a2fd4102b535a50ea5bbd6f6261",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image147-1",
+        "offset_in_original": 1057,
+        "bytes": 91,
+        "sha256": "58ba90a6f274e1530c16888000ff07bf9fa8dce77cfadee158fb05e7516023b6"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 85,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image148",
+    "original": "word/media/image148.pct",
+    "sha256": "1bda1eecc2aa06aea36ad1d2ac7f03a35950ef8f1f0133a8e305b3d8b06b3e5d",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image148-1",
+        "offset_in_original": 837,
+        "bytes": 53,
+        "sha256": "28f1c62d656085be4a531468805b9c740f04507f109db751349435177fd86a76"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 55,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image149",
+    "original": "word/media/image149.pct",
+    "sha256": "2bc94f5611bfa9eb7f0057849b5bef5fcaab99d1c4d59d18eaeeec2aa5920286",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 200,
+    "height": 135,
+    "atlas_page": 25,
+    "atlas_bbox_pt": [
+      36.0,
+      620.75,
+      236.75,
+      756.0
+    ],
+    "text": "(0, 50)\n(60, 30)\n(80, 0)",
+    "pdf_width": 202.75,
+    "pdf_height": 137.25,
+    "pdf_sha256": "aa3ccc0c7188ecf83e6485574bb404170db99d2acd4355f106be2ce794555aba",
+    "contains_raster": true,
+    "raster_fragments": 1
+  },
+  {
+    "id": "image150",
+    "original": "word/media/image150.emf",
+    "sha256": "e181859142dd2bf4b16cc099ed601b9fba2fea86ff1722e165c2a178701e4037",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "cf4b897bdc1f85e5ec689e8225bd0c376b9d6f3717737418d64a98bfd6f2d5c1",
+    "text": "⎧5⋅x +8⋅y≥ 80 A\n⎨\n⎩10⋅x +4⋅y≥100 B",
+    "pdf_width": 111,
+    "pdf_height": 37,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image151",
+    "original": "word/media/image151.pct",
+    "sha256": "da6214ae72c1aabfa000e488a16d5c286495c9858e1529b5c53b174aa96b5dad",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image151-1",
+        "offset_in_original": 751,
+        "bytes": 51,
+        "sha256": "beb412e3b8ca1f86f70637b151f2368b4b092a7f6c6e811f9cc7b6f4ef7f7cf2"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 36,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image152",
+    "original": "word/media/image152.pct",
+    "sha256": "e7a19b681db1b05da644da66a0547ba30e412fd99889a2117362c88b7dbcd06d",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image152-1",
+        "offset_in_original": 751,
+        "bytes": 51,
+        "sha256": "7fc29f66f99bd3695bc804d2f00cda7e2da1a8445bf0cb05fd97523c246abcae"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 36,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image153",
+    "original": "word/media/image153.pct",
+    "sha256": "d3c64c8db81e44f6268f3521e1bb86dde749d32558f357e330d04c689bc3cf64",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image153-1",
+        "offset_in_original": 760,
+        "bytes": 60,
+        "sha256": "ac48a3e8c4e344242e62d13a46601ad530767573522dd10d27d9ea872f6082a2"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 47,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image154",
+    "original": "word/media/image154.pct",
+    "sha256": "a62078fcb33153f5eef8b6e14ca3a679bf756c3035b94874b4d44032d5f45d97",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image154-1",
+        "offset_in_original": 1049,
+        "bytes": 79,
+        "sha256": "ee146383b175a1cec97402af8f7bb39c88184f9bec85b5789c1de2cab60a3acc"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 76,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image155",
+    "original": "word/media/image155.pct",
+    "sha256": "565df57114f3ee69a2b2dcd936deaf9c181121cdb5c3b68a82e69cf9aa5fc806",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image155-1",
+        "offset_in_original": 1259,
+        "bytes": 130,
+        "sha256": "74455535fefba5ea6abb0d423fecd61d2115eba9ac9726818805c43b1e327be2"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 97,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image156",
+    "original": "word/media/image156.pct",
+    "sha256": "ca5e17def5c9198694568401b65080a176646ecd527f38a45d375fd5f4e843cd",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image156-1",
+        "offset_in_original": 709,
+        "bytes": 41,
+        "sha256": "a4dab32567c0701c5280a39e16a3d8bd36436e2d601819e5f0d8ef49e35b81a1"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 18,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image157",
+    "original": "word/media/image157.pct",
+    "sha256": "60523a498db26f75a244a37046673d804ae231ebc559d1a058ef18e9602302ce",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image157-1",
+        "offset_in_original": 1259,
+        "bytes": 130,
+        "sha256": "2e5f501f75f69318a82cab95ccd97aa9fcae6709800a030149ae353a5931110f"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 97,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image158",
+    "original": "word/media/image158.pct",
+    "sha256": "bc0da552e062aeb7bbda4b81da8e72c4c7fb5ea36ccc7123a4f814da348f1e53",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image158-1",
+        "offset_in_original": 944,
+        "bytes": 70,
+        "sha256": "eb18dda06f8ab73d8a014e98b23daac26fe0feacecc9bda74c42a6e634090116"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 53,
+    "height": 20,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image159",
+    "original": "word/media/image159.pct",
+    "sha256": "abef4c80c633c5057ea397cad7a14947d35c7bf8f15f527e17a32d255d88529d",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image159-1",
+        "offset_in_original": 567,
+        "bytes": 34,
+        "sha256": "0491aed806244e136cf4a28e3993c9c7bb0dedc4c7201626385a44faee68202c"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 13,
+    "height": 17,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image160",
+    "original": "word/media/image160.pct",
+    "sha256": "9e53a41283da30a598b5fd7c3fa55a08a1ea00845697a22810690859af7e626c",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image160-1",
+        "offset_in_original": 853,
+        "bytes": 77,
+        "sha256": "299dd0c7c4440b964ea1667a64e9a4cd8a36b50b5d0d04601c77a7e8405e8967"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 76,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image161",
+    "original": "word/media/image161.pct",
+    "sha256": "e0b0789d27b5a4de7318740453a618b80305e131b39d116cf7fc219b1861c29d",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image161-1",
+        "offset_in_original": 1059,
+        "bytes": 94,
+        "sha256": "f15f1e87479cc72885054004a3f2d68b783bca3fc85fd8ce1c9339e06cf27d50"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 85,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image162",
+    "original": "word/media/image162.emf",
+    "sha256": "729f3cb292270e64897600e6b313355c647dd3b6f8728cc1fc93a25648231805",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "8253d81d5f4f2a2bb5334074dbcbaee80120418c819963dd83a2214ab8bb697f",
+    "text": "O\n- -\nB= ( 4, 7)\nA= (11,-10)",
+    "pdf_width": 275,
+    "pdf_height": 108.75,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image163",
+    "original": "word/media/image163.pct",
+    "sha256": "2d869edd8e841647bd74d9b836b663aa3ef9e8d42f665b775183832190757e88",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image163-1",
+        "offset_in_original": 763,
+        "bytes": 39,
+        "sha256": "993d7b5cd9a5e099c560489a20d2da27aeeab86ac3a31e1be47a207785b79e83"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 68,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image164",
+    "original": "word/media/image164.pct",
+    "sha256": "076dea438b649948279ed720e984507fe2d293fb2af8e41d77e0efed9b40ed8b",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 210,
+    "height": 152,
+    "atlas_page": 26,
+    "atlas_bbox_pt": [
+      36.0,
+      603.25,
+      246.5,
+      756.0
+    ],
+    "text": "(0, 30) (10, 25)\nA\n(30,10)\n(40, 0)",
+    "pdf_width": 212.5,
+    "pdf_height": 154.75,
+    "pdf_sha256": "fd0cd9ea38e9874f91628a1f2ba5403b8d8b482f31f0c1b50526304ee970ad27",
+    "contains_raster": true,
+    "raster_fragments": 1
+  },
+  {
+    "id": "image165",
+    "original": "word/media/image165.pct",
+    "sha256": "b8143a80ead1870feb58913cf6b7faf98596b063efb102a70c5de2b1d310d245",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image165-1",
+        "offset_in_original": 710,
+        "bytes": 30,
+        "sha256": "6b23ed18a56fcb673719032edef926188c7d4a5a5517869d7ff70408134f8c05"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 45,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image166",
+    "original": "word/media/image166.pct",
+    "sha256": "fd61b2b1ae93ec9e87d44b94975de380590a6efe4ec070504752181f49be2028",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image166-1",
+        "offset_in_original": 1312,
+        "bytes": 113,
+        "sha256": "364e83967cdb19b89a7aedf782739ca0a2100e1d0ca2f65e715c3b929c244437"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 83,
+    "height": 70,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image167",
+    "original": "word/media/image167.pct",
+    "sha256": "03f9c0e6631bdd1c47d17b88761d5468a13968ec2d43f2de7b27cbc1e53692b4",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image167-1",
+        "offset_in_original": 836,
+        "bytes": 49,
+        "sha256": "87dda26f421275a128f5661a3a298a59f904ba9300b4af67393c89e73cf95afd"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 46,
+    "height": 32,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image168",
+    "original": "word/media/image168.pct",
+    "sha256": "1e2e1d5638175a3e6b15f4edfccbee43d944597f6bee5ba925b83be9c057c6ee",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image168-1",
+        "offset_in_original": 956,
+        "bytes": 73,
+        "sha256": "859ab5e30cd14517faeff1506ef3e27476a5f649725528b6b47c626df372a37f"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 70,
+    "height": 32,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image169",
+    "original": "word/media/image169.pct",
+    "sha256": "8ecc541cc3cae58c532a014cd61611fdff7f9c524fd99da579ea451dc7a1dc21",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image169-1",
+        "offset_in_original": 758,
+        "bytes": 39,
+        "sha256": "b96c7eba9314acc23fd220c22028c93e3ed3cd18f67a5d610c7e71f10ff676bc"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 67,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image170",
+    "original": "word/media/image170.pct",
+    "sha256": "36b447cec9cba2463fd2ec5558eb18db6d3637bfe8634d88b440e32639cff905",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image170-1",
+        "offset_in_original": 775,
+        "bytes": 36,
+        "sha256": "8119bd3485d4313d1f0a358b604d37c2391d85de7262f6b30c3de8ed7212c400"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 62,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image171",
+    "original": "word/media/image171.pct",
+    "sha256": "49d01ccaf051bd82c3c0ecb05be143640f2d553e50f9b4b6233a0469b9d09308",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 227,
+    "height": 129,
+    "atlas_page": 27,
+    "atlas_bbox_pt": [
+      36.0,
+      627.0,
+      263.5,
+      756.0
+    ],
+    "text": "B=(11, 6)\nA=(4,1)\nO",
+    "pdf_width": 229.5,
+    "pdf_height": 131,
+    "pdf_sha256": "18b15814084794689823e36d0659283697c7e2723afe11a9054b66c267b15584",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image172",
+    "original": "word/media/image172.emf",
+    "sha256": "6403063b0f1d4eb686a49cf05c9e0f817890764c042c1f11a4f58b2e2cdf3738",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "508792c859984c0edc2a436df082c704c9f51ac8d7289678f41510fc3882028c",
+    "text": "B= ( - 4, 6) A= (9,7)\nO",
+    "pdf_width": 197.25,
+    "pdf_height": 108.75,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image173",
+    "original": "word/media/image173.pct",
+    "sha256": "e5979330efd46f18c13c7d84c50bc9f149773107822a2edac3658cd357461143",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image173-1",
+        "offset_in_original": 765,
+        "bytes": 42,
+        "sha256": "2bc3917b07d95369a6ca76bc8bcc79365b3b8586f811604231e23b0c87746e43"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 73,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image174",
+    "original": "word/media/image174.pct",
+    "sha256": "b0183e4451889afb1e8e2fb710d0549486635ac20b715aae41ea8394088a6aab",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image174-1",
+        "offset_in_original": 1061,
+        "bytes": 88,
+        "sha256": "88212b78689f2d31fb8e55a1a01d4f86b72f7e40fe009ff958caa2386cc30781"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 79,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image175",
+    "original": "word/media/image175.pct",
+    "sha256": "7f92df19400838b86222f5a7ea1595d6b2a258c457544b89597fffcd276cbba3",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image175-1",
+        "offset_in_original": 711,
+        "bytes": 30,
+        "sha256": "4498f35133a57b6d9084c0af689b050deaa70dde0bd2e5e8d39ad5221206135a"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 52,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image176",
+    "original": "word/media/image176.pct",
+    "sha256": "d44d9dddc5173d977295740b0ef99820475fc1fc0f363ed2dc5fd8c8416ae443",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image176-1",
+        "offset_in_original": 711,
+        "bytes": 30,
+        "sha256": "ad9afd899b93dd37f056bcb406ccc8fd251fd1e139f9bb04a3e6749750c49423"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 52,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image177",
+    "original": "word/media/image177.pct",
+    "sha256": "1da29ea7f79d2659f82882c1f4290855b2b147d47fa5086c7ee319d115deaa2a",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image177-1",
+        "offset_in_original": 613,
+        "bytes": 18,
+        "sha256": "279c5d6d5bcbb7ee2557431c496eac8f9b062265aabab657c452b7a1e98e0f6e"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 26,
+    "height": 12,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image178",
+    "original": "word/media/image178.pct",
+    "sha256": "7356db8975a0b859eaf4300ae095cd5eca0271deb66f9c8e471c8aef80630f72",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image178-1",
+        "offset_in_original": 613,
+        "bytes": 18,
+        "sha256": "868c78337f12ded3c6efbeb23bd168afeab846acf1fe554cb06bff659d1b4974"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 25,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image179",
+    "original": "word/media/image179.emf",
+    "sha256": "fba80f8f1b7d9292efa4c5b1410a77bb8e6036b5b6a799365bb6c3780ad5c797",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "d6ec4da809fec5ff9ea06584988d4e62253c4624cc9b4d821acbb2f3ac2cc219",
+    "text": "(0, 30)\nA=(10,25)\nB=(20, 20)\nC=(40, 0)",
+    "pdf_width": 223,
+    "pdf_height": 152.75,
+    "contains_raster": true,
+    "raster_fragments": 1
+  },
+  {
+    "id": "image180",
+    "original": "word/media/image180.pct",
+    "sha256": "4103c859c6e948945d618ddd338182eb1e469327a1dac5a503c3d5da30c65928",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image180-1",
+        "offset_in_original": 1313,
+        "bytes": 113,
+        "sha256": "c1751a1fe6cdf6a3418b68483ec2e0090e8997c1b8d626e13db9946703e4057b"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 83,
+    "height": 70,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image181",
+    "original": "word/media/image181.pct",
+    "sha256": "a5db1e06ec18a38650ff1ef0ad360dd885c1c7b57c48205289e4b1211917113e",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image181-1",
+        "offset_in_original": 751,
+        "bytes": 51,
+        "sha256": "b8072e4199045064e3fdd79027d242cd46241a7764d831d491dfeb39edfb5ff1"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 36,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image182",
+    "original": "word/media/image182.pct",
+    "sha256": "117470f55ef18fa68706b328c9e54985067c99190b6e9cf81966f5177426dfe4",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image182-1",
+        "offset_in_original": 1159,
+        "bytes": 188,
+        "sha256": "eeed8eb0538cd94339ea736a7942ff03580fea870a411a125f256bdc63f9c06b"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 114,
+    "height": 38,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image183",
+    "original": "word/media/image183.pct",
+    "sha256": "121c387c0644441f0df5f3c9f2a5e393571b1f023178ad6119fd6acc778918f4",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image183-1",
+        "offset_in_original": 756,
+        "bytes": 54,
+        "sha256": "3219eabb7b94a87349dc54928c62811ce68a84785e670a0eb6d09dfebea4138a"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 40,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image184",
+    "original": "word/media/image184.pct",
+    "sha256": "8061b5c06be146ba78a882008503619e97050b1baa67d4eeb3b6d3773ea4eb54",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image184-1",
+        "offset_in_original": 1056,
+        "bytes": 91,
+        "sha256": "e8783e1736a4c70cb4e16c53166c13ffca95fd57201b6ac0a04966604d9d8198"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 79,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image185",
+    "original": "word/media/image185.pct",
+    "sha256": "bfad44cc873caee35ff999eb00a45e24bd696c14bc7e9547b1478a3b30348d17",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image185-1",
+        "offset_in_original": 761,
+        "bytes": 42,
+        "sha256": "b81fd1acdb6ce75efa006719a008da4bce1f98d9ad6bd90c4f8ee6af09657a92"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 72,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image186",
+    "original": "word/media/image186.pct",
+    "sha256": "90d8d962a8589a6275250f10f293a2f093dc8233aa64ee74b50f348460ee424c",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image186-1",
+        "offset_in_original": 759,
+        "bytes": 39,
+        "sha256": "84a729dde01a9f547012847e37a97d2c8f687c2f3682231c48f1c218dd9f0182"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 68,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image187",
+    "original": "word/media/image187.pct",
+    "sha256": "5ea026d8cd1560ef3e159761648a6887e00e05090f32044a3bec290cd7b24ea9",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 194,
+    "height": 88,
+    "atlas_page": 28,
+    "atlas_bbox_pt": [
+      36.0,
+      667.75,
+      230.75,
+      756.0
+    ],
+    "text": "A=(-7, 9)\nB=(5,3)\nO",
+    "pdf_width": 196.75,
+    "pdf_height": 90.25,
+    "pdf_sha256": "36108d546f8ed1e012ad2060003001ace893ada747cc0e81d15c5b0ef0de1b71",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image188",
+    "original": "word/media/image188.pct",
+    "sha256": "538e805459ee4c0ec7076c3328bc4bf720a160dbc588d46cf1795e0e669ce4ed",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image188-1",
+        "offset_in_original": 1311,
+        "bytes": 110,
+        "sha256": "81af89e3e034dc8c44421406b5e2cd731fb6858da546b54ddbc9815a16e90a44"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 79,
+    "height": 70,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image189",
+    "original": "word/media/image189.emf",
+    "sha256": "ab21959141b8bf13de1d1e7283110ac7af1ea91e188c7cbff311789fcfb98e49",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "6e29650f2b9e7b36c329e266b38950fd0951d1e91c40e30d026dd40673e6ad98",
+    "text": "(0, 30)\nA= (10, 25)\nB= (20, 20)\nI\nC= (40, 0)",
+    "pdf_width": 205,
+    "pdf_height": 123,
+    "contains_raster": true,
+    "raster_fragments": 1
+  },
+  {
+    "id": "image190",
+    "original": "word/media/image190.pct",
+    "sha256": "439bc6701e6f9a46e5f039d9e5cbcfe94f80d830f07937a000ccd22729ff514e",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image190-1",
+        "offset_in_original": 710,
+        "bytes": 30,
+        "sha256": "21d1619b3059be9d2b63a93c1c5f3149cff28dc3632b0c6fc2cb5e52c725dfe7"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 45,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image191",
+    "original": "word/media/image191.pct",
+    "sha256": "b6c2c47058c0f5aa612ebca9d363df5547f671b69a1ca21eed8d7f8f8c29379c",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image191-1",
+        "offset_in_original": 710,
+        "bytes": 30,
+        "sha256": "c7052c3df35d3493a35a234500526cb7143071292bf080492c64445581bf0de5"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 46,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image192",
+    "original": "word/media/image192.pct",
+    "sha256": "7742f251bb9728e961052813b0a6d96518e00f0cdd7344b5d4c67d5899a61a44",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image192-1",
+        "offset_in_original": 956,
+        "bytes": 73,
+        "sha256": "647091b3722464d04b7b4762e964eb52276225a1477245088f7606da368b54d7"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 75,
+    "height": 32,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image193",
+    "original": "word/media/image193.pct",
+    "sha256": "dad0df2645f871dad7956e233c9be9bdf6ee28bcbbb80f58e5e8a25e38cf6ddd",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image193-1",
+        "offset_in_original": 1129,
+        "bytes": 123,
+        "sha256": "112e8419e4be971ae6af65f997c720a5cd613601a5e25c0fbb37121b09c2b833"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 89,
+    "height": 38,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image194",
+    "original": "word/media/image194.emf",
+    "sha256": "6c77f9bebc7f1b9253906a1f8f61f960ee4301ebecfb6b7c3103e2f2c7661cf9",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "f7e3306f2b07b677e8b11a33f393879dd4e67701f825f3d698a47b4a26c4dabf",
+    "text": "A= (0, 8)\nB= (12, 0)\nO",
+    "pdf_width": 211.75,
+    "pdf_height": 112.75,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image195",
+    "original": "word/media/image195.pct",
+    "sha256": "8303a466328f65b215a86eadcb523a33532c9aecbfd1911661f9390ab9fd5d39",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 233,
+    "height": 108,
+    "atlas_page": 29,
+    "atlas_bbox_pt": [
+      36.0,
+      648.0,
+      269.0,
+      756.0
+    ],
+    "text": "A=(3,12)\nB=(21, 2)",
+    "pdf_width": 235,
+    "pdf_height": 110,
+    "pdf_sha256": "1bd90e67519f6084aed0999918dfed9c0c74f9a00c8bab8abc6bfbb0d6f8fa14",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image196",
+    "original": "word/media/image196.pct",
+    "sha256": "4075e1301064e054ce42ec4a30f8c29ab65bf46f4d2f67285a8e295bab169c06",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 411,
+    "height": 262,
+    "atlas_page": 30,
+    "atlas_bbox_pt": [
+      36.0,
+      494.0,
+      447.5,
+      756.0
+    ],
+    "text": "line for $140 profitt\n− 3 140\ny= ⋅x+\n4 4\nProfit = P.x =+ 43.y\nline for $120 profitt - 3 - P\n− 3 120 y = .x +\ny= ⋅x+\n(0, 30)\n4 4\n4 4\nline for $80 profitt (20, 20)\n− 3 80\ny= ⋅x+\n4 4\nline for $40 profitt\n− 3 40\ny= ⋅x+\n4 4\n(40, 0)",
+    "pdf_width": 413.5,
+    "pdf_height": 264,
+    "pdf_sha256": "8928634f343ba76bf301bfb53f2f0f3cbd50edcd39d8674c2ac8695392b5f12a",
+    "contains_raster": true,
+    "raster_fragments": 1
+  },
+  {
+    "id": "image197",
+    "original": "word/media/image197.pct",
+    "sha256": "cbfecc7d74d240158671c84cfdc68e59e218a4f4c32bf32d1ebc0d4dd0cb3cf4",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image197-1",
+        "offset_in_original": 972,
+        "bytes": 67,
+        "sha256": "52ee482a93de10168961ffb5bd33421d6d89f02a34d13f40e43373911e305b98"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 65,
+    "height": 32,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image198",
+    "original": "word/media/image198.emf",
+    "sha256": "410a1f0b4b172904a0279a35f9752892de19246f87b7fb8d95fda0bbed8a9fe4",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "051f55e45538e533efc73036444270e7d9deeb616a47dbdccc5b54151b8d2437",
+    "text": "line for $150 profit Profit = P = 2.x + 5.y\n−2 150 (0, 30) - P\ny\n= 5 ⋅\nx\n+ 5 y =\n2\n5\n.x\n+ 5\n(20, 20)\nline for $100 profit\n−2 100\ny x\n= ⋅ +\n5 5\nline for $50 profit\n−2 50\ny x\n⋅ = 5 ⋅ + 5\n(40, 0)",
+    "pdf_width": 412.5,
+    "pdf_height": 221.5,
+    "contains_raster": true,
+    "raster_fragments": 1
+  },
+  {
+    "id": "image199",
+    "original": "word/media/image199.pct",
+    "sha256": "54cfdda4735e85ab540db56d114c202932b169239eb00fcaf9e26bd53f086765",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image199-1",
+        "offset_in_original": 642,
+        "bytes": 24,
+        "sha256": "8e0887d2f0c52f5c627e72614fd38ef07e546874a6f847cb46ad669edfe2a43a"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 11,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image200",
+    "original": "word/media/image200.emf",
+    "sha256": "1f7c42a49323ef0f0236ad7076f7a72e642f02bd9c1276bb0b84de8cd045ecc8",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "d3be4fa36d3423707c2a34187c3c9783db394ce98968d405a68306f3db5ff798",
+    "text": "B= (15, 10)\nA= (-6, 5)",
+    "pdf_width": 215,
+    "pdf_height": 95.5,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image201",
+    "original": "word/media/image201.emf",
+    "sha256": "696be0402b999c2f70ae2d60132534e0c41855a9ba2358c2c3f8cda154ce1da3",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "cca9bc0639bf2da43f1c3b41931158161100dcf14b59ff5126ab60079315f5a7",
+    "text": "1\nfoot\n2\n1\nfoot\n2 3 feet\n3 feet",
+    "pdf_width": 171,
+    "pdf_height": 161,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image202",
+    "original": "word/media/image202.pct",
+    "sha256": "e236f02a6252d11de88db0b395cda1992d0abe29bcb65080946f7881f5874ab0",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image202-1",
+        "offset_in_original": 3874,
+        "bytes": 374,
+        "sha256": "e124e4b0df43102ba48a70fa65662f1e400df8e23df921427ac0c22a1fd49a0f"
+      }
+    ],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 245,
+    "height": 69,
+    "atlas_page": 31,
+    "atlas_bbox_pt": [
+      36.0,
+      619.45,
+      516.0,
+      756.0
+    ],
+    "text": "−\n1 1 1 1 2\n⋅(c+−a) + a = ⋅c + ( )⋅a + a = ⋅c+ ⋅a + ⋅a\n2 2 2 2 2\n1 ⎛ −1 ⎞ 1\n= ⋅c + ⎜ + ( )⎟ ⋅a = ⋅c + ( )⋅a =( )⋅(a + c)\n2 ⎝ 2 ⎠ 2\n€",
+    "pdf_width": 482,
+    "pdf_height": 138.54999999999995,
+    "pdf_sha256": "f1a4be3e832b0a07235632a1d9363b67aa98d75abaf7b742b97bfed4ecff39e7",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image203",
+    "original": "word/media/image203.pct",
+    "sha256": "aa09e95a9359e22323edc47b6215d3bebf6a6afa141557c1a93610b23389d5ac",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 329,
+    "height": 216,
+    "atlas_page": 32,
+    "atlas_bbox_pt": [
+      36.0,
+      540.0,
+      365.0,
+      756.0
+    ],
+    "text": "A = (a,b)\nArrow for T(-a,-b)\n1 1\n⎛ − − ⎞\nM '= ⎜ ⋅(c+ a)+a, ⋅(d+ b)+b⎟\n⎝2 2 ⎠\nO\nM\nArrows for B= (c, d)\n⎛ 1 − 1 − ⎞ T(a,b)\n⎜ ⋅(c+ a), ⋅(d+ b)⎟\n⎝2 2 ⎠\nB' = (c+-a, d+-b)",
+    "pdf_width": 331,
+    "pdf_height": 218,
+    "pdf_sha256": "f91d42244e8606e2ed0a2e8b74c8162bd796cefe1628359d62179b64ca9094a4",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image204",
+    "original": "word/media/image204.pct",
+    "sha256": "b75a5afcf16f8b4aaea3984b057346d735f18a8fcc292dd8657f4b486ab39acb",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image204-1",
+        "offset_in_original": 2984,
+        "bytes": 389,
+        "sha256": "887ccc59cedce8a4503b453fc232b54f66bb82b6ae487b1b7247daeb2f1ce632"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 428,
+    "height": 37,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image205",
+    "original": "word/media/image205.pct",
+    "sha256": "a0170c49240c1f35f8c5bd5bdc542463e9679dbd66aaa7893a89c087ede638ed",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image205-1",
+        "offset_in_original": 2986,
+        "bytes": 389,
+        "sha256": "7d2d16fe3e1f0ab14c79e4d0570895a83d60d3c2ff00834cd44fc0acc51a3941"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 440,
+    "height": 37,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image206",
+    "original": "word/media/image206.pct",
+    "sha256": "d6a278b8a25d9094e0de8eb895236cff2da4dc4edbc7b600bf35c87298665e44",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image206-1",
+        "offset_in_original": 1058,
+        "bytes": 88,
+        "sha256": "af5536cf472f86ef8eb15af6ef71b19afa6ea09b4032df02753dc94daac34886"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 97,
+    "height": 30,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image207",
+    "original": "word/media/image207.pct",
+    "sha256": "e29e7699571df272d30bc3b65ee459278b44956d87c90d41ddf048e690a5c2eb",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 203,
+    "height": 109,
+    "atlas_page": 33,
+    "atlas_bbox_pt": [
+      36.0,
+      646.5,
+      239.0,
+      756.0
+    ],
+    "text": "A= (14, 6)\nO\n-\nB= (20, 9)",
+    "pdf_width": 205,
+    "pdf_height": 111.5,
+    "pdf_sha256": "cf08207cfeb46585120962919851b70c4c0bf9f789fe0248defa0a5cf3b2efd8",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image208",
+    "original": "word/media/image208.pct",
+    "sha256": "64154fec8223ea7054adda5a1d08fd74fd996d55ff714a42e8f1c1a247539ecb",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 249,
+    "height": 151,
+    "atlas_page": 34,
+    "atlas_bbox_pt": [
+      36.0,
+      604.5,
+      285.5,
+      756.0
+    ],
+    "text": "minutes afteer 3:00\nwhen worker B arrived\nat the copy machine\nminutes afteer 3:00\nwhen worker A arrived\nat the copy machine",
+    "pdf_width": 251.5,
+    "pdf_height": 153.5,
+    "pdf_sha256": "d2b6a4d444e0164990bb520c643d89fabeebab8184796f44f139d78804c2e636",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image209",
+    "original": "word/media/image209.emf",
+    "sha256": "521e01ee063b6c21e9966e4ce3766c4f95c5c14d303c315d6e782025bd40afdb",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "b32a9f1c4c767feaf69117b181a319bd8ea7ea7bf0d40b048bfbe5a4b8beac44",
+    "text": "outer boundary\nof target has\nradius 7 inches\nlength of side\nof square is 18 inches",
+    "pdf_width": 289,
+    "pdf_height": 134,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image210",
+    "original": "word/media/image210.emf",
+    "sha256": "e8a0bf44e8f5c830b23651bda04ce1fbe794c3122599440ed8d337d1994b8c05",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "1d66ee8e0ddd6c18b20042d64d923e85a57f7545193a7f13bb1cf5288853a184",
+    "text": "B= (-4, 11)\nA= (18, 6)\nO",
+    "pdf_width": 259,
+    "pdf_height": 116.75,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image211",
+    "original": "word/media/image211.emf",
+    "sha256": "3293e58105063fc02e98cb1cd249bd55f9aca4efe922c609aec08dd0b8b357b5",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "e69dd73a5527424b7e8ea4f5224179148071ba2cfa5e7c87e87888c1dc9c420b",
+    "text": "minutes after 3:00\nwhen worker B arrived\nat the copy machine\nminutes after 3:00\nwhen worker A arrived\nat the copy machine",
+    "pdf_width": 272.5,
+    "pdf_height": 172,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image212",
+    "original": "word/media/image212.pct",
+    "sha256": "d1d8a18d552ce2c1f4a53bc589cd923d4e9c1a1a21724b7ceb339db672e7b0c1",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image212-1",
+        "offset_in_original": 514,
+        "bytes": 21,
+        "sha256": "a4831f6121e06a13dd699e609b323ce25467bf3e11ef33df1708787b183d4925"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 8,
+    "height": 15,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image213",
+    "original": "word/media/image213.pct",
+    "sha256": "28954406d3713a75da5b792865032a71ca311e5f88a5a0d6a178da75e0e0b7a1",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image213-1",
+        "offset_in_original": 812,
+        "bytes": 61,
+        "sha256": "45612cce0d2ceb6d57bab0b763b31296eed4f469bcba5cee0c1d53c4975b21f2"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 60,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image214",
+    "original": "word/media/image214.pct",
+    "sha256": "ab435b05926ea14bdb81dc86d92acccb7a80eafb2da3a8a1afea6d26803e40b0",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image214-1",
+        "offset_in_original": 812,
+        "bytes": 61,
+        "sha256": "91fe65eaeac220e56bfcc6b477d13d77591ce73cb44b2234c26a8e54e66d0bce"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 59,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image215",
+    "original": "word/media/image215.pct",
+    "sha256": "ebfbe217c22e90310d3b60b46dd95d186414070c4ff73b408880b234344e13a0",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image215-1",
+        "offset_in_original": 812,
+        "bytes": 61,
+        "sha256": "51aefd2fe8589010e38d9e58e83b359fabc62fa6969b83a2216b81cb3555b7e7"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 60,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image216",
+    "original": "word/media/image216.pct",
+    "sha256": "3c60a705c7dc25331b12a8cf39359a1377001e71e78eb3af37c40c89c36b56d2",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image216-1",
+        "offset_in_original": 1514,
+        "bytes": 138,
+        "sha256": "43c7adbad5f9f330cb25ca57e7c2ace64842667dddca2a1f67502aa672bb8966"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 64,
+    "height": 120,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image217",
+    "original": "word/media/image217.pct",
+    "sha256": "42321564d76ce58886533272491c77782c9d1cebd1bf89db53070cf821c402e6",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image217-1",
+        "offset_in_original": 750,
+        "bytes": 49,
+        "sha256": "faac69496b0f1bc64f414c1c0d3d3e9d5626d139df931d7333c302e37aa90bc5"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 75,
+    "height": 17,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image218",
+    "original": "word/media/image218.pct",
+    "sha256": "76659e6ee45f773485af0c2ae29d8818311a0209177a0b020f7e696f25fdd9be",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 154,
+    "height": 149,
+    "atlas_page": 35,
+    "atlas_bbox_pt": [
+      36.0,
+      606.5,
+      190.5,
+      756.0
+    ],
+    "text": "40 10\n10\n40\n40\n10\n10 40",
+    "pdf_width": 156.5,
+    "pdf_height": 151.5,
+    "pdf_sha256": "e14049063622ebe18f66ebefa57cc73bcd449fa6bf1c8f2cba10fb7ac15511b8",
+    "contains_raster": true,
+    "raster_fragments": 1
+  },
+  {
+    "id": "image219",
+    "original": "word/media/image219.pct",
+    "sha256": "ccf0761563ce19290e8f90ed4c028f7a5d3a32a0c0fb295ef04643768289381b",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 247,
+    "height": 134,
+    "atlas_page": 36,
+    "atlas_bbox_pt": [
+      36.0,
+      621.5,
+      283.0,
+      756.0
+    ],
+    "text": "outer boundary\nof target has\nradius 7\nlength of side\nof square is 18",
+    "pdf_width": 249,
+    "pdf_height": 136.5,
+    "pdf_sha256": "668f80fc9160ab369dca13e0dfd4a979046a94656f00a25fe5be58edc5224152",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image220",
+    "original": "word/media/image220.pct",
+    "sha256": "4a5488af3d043f886d942a6310d67d07c2fc3c27f568fca0affc11fa3c85b74b",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image220-1",
+        "offset_in_original": 706,
+        "bytes": 30,
+        "sha256": "b6b2269337818230ae47afc1a22c59c98ab2bd8b317a10ec21d213afdcf47f79"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 26,
+    "height": 15,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image221",
+    "original": "word/media/image221.pct",
+    "sha256": "9a4c93676ec2596818887bba6749870b90de54303c50a7d639168eb6dfb80280",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image221-1",
+        "offset_in_original": 548,
+        "bytes": 27,
+        "sha256": "84ffa6cd8249485891a502aba4e226dc6377e948659626de99914cb21509e5e1"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 19,
+    "height": 15,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image222",
+    "original": "word/media/image222.pct",
+    "sha256": "6c4c75831a8533264ac208a84de54dd1025fb69cc6e132b7a06f4e90191e092a",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image222-1",
+        "offset_in_original": 986,
+        "bytes": 77,
+        "sha256": "d8395f86ac72264e51866446bcf991cdd3eb18568e6499d9298579e3188ec91f"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 66,
+    "height": 32,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image223",
+    "original": "word/media/image223.emf",
+    "sha256": "945f7f41ef723f7d2de20a71b648f26a2f59c2ee736b7b6b1e98bc659000a2a9",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "40f63b259764659ba480d5e287cf71c02877ba2c3bf400bb06465a4a61edeafa",
+    "text": "A\nB C\nB' C'",
+    "pdf_width": 193,
+    "pdf_height": 102,
+    "contains_raster": true,
+    "raster_fragments": 2
+  },
+  {
+    "id": "image224",
+    "original": "word/media/image224.pct",
+    "sha256": "2820ba2b586bda42435015ded2e1e757d12991383dff2148aaf04f868dd746c6",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 235,
+    "height": 126,
+    "atlas_page": 37,
+    "atlas_bbox_pt": [
+      36.0,
+      629.75,
+      271.0,
+      756.0
+    ],
+    "text": "outer boundary\nof target has\nradius 8\nlength of side\nof square is 18",
+    "pdf_width": 237,
+    "pdf_height": 128.25,
+    "pdf_sha256": "92adb126548f9f16a502ebdf1e998aa5f063c523e438c058fd1cf5771976215f",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image225",
+    "original": "word/media/image225.pct",
+    "sha256": "3a8a483a1528fdc6c30a353322b418097f8a63a1bf8a6ea3e2473b38e0fab744",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 182,
+    "height": 126,
+    "atlas_page": 38,
+    "atlas_bbox_pt": [
+      36.0,
+      630.0,
+      218.0,
+      756.0
+    ],
+    "text": "C\nR\nA\nQ\nP\nB",
+    "pdf_width": 184,
+    "pdf_height": 128,
+    "pdf_sha256": "a13e03744e6db1936444603a1764c9e58972a4b3eb06a230d6ae1fbac7623b53",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image226",
+    "original": "word/media/image226.pct",
+    "sha256": "347fba062f113eb2333bdfa0c21d8e4211057be52d7ebfba1899ec18cdf58238",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 269,
+    "height": 100,
+    "atlas_page": 39,
+    "atlas_bbox_pt": [
+      36.0,
+      655.5,
+      305.0,
+      756.0
+    ],
+    "text": "O\nB= (-5, -11) A= (10, -7)",
+    "pdf_width": 271,
+    "pdf_height": 102.5,
+    "pdf_sha256": "d5639f421826db27f9dffd3d05a5df04f0451a5f9478631d564434d0305f7ee6",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image227",
+    "original": "word/media/image227.pct",
+    "sha256": "e583c2b60ea6c59e80279fbeb178cfe69b00e4bdba7a5702ad2ea171ce88b212",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image227-1",
+        "offset_in_original": 913,
+        "bytes": 63,
+        "sha256": "c761118bf1aa4dbec7e10a4ad950b79ca213da43356a92b6415b5bc7db21e1aa"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 54,
+    "height": 52,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image228",
+    "original": "word/media/image228.emf",
+    "sha256": "60be08b9087a8bcaa492f5ec16b18f88b8a4a814e7633e50e6d467f5f2217694",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "39e115ee82a14bdc8c9f4926eda51864552ebed5c2393cc208efe52deda5a33b",
+    "text": "minutes after 3:00\nwhen worker B arrived\nat the copy machine\nminutes after 3:00\nwhen worker A arrived\nat the copy machine",
+    "pdf_width": 244,
+    "pdf_height": 156.25,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image229",
+    "original": "word/media/image229.pct",
+    "sha256": "68b637e8ab9ae7759b57f8ead10fc05b663614d4ecb3d957156c125dccf97af0",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 221,
+    "height": 123,
+    "atlas_page": 40,
+    "atlas_bbox_pt": [
+      36.0,
+      633.0,
+      257.0,
+      756.0
+    ],
+    "text": "square with\nside 5\"\ntoken with\ndiameter 2\"",
+    "pdf_width": 223,
+    "pdf_height": 125,
+    "pdf_sha256": "fec7f9793e78b11577f6fbef073fb54d50b04f27b2008682d3728d6cc8b8dd83",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image230",
+    "original": "word/media/image230.pct",
+    "sha256": "f6435a72d2ad5ac61169ff2bbea7b0c093f4c92c1125ab7bc57123134c3c625d",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image230-1",
+        "offset_in_original": 737,
+        "bytes": 56,
+        "sha256": "e5db4c4e82e72b8e3c72b8caf87fe0994522455fa6838381e795a11c8e596822"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 39,
+    "height": 18,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image231",
+    "original": "word/media/image231.emf",
+    "sha256": "341f7c5da0e1f73a11f9009f812c45df8349460909618fa1eb54e0a8e0b35068",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "56cc9e465607f18a6240dcaf142009c7059a1f712c9603c705a9611489b2b92e",
+    "text": "(1, 0)\nP",
+    "pdf_width": 180,
+    "pdf_height": 166.25,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image232",
+    "original": "word/media/image232.pct",
+    "sha256": "4ce71cf41b96fab37ed656e243a7038fbe33d83069589a31922fdcaeab166db1",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image232-1",
+        "offset_in_original": 4227,
+        "bytes": 12,
+        "sha256": "b5c95b385738ba6168b68b14184b3aee176b3892a395849f231bd58f928e27ef"
+      },
+      {
+        "id": "image232-2",
+        "offset_in_original": 4870,
+        "bytes": 12,
+        "sha256": "b5c95b385738ba6168b68b14184b3aee176b3892a395849f231bd58f928e27ef"
+      }
+    ],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 216,
+    "height": 83,
+    "atlas_page": 41,
+    "atlas_bbox_pt": [
+      36.0,
+      672.75,
+      252.5,
+      756.0
+    ],
+    "text": "A= (4, 9)\nB= (-2, 3)\nC= (5, 3)\nl",
+    "pdf_width": 218.5,
+    "pdf_height": 85.25,
+    "pdf_sha256": "3f70a5328352f019354cc761767b2c43589e4e9a4a1f7646fa92a0a201a498c0",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image233",
+    "original": "word/media/image233.pct",
+    "sha256": "9565e0e2527281c40e74426ef7bfe6f32b7676db156768a15ae56e1ebd4709f8",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image233-1",
+        "offset_in_original": 814,
+        "bytes": 64,
+        "sha256": "7f8de4e73a98ba190d077bc02fb6de5bb279e12fafcc853ef545cab62eec02cd"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 65,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image234",
+    "original": "word/media/image234.pct",
+    "sha256": "a914d58e9240eb519fef39aef87fdabd1f938fb54eaccf5b79f2faef6e91641c",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image234-1",
+        "offset_in_original": 816,
+        "bytes": 67,
+        "sha256": "15ecb7480e3acfa7be36afe99e8ba3a4071ac6b3110b67e0220526609350692f"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 65,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image235",
+    "original": "word/media/image235.pct",
+    "sha256": "5d247ea848a39031550a95ec0eb5b31697948936cf927c3ffb435fbeb673e58d",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image235-1",
+        "offset_in_original": 1508,
+        "bytes": 71,
+        "sha256": "d05d1910386bf46bb07c6acdcf94a5245d21be565c1309d39ea4e2646fd7ae83"
+      }
+    ],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 61,
+    "height": 37,
+    "atlas_page": 42,
+    "atlas_bbox_pt": [
+      36.0,
+      461.8,
+      516.0,
+      756.0
+    ],
+    "text": "−\n⎧\nx − y = 15\n⎨\ny =60\n⎩\n€",
+    "pdf_width": 482,
+    "pdf_height": 296.2,
+    "pdf_sha256": "f2d1e53b60b1c51c1fc1049534d6b313d44677d1db8df74bc5ff42b3a3141db8",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image236",
+    "original": "word/media/image236.emf",
+    "sha256": "4182e7cb84db7ce1f68ff242c2cdae8fa89ee1a12623f412e31908a60f8293f9",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "7f83cb24b8b8d715d36c5a990257623a7c42da4969a68556ce257d36f1c27f71",
+    "text": "various positions\nof a ball in its upward\nmovement when it has\nbeen tossed straignt up\ninto the air over a\nmotion sensor\nmotion sensor\nfloor",
+    "pdf_width": 311,
+    "pdf_height": 193,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image237",
+    "original": "word/media/image237.emf",
+    "sha256": "d7e92353bc63bd7404311427ce5e3be02e5d9f2e13f93bb1a77f57ddfac45946",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "16d632c5db40cd7eed505904ab2e8e5db71cfc7fd6a1d0a6d257d28879067a4d",
+    "text": "distance\nabove the\nmotion\nsensor\ntime since sensor was turned on",
+    "pdf_width": 260.5,
+    "pdf_height": 192,
+    "contains_raster": true,
+    "raster_fragments": 1
+  },
+  {
+    "id": "image238",
+    "original": "word/media/image238.pct",
+    "sha256": "18ae7468d27207a55274e4a2ccfc46e17700795de83476588ff9fd3d4485ef8d",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 186,
+    "height": 130,
+    "atlas_page": 43,
+    "atlas_bbox_pt": [
+      36.0,
+      625.75,
+      222.5,
+      756.0
+    ],
+    "text": "A= (-8, 9)\nO\nB= (-15, -6)",
+    "pdf_width": 188.5,
+    "pdf_height": 132.25,
+    "pdf_sha256": "9ce749aeef7bb90ad9856755179509f7079e7678462268fd19ec4b9a1b78fbe7",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image239",
+    "original": "word/media/image239.emf",
+    "sha256": "2174b40c463a78176f8e954b17f873c4f8c05d79585c93d2dd0d9a292050c006",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "c8d61a65b2d3c5fcc8343dea4cd4b50e0ff166e8fbe1f9765747beee8d89bbd3",
+    "text": "(1,0)\nP",
+    "pdf_width": 155.75,
+    "pdf_height": 145.5,
+    "contains_raster": true,
+    "raster_fragments": 1
+  },
+  {
+    "id": "image240",
+    "original": "word/media/image240.pct",
+    "sha256": "d87cf56b3160f51c17628765d38c366b656e76405bc0fcb9f586714440975549",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image240-1",
+        "offset_in_original": 7193,
+        "bytes": 12,
+        "sha256": "b5c95b385738ba6168b68b14184b3aee176b3892a395849f231bd58f928e27ef"
+      },
+      {
+        "id": "image240-2",
+        "offset_in_original": 7836,
+        "bytes": 12,
+        "sha256": "b5c95b385738ba6168b68b14184b3aee176b3892a395849f231bd58f928e27ef"
+      }
+    ],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 164,
+    "height": 83,
+    "atlas_page": 44,
+    "atlas_bbox_pt": [
+      36.0,
+      673.0,
+      200.5,
+      756.0
+    ],
+    "text": "P\nA\nl B C",
+    "pdf_width": 166.5,
+    "pdf_height": 85,
+    "pdf_sha256": "33cf6db181738e920f5fdfc449bc834e24b72165aa2e86153be8ad0ae5a3aeaf",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image241",
+    "original": "word/media/image241.pct",
+    "sha256": "d31641f82a2c17bb735aca4338bce56e46c0bcdb59ccac5d6214d758dab49621",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image241-1",
+        "offset_in_original": 4517,
+        "bytes": 12,
+        "sha256": "b5c95b385738ba6168b68b14184b3aee176b3892a395849f231bd58f928e27ef"
+      },
+      {
+        "id": "image241-2",
+        "offset_in_original": 5160,
+        "bytes": 12,
+        "sha256": "b5c95b385738ba6168b68b14184b3aee176b3892a395849f231bd58f928e27ef"
+      }
+    ],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 135,
+    "height": 80,
+    "atlas_page": 45,
+    "atlas_bbox_pt": [
+      36.0,
+      676.0,
+      171.75,
+      756.0
+    ],
+    "text": "A= (5,10)\nl\nB= (-1, -3) C= (7, -3)",
+    "pdf_width": 137.75,
+    "pdf_height": 82,
+    "pdf_sha256": "29c5911ef5331ada757889f52f2f27ead7afadf57de2cc77ca4ff5fe9763b602",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image242",
+    "original": "word/media/image242.pct",
+    "sha256": "16a07f595ac036d43f3259ca9439f86f0a883d9c6ee3e547c8351731e2ac2d12",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image242-1",
+        "offset_in_original": 816,
+        "bytes": 67,
+        "sha256": "93c8011480d7a1911fffdbc99a3c7722ce9a252992cb3b5bf624d6d0e5c4f9d3"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 65,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image243",
+    "original": "word/media/image243.pct",
+    "sha256": "530996b08cea2488adcd6f5ba7785693a8a9bbb283b9b91fd10741b33aef949f",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image243-1",
+        "offset_in_original": 814,
+        "bytes": 64,
+        "sha256": "0a7ab9a4b50cf21dfe61aa085346b57d651f3a4b287a11ec3ddcbff66edf115b"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 65,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image244",
+    "original": "word/media/image244.pct",
+    "sha256": "0ea269d7e663fe6c9b3a832b563577b9f54ae05f9368d8730e317bd50221f36a",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image244-1",
+        "offset_in_original": 808,
+        "bytes": 55,
+        "sha256": "f23a726d7edb1d0cb47aa2d2b70b0625db7385681a05ac2c4b7b95fd82652853"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 52,
+    "height": 34,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image245",
+    "original": "word/media/image245.pct",
+    "sha256": "9b6b94ddae596de48e6f2916da778d36671acb4076455479095f216fd87754c0",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image245-1",
+        "offset_in_original": 737,
+        "bytes": 56,
+        "sha256": "678aa338f7683bc43c5e708a629d3046ab8e717504335d91c4b38743df656dd5"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 39,
+    "height": 18,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image246",
+    "original": "word/media/image246.pct",
+    "sha256": "7b92d869c28df5263b5b6f7eef1f5b9c21f3cc08023db8e90f1e2b15582a61b4",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 210,
+    "height": 108,
+    "atlas_page": 46,
+    "atlas_bbox_pt": [
+      36.0,
+      648.0,
+      246.0,
+      756.0
+    ],
+    "text": "C\nM\n2\nD\nA M\n1\nM\n3\nB",
+    "pdf_width": 212,
+    "pdf_height": 110,
+    "pdf_sha256": "64a016b5290fc09a0bfadaefd678c517d471459f674b502203d7d5f691ac4681",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image247",
+    "original": "word/media/image247.pct",
+    "sha256": "5e1f54caf535dd4d0c35447386a08b72f47c7b19e0b3ddd560b3dbf5b8cd789e",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 212,
+    "height": 156,
+    "atlas_page": 47,
+    "atlas_bbox_pt": [
+      36.0,
+      599.75,
+      248.75,
+      756.0
+    ],
+    "text": "A=(3, 11)\nB=(12, 9)\nC=(8, 2)",
+    "pdf_width": 214.75,
+    "pdf_height": 158.25,
+    "pdf_sha256": "fc1a7c8621cbb7031e0fc653a4a87e1200a5f9f05835cf47915f1ef84774e944",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image248",
+    "original": "word/media/image248.pct",
+    "sha256": "ed31eaf1ed250f79b5df1121dcbd6331ab78748f87cca9592308fc1c62db29e5",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 257,
+    "height": 104,
+    "atlas_page": 48,
+    "atlas_bbox_pt": [
+      36.0,
+      652.0,
+      293.0,
+      756.0
+    ],
+    "text": "− −\n(3⋅x+5)(4⋅x+ 3)=3⋅x⋅(4⋅x+ 3)+5⋅___________ =\n−\n3⋅x⋅____+3⋅x⋅ 3+5⋅4⋅x+5⋅___=\n12⋅___+__⋅x+20⋅__+___=\n2\n__⋅x +(___+___)⋅x+___=\n____+____+____",
+    "pdf_width": 259,
+    "pdf_height": 106,
+    "pdf_sha256": "ac1c9bb62cd6f124e215ad2c3acb717d1229c158dcac9f22db2d6c7f1357a59d",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image249",
+    "original": "word/media/image249.pct",
+    "sha256": "32b2c7ce3ce0a79ad59702beed058a71d775084989a41cba57d89e97385e5290",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image249-1",
+        "offset_in_original": 642,
+        "bytes": 24,
+        "sha256": "25aaf3d7a9c720d47437b4a9bb388feef4ed7437c67f357c577c96e433e7ef0b"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 11,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image250",
+    "original": "word/media/image250.pct",
+    "sha256": "6146f014553b4590634a9517f731ee31c27e963a21a1c9a06c1704273c9354fa",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image250-1",
+        "offset_in_original": 1410,
+        "bytes": 153,
+        "sha256": "da23ccc20ecfb3ff902b6a749ab9872986b82b541c15f3caa6ba8e4a6e8bb00c"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 161,
+    "height": 32,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image251",
+    "original": "word/media/image251.pct",
+    "sha256": "811d80285a29e962a5dbf86905d00d925426144bae115fde6e8de7fa113e8f71",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image251-1",
+        "offset_in_original": 661,
+        "bytes": 24,
+        "sha256": "5fd158119e29d19e1dced994b0a60bb019e9dcc6bec0d200dcc14c90ed0b4a49"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 40,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image252",
+    "original": "word/media/image252.pct",
+    "sha256": "ae2ad99dbbc2314d9420af0b7fdfd3bb8f57b0dd158b7c3661b81ee4cc9f3628",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image252-1",
+        "offset_in_original": 771,
+        "bytes": 52,
+        "sha256": "686690e4f0a4632bd582d8f1f7f5e1a53981274addfcdc92f1e293cb9a0f38a1"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 67,
+    "height": 16,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image253",
+    "original": "word/media/image253.pct",
+    "sha256": "6285a647a84685f4a518ce43df24218572d42c1c519ca7be146512703157be35",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image253-1",
+        "offset_in_original": 1084,
+        "bytes": 75,
+        "sha256": "f8d7f8b8cb3aab4f5ec4990f542663b98abc76bf43820b2add20442dc509c797"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 92,
+    "height": 19,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image254",
+    "original": "word/media/image254.pct",
+    "sha256": "bdfa8fe588b722da69add9220a24c78393321a3e06ecf3d20a411a7842ca3749",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image254-1",
+        "offset_in_original": 973,
+        "bytes": 70,
+        "sha256": "fba7c56a6be17a8e6a3eeedccb45325d1a2dee0d7f51f48ed2a83ab12dc05d48"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 108,
+    "height": 16,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image255",
+    "original": "word/media/image255.pct",
+    "sha256": "bebb9b102fed9b2b0c6bd2ce3ef15b0fa8d94031380f476094fdd4cf37014b6a",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image255-1",
+        "offset_in_original": 640,
+        "bytes": 30,
+        "sha256": "10261deedf10593d9ad15a39aee3010c291c4a9e122df42ab49a6b0a4e25172b"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 32,
+    "height": 16,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image256",
+    "original": "word/media/image256.pct",
+    "sha256": "657891046ddd91d36e6320d4f7740637f251699c47efae7d66463c1b41cc9c68",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image256-1",
+        "offset_in_original": 1330,
+        "bytes": 39,
+        "sha256": "c4ad25b4883d3d41849fb24b7d71534f174cf851dc13e829a544cecdcdea7405"
+      }
+    ],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 55,
+    "height": 13,
+    "atlas_page": 49,
+    "atlas_bbox_pt": [
+      36.0,
+      636.0,
+      516.0,
+      756.0
+    ],
+    "text": "⋅ ⋅\n( 3 4 , 5 16 )\n€",
+    "pdf_width": 482,
+    "pdf_height": 122,
+    "pdf_sha256": "b9186166e1508cb971107562e499b3efd7c4c7bc00c01c6ed5a2b9389c75ce01",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image257",
+    "original": "word/media/image257.pct",
+    "sha256": "c9e1363d5a11e30b9392ca9464edf5ce5d81108e0cb1cf002e50208206cf61da",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image257-1",
+        "offset_in_original": 1161,
+        "bytes": 92,
+        "sha256": "988fab2e9d970c09be0ca08f6bebfc3e91ec1161e390f19b7c91f8cd98e86cbb"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 83,
+    "height": 32,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image258",
+    "original": "word/media/image258.pct",
+    "sha256": "42190e711cb666ac8ae3453d8e362e30d6f44c54c8a74e1427ee497ea56e5994",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image258-1",
+        "offset_in_original": 943,
+        "bytes": 57,
+        "sha256": "86839279716f90ffe5d3969466affaca4db5fa95f21554dc5351f465d04437b6"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 94,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image259",
+    "original": "word/media/image259.pct",
+    "sha256": "59646a3e72d856dab5ac35255c512a55a14b124675345219706cd2d1605f65d0",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image259-1",
+        "offset_in_original": 639,
+        "bytes": 30,
+        "sha256": "10261deedf10593d9ad15a39aee3010c291c4a9e122df42ab49a6b0a4e25172b"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 31,
+    "height": 18,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image260",
+    "original": "word/media/image260.pct",
+    "sha256": "00e704b13c39eae831f1e1a29235be180e8a28cbc87713608e28751771652f06",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image260-1",
+        "offset_in_original": 1191,
+        "bytes": 92,
+        "sha256": "8d66610101510a4aa72641e6ad155efe1a3b90ab4ce0ca9e6ed3af95bddc3cf8"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 78,
+    "height": 33,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image261",
+    "original": "word/media/image261.pct",
+    "sha256": "14239d4a854753f6cd37735f5da7eee53b40507d3e37e79cac3fa48e199131f3",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image261-1",
+        "offset_in_original": 796,
+        "bytes": 80,
+        "sha256": "43fa546a438ab0219d6aed41112105cc7727f9e4710aca40874b37d71f64aa49"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 68,
+    "height": 19,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image262",
+    "original": "word/media/image262.pct",
+    "sha256": "8c4e61f9a1acbdccc011ddd3c521b64d797d154d635bfad3efafdca0ae2dcad3",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image262-1",
+        "offset_in_original": 1324,
+        "bytes": 63,
+        "sha256": "024e67fe216aae9eaed555ed8f7a92fe4a23be7485f33d3988707f6d5938913b"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 47,
+    "height": 17,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image263",
+    "original": "word/media/image263.pct",
+    "sha256": "1751ea11dcbbd31104a2ff29a2fae2e8ac159fabc5c86edcd624aca61e0542f4",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image263-1",
+        "offset_in_original": 721,
+        "bytes": 62,
+        "sha256": "9f23ae1d8a12c05e2199459032b06f16f66ac372e45f8be1a3f18fb2ec13945d"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 55,
+    "height": 17,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image264",
+    "original": "word/media/image264.pct",
+    "sha256": "f94272b15972760bff1c9f57478a853203a36e14a96282fc801be4e15b8b3a62",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image264-1",
+        "offset_in_original": 737,
+        "bytes": 56,
+        "sha256": "717f661706f775913d60cb2e2e713286cd282b792e5e4936096f19d803395175"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 39,
+    "height": 18,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image265",
+    "original": "word/media/image265.pct",
+    "sha256": "9d242cae0bc66bc8a5957f6469e0ed3d5b4119ad592af0aef0af01789bc69109",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image265-1",
+        "offset_in_original": 1410,
+        "bytes": 153,
+        "sha256": "cce83b9c82a4a1ef48d37cccc828b4df054449a441d6146da5018313ddd123ac"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 174,
+    "height": 30,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image266",
+    "original": "word/media/image266.pct",
+    "sha256": "b4329d3589732a542d09d44159d1c5808219b963e111ab716c5dc5e57808efa6",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image266-1",
+        "offset_in_original": 694,
+        "bytes": 42,
+        "sha256": "203834e934a1a728c118d7199ef8075d6ef03403d6241b93b86a2ce257bdf998"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 71,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image267",
+    "original": "word/media/image267.pct",
+    "sha256": "9ac8dedf7239f1400b39c3e4e9fa16f1c906f133cb6cf5e4afd7beacc00ebe80",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 255,
+    "height": 186,
+    "atlas_page": 50,
+    "atlas_bbox_pt": [
+      36.0,
+      569.5,
+      291.0,
+      756.0
+    ],
+    "text": "Last\nFirst\nfitrst use of a distributive form\n(a + b)⋅(c + d)=a⋅(c+d)+ b⋅(c+ d)\nInside\nOutside\nsecond use third use\n= a⋅c +a ⋅ d+ b ⋅ c+b ⋅ d\nF O I L",
+    "pdf_width": 257,
+    "pdf_height": 188.5,
+    "pdf_sha256": "ef35e8583d1455d85283ffba362e605cedaaa1f33bd4b8b164f90c53e8c6b4d8",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image268",
+    "original": "word/media/image268.pct",
+    "sha256": "6f3b1ec7d97ad86b1545481693e760081feca5d8daec87cad83f1e6d996299a3",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image268-1",
+        "offset_in_original": 2474,
+        "bytes": 318,
+        "sha256": "52991190fcf8b55265ce2524f03fa87fa5618b71251ebe5eff413253374d58f5"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 281,
+    "height": 32,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image269",
+    "original": "word/media/image269.pct",
+    "sha256": "8ce4cda7ccb9185b7a6828254e9581eef4da193e6d305f1928696105530dc113",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image269-1",
+        "offset_in_original": 1806,
+        "bytes": 212,
+        "sha256": "4316b772810dbadfbe3fffdef022feee27f74ff9db6bbc603ca3634f7d621b20"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 200,
+    "height": 36,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image270",
+    "original": "word/media/image270.pct",
+    "sha256": "280adbf6bf2a549ea93926f11b1a85f0a006fcb5c811a3509978aaf2cffb5290",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image270-1",
+        "offset_in_original": 918,
+        "bytes": 64,
+        "sha256": "00047611fb1d8963245f1ac870f4ea93da0650a09deb99085a112815a2df60fd"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 88,
+    "height": 18,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image271",
+    "original": "word/media/image271.pct",
+    "sha256": "d8a4f746c4bae373c2d701ae9d885500de097bb019a3aa289f6e230ddb9c641a",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image271-1",
+        "offset_in_original": 1459,
+        "bytes": 132,
+        "sha256": "e4cc6430184dd55895896097010fad5fa9988dc926501c51111e5ff1d94b1254"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 109,
+    "height": 36,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image272",
+    "original": "word/media/image272.pct",
+    "sha256": "c9c2e452e57a9c1d44470b3261c103dec241be615f0ca7430d0e366f66fa7043",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image272-1",
+        "offset_in_original": 879,
+        "bytes": 55,
+        "sha256": "b1783e0de264021be095f26d0fbff6236c7a56065d0a17f795554b9887ff6f85"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 44,
+    "height": 32,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image273",
+    "original": "word/media/image273.pct",
+    "sha256": "05f8a2c2f017830f61639a22d057e7ab20583b0fcf22e7b9db6d9d7064f9ccd2",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 195,
+    "height": 80,
+    "atlas_page": 51,
+    "atlas_bbox_pt": [
+      36.0,
+      676.0,
+      231.5,
+      756.0
+    ],
+    "text": "A= (2,3)\n-\ny = 1\n2",
+    "pdf_width": 197.5,
+    "pdf_height": 82,
+    "pdf_sha256": "08a76a3fad7861e93d43548fbbe724c910e201b261f89afaaf727f231a4f0076",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image274",
+    "original": "word/media/image274.pct",
+    "sha256": "063f5cd83cbd28b554d1ee5592faf4babb3a33001a7531af2a67599db851fe20",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image274-1",
+        "offset_in_original": 10801,
+        "bytes": 12,
+        "sha256": "b5c95b385738ba6168b68b14184b3aee176b3892a395849f231bd58f928e27ef"
+      },
+      {
+        "id": "image274-2",
+        "offset_in_original": 11436,
+        "bytes": 12,
+        "sha256": "b5c95b385738ba6168b68b14184b3aee176b3892a395849f231bd58f928e27ef"
+      }
+    ],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 312,
+    "height": 106,
+    "atlas_page": 52,
+    "atlas_bbox_pt": [
+      36.0,
+      650.0,
+      348.0,
+      756.0
+    ],
+    "text": "⎛3, 9 ⎞\nA=\n⎝4 16⎠\n⎛ 1 ⎞\nF = 0,\n⎝ 4⎠\nx-axis\n−1\ny =\n4\nl",
+    "pdf_width": 314,
+    "pdf_height": 108,
+    "pdf_sha256": "fe42b45b329dd86411342cca467cfe07629eca8e8fa0b8d15507df6726b1bfb3",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image275",
+    "original": "word/media/image275.pct",
+    "sha256": "165df299e1a9688fe9b48abdd33bde600328c08e9372d0601bdcf8e2e5d323b7",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image275-1",
+        "offset_in_original": 4101,
+        "bytes": 12,
+        "sha256": "b5c95b385738ba6168b68b14184b3aee176b3892a395849f231bd58f928e27ef"
+      },
+      {
+        "id": "image275-2",
+        "offset_in_original": 4736,
+        "bytes": 12,
+        "sha256": "b5c95b385738ba6168b68b14184b3aee176b3892a395849f231bd58f928e27ef"
+      }
+    ],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 426,
+    "height": 141,
+    "atlas_page": 53,
+    "atlas_bbox_pt": [
+      36.0,
+      614.5,
+      462.0,
+      756.0
+    ],
+    "text": "A\nF\nl",
+    "pdf_width": 428,
+    "pdf_height": 143.5,
+    "pdf_sha256": "75dc0b1b614a71992809f7609f69033301f1db83681bd5df5c8738f67c8819b8",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image276",
+    "original": "word/media/image276.pct",
+    "sha256": "5cb5e05f9e7bc23465387cdf21af0722aca2fa6a296007ab432ca9890eb04502",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image276-1",
+        "offset_in_original": 639,
+        "bytes": 30,
+        "sha256": "10261deedf10593d9ad15a39aee3010c291c4a9e122df42ab49a6b0a4e25172b"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 31,
+    "height": 17,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image277",
+    "original": "word/media/image277.pct",
+    "sha256": "3c7070e328af7fed9c4af0ac0c3291e202c052c936b06b39b9514c3324d657cb",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image277-1",
+        "offset_in_original": 1190,
+        "bytes": 92,
+        "sha256": "988fab2e9d970c09be0ca08f6bebfc3e91ec1161e390f19b7c91f8cd98e86cbb"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 78,
+    "height": 33,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image278",
+    "original": "word/media/image278.pct",
+    "sha256": "fc0f5aaeb20b12d69c71914f10c35c2d8431869d8c18cad1d823eb8cac623cc5",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image278-1",
+        "offset_in_original": 647,
+        "bytes": 31,
+        "sha256": "ce7babb541fa35131af286fff0939ff57bfbea76e15f27db74a4363b710673cf"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 33,
+    "height": 15,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image279",
+    "original": "word/media/image279.pct",
+    "sha256": "881761e7f326b18dbc761573e0ecfd3b7991dad16138a59f198a3f5dcdfb1e7d",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image279-1",
+        "offset_in_original": 683,
+        "bytes": 44,
+        "sha256": "f030868a0b14a43880b9e2a15f07ffd825042a5e6820c2415025eb76c084310c"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 36,
+    "height": 15,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image280",
+    "original": "word/media/image280.pct",
+    "sha256": "d5f4a5f1cd8d107012600fb7722e6d2ceb50cd3ea577837c5a36ac84d0f23001",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image280-1",
+        "offset_in_original": 926,
+        "bytes": 124,
+        "sha256": "0c725c65335b6dcf97c6ab20497b809e774cc2fe68f6d507abe222298f3f0c5f"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 111,
+    "height": 19,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image281",
+    "original": "word/media/image281.pct",
+    "sha256": "83a552d63d0a5f9dc9b41aba2657a5f676594fab4a6075cf8316b1e62af55314",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image281-1",
+        "offset_in_original": 974,
+        "bytes": 86,
+        "sha256": "8cacb1985bc4f17797ec3b537b5aa1cccdeac4249fad93e6d65290d93002330a"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 104,
+    "height": 17,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image282",
+    "original": "word/media/image282.pct",
+    "sha256": "a98a43b3ac26b40818a75fb59ee969926e15a0c22bf9967462ff4505e3771230",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image282-1",
+        "offset_in_original": 815,
+        "bytes": 81,
+        "sha256": "d196794f4c9409dae76f1e955264b7078014cf59a529b8d8c2739babd6332364"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 141,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image283",
+    "original": "word/media/image283.pct",
+    "sha256": "8eda53ef65f1a0db4201bfa9af31a029d1c30b2885299fb828fd02e3eed65a51",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image283-1",
+        "offset_in_original": 830,
+        "bytes": 88,
+        "sha256": "62ac90265f4bf21be8c00e783387b103c86345d4a29f83221c7a8b675a9fba6e"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 71,
+    "height": 17,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image284",
+    "original": "word/media/image284.pct",
+    "sha256": "c184e037ae499d7394daba7804997a1657fc6e4062e6214298824121aad54372",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image284-1",
+        "offset_in_original": 769,
+        "bytes": 71,
+        "sha256": "190e882e0366259578452aad0f54d9e8055fa715d0a952b1253e13e4e0566f4f"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 78,
+    "height": 15,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image285",
+    "original": "word/media/image285.pct",
+    "sha256": "22fc55ea23cdcc75130f6b7e95dd7ffc293b2326a691099098f4c72ba4677f6a",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image285-1",
+        "offset_in_original": 1370,
+        "bytes": 184,
+        "sha256": "41402798fd62784d63c6e500d8e60ba5b828e63e1b27bbbfa61b52b16c78fcfb"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 138,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image286",
+    "original": "word/media/image286.pct",
+    "sha256": "65b85c727aa078b9781f9a6de8d38bf2981a9d07f9bf7f84a963db0e1de20221",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image286-1",
+        "offset_in_original": 781,
+        "bytes": 42,
+        "sha256": "f30107912d4187753349d1e8fd13914ea8642ad7d175a57802c968d763ec914b"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 29,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image287",
+    "original": "word/media/image287.pct",
+    "sha256": "38fd77a881f5f08ba5de215c1b00430df507c761b5d87a3fdf5a97314d24ebe3",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image287-1",
+        "offset_in_original": 800,
+        "bytes": 52,
+        "sha256": "e798ef7c2e20e4915dafcc17032cc6fffc6783fc60bb0e7ee13df155acdcf2dc"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 40,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image288",
+    "original": "word/media/image288.pct",
+    "sha256": "d2670eeb8c7aaf52252c6cd5fd0bc91bf7788350d910dfe619cdbedd9f2bb19d",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image288-1",
+        "offset_in_original": 1190,
+        "bytes": 92,
+        "sha256": "6e344bbfdcdc13a3eb8e1979a309583198229f66950875ec0533056ae322fbcb"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 79,
+    "height": 33,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image289",
+    "original": "word/media/image289.pct",
+    "sha256": "281d3deee56254643b9c36f2eec1ea2638cdabc1d26f5d37c08d3553c955995e",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image289-1",
+        "offset_in_original": 1155,
+        "bytes": 28,
+        "sha256": "2ceac9170f51bd42ba92a573a76e95c3aa9ca12b5a4fe0e7a8833939552c6c39"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 26,
+    "height": 15,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image290",
+    "original": "word/media/image290.pct",
+    "sha256": "d2fd1947423fb4d7eece90cff2b3f8d3be2c42da5be799c34f428a2038c58f3d",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image290-1",
+        "offset_in_original": 5935,
+        "bytes": 12,
+        "sha256": "b5c95b385738ba6168b68b14184b3aee176b3892a395849f231bd58f928e27ef"
+      },
+      {
+        "id": "image290-2",
+        "offset_in_original": 6578,
+        "bytes": 12,
+        "sha256": "b5c95b385738ba6168b68b14184b3aee176b3892a395849f231bd58f928e27ef"
+      }
+    ],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 313,
+    "height": 104,
+    "atlas_page": 54,
+    "atlas_bbox_pt": [
+      36.0,
+      651.75,
+      349.0,
+      756.0
+    ],
+    "text": "A= (- 3, a)\n⎛ 1 ⎞\nF= 0,\n⎝ 4 ⎠\nx−axis\n−1\ny =\n4\nl",
+    "pdf_width": 315,
+    "pdf_height": 106.25,
+    "pdf_sha256": "641db3700b032f8ae64701a00df3cc5aad451b3adf53f3180f736a6e59f6c0c7",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image291",
+    "original": "word/media/image291.pct",
+    "sha256": "94940de89cae9f48921775dd20d0c74a842617ada0ce3cf9d0dae11e4cc43056",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image291-1",
+        "offset_in_original": 1411,
+        "bytes": 153,
+        "sha256": "cce83b9c82a4a1ef48d37cccc828b4df054449a441d6146da5018313ddd123ac"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 163,
+    "height": 32,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image292",
+    "original": "word/media/image292.pct",
+    "sha256": "575c03f9c729c08985403c50738d4c329c7bf9ff167c806528dce40d1c5b48ad",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image292-1",
+        "offset_in_original": 782,
+        "bytes": 43,
+        "sha256": "96a7efde9f2db820320cbc514d1d75e7a5fc0eb3e4ff4214b424a01004f4ea01"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 34,
+    "height": 32,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image293",
+    "original": "word/media/image293.pct",
+    "sha256": "118f74cc9a71a9068e0bb16918d0173e994e68fbdaacdd7cebdb113e0835385a",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image293-1",
+        "offset_in_original": 853,
+        "bytes": 43,
+        "sha256": "440f74f2aff8b81e92ae3f77669e8804ca76d3c78405640a5a61c7cd9118ccaa"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 32,
+    "height": 30,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image294",
+    "original": "word/media/image294.emf",
+    "sha256": "ebf54bae23eac5417ce647dd6f07fd6a7de3ccdb983442475682da9496790d7c",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "c5743f7c83dde7dc9ce5582d730b02a7caa9cc9583a90abdb694728afb90c93f",
+    "text": "A=\n⎛3, 9 ⎞\n⎝4 16⎠\n⎛ 1⎞\nF= 0,\n⎝ 4⎠\nx-axis\n−1\ny =\nℓ 4",
+    "pdf_width": 311,
+    "pdf_height": 121.5,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image295",
+    "original": "word/media/image295.pct",
+    "sha256": "8d268e3501f4c8c40db8a06a405ffe0b8058f8eac4ecb3d9b03c6b53e031f276",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image295-1",
+        "offset_in_original": 647,
+        "bytes": 30,
+        "sha256": "e5b29114c70553b9ec8c30ec0689f00da4ec5fdfb5d35693682eb4e8b6b95a60"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 16,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image296",
+    "original": "word/media/image296.pct",
+    "sha256": "3da2c54e59f31fc0baad6e42f5d59de21800a5e421c33eec1f7cefcc5e87a0e7",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image296-1",
+        "offset_in_original": 1000,
+        "bytes": 81,
+        "sha256": "10d459c6417c6a06b2bc7ce72f0aa9fb67d100f4c517e3fe5381d915c3a7b5c1"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 53,
+    "height": 36,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image297",
+    "original": "word/media/image297.pct",
+    "sha256": "61622cc727d6910ffeb9a2f761a1c86e640f05f8311ebf88478ed096b79edc52",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image297-1",
+        "offset_in_original": 1078,
+        "bytes": 100,
+        "sha256": "71e22421c2094d4efdadaee1b5bbaa07b87a1c9e496f6d95a13b86ed7c24f997"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 76,
+    "height": 36,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image298",
+    "original": "word/media/image298.pct",
+    "sha256": "bed1db8b073f248ea6fb0e017a032891736ce24dbe1a1b7fae8caafa383c2efa",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image298-1",
+        "offset_in_original": 926,
+        "bytes": 68,
+        "sha256": "47479d13ee452c20c1dc53d18f6853cb019ece121f76e4196776b720f275a7c6"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 49,
+    "height": 32,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image299",
+    "original": "word/media/image299.pct",
+    "sha256": "116d2c95012a0dc253e1ee703f41c0ef491580a5f2e74999e8fb215969ed7977",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image299-1",
+        "offset_in_original": 1055,
+        "bytes": 160,
+        "sha256": "0ddaea0747ef6a9d6b41e4a34d4622f0dfa371f29170114b474d7d69c93d2022"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 168,
+    "height": 16,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image300",
+    "original": "word/media/image300.pct",
+    "sha256": "8f6a629b2dc156ce0a13ef72ade90c6231449d044af1d7eaf00c66ebafb3ef43",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image300-1",
+        "offset_in_original": 865,
+        "bytes": 96,
+        "sha256": "89c5d4b3c131c11b3fffc8cb94b2c88d4f3d011eab80b841bd6712bc2960b765"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 168,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image301",
+    "original": "word/media/image301.pct",
+    "sha256": "8661be64c378a6b19e225335fdfcd03670dcb0883643a4a2ff8f1787d78684d4",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image301-1",
+        "offset_in_original": 1052,
+        "bytes": 148,
+        "sha256": "ce0a5546b96550cd10a73b09fb021e023e8347e53b1c4c8bbc686ba5ed4acbfa"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 183,
+    "height": 16,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image302",
+    "original": "word/media/image302.pct",
+    "sha256": "57f7c78ae0616fd7c5fbe9ead3178f8216f6b05a406544bc69728674779c67f2",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image302-1",
+        "offset_in_original": 915,
+        "bytes": 100,
+        "sha256": "871257feb5da8cdfb2f339bae2f3be7cfdccb4a57c7a74552988ff0c36933225"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 95,
+    "height": 15,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image303",
+    "original": "word/media/image303.pct",
+    "sha256": "8088ec4e70227c7a091772099a08fd8bfece845ca333e57191e98331df27a242",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image303-1",
+        "offset_in_original": 914,
+        "bytes": 100,
+        "sha256": "6befcdffcaabc814816b0125a14eda8d205ee89845940499713c6dd4036342cd"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 112,
+    "height": 15,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image304",
+    "original": "word/media/image304.pct",
+    "sha256": "245e0017889c4c1343e4ec4bb45c6dbfbb82e4f1b727aea45a5a44a45557629d",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image304-1",
+        "offset_in_original": 1269,
+        "bytes": 161,
+        "sha256": "b8ef27a0fc45ddcbd2ba1d3e41e2d453c850fbe639850318ba696d1e012675f1"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 176,
+    "height": 15,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image305",
+    "original": "word/media/image305.pct",
+    "sha256": "c04b56b3c0ccb97af407298584528ba819173d9e17e3eced1017b867fee8cf85",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image305-1",
+        "offset_in_original": 1576,
+        "bytes": 211,
+        "sha256": "275c21cb75637fb0c43755031bad1be64430b6cb8ae197e42328021e8e4e663f"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 191,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image306",
+    "original": "word/media/image306.pct",
+    "sha256": "c379c19e8b96ae1b23bd02f53881695428532b7b288c6168cc12372aa490b355",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image306-1",
+        "offset_in_original": 847,
+        "bytes": 62,
+        "sha256": "1b5ada2a5d6dcc716e9a7d1d3a55048ecd385e3552963bc5d5e0f214d67972d5"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 37,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image307",
+    "original": "word/media/image307.pct",
+    "sha256": "01592c4657b3c0485204bbfe73d803c1ebe6f29b6c6dc79dc3058a00f3edcb00",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image307-1",
+        "offset_in_original": 541,
+        "bytes": 27,
+        "sha256": "8c6cd1d2101a28030910ba1d11f4649436f311f0662cd0e9b7f987d36a3f2ffb"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 28,
+    "height": 13,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image308",
+    "original": "word/media/image308.pct",
+    "sha256": "ee55acdf5ad919e8b48830ae3aa1f2cd05b16a4fbba776009ef96b1d279341a8",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image308-1",
+        "offset_in_original": 1543,
+        "bytes": 75,
+        "sha256": "5e511fd166380a83ca33619a52f28d25352941c4b0ed68fcd27ce57d654df5a9"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 52,
+    "height": 35,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image309",
+    "original": "word/media/image309.pct",
+    "sha256": "51a0dc0d10407be3a2b1021b3331bdfb6bc2f1df5cbbe07a677867f9064107e3",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image309-1",
+        "offset_in_original": 781,
+        "bytes": 42,
+        "sha256": "8a517a3befab4d4a02d22ef93e4bf86db9dd12e2e9c1faab081a59d5471dde56"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 28,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image310",
+    "original": "word/media/image310.pct",
+    "sha256": "543d2a0e0374dc6247350b17e5f811dd44494fc5c10d2a5b9963220744d96329",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image310-1",
+        "offset_in_original": 1260,
+        "bytes": 46,
+        "sha256": "ad4dd789219b122870458230a3dd1cc11a94d77cd015e28d682e37969ce964d0"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 36,
+    "height": 16,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image311",
+    "original": "word/media/image311.pct",
+    "sha256": "a609d2928eb3efc2a02e81735b0d075a6eba9faae77b849ebcb60556bee8e37f",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image311-1",
+        "offset_in_original": 642,
+        "bytes": 24,
+        "sha256": "ba86c2c6a5f99a7f5477cf28eee7bfae90277944285e5cb60c0c6656b13e95ba"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 10,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image312",
+    "original": "word/media/image312.pct",
+    "sha256": "8ee5bedff4fb3b234c3d967af7fd33d58c54de128b051f08a4d65b433316a399",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image312-1",
+        "offset_in_original": 854,
+        "bytes": 48,
+        "sha256": "df7de2afc1e0f4c4d9a83012f767c9ad96dfb7d16178fbb76ba07d852ea7e381"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 40,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image313",
+    "original": "word/media/image313.pct",
+    "sha256": "b98aee08500afbc028d6ecb49b60f5c12d8103087ff25bc894a359aff7813e56",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image313-1",
+        "offset_in_original": 708,
+        "bytes": 36,
+        "sha256": "36ab7f5715dcdd65e392ab9fc1afb53ba83da3b40d0844e31f39c160aebac849"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 40,
+    "height": 18,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image314",
+    "original": "word/media/image314.pct",
+    "sha256": "a2ed5486fe66553c48c285467107f73e88c1176c58d4a3a31ae0a7da97d6eee8",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image314-1",
+        "offset_in_original": 1191,
+        "bytes": 92,
+        "sha256": "975c4ea35790281b49bf360640ed47123a1efc19cfb889eb58f8cc11504357d4"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 79,
+    "height": 33,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image315",
+    "original": "word/media/image315.pct",
+    "sha256": "f77ea43692a341c66d611aed2cb44fd867de000037e62e9ce910b462cccd12bf",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image315-1",
+        "offset_in_original": 1155,
+        "bytes": 28,
+        "sha256": "ffe8ac90fb34d5c99c2a840557343b6a10f6cdba946b160c375d6bb4afb8c2d8"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 26,
+    "height": 15,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image316",
+    "original": "word/media/image316.pct",
+    "sha256": "f55555115ee71a8e4c9f6110ac83ce9dafc94bc84b25c2661e970c9e8d6e34a7",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image316-1",
+        "offset_in_original": 881,
+        "bytes": 51,
+        "sha256": "92e8298206dc8a99e7b19f90524ef861394378c2a5695f6aea18cec3c8407618"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 83,
+    "height": 14,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image317",
+    "original": "word/media/image317.emf",
+    "sha256": "f03f4c3ade38be7d7dfa69ce086ad400247895392d86df22a624817c3a9144b6",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "cd54dbd3bfd59f39a18307ad94d5903f7d5853c43f1b5103d4acb017177add74",
+    "text": "A=(5, a)\n⎛ 1⎞\nF = 0,\n⎝ 4⎠\nx-axis\n−1\ny =\nℓ 4",
+    "pdf_width": 296.25,
+    "pdf_height": 179.5,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image318",
+    "original": "word/media/image318.pct",
+    "sha256": "db98adcd3ffde7d90aa86d29264540be4761a2975d93ea595ed6257a29d11f6c",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image318-1",
+        "offset_in_original": 1414,
+        "bytes": 156,
+        "sha256": "7f67830a78efcecc73c814cf73907cbfc028c6dd5d8fcffea036aab7d2d1bfdb"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 168,
+    "height": 32,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image319",
+    "original": "word/media/image319.pct",
+    "sha256": "0571cae84fd15d7d73f6f9b2739b59a8043f97491dfc39a338b2c1640f674680",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image319-1",
+        "offset_in_original": 668,
+        "bytes": 27,
+        "sha256": "83d6ed50ae728a4a528f890c8fb5a3fdfb0ea28e83ee2a525e3b91456cd1a803"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 18,
+    "height": 28,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image320",
+    "original": "word/media/image320.pct",
+    "sha256": "62562cd6340ad6b0bef463bf2d2a5f27239a5b02f12554289af947210b816793",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image320-1",
+        "offset_in_original": 647,
+        "bytes": 31,
+        "sha256": "6a03ac54e0785e07dfd57c5cf6463492db543becc515a2cd2eb0f1c52634a85a"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 32,
+    "height": 15,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image321",
+    "original": "word/media/image321.pct",
+    "sha256": "9f49f8ecb1cabea08e59d1047e77b63c3db64af9ffb324c3a9015d3ef1466606",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image321-1",
+        "offset_in_original": 647,
+        "bytes": 31,
+        "sha256": "62081aeb252cb4174952fbf10cf12cd1e825d3708a697cb09e2fd19c2f71e75e"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 32,
+    "height": 16,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image322",
+    "original": "word/media/image322.pct",
+    "sha256": "06e8573cd449ac3e9a6828f518d2540213454a6a376aca69a89438aa1a4091e7",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image322-1",
+        "offset_in_original": 683,
+        "bytes": 44,
+        "sha256": "302749022ce4eec980cffeee25ccb172c650109eaa0f9ac575d64ebe6e0ed9f7"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 36,
+    "height": 15,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image323",
+    "original": "word/media/image323.emf",
+    "sha256": "8a97f1165d282b0a26c0d6a0ec34d004ac581d0258c65a6727ed7aec4d22c053",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "f1856e96a1141397320d069f151cd3992525207e321d639023aab249d03abc1a",
+    "text": "distance\nabove the\nmotion\nsensor\ntime since sensor was turned on",
+    "pdf_width": 260.5,
+    "pdf_height": 192,
+    "contains_raster": true,
+    "raster_fragments": 1
+  },
+  {
+    "id": "image324",
+    "original": "word/media/image324.pct",
+    "sha256": "e52f5988c97e08c965d60d5106442f09a2552027f002d1b0247c358a89550009",
+    "format": "pct",
+    "native_equations": [],
+    "source_kind": "atlas",
+    "pict_version": 2,
+    "width": 278,
+    "height": 178,
+    "atlas_page": 55,
+    "atlas_bbox_pt": [
+      36.0,
+      578.0,
+      314.0,
+      756.0
+    ],
+    "text": "fitxed point\nc c\nc c\nb\nb\nb b\na a\nv\na a\nv\nfitxed line",
+    "pdf_width": 280,
+    "pdf_height": 180,
+    "pdf_sha256": "0c6a71e4526c6211c5318ed846cca15f9585f7c44cd65e5606977e56cde3d131",
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image325",
+    "original": "word/media/image325.pct",
+    "sha256": "19af820e9beb4ac0158ca6e373d73b3975a484a4a743351359cdcb97bb38ffb3",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image325-1",
+        "offset_in_original": 845,
+        "bytes": 68,
+        "sha256": "ef088dee079806a1e0229b65b22a3690c71b5511f2bdc24268e02cb1fd2ec15e"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 55,
+    "height": 30,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image326",
+    "original": "word/media/image326.pct",
+    "sha256": "87c00b7e58d5d7554469ee705b3c289fa546aec3795d7f58f971d2a3aa9d2e34",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image326-1",
+        "offset_in_original": 1070,
+        "bytes": 73,
+        "sha256": "70c691ac6efee4f8faed2c1c7c5d425fc111d7b3e286452c04c4767eff9d2836"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 73,
+    "height": 33,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image327",
+    "original": "word/media/image327.pct",
+    "sha256": "f052646233b29918c4ea7fda4c80e6294ad1622b535823e5ace3976f2813ce95",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image327-1",
+        "offset_in_original": 1191,
+        "bytes": 92,
+        "sha256": "16d6e9fddd328883a6f70c8328669cd02bced28412ff6e5b313c9d32d0cf5efc"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 79,
+    "height": 33,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image328",
+    "original": "word/media/image328.pct",
+    "sha256": "7e8ecee6380a2ef961199f429a94cc3661c9c2a36d58d911367e65f48edd6749",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image328-1",
+        "offset_in_original": 1133,
+        "bytes": 83,
+        "sha256": "266946a7ac315e8fd41cd1e0600366e384cc38a0abcb7e14cd5db52c13899dbf"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 94,
+    "height": 30,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image329",
+    "original": "word/media/image329.pct",
+    "sha256": "b76693cb5db50fd431b45973b7477a76af1888a27c2abcbdc666eee4c94e82ea",
+    "format": "pct",
+    "native_equations": [
+      {
+        "id": "image329-1",
+        "offset_in_original": 1133,
+        "bytes": 83,
+        "sha256": "087b6bce29541a5206dc329fce2c5129806a87d7d2dd8680d020800c35ab904d"
+      }
+    ],
+    "source_kind": "quickdraw-preview",
+    "pict_version": 1,
+    "width": 93,
+    "height": 30,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image330",
+    "original": "word/media/image330.emf",
+    "sha256": "056688a1a74efa9bc6302e1763fef4e7b66bab8d03aad212f8edcb9d6592e93b",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "24ae19b206fe3f7cd5161fcf077cbd4445d0509de3f7afd6420af673f803cb84",
+    "text": "2\ny= x\nT(x,y)=(x+3,y+2)",
+    "pdf_width": 177,
+    "pdf_height": 57.5,
+    "contains_raster": false,
+    "raster_fragments": 0
+  },
+  {
+    "id": "image331",
+    "original": "word/media/image331.emf",
+    "sha256": "33a8f815da5208498652dd7cd0234781e744887d0c5fb5594a52c149830f6823",
+    "format": "emf",
+    "native_equations": [],
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "7f41b2b296e78c6c76be53e371d3a35cc35f207d5e8882b069b68ac1175edc6b",
+    "text": "2\ny= x\nS(x,y)=(3⋅x,2⋅y)",
+    "pdf_width": 167,
+    "pdf_height": 57.5,
+    "contains_raster": false,
+    "raster_fragments": 0
+  }
+]

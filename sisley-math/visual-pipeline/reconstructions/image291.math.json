@@ -1,0 +1,14 @@
+[
+  {
+    "id": "reflection",
+    "latex": "\\begin{bmatrix}1 & 0 \\\\ 0 & {}^{-}1\\end{bmatrix}"
+  },
+  {
+    "id": "pre_images",
+    "latex": "\\begin{bmatrix}{}^{-}5 & 4 \\\\ 2 & {}^{-}6\\end{bmatrix}"
+  },
+  {
+    "id": "images",
+    "latex": "\\begin{bmatrix}{}^{-}5 & 4 \\\\ {}^{-}2 & 6\\end{bmatrix}"
+  }
+]

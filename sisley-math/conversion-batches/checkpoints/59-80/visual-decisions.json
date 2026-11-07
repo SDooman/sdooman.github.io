@@ -1,0 +1,3039 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "image1",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "7b9f3b55cbda4e11b7159d5d43aa88cbb58e988c365cd19e6fb8b76064d492f0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image2",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "caa9ebe5d18d2ce9d7562a9d1374f924fd8b5d80c5b2d788d52045132fad2ee8",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image3",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "855d820643d9fb43235670d5a2b76bfedfdc17dd146dbc0e61d84e535a9250fc",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image4",
+      "category": "table",
+      "contains_raster": false,
+      "original_sha256": "9090bc947e644cffa006550b22d1591b74a7aeea8531c85ce8e648fc4d7287d5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image5",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4b6b24086d164ce09501cfbad62dbb376276934748e3a92354bd70b0d114557a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image6",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4a694df0637e2214944fc17502a7c5a1a2d8473e1303e4752fee4b867f3bd813",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image7",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2dd9db2d08cb3b2ecc415ff9f81b9a53688113b2baabd264d997b375fd1d053c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image8",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "26b8bc4dca207f330542be177043ed5f44c7b97aedd86be55aae7a9d5de7e87b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image9",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "00c15a48a435a9a9efafc57be1f27999523b4c1db4f8e37397d3c86074d491a7",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image10",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9928bc1b426cdbf6e0f4af8494f03aa687dc7e7c298b0724a1a041479badd624",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image11",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6679d990813e1f5931b578a047b044b17761948b1ca5ced3b0c92e16353da906",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image12",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "8b06f92f5e7dd40f0fc8b6cd07b3dd748a391228186ed20823ec0a4f54b71b51",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image13",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "7ce895fd810565742df612be5bd52b738e26602732dc7f035ff4cb75932ab43e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Some formula labels are small in the legacy preview and need layout review. Available native equations are exposed separately."
+      ]
+    },
+    {
+      "id": "image14",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "49f265d6b8927806c26ba1c064f077f22b7542fa725ac5b2554f4eea647e3ce6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image15",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f2cf878301f2f21433d101a4299c0b31cbb93be1ed990edd5441dc511ea1f794",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image16",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6921d13d15196c66fbfc919e011040f05c9aedc759f97fb360f97968057810b1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image17",
+      "category": "table",
+      "contains_raster": false,
+      "original_sha256": "0fbd2f2662179dfe96ccddf36ceec1bf425a171331d2f7b320d60f50b2b0b6f7",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image18",
+      "category": "table",
+      "contains_raster": false,
+      "original_sha256": "e4bccbdcb07809b7f8d7b6a703b91032644bf4dbe24052be68f187f5bbf30023",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image19",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9279428e68c3902f5a0f8df20d4252d9ecacdfc9713a3eb8c7d525118a5070aa",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image20",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0bbb888c0a00a6a5fff8edf6c34b1933055dc581da42e588b3f6043b8bd24f6c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image21",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "c4566fda47cf60c9b87f8e00bf67b22bfbfeedd7bab162e0ae8674e2689147a0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image22",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "402a19194dd13e9948af85fb8b7363982857df42b9eb6e04e2cc8f6c30a6dec4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image23",
+      "category": "screenshot",
+      "contains_raster": true,
+      "original_sha256": "8ea420334001fbbc24e26c97ee92a13733f98d11329b823190d50b1a111b6fdb",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image24",
+      "category": "table",
+      "contains_raster": false,
+      "original_sha256": "957825d11b7ccd1990aeec4188ba9cf599be9217fed874a53a443ceeae0da5f8",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image25",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ac2cca58758f2f05092f23890b3b53a2358d89adce17ac126fc1e364dbda54cf",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image26",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8aa240b939258aa6569448258eed0efaf09cd0d9301bac20ab10c2721288934b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image27",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "c27fd436d770df118560ca5c8975ce9853117c3e7a5ebe42e02177f2107604d6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image28",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "077f0e149f7b8bbe4e2bb8626779a85a2036dbe862fd8692721f35c8c5d0fabf",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image29",
+      "category": "table",
+      "contains_raster": false,
+      "original_sha256": "3bcb4bc5a1434d06e68dc00e883a4140353510e7714b6649eddd95fa95bf33aa",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image30",
+      "category": "reflection_translation",
+      "contains_raster": false,
+      "original_sha256": "303b993e373d0573d5a773f6744ba6806679afe5e1ae65ee9aa2551e2950d4a6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image31",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "66ee6d9c3680f2abf3361bb42a03833091be941d29d6c1514d827ef8beab41b4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image32",
+      "category": "screenshot",
+      "contains_raster": false,
+      "original_sha256": "0937fcfe0eea19f301fee085357274bbc28fcec49d84d839c82eca7e7fba59d6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image33",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "4e23fc40ca230a3abf58c6d36ed408067967ef8813f3f949b255f1878800184b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image34",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "a885a74827cb86de7027701dc9d29c52d2ff6426cb82d07a308ab0fa339741b1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image35",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "26e1521eec3a2778e84ad5766c19290e650391c0d8dd3b197d9c442e4353dd8b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image36",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3c8dd9b1f8b31b3012f0783c52f78cebff43a8c57bb67367a37709e806578f38",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image37",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b879ae8b0f74ceb67f1e56f22f52d1ed17a030f47e0576b5aa1954b7ca4f393e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image38",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "4936092413491863c9f08454936f1ba29acb6f5ea0548de97aa91b78af00d251",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image39",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0e4026d4f3e180972e778df0586ad8af9855f4b0bba46e4535a9e269ea254ffa",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image40",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "c65cc9c23fa8460672d992a21afa78bcee58dbed3e088674c19630496ff20258",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image41",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9910b6bc089e1df58ad95e226b5b5bbb3755d52b63b54bdf219707a4173b3c0b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image42",
+      "category": "table",
+      "contains_raster": false,
+      "original_sha256": "a0a2fa53ecfd055588a29a47e59a53eaf6b772405f720e4acf27884831d63284",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image43",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b2ad9573e3e1bfdc9fd6edfd9b866340a8c7b7c5346b3e1480599f45194e8d27",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image44",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "960344b3231f89f1f83943c93e7a26c9d84b9cc14815cf92a73e007186c0dec5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image45",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2a462d44688f7390bec3c8d51c5bcfd966cfe6f3e13da59c95dc7526bfd189f8",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image46",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "076f55a7beeeeeeb25f6e83f65a55cad638f092590facb03aaeb75b6663ebe4a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image47",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f08f3d46d5b9f08682d428cff39c2f400541c470d8cab819f6131fc5ec5ad05f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image48",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "2435022a8a6b14d3d635b4a29216f9836ab916ba7468e9dff60098960ccb6749",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image49",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "178eefeaa958c44937de0c06b66c33da72525c671d5cadfa0b59b044a2ed5fd8",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image50",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "44321a8fd266389fe257a6210b790d5b17aadee60b2e12f064ed89ba5e5a05d5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image51",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "06c9d47599c97a97aaf5d79c353dc26c812247bfd0502407ef2475256a3eba93",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image52",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "96d2f7f2d4836dfda38b7888992488d4d6e70154826ff3a2c1cd4f5905e1668d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image53",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "c427f989b21a8ff11ef09c6aa93f82e0a89b0370ef3fbd94c33705a1acdce161",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image54",
+      "category": "table",
+      "contains_raster": false,
+      "original_sha256": "c0eaaddc7ef79be2711af2db2c274f0fa5cd9bea0c470ac325ae1675c30384a4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image55",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "164674718a327e83efb80e46e2d9018b9578aa93053efa9fa3fce3195140cd0d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image56",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b489cd1ddfd3d8ff724e0e237188f7b1e49e494986a6561b155fedfbc3d25cae",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image57",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "579ff90ee673ef3de37e863b9d3ab599d95c8fc15ff7a92631637d607499caaa",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image58",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e7aa35dc5d081b9c3b207271e3575c1b149ceb4ffff8f74f7e4757406df8b685",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image59",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9810cf4d7692a14dcc29ff95b141705eba51ece4a208e11090c9322fbd377c37",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image60",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "fde0c8cf53254dd4450c5ccc434e5d6d8e0e3697109bb08438fe2242ec4e33ad",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image61",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "265cb17a3fd774eee47c84f16840c5c0bf125ed66f53e0a943570a499bfee393",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image62",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "13d9e766263268b4e3168472dbaaa00f018eed216148a8dcf40e1ca75373cf71",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image63",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b965ef623a6a3561270a7b6effed512a0923a7d9c26e5f6973823d5b83fa8504",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image64",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8213c6138ba96e0d7006cddd2a51a002b31c36195e8273fcf2ba582b7426e048",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image65",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f948fd6c141fc6f1fcc532b3b36be9c039859f2bb0a47b05fc9eda2061e05203",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image66",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b7529fa6dc1092e8d267844f374b2531e17e42cb5c2b4aef4cf1ddb1a1f59f99",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image67",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "b7b12b5bb44a01fe67830a9d528c53bc5aecb0068112b35925856fbb00205dc2",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image68",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4b929fa740b906a7c99e07d479488cfd56604b5d54bde6285c5a943be190a31b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image69",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "14c4db0017ae38b4cf770d5ccedb040c8bae4786179f55478a627c48d63d2c17",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image70",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0e50939a311fadbb9858e0c04db5b9f3515b9760292af56a7c04a16a7599fc4c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image71",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "4a8808667aa50e81a98fe918c9e15e6d9814f88f22ab9ed1c693fc008127c58a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image72",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1f124aba64f524b48a822d144093a9eb94727b38b0c131af880e7afda728f1ab",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image73",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8e940b83cbe7c67f70dd28b79ea065b3204c59e5b329137140662e13e9780397",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image74",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "575f67c9be1f655cf098a8f0deb4adb9e32f122608df5c26fd6afb89e535c37a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image75",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3dc00d85277c602c614541154b6f2fbbec1bf606e946666dd36ec6b1aae0a9df",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image76",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f1bbea69b183cd93732a9b9d6679f0036f41ea7ba9edfa1fc502598e3a7c1700",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image77",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1cecf0b2739f92da4457b7e559ba014705166497269886b996f6d6b2f8eaf2a5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image78",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "1a2b36ea8e8a935085b4ef3226ceb8fe964d6132f99589e54307df097812017f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Small legacy formula labels need review; the complete vector layout is retained."
+      ]
+    },
+    {
+      "id": "image79",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "343e0921f0ef0657c688d5a65dade765d6b68107281372efa0364409b5354acf",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image80",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "bf4ec0a3e1c88069f78f346f8f960f5376313c0c6786c012113e08b81e3f171a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image81",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "c2016c91e511c4de6fea0598d506d893c1d2729f16eff24b06c73b132b0faa0a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image82",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "cee7a64326f1d38ce4fe5f53d455ae0b257ce84754dece50962db97ed97e36a9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image83",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5b6d51d5a70904595cd60a2e05339ac26bef6cab2b49ab84379467426d698e8a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image84",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ad6efcb5951ebe13bff8826679b969675f1dae059e778b81ba92879e9252b9ef",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image85",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3334502a20ba672eb154d322f89a032719da5a0ca709697af7af989f56203eec",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image86",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6ddb37c3dfe82de64b0f41ce57f4069f72560b0cdab346dabebcc92811c3ff0d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image87",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "091fc2d6cf0a112e0d0b8588878d514b1322d970bc7ff2049c6f05d84010ebc0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image88",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "946a4e852cfcbd0900ac9653847a6697994b1fa4e8423e49cc298c611204b678",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image89",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "27a1ecbd45a473f3d6edfe7558d30e1f5ebca1b911f8eab07f0f8a10967fd8aa",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image90",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "37df262d1e12dfadf53f0c85831fa76c3024f75389814dc82d49fcc92b6826c0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image91",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "620c652b003fc0022c1bdcaa2f679ea77d43652d34f568a1626d835720a26f6f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image92",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8c6a272f64690539f51b012f8c964874866c7909c555b017c3cac31372aed520",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image93",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "59453d1cb1ccee8ae4372093d66daf41fbeee609a6e16cb3c1616dafde8553c1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image94",
+      "category": "annotated_matrix",
+      "contains_raster": false,
+      "original_sha256": "4503b4680ee88dec73ecdfc72e91c31ad2a1579482a7b16c8b41bf5d93a73170",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image95",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a8ab55a95f527986c4d7aea23dc5a47580079c88cc21ba94533a2529f8161f34",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image96",
+      "category": "annotated_matrix",
+      "contains_raster": false,
+      "original_sha256": "b56920508b1cdaf8c593dd2babe63a95ecc1afead5154e3e20db57bb7068e5c0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image97",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "dd12323cff5a513751b8a1222b12f093847a3c027994d20246ecfb271068098b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image98",
+      "category": "annotated_matrix",
+      "contains_raster": false,
+      "original_sha256": "5a4111299db751498d63d06f598bd54d27c6b73e4b42eb46395763785af4f8ed",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image99",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "48a4064c061c434821d6a7b602ff25865581f69943fb29f4d44d058705105ff6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image100",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9a29f64bb33cdb9270c795c704f5d25f5a00f8239eb0c6eb74063eb7d5770a74",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image101",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "208605d9197e8ca29a5d84e4e2fd22e8c3ec0595bb98eda2b18330220cfdc66b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image102",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6f876da855503e0de71b65652a0b10c2d5fbdebc64a89b5f42cb348e8cfc840c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image103",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "fc232ce2488ab2af95c393e550b7f82cd70757a81693af60f0f27be0f4fa86bd",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image104",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "de6cb59c567804a7041f9da3319035840f0874d5b846301ca9d685850a900ec2",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image105",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4a4a760880d396b0b447f00569ccae23aef57cbf02ebe851cb773baa95725bc8",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image106",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3bd8ec839b6cfac0dae0c75dcb273b76469ec23ff81ee1a0b833aa4d7e9f616b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image107",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "691aff59259bf50d619c84b5948f07dbff5f24bb693b7e9ac89c9abd40916a00",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image108",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0939f28d3bbd9859c2036e7f8b2bc42efe979b44dcaa0bdd4e106216feb890f0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image109",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7ba92cc30d1c32cecf958eb42a8ce1eafd18476ea4a6d87e5a3bb7322f71e553",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image110",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "049011778e82bc59b4962baffa9018fe17970fee9ad1e057ed8d8e1c52b80cfe",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image111",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "65e0db67cfced677b617701d11ec3a30da188eb4fbb9a2fade9a74ea925f4b34",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image112",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e90f8421835857f8db438ebf5ca381d988b1981b0e1ff1b57fe691d0d95791db",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image113",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d1bf560c4feb4d6412cd1062115567ba4a0d481858edb5063ad062a1873030e0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image114",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "0fbc3d640a982f2d72a3afdc6811fc311ce92fba365588613ea42f498627c6cd",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image115",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "316bb4493da7ba284e926dc973b7fc3744e8595eb332cb55b5627ae58e62a260",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image116",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e9c17101f042bac4524dcb6e94422f90ebe445ba9d0d47fb8152c62372fbadf1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image117",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6abadd08b1546abc90b194dfba5c20fb86998cbd843ef312a108747e556c9a23",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image118",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "688c26d295ef1cd5d73ffc10bc56863b6a8c006b8ebfde4e797aa5a23f27088f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image119",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "90e55194487400006c5ef19fac5a43bca7442413109faa0f42510eada5f92f31",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image120",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "bd438e7ca856947e78a6cd5b5011ceacf4ce82cbda2ce86d954eaf237af71f9a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image121",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6b8a04229e6dc41aa745e547fbf84a35acbf89629a194a50eae4c3f1e45d306f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image122",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7f77d6a499f692831d2e3a0d8207244428e074a304159e6449f5a2faa57c6d58",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image123",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3756410dd29b0b0ceac14fe5a9e4d63dd4d6bbc0931dbed02841cf1d88e754cf",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image124",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "bf0e4acfc7dd7bab78bc6d247d33adb825c0ee7861043a8aa6eefaa178e35623",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image125",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "46c4f5a598b3834fcf047a7bd7e6c425d8a0cbf97c34c49a4b30f4f41215de91",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image126",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d7af43f5d5d0840087a79907cc03cc758635d53f83660c3b185107ee25021cd1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image127",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f0e49fcd0f06172be16a939c92e38d30c3f4e8a039cb46b7857387bd783056e1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image128",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "fec709696023631320ae367d7f25cbdf23edaed8b4ecc8b857c2b2f03b046abb",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image129",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7f968bde90d30b8184269439be952962ca24207ba2bef9e7208325ab3852e267",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image130",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "5d584fa5116ae82276c443e7053e1cb61cf56456d715499626c25e4c57fbbc76",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image131",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "85ba64107b3e7dfbb8c1e3101c04781d25cf663be87fe4a5599bb770a385d9ea",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image132",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d7b306ca3b23cdeaaf0eac74d7ad358311927b37135d9fc843d51e9d5e8d379b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image133",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "341aa09715128633a38074e4ed8afdd139884856d90004834c6fe264300199c9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image134",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "664dbe5d725ca2135197ecaf6ec7c4433fb6b934de344913d2bb59cb15335e97",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image135",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2428ba99dba7b8d8f183fdcccd2e93b9f928430d4c44446554a6802a4a5756c9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image136",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5ffe03f796baaefdb91d11aee67dd994af38923bc04b9fd5ca93d91e4a0f8df7",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image137",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "fcaa8f104ea63820f7212924a7485473c0ec4fa43d56b5799f060953e1da28b5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image138",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0bbc8f06f97fe2787622e4a8ffeed663fd55262613e9d4791e1dac5a8288ba99",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image139",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7773090efe8ab5fa7812d40d486f47824d17b03fff1ab9d9740f0e8a44ccefd9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image140",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8f5cd025366853347ad86b031809c323bc28bfacdcb76dde3b42a68918b3e96c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image141",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "446c94403deccb9edd5a0e9bd445ad429f92257c5b39ea9d3f3b257578bc4c88",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image142",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0f29f416dfa11a82a3e9efb9780bbff92befb874842249798e468aac5740dc45",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image143",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5c16ff16b8f60031b82b06cc407bf2f7eb2b5ab6810124cc19aedd9f8a7b6a2b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image144",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4d96624a953631282f0e82ebeab9c9b7b1c10f148d02f50d060a9a6b21069ecb",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image145",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2f083d29df632d467bb045f3fd54c29f7cf841c3781db326d6e5c999f05292ed",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image146",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "13c364be38016c6748f32b2eaacb2d2b8c8dd577f2b2773529b80e92a32a8a1d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image147",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "59e7e489731cb261bd32fb8e8267855dcc1f7a2fd4102b535a50ea5bbd6f6261",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image148",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1bda1eecc2aa06aea36ad1d2ac7f03a35950ef8f1f0133a8e305b3d8b06b3e5d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image149",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "2bc94f5611bfa9eb7f0057849b5bef5fcaab99d1c4d59d18eaeeec2aa5920286",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image150",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e181859142dd2bf4b16cc099ed601b9fba2fea86ff1722e165c2a178701e4037",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image151",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "da6214ae72c1aabfa000e488a16d5c286495c9858e1529b5c53b174aa96b5dad",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image152",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e7a19b681db1b05da644da66a0547ba30e412fd99889a2117362c88b7dbcd06d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image153",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d3c64c8db81e44f6268f3521e1bb86dde749d32558f357e330d04c689bc3cf64",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image154",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a62078fcb33153f5eef8b6e14ca3a679bf756c3035b94874b4d44032d5f45d97",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image155",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "565df57114f3ee69a2b2dcd936deaf9c181121cdb5c3b68a82e69cf9aa5fc806",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image156",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ca5e17def5c9198694568401b65080a176646ecd527f38a45d375fd5f4e843cd",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image157",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "60523a498db26f75a244a37046673d804ae231ebc559d1a058ef18e9602302ce",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image158",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "bc0da552e062aeb7bbda4b81da8e72c4c7fb5ea36ccc7123a4f814da348f1e53",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image159",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "abef4c80c633c5057ea397cad7a14947d35c7bf8f15f527e17a32d255d88529d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image160",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9e53a41283da30a598b5fd7c3fa55a08a1ea00845697a22810690859af7e626c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image161",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e0b0789d27b5a4de7318740453a618b80305e131b39d116cf7fc219b1861c29d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image162",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "729f3cb292270e64897600e6b313355c647dd3b6f8728cc1fc93a25648231805",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image163",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2d869edd8e841647bd74d9b836b663aa3ef9e8d42f665b775183832190757e88",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image164",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "076dea438b649948279ed720e984507fe2d293fb2af8e41d77e0efed9b40ed8b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image165",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b8143a80ead1870feb58913cf6b7faf98596b063efb102a70c5de2b1d310d245",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image166",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "fd61b2b1ae93ec9e87d44b94975de380590a6efe4ec070504752181f49be2028",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image167",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "03f9c0e6631bdd1c47d17b88761d5468a13968ec2d43f2de7b27cbc1e53692b4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image168",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1e2e1d5638175a3e6b15f4edfccbee43d944597f6bee5ba925b83be9c057c6ee",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image169",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8ecc541cc3cae58c532a014cd61611fdff7f9c524fd99da579ea451dc7a1dc21",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image170",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "36b447cec9cba2463fd2ec5558eb18db6d3637bfe8634d88b440e32639cff905",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image171",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "49d01ccaf051bd82c3c0ecb05be143640f2d553e50f9b4b6233a0469b9d09308",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image172",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "6403063b0f1d4eb686a49cf05c9e0f817890764c042c1f11a4f58b2e2cdf3738",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image173",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e5979330efd46f18c13c7d84c50bc9f149773107822a2edac3658cd357461143",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image174",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b0183e4451889afb1e8e2fb710d0549486635ac20b715aae41ea8394088a6aab",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image175",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7f92df19400838b86222f5a7ea1595d6b2a258c457544b89597fffcd276cbba3",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image176",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d44d9dddc5173d977295740b0ef99820475fc1fc0f363ed2dc5fd8c8416ae443",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image177",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1da29ea7f79d2659f82882c1f4290855b2b147d47fa5086c7ee319d115deaa2a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image178",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7356db8975a0b859eaf4300ae095cd5eca0271deb66f9c8e471c8aef80630f72",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image179",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "fba80f8f1b7d9292efa4c5b1410a77bb8e6036b5b6a799365bb6c3780ad5c797",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image180",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4103c859c6e948945d618ddd338182eb1e469327a1dac5a503c3d5da30c65928",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image181",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a5db1e06ec18a38650ff1ef0ad360dd885c1c7b57c48205289e4b1211917113e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image182",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "117470f55ef18fa68706b328c9e54985067c99190b6e9cf81966f5177426dfe4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image183",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "121c387c0644441f0df5f3c9f2a5e393571b1f023178ad6119fd6acc778918f4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image184",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8061b5c06be146ba78a882008503619e97050b1baa67d4eeb3b6d3773ea4eb54",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image185",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "bfad44cc873caee35ff999eb00a45e24bd696c14bc7e9547b1478a3b30348d17",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image186",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "90d8d962a8589a6275250f10f293a2f093dc8233aa64ee74b50f348460ee424c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image187",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "5ea026d8cd1560ef3e159761648a6887e00e05090f32044a3bec290cd7b24ea9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image188",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "538e805459ee4c0ec7076c3328bc4bf720a160dbc588d46cf1795e0e669ce4ed",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image189",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "ab21959141b8bf13de1d1e7283110ac7af1ea91e188c7cbff311789fcfb98e49",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image190",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "439bc6701e6f9a46e5f039d9e5cbcfe94f80d830f07937a000ccd22729ff514e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image191",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b6c2c47058c0f5aa612ebca9d363df5547f671b69a1ca21eed8d7f8f8c29379c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image192",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7742f251bb9728e961052813b0a6d96518e00f0cdd7344b5d4c67d5899a61a44",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image193",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "dad0df2645f871dad7956e233c9be9bdf6ee28bcbbb80f58e5e8a25e38cf6ddd",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image194",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "6c77f9bebc7f1b9253906a1f8f61f960ee4301ebecfb6b7c3103e2f2c7661cf9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image195",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "8303a466328f65b215a86eadcb523a33532c9aecbfd1911661f9390ab9fd5d39",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image196",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "4075e1301064e054ce42ec4a30f8c29ab65bf46f4d2f67285a8e295bab169c06",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete.",
+        "Some ordinary letters in this legacy preview render as Symbol glyphs. The original PICT is preserved; its labels need correction before publication."
+      ]
+    },
+    {
+      "id": "image197",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "cbfecc7d74d240158671c84cfdc68e59e218a4f4c32bf32d1ebc0d4dd0cb3cf4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image198",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "410a1f0b4b172904a0279a35f9752892de19246f87b7fb8d95fda0bbed8a9fe4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image199",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "54cfdda4735e85ab540db56d114c202932b169239eb00fcaf9e26bd53f086765",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image200",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "1f7c42a49323ef0f0236ad7076f7a72e642f02bd9c1276bb0b84de8cd045ecc8",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image201",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "696be0402b999c2f70ae2d60132534e0c41855a9ba2358c2c3f8cda154ce1da3",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image202",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e236f02a6252d11de88db0b395cda1992d0abe29bcb65080946f7881f5874ab0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image203",
+      "category": "reflection_translation",
+      "contains_raster": false,
+      "original_sha256": "aa09e95a9359e22323edc47b6215d3bebf6a6afa141557c1a93610b23389d5ac",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image204",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b75a5afcf16f8b4aaea3984b057346d735f18a8fcc292dd8657f4b486ab39acb",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image205",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a0170c49240c1f35f8c5bd5bdc542463e9679dbd66aaa7893a89c087ede638ed",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image206",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d6a278b8a25d9094e0de8eb895236cff2da4dc4edbc7b600bf35c87298665e44",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image207",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "e29e7699571df272d30bc3b65ee459278b44956d87c90d41ddf048e690a5c2eb",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image208",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "64154fec8223ea7054adda5a1d08fd74fd996d55ff714a42e8f1c1a247539ecb",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image209",
+      "category": "shapes_symmetry",
+      "contains_raster": false,
+      "original_sha256": "521e01ee063b6c21e9966e4ce3766c4f95c5c14d303c315d6e782025bd40afdb",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image210",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "e8a0bf44e8f5c830b23651bda04ce1fbe794c3122599440ed8d337d1994b8c05",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image211",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "3293e58105063fc02e98cb1cd249bd55f9aca4efe922c609aec08dd0b8b357b5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image212",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d1d8a18d552ce2c1f4a53bc589cd923d4e9c1a1a21724b7ceb339db672e7b0c1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image213",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "28954406d3713a75da5b792865032a71ca311e5f88a5a0d6a178da75e0e0b7a1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image214",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ab435b05926ea14bdb81dc86d92acccb7a80eafb2da3a8a1afea6d26803e40b0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image215",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ebfbe217c22e90310d3b60b46dd95d186414070c4ff73b408880b234344e13a0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image216",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3c60a705c7dc25331b12a8cf39359a1377001e71e78eb3af37c40c89c36b56d2",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image217",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "42321564d76ce58886533272491c77782c9d1cebd1bf89db53070cf821c402e6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image218",
+      "category": "geometry",
+      "contains_raster": true,
+      "original_sha256": "76659e6ee45f773485af0c2ae29d8818311a0209177a0b020f7e696f25fdd9be",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image219",
+      "category": "shapes_symmetry",
+      "contains_raster": false,
+      "original_sha256": "ccf0761563ce19290e8f90ed4c028f7a5d3a32a0c0fb295ef04643768289381b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image220",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4a5488af3d043f886d942a6310d67d07c2fc3c27f568fca0affc11fa3c85b74b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image221",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9a4c93676ec2596818887bba6749870b90de54303c50a7d639168eb6dfb80280",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image222",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6c4c75831a8533264ac208a84de54dd1025fb69cc6e132b7a06f4e90191e092a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image223",
+      "category": "geometry",
+      "contains_raster": true,
+      "original_sha256": "945f7f41ef723f7d2de20a71b648f26a2f59c2ee736b7b6b1e98bc659000a2a9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image224",
+      "category": "shapes_symmetry",
+      "contains_raster": false,
+      "original_sha256": "2820ba2b586bda42435015ded2e1e757d12991383dff2148aaf04f868dd746c6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image225",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "3a8a483a1528fdc6c30a353322b418097f8a63a1bf8a6ea3e2473b38e0fab744",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image226",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "347fba062f113eb2333bdfa0c21d8e4211057be52d7ebfba1899ec18cdf58238",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image227",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e583c2b60ea6c59e80279fbeb178cfe69b00e4bdba7a5702ad2ea171ce88b212",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image228",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "60be08b9087a8bcaa492f5ec16b18f88b8a4a814e7633e50e6d467f5f2217694",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image229",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "68b637e8ab9ae7759b57f8ead10fc05b663614d4ecb3d957156c125dccf97af0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image230",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f6435a72d2ad5ac61169ff2bbea7b0c093f4c92c1125ab7bc57123134c3c625d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image231",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "341f7c5da0e1f73a11f9009f812c45df8349460909618fa1eb54e0a8e0b35068",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image232",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "4ce71cf41b96fab37ed656e243a7038fbe33d83069589a31922fdcaeab166db1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Some formula labels are small in the legacy preview and need layout review. Available native equations are exposed separately."
+      ]
+    },
+    {
+      "id": "image233",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9565e0e2527281c40e74426ef7bfe6f32b7676db156768a15ae56e1ebd4709f8",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image234",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a914d58e9240eb519fef39aef87fdabd1f938fb54eaccf5b79f2faef6e91641c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image235",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5d247ea848a39031550a95ec0eb5b31697948936cf927c3ffb435fbeb673e58d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image236",
+      "category": "illustration",
+      "contains_raster": false,
+      "original_sha256": "4182e7cb84db7ce1f68ff242c2cdae8fa89ee1a12623f412e31908a60f8293f9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image237",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "d7e92353bc63bd7404311427ce5e3be02e5d9f2e13f93bb1a77f57ddfac45946",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image238",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "18ae7468d27207a55274e4a2ccfc46e17700795de83476588ff9fd3d4485ef8d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image239",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "2174b40c463a78176f8e954b17f873c4f8c05d79585c93d2dd0d9a292050c006",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image240",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "d87cf56b3160f51c17628765d38c366b656e76405bc0fcb9f586714440975549",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Some formula labels are small in the legacy preview and need layout review. Available native equations are exposed separately."
+      ]
+    },
+    {
+      "id": "image241",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "d31641f82a2c17bb735aca4338bce56e46c0bcdb59ccac5d6214d758dab49621",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Some formula labels are small in the legacy preview and need layout review. Available native equations are exposed separately."
+      ]
+    },
+    {
+      "id": "image242",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "16a07f595ac036d43f3259ca9439f86f0a883d9c6ee3e547c8351731e2ac2d12",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image243",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "530996b08cea2488adcd6f5ba7785693a8a9bbb283b9b91fd10741b33aef949f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image244",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0ea269d7e663fe6c9b3a832b563577b9f54ae05f9368d8730e317bd50221f36a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image245",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9b6b94ddae596de48e6f2916da778d36671acb4076455479095f216fd87754c0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image246",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "7b92d869c28df5263b5b6f7eef1f5b9c21f3cc08023db8e90f1e2b15582a61b4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image247",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "5e1f54caf535dd4d0c35447386a08b72f47c7b19e0b3ddd560b3dbf5b8cd789e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image248",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ed31eaf1ed250f79b5df1121dcbd6331ab78748f87cca9592308fc1c62db29e5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image249",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "32b2c7ce3ce0a79ad59702beed058a71d775084989a41cba57d89e97385e5290",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image250",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6146f014553b4590634a9517f731ee31c27e963a21a1c9a06c1704273c9354fa",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image251",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "811d80285a29e962a5dbf86905d00d925426144bae115fde6e8de7fa113e8f71",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image252",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ae2ad99dbbc2314d9420af0b7fdfd3bb8f57b0dd158b7c3661b81ee4cc9f3628",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image253",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6285a647a84685f4a518ce43df24218572d42c1c519ca7be146512703157be35",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image254",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "bdfa8fe588b722da69add9220a24c78393321a3e06ecf3d20a411a7842ca3749",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image255",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "bebb9b102fed9b2b0c6bd2ce3ef15b0fa8d94031380f476094fdd4cf37014b6a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image256",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "657891046ddd91d36e6320d4f7740637f251699c47efae7d66463c1b41cc9c68",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image257",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "c9e1363d5a11e30b9392ca9464edf5ce5d81108e0cb1cf002e50208206cf61da",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image258",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "42190e711cb666ac8ae3453d8e362e30d6f44c54c8a74e1427ee497ea56e5994",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image259",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "59646a3e72d856dab5ac35255c512a55a14b124675345219706cd2d1605f65d0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image260",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "00e704b13c39eae831f1e1a29235be180e8a28cbc87713608e28751771652f06",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image261",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "14239d4a854753f6cd37735f5da7eee53b40507d3e37e79cac3fa48e199131f3",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image262",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8c4e61f9a1acbdccc011ddd3c521b64d797d154d635bfad3efafdca0ae2dcad3",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image263",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1751ea11dcbbd31104a2ff29a2fae2e8ac159fabc5c86edcd624aca61e0542f4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image264",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f94272b15972760bff1c9f57478a853203a36e14a96282fc801be4e15b8b3a62",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image265",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9d242cae0bc66bc8a5957f6469e0ed3d5b4119ad592af0aef0af01789bc69109",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image266",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b4329d3589732a542d09d44159d1c5808219b963e111ab716c5dc5e57808efa6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image267",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "9ac8dedf7239f1400b39c3e4e9fa16f1c906f133cb6cf5e4afd7beacc00ebe80",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image268",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6f3b1ec7d97ad86b1545481693e760081feca5d8daec87cad83f1e6d996299a3",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image269",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8ce4cda7ccb9185b7a6828254e9581eef4da193e6d305f1928696105530dc113",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image270",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "280adbf6bf2a549ea93926f11b1a85f0a006fcb5c811a3509978aaf2cffb5290",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image271",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d8a4f746c4bae373c2d701ae9d885500de097bb019a3aa289f6e230ddb9c641a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image272",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "c9c2e452e57a9c1d44470b3261c103dec241be615f0ca7430d0e366f66fa7043",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image273",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "05f8a2c2f017830f61639a22d057e7ab20583b0fcf22e7b9db6d9d7064f9ccd2",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image274",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "063f5cd83cbd28b554d1ee5592faf4babb3a33001a7531af2a67599db851fe20",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Some formula labels are small in the legacy preview and need layout review. Available native equations are exposed separately."
+      ]
+    },
+    {
+      "id": "image275",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "165df299e1a9688fe9b48abdd33bde600328c08e9372d0601bdcf8e2e5d323b7",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Some formula labels are small in the legacy preview and need layout review. Available native equations are exposed separately."
+      ]
+    },
+    {
+      "id": "image276",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5cb5e05f9e7bc23465387cdf21af0722aca2fa6a296007ab432ca9890eb04502",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image277",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3c7070e328af7fed9c4af0ac0c3291e202c052c936b06b39b9514c3324d657cb",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image278",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "fc0f5aaeb20b12d69c71914f10c35c2d8431869d8c18cad1d823eb8cac623cc5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image279",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "881761e7f326b18dbc761573e0ecfd3b7991dad16138a59f198a3f5dcdfb1e7d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image280",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d5f4a5f1cd8d107012600fb7722e6d2ceb50cd3ea577837c5a36ac84d0f23001",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image281",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "83a552d63d0a5f9dc9b41aba2657a5f676594fab4a6075cf8316b1e62af55314",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image282",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a98a43b3ac26b40818a75fb59ee969926e15a0c22bf9967462ff4505e3771230",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image283",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8eda53ef65f1a0db4201bfa9af31a029d1c30b2885299fb828fd02e3eed65a51",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image284",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "c184e037ae499d7394daba7804997a1657fc6e4062e6214298824121aad54372",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image285",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "22fc55ea23cdcc75130f6b7e95dd7ffc293b2326a691099098f4c72ba4677f6a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image286",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "65b85c727aa078b9781f9a6de8d38bf2981a9d07f9bf7f84a963db0e1de20221",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image287",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "38fd77a881f5f08ba5de215c1b00430df507c761b5d87a3fdf5a97314d24ebe3",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image288",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d2670eeb8c7aaf52252c6cd5fd0bc91bf7788350d910dfe619cdbedd9f2bb19d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image289",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "281d3deee56254643b9c36f2eec1ea2638cdabc1d26f5d37c08d3553c955995e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image290",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "d2fd1947423fb4d7eece90cff2b3f8d3be2c42da5be799c34f428a2038c58f3d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Some formula labels are small in the legacy preview and need layout review. Available native equations are exposed separately."
+      ]
+    },
+    {
+      "id": "image291",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "94940de89cae9f48921775dd20d0c74a842617ada0ce3cf9d0dae11e4cc43056",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image292",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "575c03f9c729c08985403c50738d4c329c7bf9ff167c806528dce40d1c5b48ad",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image293",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "118f74cc9a71a9068e0bb16918d0173e994e68fbdaacdd7cebdb113e0835385a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image294",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "ebf54bae23eac5417ce647dd6f07fd6a7de3ccdb983442475682da9496790d7c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image295",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8d268e3501f4c8c40db8a06a405ffe0b8058f8eac4ecb3d9b03c6b53e031f276",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image296",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3da2c54e59f31fc0baad6e42f5d59de21800a5e421c33eec1f7cefcc5e87a0e7",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image297",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "61622cc727d6910ffeb9a2f761a1c86e640f05f8311ebf88478ed096b79edc52",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image298",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "bed1db8b073f248ea6fb0e017a032891736ce24dbe1a1b7fae8caafa383c2efa",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image299",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "116d2c95012a0dc253e1ee703f41c0ef491580a5f2e74999e8fb215969ed7977",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image300",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8f6a629b2dc156ce0a13ef72ade90c6231449d044af1d7eaf00c66ebafb3ef43",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image301",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8661be64c378a6b19e225335fdfcd03670dcb0883643a4a2ff8f1787d78684d4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image302",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "57f7c78ae0616fd7c5fbe9ead3178f8216f6b05a406544bc69728674779c67f2",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image303",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8088ec4e70227c7a091772099a08fd8bfece845ca333e57191e98331df27a242",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image304",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "245e0017889c4c1343e4ec4bb45c6dbfbb82e4f1b727aea45a5a44a45557629d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image305",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "c04b56b3c0ccb97af407298584528ba819173d9e17e3eced1017b867fee8cf85",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image306",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "c379c19e8b96ae1b23bd02f53881695428532b7b288c6168cc12372aa490b355",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image307",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "01592c4657b3c0485204bbfe73d803c1ebe6f29b6c6dc79dc3058a00f3edcb00",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image308",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ee55acdf5ad919e8b48830ae3aa1f2cd05b16a4fbba776009ef96b1d279341a8",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image309",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "51a0dc0d10407be3a2b1021b3331bdfb6bc2f1df5cbbe07a677867f9064107e3",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image310",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "543d2a0e0374dc6247350b17e5f811dd44494fc5c10d2a5b9963220744d96329",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image311",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a609d2928eb3efc2a02e81735b0d075a6eba9faae77b849ebcb60556bee8e37f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image312",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8ee5bedff4fb3b234c3d967af7fd33d58c54de128b051f08a4d65b433316a399",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image313",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b98aee08500afbc028d6ecb49b60f5c12d8103087ff25bc894a359aff7813e56",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image314",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a2ed5486fe66553c48c285467107f73e88c1176c58d4a3a31ae0a7da97d6eee8",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image315",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f77ea43692a341c66d611aed2cb44fd867de000037e62e9ce910b462cccd12bf",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image316",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f55555115ee71a8e4c9f6110ac83ce9dafc94bc84b25c2661e970c9e8d6e34a7",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image317",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "f03f4c3ade38be7d7dfa69ce086ad400247895392d86df22a624817c3a9144b6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image318",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "db98adcd3ffde7d90aa86d29264540be4761a2975d93ea595ed6257a29d11f6c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image319",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0571cae84fd15d7d73f6f9b2739b59a8043f97491dfc39a338b2c1640f674680",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image320",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "62562cd6340ad6b0bef463bf2d2a5f27239a5b02f12554289af947210b816793",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image321",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9f49f8ecb1cabea08e59d1047e77b63c3db64af9ffb324c3a9015d3ef1466606",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image322",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "06e8573cd449ac3e9a6828f518d2540213454a6a376aca69a89438aa1a4091e7",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image323",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "8a97f1165d282b0a26c0d6a0ec34d004ac581d0258c65a6727ed7aec4d22c053",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image324",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "e52f5988c97e08c965d60d5106442f09a2552027f002d1b0247c358a89550009",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image325",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "19af820e9beb4ac0158ca6e373d73b3975a484a4a743351359cdcb97bb38ffb3",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image326",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "87c00b7e58d5d7554469ee705b3c289fa546aec3795d7f58f971d2a3aa9d2e34",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image327",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f052646233b29918c4ea7fda4c80e6294ad1622b535823e5ace3976f2813ce95",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image328",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7e8ecee6380a2ef961199f429a94cc3661c9c2a36d58d911367e65f48edd6749",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image329",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b76693cb5db50fd431b45973b7477a76af1888a27c2abcbdc666eee4c94e82ea",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image330",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "056688a1a74efa9bc6302e1763fef4e7b66bab8d03aad212f8edcb9d6592e93b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image331",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "33a8f815da5208498652dd7cd0234781e744887d0c5fb5594a52c149830f6823",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "labels": [
+    {
+      "text": "A",
+      "bbox_pt": [
+        0.25,
+        0.0,
+        8.914,
+        12.0
+      ],
+      "font": "VOPWFL+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "4",
+      "bbox_pt": [
+        9.0,
+        3.0,
+        15.0,
+        15.0
+      ],
+      "font": "VOPWFL+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        15.0,
+        3.0,
+        18.0,
+        15.0
+      ],
+      "font": "VOPWFL+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        18.0,
+        0.0,
+        24.768,
+        12.0
+      ],
+      "font": "VOPWFL+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "B",
+      "bbox_pt": [
+        0.25,
+        36.0,
+        8.254000000000001,
+        48.0
+      ],
+      "font": "VOPWFL+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "4",
+      "bbox_pt": [
+        8.25,
+        39.0,
+        14.25,
+        51.0
+      ],
+      "font": "VOPWFL+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        14.25,
+        39.0,
+        17.25,
+        51.0
+      ],
+      "font": "VOPWFL+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        17.25,
+        36.0,
+        24.018,
+        48.0
+      ],
+      "font": "VOPWFL+Times-Roman",
+      "size": 12.0
+    }
+  ],
+  "drawing_primitives": []
+}

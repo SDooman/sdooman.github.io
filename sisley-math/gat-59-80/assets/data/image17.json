@@ -1,0 +1,89 @@
+{
+  "kind": "table",
+  "title": null,
+  "headers": [
+    "$*$",
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g"
+  ],
+  "rows": [
+    [
+      "a",
+      "f",
+      "a",
+      "e",
+      "g",
+      "b",
+      "d",
+      "c"
+    ],
+    [
+      "b",
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g"
+    ],
+    [
+      "c",
+      "e",
+      "c",
+      "d",
+      "a",
+      "g",
+      "b",
+      "f"
+    ],
+    [
+      "d",
+      "g",
+      "d",
+      "a",
+      "e",
+      "f",
+      "c",
+      "b"
+    ],
+    [
+      "e",
+      "b",
+      "e",
+      "g",
+      "f",
+      "c",
+      "a",
+      "d"
+    ],
+    [
+      "f",
+      "d",
+      "f",
+      "b",
+      "c",
+      "a",
+      "g",
+      "e"
+    ],
+    [
+      "g",
+      "c",
+      "g",
+      "f",
+      "b",
+      "d",
+      "e",
+      "a"
+    ]
+  ],
+  "review": "needs_review",
+  "blank_meaning": "null means an intentional source blank, not zero",
+  "source_sha256": "0fbd2f2662179dfe96ccddf36ceec1bf425a171331d2f7b320d60f50b2b0b6f7"
+}

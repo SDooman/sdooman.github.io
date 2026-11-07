@@ -1,0 +1,23 @@
+{
+  "kind": "annotated-math",
+  "expressions": [
+    {
+      "id": "expression-1",
+      "latex": "(-2,3)\\longrightarrow(0,0)"
+    },
+    {
+      "id": "expression-2",
+      "latex": "(6,-2)\\longrightarrow(8,-5)\\longrightarrow\\left(1,\\frac{-5}{8}\\right)"
+    },
+    {
+      "id": "expression-3",
+      "latex": "(-2,3)\\longrightarrow(-8,5)\\longrightarrow\\left(1,\\frac{-5}{8}\\right)"
+    },
+    {
+      "id": "expression-4",
+      "latex": "(6,-2)\\longrightarrow(0,0)"
+    }
+  ],
+  "source_asset_id": "image413",
+  "review": "needs_review"
+}

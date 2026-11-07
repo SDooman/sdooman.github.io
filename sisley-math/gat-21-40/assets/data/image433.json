@@ -1,0 +1,15 @@
+{
+  "kind": "annotated-math",
+  "expressions": [
+    {
+      "id": "expression-1",
+      "latex": "y=\\frac{24}{9}\\cdot(x+{}^{-}1.5)+10"
+    },
+    {
+      "id": "expression-2",
+      "latex": "T(x,y)=\\left(x,y+\\frac{14}{9}\\right)"
+    }
+  ],
+  "source_asset_id": "image433",
+  "review": "needs_review"
+}

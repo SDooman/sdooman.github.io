@@ -1,0 +1,4516 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "image1",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "deea74ee561c5dadaab483a8cbb984efd4281f34de2aeefc513880b940770aca",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image2",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5f7b4562e76b55643f10a179e53421d5e770920dcbb9232f161cbc3a395b3f14",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image3",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d72799ab2e9a3ded5e47a19acf0d136b00c1aecc9d15564bbc97faab6433972f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image4",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "61733f9ab114fe50e38c388a14b5b91176ff478754aba8af8cc9e4018db68628",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image5",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2554cbc0ad13a00bf19327c5b8e87120a0397860ab45f80a64f754dfb7022731",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image6",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6a65d437c5db7b28600210059901041584fe67097ada397af3dea341c4568880",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image7",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "92732a8a1aa41cfb2d2b44a1cc89e0f43af185668d9a5f2ceae7b7915f83fa2a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image8",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d41705e2e8039e4567e518ae3be6a55b8c35397ded896b2f1615515d869f0866",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image9",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0b501cb02a1943a5f694b7343ac97bf365392d43bdab555eb9afcfc4c4a04452",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image10",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7b890308806896b4a4aed8f27b68ded5bda785c6815183567c8361d8213f9f14",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image11",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1f1547861d3a0644374e3725759b8dcc5997a588e86f93691089b9d0a686a31d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image12",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ccb89b41c39b0703921b96512bd8a7db65ca0c6a0f41be49256deade81bf44a1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image13",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "5cf9e3fc18d7f87d2995119b2ab4b04070e2a9c5454900933f7114e4404143f0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image14",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b98aee08500afbc028d6ecb49b60f5c12d8103087ff25bc894a359aff7813e56",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image15",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "a4fab02050fa20042f465c12ffa395a267a2a789525e7a23ed98c78a7ffb05bf",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image16",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "e934628967337e51e55ac8681097b2585f7c77ce23e0a3971c76869e2d84ba83",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image17",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f516050c42692d4ecee3556e4a08a0440f81b2c67d7c5e58f5c558f9ca5fc476",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image18",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "49f265d6b8927806c26ba1c064f077f22b7542fa725ac5b2554f4eea647e3ce6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image19",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "14bcccb8882e31837c1e4114a4bd95988f97c502381cad5f9b6e16b9949ef01d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image20",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5f9dd9bbbfce94727ca758eaf5ad63a64285c42978d3404789580d79c0f5aa68",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image21",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d74a10283169a7e91a877d31f5fa95d4d0005754a2ece0535146b4a05f86abb9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image22",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0979f7e6094599641d0a9956c1ffd7231b7231e0350e6aba6f3bf0b9526a42b2",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image23",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "bb4c0ead4eb875b2890f7ebe9225a264a4795b2566d69322e3413bb7865cb480",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image24",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "aecead28b481d0136f782d9e5cdd2a46f47f15abeeb42bf66ac10ca2bc4e42f5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image25",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2baff284a247190df66a21f110fb3465edb2e33a41e7119073b2c9a5e53a5407",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image26",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "be9f540c1449649d93966a7019dd3bdfb11904af065d5356d235170c0f836a31",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image27",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "be0e9f3b49be94ba8e04204411bcdca91806981e58e26f0fc7dc56a5586b0e19",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image28",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "742411fff4279792b33f72fb149af4865069b7a6b84a99be61a1c696dab50ed2",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image29",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3bb021b04b5c80a3e260ddb0fed89f24368f3c492f1761d390374915f6f98337",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image30",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "fd938d79ac1917fe055b9fc4059d330f0a715e932562e58b5bd6d2e34adb974e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image31",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b3cf2e89922d3e2a17c1cf822d23191dbc374372250090f2a551c651aa09238b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image32",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "89581987e5e850b65c0871e7f21bba00da74977e62a542c4eb0f3782374c1604",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image33",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9f56598efadd21ffcd564455ccf445e06c0de893f118cdf8219d1454d109483e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image34",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5cb5e05f9e7bc23465387cdf21af0722aca2fa6a296007ab432ca9890eb04502",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image35",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "29ae894ce792cc004a9eadd45141aaf4840ac5d17ef9802be5b9c4d589f0f253",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image36",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0eec77eda0511c992c465bebb2aee8b66356ad7738e72541e5f3f790b5498691",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image37",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "dbc655b0a24a34479bd0ab80174207326f888a81f8206a72b55d9e060750569f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image38",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "837e9148661f4165f951c4a541f2fb5623c7177ff1622e3f31985c32b600b751",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image39",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "c4c9d86dd7096c87dbee5448db8b3f7f85ab5762f3dba637a4e2bd8dcac5d047",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image40",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "59646a3e72d856dab5ac35255c512a55a14b124675345219706cd2d1605f65d0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image41",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "82a1f55def9dd8bf44746746ead5e4ced7565c57c953153144cfe801d71287cc",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image42",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "acb9e0808a9379e73f826250886d36542386f25bd03648a119028bb00b6d0e93",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image43",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9f79cb0afdd523fca78f7db09a4644b8c2344e93db32d5fef40a8409f1a4edc9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image44",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "977b68966e45cde6d0635c798483a243689bfd0b7eddd5b98eb1aa20b682906e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image45",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "06e8573cd449ac3e9a6828f518d2540213454a6a376aca69a89438aa1a4091e7",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image46",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "36f89772827086ea99530d6b5eeb3ccfa64570cd08885ba6ac1e692938ca6319",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image47",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6343166ec9ecda6a50d047d0b99f8cb788e23ea2948af8edaaa4d94510ea74ad",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image48",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8024517d7989947ecf2f8324bf6f5529f1b7ceeada7aec994a086b7e34b4f90b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image49",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b0577f4ac44e3650d34d6176b79a76b6ab86c83479d73bd6a9d8ad5afeb0698e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image50",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "75f2069d1125a5af9a2f09203d9ea3960e1c9e8adc6cc244c3626cc7a6b6bd4f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image51",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "86be83975df4617f153ecbc7475c3b2e30340ffbab3ebf5dcce6a03bcdcc5700",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image52",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "15fbf7b01ce9b9e152da2420872679423ef3b2d43ea883f68c05f3dd412dfb36",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image53",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b66fdfbb33ab2b7adf5d4fbecf3c2f25430e2ed278abf095b50fc1d5824eb6d9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image54",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "706da0457c7ed8cb46581d1cb763f73e98f0b82cdfab770b62b457b1c790b8cd",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image55",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "476853077c7749c44cdede372136206973e885788aa69639b70c959a19a70e15",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image56",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "74f5c351a2ac74be08a842bc2b830e29f89cab41b89ee1bcb0d8a839b9382348",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image57",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "77456368681ef1c3f7b577600b6935c099acb18797abe214dc7b58d8aefb8796",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image58",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "029e46b4b73a800ffe49f497f9445ec51b3f5509643e5fd462a92872906802b4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image59",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b983c9e0d5870e5eba1da352f2fef4d0faca247cd3d372fe6c3b8a171afb14df",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image60",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7f715b32e2ed4a34906a0a326e58b55837e8498476baef8527892baff5fdc922",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image61",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f8d50fc16c0d5c160322c0f781598b6816b335adf71c6d70df5b849aaa68d9e5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image62",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "070090cfb59a5909acc8a29f5bfd0e9664603afd8d6b626a7e472072fedf8132",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image63",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b7a04179021e2e76e20457137122c98576581ed64b78be5503aaba9a23159efd",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image64",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "c02d7a98f9ab2b772578eec671f6c7a07f05fb6b58a278100ef7a0897cbfd102",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image65",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "b5857908847860664993e2625702b4a1c085b1e9b0056399a63a7d9bcbd5665d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image66",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "7ad1ab5e6d9898bf9d26ab65e4c7cf50473ae740857eb6f56c0114933b4c4e99",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image67",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "3aebdcad18779a7a089248e396e36ec65758c66ce891cb0b238a4a7faf3ff3b1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image68",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "c19a55ed86b51cc52914c34521ec3fd20a73e127ef391de4db771b68deee04b6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image69",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9480bddfc6bf4cc7bf6efc26bf91f8b2feecd866e60ecd4b81690b05c72ab5fe",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image70",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7d074bce3dfb34ac70b8e5984e1d48b22d674727ed49297984063bfd0f698c05",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image71",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0a23aa1be7532d8f649f5eaf64193695fc9c58cdc1ae0c78ce48444cb95badc4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image72",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "79fdf55d0c294c9c724a83345bae1a7b54524d46d2ff51678195b41464f85773",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image73",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "fdb1f784ecb9dfe6b584db61cf5e9ebf0f30a99b2a64eab77e1107a168b6ed8b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image74",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e68265bb02d868fb3b351299f28758e9506cda00c05074c1d5c3421dc389b312",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image75",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b1093a33c41db5601cec904c42d094fb17646b0312eb640282892a2d53fa5a5e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image76",
+      "category": "rotation",
+      "contains_raster": false,
+      "original_sha256": "545cd4ddff7a024a100c9fc74668320354554cff2a6e1c9d6c8dc9d3035fb605",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image77",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d15e4f3887cc42d428e1edec90e1a46fd22c75f8900b35d2a5e1868579b73098",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image78",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4bdd39792fb25bf8db41e3cccb343a19c601877d4981e6179a4db971dec01b87",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image79",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "10a2d690a61d54211e7bf6894546d6d16e9dc23fb1d2afc3e64d49decec38d86",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image80",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e82d72ef629d2c8a70fab9ea2700b5e0148c2624d06c74d21be4c64604f79960",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image81",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "91ebdb25d61ea5715a865c0b539183de868991bfe0dec3100e3c2975db6f1f33",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image82",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "c5dc5dcb99c664aba1df952994c1b4b5154b3df877caa6f14c48d2b1ffff2d4f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image83",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ff3e7701b5ea20e38373606ed1e9196ac14999959aefbfad04c85df95a521983",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image84",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "95f5342b727980ed29bc81b4f5dcd32bacd61884fcb4d9a4bce0708f6f70a713",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image85",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "23c2ac4e74bf8731aec8bbd6661f3187477c7c18f3e0cb16ea77a39c958a4977",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image86",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7128749b1eb4a0437d55b0f8e200e27529ca38c68452c4d35b4330ff17fbe1eb",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image87",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b52b08f0b8e6b9b4208edde99aa0b0a6e7d2dc7e1da1454a8f6fccf9921dfb48",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image88",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "43cdb423100390103df5a90102afa5730c120c3c4b24e766c87fe522d0d5dd0a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image89",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "50f8b6283565c12f82c4b1576f02392f5096da10b05bb7793f191922715e95fe",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image90",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "cd0b1e29795ab13e4278a28849970982ec2c26e8a8e61e9f5d3cb8b184860e75",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image91",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2364b17a7711f033ee61ac93517a8f5a02cbe30c44d968efd32d3d0175414374",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image92",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "037b15bf028743842d73de3604f69d2bc7d1b1d0b0090cf7da57cbaede267ba0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image93",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "38a1f9ca6c3fd0017c1be3689bd9c380c7ab410728033599414a51715b165b08",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image94",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "acce9eff904d581b2333f7324147c8f0f1f3d845815ef2f3e3e6b731b7f6e31e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image95",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "46329db9ab242f260e8f47009cfd4e599e6476eb704d546b40c3ab315452b20f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image96",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9b8d90df1f1f69e53759493858846a1f808e30bb84eaac0a9c3c085d15f5b628",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image97",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8e5c9143ecfd3583981f97dca5343f00c48339fb7f54544718dcef4cdd0d2d3d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image98",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a4c7aa3f24622b10df0ee94871dd698fc50cb4f8ae42cc7db41d438f4093d431",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image99",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "330d2faa3404b23657013923b04e83c08d81eac9bdc8bdd888d4e2c8ba9914d8",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image100",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6b0afad1df4f239651d8532c50576b36eafb1f016cf3a00c1af2f7044c85b15e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image101",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d792f5af365ac28200b3cf1f9680b7faebd5c6fe1c9980e86884ee06b90ccbe5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image102",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b117a7b6e6cca7fca02122cd185d2c8c6ca7987c826543045d104af56a3b7ab1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image103",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3c9deb3659afef723875c1f80d9bc653d2b5bdd412f44f0aeddc770d4da3378a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image104",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8db339528a28f3b55d7f9a3bc6fb489dfe2581c6aa7420d3f64293ae268d6743",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image105",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "aeca80ddd1d338561254014e420bbba11da8f4be77a4b6f87c77c19d074a3c3c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image106",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "32967ae37b714c6bed1eb59d3363cf3a050942cb94af73009bdc92db686cd871",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image107",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a7dd019eecd492b6cc4945ed9bc37a044071565ef58f7aa426d183be9d6d5602",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image108",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0dc8df8226baa9c753fd4369c2197ccad772aede1d54b6f1faeb6ac867930188",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image109",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0c55dfc28f57e6a5228d2f8bbbda28b7e8e13d9d56237ad19bf8b48352738d16",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image110",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "f8355a3afeeb69a93f85967237f1ff8b3c7e47d4add4a4a0d586205988668478",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image111",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "2546e502311c7894e3de3c7087a3ad11e211b11188804a2af546073e5a0aa714",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image112",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5149e27ce66cb0d9ccf99c9b888b134980f85e8273b8e631185d8b75d79b02f5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image113",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7f9c0e77cc7459cdb4db8cc8ab385758aa18e0cd562add5d16bed7c4bed8e05a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image114",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "770ba0cc342f1115fef2c57fe04bb336688e26d487e0b1cc6c267980216ea53c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image115",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3a575d34c79ddeb3cea4c8e6576d2cf20c0b7a27f607231dd15b086116af1e86",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image116",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f5fa75d2bcf851116a1360eb25aa4f786ec87f09ab760424acb6628161126c61",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image117",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2946cebb01b823d84fbd50449f63fdb2229aff16d84b7c116357be0788858652",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image118",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "157dedc8fdbc743f9ef22bd031bbb136781c7edcd43a4d1449e9610d38f94459",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image119",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d4a46ffef56a2fc88383495f956ce8ab8b2ddce840683c6e81e9e8a08aeb133b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image120",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7f89d4828ce07086839409f1b3d46d2b67dda16cd3706e166a9a702ad7204079",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image121",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4a06fa3728e661c61f444bc654211cdc220ea87ffae2d0a9cefb25ac3332d3c6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image122",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0693196cd3553aad62ca9adb9c67f3ddcf4d174934618bac350ff0f6daa598bb",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image123",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "446c5966b1060af83145d15703b39f4cbf842b7c876c7eb103609d56385596c0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image124",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "26d624766df088270b10f419a940defb4e55ca4b441d6ddd6810d47d2b623b4f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image125",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2e97e17d289a39c2a67fcf1dd04585a8251585119bc38ac5787931358c952a85",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image126",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2865f112700cee1704489204b5ca8cd51159ab1e476d76346d83b253d08ef6f5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image127",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "27e0948ade830edbb47455cc3a45337424be8ff23e7f69dee2eb01056275d4c4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete.",
+        "Some formula labels render with legacy Symbol-font substitutions; original artwork is retained."
+      ]
+    },
+    {
+      "id": "image128",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "be23cbaa17ec061a4582cee6715cc8c0f0155f8ddcba94de337cf0f845365d55",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image129",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1c6038978d41afa05ffbce611470b4e38cd3875700c362bbab436059fdeef602",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image130",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4773a9dd20297d8bf97a550cb78a5c2efdaca781e208876910a768a883b26095",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image131",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "050dfe7d156ecd59f3d4e8048072bca605d4c9845509bea3de91c29c4598e18b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image132",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "c5e5985ab321298c7e63fff75f7aee192c1ce37c2e0083938616d5775aed074e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image133",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "161b36e2c8276fae87e1e7247d350fe0f55faf58dd2e2c56f2216757f2caafae",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image134",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f4a668e98a5565832925cceef4a26e7b6d7f2f41d1cc9421c29a147f3a60e099",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image135",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ca0612df0c343e9c92a2853008bc13082c82bfe4def9c924934e4b5a90133116",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image136",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6e98411b3da04618fdc274424f43060b5e56089acfb1ff6ecdb6e1c70bff99ed",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image137",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "859b64a50086adcb46da1fcd037cd552120d5c72324c2c2a50b9dfce98dac299",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image138",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1c2f8b61c65dff21dfd7eddcbf61719ef885ed04b722cbc41486883d1c657a1d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image139",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a914bd630a86364b2118092a25ccff7fd7b1145c882e63117251a058d894dae0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image140",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0a4e0e44c74eb0682465e85f29ca328db961fce09fec3154aca97a70461db890",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image141",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6adc68e40b75c439b5316f9e80185bc07577bb9ffe1b3b4a1928e60c87277ff0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image142",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "c48bba10f4e9f5b09a44452ccb735503872152a125a815a30c8460fbbbb511aa",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image143",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a89f6192d23d713a3070a212c962bf3f360dc3d0a59a379e8403408021be4808",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image144",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "421a285e2c6cfe9006f51aa0278f910845b1ec799be80d4b1393aa90d31e6d4a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image145",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5900149122e7608ce6046729c6510452860ae250b383cf13f92050b6bd5e09b6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image146",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "c587d489af51ba74a3b5157aedfebab8c3db0649b863f65307ebd8b515c2bf64",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image147",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a3b23ef83a6d2c071a6ad7a76cab3c4c07b4cf48d33e7a463d5534f5aaa18eeb",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image148",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3fd9954696ee752cf27acb5a72f033b269176e944926f54d8257a3493eafc9a2",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image149",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "749a846a3f3691af4ca50ca166d1f7f52af8120dfb28714befd97817b2b9e4a5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image150",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "4727961df77666f1af4abfaf6890af82a41029db947098e17d687f668ed7f650",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image151",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "1334e6aad966903496b5e04812f098c0b3647b1123855b5772bdbf929bb85db4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image152",
+      "category": "screenshot",
+      "contains_raster": true,
+      "original_sha256": "19ebcc2448d675e49ec9b4d7652b959a6305bd999f5d962ec13809a2c378831e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image153",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "61fa4e79eca5508f921300c887da30069d40e3341b37731d0e4c19eacde22224",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image154",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "c5272fa1713c1bf313273e220ce68be4db81251959f78a5dcc023e73dd08e3da",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image155",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a1fdd1771a3044e27921ddc83856091951b1cc2572d4c85549bd2d5603399d8a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image156",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6bf34bf38b4d6ded29a523f897336cf46f07e5afb82a055852d8904bf0b57247",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image157",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "984d947ab44922b1db853f55324d52d31bc070aee358fe5660b9fe125719c735",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image158",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "783edfc01a98e8d3e856efee347d931197790e46e6aea2f1e6b5abb56234b082",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image159",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4d964b4597202cccef8518373d776c5d063147a83c5ed75c6cd7889b239e3798",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image160",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "70b39ccb94703fce5ff2f35e419bd8d81af5a42fd7097196ba069e3e794a5fb0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image161",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "efb6fa79c56375b9355ece26e5ac37aa567d1ba9a6e1560adef578dd9a1ae7b5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image162",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "fa4e5e9a3690e2da429ee6dc033d5f5120c1581b26638d52e1517df12d360a7d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image163",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "34830f9ec96fb0d277f49af817935fd02f6b8349d2450715060a1072690e34f9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image164",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a04497928819a742a52e4537d6cd0db069bb4a1996b955123f7f50ed4f3c7245",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image165",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4e669b1ee411954f589f1c7753fd293887bddc49d9bc549649c6a4d2e2377b50",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image166",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8730b89861dbc90d2b3e8b93a61e0104373d93764e162d552016569051b6226b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image167",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0a61344864b29887e4278de7cb1fd40159276ec463174021635bfb062e7915a3",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image168",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ffc932c2c6fcdb665585afcdbb4584d06c58e18f263a51c595091fc80ec57ff4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image169",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0d30f70e2f7b35151efcad5b775574b79b277b6029afc3d52032c55185cb939b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image170",
+      "category": "screenshot",
+      "contains_raster": true,
+      "original_sha256": "8e8ce614ec1fa93eb8ab6b639a2dc7a3f65aa345c98233ea170f944a13a1a830",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image171",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6ffaf8250b3c2f51c3f576285b1177b780794636e1484b72db6d1164c6babe87",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image172",
+      "category": "screenshot",
+      "contains_raster": true,
+      "original_sha256": "5a7de9d5317355d787c888c9c29a2567da4b85599a8efd0abe6970025ebbc45e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image173",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "bc7962c4a0566ef6f5daf59557d564b72f1c0f1e3a6c02ba8251a169a45bf5e0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image174",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "c0c25bf2a92fddbc8d7cbd9cb7b577f6eb3d87ee05607595dc5a5caa1eb9c203",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image175",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6e3d598035bbf07d7b4f230c50dafc0a282684b276cee983970996ad581924fb",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image176",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "015686101034114114a0efe4cc6a89b4c4f8918de538415bef2dd62bcdefb1a1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image177",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "43f226f16eccbceb255d95b38bbf507533357b04cd7db4eb34029702c50759d3",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "One embedded formula is extremely small in the legacy drawing preview. Its native equation is exposed separately for review."
+      ]
+    },
+    {
+      "id": "image178",
+      "category": "screenshot",
+      "contains_raster": true,
+      "original_sha256": "dcc8a506f4775895b037cfe2935134b3f07dadf846711524993de7aba6382671",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image179",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e10ad985908ec8703edd9c41e885f73a2439bc9cd8efe30e88ab049e41f4df73",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image180",
+      "category": "screenshot",
+      "contains_raster": true,
+      "original_sha256": "278a8183bcc05f68c519763cf1519dab39b3d4c069e2ecfa2ab6396b88a174cd",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image181",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e4f1ee7e27fa020b25fad87fdc42fd7cd2354321b4941acd8992b25b6865a189",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image182",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9a5ae6a14c522b1c837e5e417651c717ce36503ced374c83ab01acaeb238bf32",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image183",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "cb74999e67ab61bffb3b64a265dde0993a4e0950c0232b6d3548598b95273923",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image184",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "cd59776c2bd6266e8c503f65e4f4632bd07c853cd49cc5ed3db9d8d7ffb6e646",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image185",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e12a209446ed8cee60d1cb30348f3ecc9283efaed75d22e13c6d6bed89558497",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image186",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "46986b4748472ac6ac8b545046bc1b9ff2a895d086a90758556663e8fe304838",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image187",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "fb203518a2fda10e25aaa851a105bcfacb65389985a8f43d5d5e2b8745eb6c41",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image188",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e1143d17e839eebe6faac1c4e4cf79a2a030a800cd6e38e8ba780d25b9885404",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image189",
+      "category": "screenshot",
+      "contains_raster": true,
+      "original_sha256": "2c59ed4a5a3b65083d04ccbc52448c9ca686de70c3b1ee0c753eb238149ef185",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image190",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ccec2990bec79da88c4e75c4ead5444541d8aa48bbc8365d35f4273ac3abd517",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image191",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "82c6aeda08eef7f2701f16e69d32436522a2c5b89d4f2cc0ef499ddd6f63f335",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image192",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "fe931c56cccb4124e1314fe8433e04a159c21021239693af4ceef09b72154f79",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image193",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d0c6cc8c514e6222b3b537a77967e0bd224606ae69eea0347421b2302815e647",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image194",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "529d58a1ee121134e5b4b80f3a765aed6e64759fd0ed3c740579726372bffafe",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image195",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7364c969a429bf4f7f5dd543b59f521b6f28009fc68a2d2d72961317bafc9b0f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image196",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "791af5ad1b2ffa281384ee45225c4dc6bcfd1e1b00711d8a35ed633c02266e7f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image197",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "11faca1ac29bffa61393351247fcf711b19098f763628fce1b7477c52ebb1dbc",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image198",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "96b06ea1b4d6213eb6d3c0ad20133a15cdc5f8be3ad04c6ba456c1449a515718",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image199",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1dae806e4983bcfadf474b6980d9aa113509c9547acc381698ac179989c7d22d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image200",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3675bdcffea8b42d7058960026137c22b9492033438b4b6d848c3b466176352d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image201",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3723cfd6199f96f9604435a816f3302483ec97bf32966278f5e81e52cd6ca68f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image202",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "617e5626bd4265d59e8929111cd1b4fd36ecb98090c703a9180d3bfb9b78de7d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image203",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "fb96695e90e1be068b79f0434d91f65eddd7b8038ed4b80433cee45e83969abc",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image204",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "071cf794469b1bb1ed404fa348aed73a1799d2a54bbd055b8c8e2d1d044db541",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image205",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4c053df19ce4fbc096dc34d63cb42fe7844bd0c124dc5515ea83426fadd58ab0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image206",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "aa1e0542660d713cdead57d405fd7b4623c69c4fdae3d3a2ae61941dafe8f50b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image207",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "55f829f927cab49f1eafdb1c4c8cd662bb449ea20b9cc67170da2e8ef50ff8dc",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image208",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "0a8a00bc1af8c2517b09f6f68a40a8be430e05b03540310aca924814d2380281",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image209",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "858d6a3673159b3e777a2e97a92a1844e7ba58b617246a9c95157699bf9649e1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image210",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "78c68947223dd44b26fd7999853486a3baee8e545c24543dc83589d485e108f4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image211",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a26886f9e5245a458d73886a0593595eb2b34d9ef258bfc9168031a455de3922",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image212",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f7b828de5bf0ca7e2a61536e59d87ae7a1c48637173f62277145bc809aa79d70",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image213",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0733b95055c4b3cbf028819e49a435335871936747ccf195a13541cc953801ff",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image214",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7be2f22fadaa73b75e1ff9a951442b1a2a1aa13ddfa5f605d737b77a06c0d746",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image215",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4c6006a841346fea2e4908bc69d3233ac378f5e8506def035ece9021d0013d4f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image216",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5f37843013174b8f02bda1dc36d439fedaeceebcc67457a9afa6539b37f54994",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image217",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b98b44e87f964fe40eb5d32de79ac429e4c636072dfddb3b6ea2ac54db89706e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image218",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ae46f9d3b99bbff26c1b61bd6baf9d81cc778e180a9248b61368619f0aa0684c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image219",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d5fc37dcb82ecc6a818eaa17886c41ee4a17a48be610bff542f1472d97bd5de8",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image220",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d2204387dd462848183ce77e609f3b1e4d4cbf9843b4c362e238ac7111e214c1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image221",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "bef376d72994bfbe77d40c2c5a5e909064a0d95be765ea4aefd037370d4e4934",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image222",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0d1ab06eac9252ef2b63f67eaadd6a8955e0025f7715dc4697a3122ebc36d113",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image223",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a295d842d725a0fd7eb1e0bd47356f1e333a3a8e133ebae531dec4dd555c7fce",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image224",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "483dd0706c0dc4b0f450cbc20c3ab5fccf07e8d2c693ed01ea446257b94cd1c8",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image225",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "20ecad0928aa4f75b8bc06944150b504fed99ca1e64bc494d5832a49cdc3bc65",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image226",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2bbb843c453f50b2a882d2d93e07aff7db29ce94f47bfc2e5aae52bf41edae68",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image227",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ccff4030dfae03da858ba53b1b4a3dcbbe840839600884660d770b24afa2a843",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image228",
+      "category": "screenshot",
+      "contains_raster": true,
+      "original_sha256": "a49b3118f225e7a769d89d979b241623e19e4ad6e5e03c3bf5b78925ac3026e7",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image229",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "55d0af61aaedad9d451708dc69fd7a4dcd79afb9819e655fd2fb172b225083cf",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image230",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3e597d2ea40e7c7bafd03c098fc6276c5d8182f2524f94e2231d47bcf1a723cd",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image231",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "25e9448b82b001199bd1ae6150a9ceea3702690d37292c801000df1a3f122a14",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image232",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5ed273d4fe41e618bf99f7d97c959ef16d4e16da0552f94d1ddbc7c60c0ef1df",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image233",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "99bb7289fdef85e161881300c210b505af66d5f6cac502bbcbcc7c40d1fd36da",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image234",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "2077dc0ad633f5547828255eff2a58d069051e391f24750d92af07b6221b66e4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image235",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "37f4ad09269f6e36f4870750d772d108d5ca808efff856d53feb2007d13fe228",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image236",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a5d8aa003e7d4c5ae84d4208bf2609ed448dce8a173ad3123d7a4edbddd345a6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image237",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "bcc96a5e1c81e8893cf6e0008228387b9b5542e664bd6be2581e09f5da65efce",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image238",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3f23c38a07fda2e3a11d0f1ab31c7a9fa1421d5218c8004bc2fd5f60a6955412",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image239",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a2669a1342aa288daae2336b40b5676fef14d24bd096c9ef2af5e6ccab41ee40",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image240",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "86d64a2338cb4ab0b9199bf9a2d8e6780f3dac9ec33e9d43a8e47c2e08f1d819",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image241",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d6797a9671ab90305a96fe7c5366f8e3cf54e5505ef3d051212c5747c4135ba7",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image242",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0f33638b10ad14e8b0e9a3d9d86bb2a51576fdee5186f7ab2adec2fdf58149e6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image243",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a927b0f9ceb45d9791f4c54d8237bb917892abbe57ed0020cf1d26d1032ee376",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image244",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "881045dc8663a61bdfdc0c299b87659cf0db2cdb3cfb2eff3c19fcf466ad609a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image245",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "cbd4a58edd246235a5e959217dca0f56edfb904cdc22e522abb2eee0f749f9c5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image246",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0f29f416dfa11a82a3e9efb9780bbff92befb874842249798e468aac5740dc45",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image247",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a7ba2b35755c95730e8c1dc36a28e584488b31067a68a816a96377e8e4acf807",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image248",
+      "category": "screenshot",
+      "contains_raster": true,
+      "original_sha256": "2ad2ef1ce3d972d170e421dd64fd9f712ab9b857b4aeeb9bc0a487d6aa78f4de",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image249",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0e5e782659375088d3740cd27615619c0f55587b69e8b0a8890f74a9f882ff5a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image250",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "05bcea6ef0c89126e3847706ec1da015febd4c8486272f994318ff36a96eb2c0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image251",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "954657e3d2fcf72710612d0d35a299b343c43792f332d1177d1bf7d0fd50b792",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image252",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "aaa0911ce99151d3e6efdb84e4f6ff9f3fb256671190e10a34653c7f6374df5c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image253",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4e7822a9655a56a94219998102fe6ba5dcea8f61a7684d9e8162ffc4de42b030",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image254",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5f6d3efc4a5d78049e651dfc5c6a35a1582b2e2eee33e8b005b88128dc82d5ff",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image255",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ba55376b3df88ced71c6139d586fc745e4d0ec979aad8421cdb868eba6fd7f28",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image256",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "22c0e8a58f0570dba31555e8766e0afb46a0def788a58efb56b40a9162a4affa",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image257",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e0a80edcbbb5741b41cc541584577a2dbf884df4bc882882460d16f50cf42e2b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image258",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a52e89ec1f01860b88f2f18120404d5450e80b57f1b4818304ff3a581d636c0f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image259",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4220ebc6f37524da1670fa640e347ddfc2807cec07a9d231b1a9e31303b6f244",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image260",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "caf1207bfc45c55405cf43631e4b8d62c35a349d79128c2922f6f4ffe0e1e748",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image261",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "11f3b5e907495f4f116c857fac952b1db78c85ec6edb1b7564dc86097517c5c9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image262",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "60d1f36701269b05a8ea7bbcdf062995a7110c583462e889915bcbc04ca4af59",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image263",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "43e5dcab84311bc2d66f8ab9aa1b5db0c373cc0f75bb6840cca68294a58c2e0a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image264",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9e1e85647353ff8ad457e02e5f55ab9f0b5a4ad11e79a828fd82ef80a123ed98",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image265",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "836f77ae355d30c684e713ea5778e2d280b83dc88bffba36027cadab5f2f0dba",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image266",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5259b24e29e19788378e16bce708dff03cba55f5b75b77b23547fe8e32635905",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image267",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6bcf963c5382580184e38f1a5208929fff8f10c0639cb158eea21e95dc9ef021",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image268",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6204e137ca6f43eb1cfacd551268843d9298ea070979f48f12f15e91e4c71da7",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image269",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f5b549c33eca6982191c057ecf3e3de78f9ad6432ed1a89f9f4425f97f489dee",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image270",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2b184741b3e74585f16edecc89993c74564c602be486692d2fcbc1ad3f4bb648",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image271",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a4852ead6802a1d0abbde84bde64a83c193bb647cf06e4fe5ab4af623b1cdbd2",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image272",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e1b2359021c994dc0e2e53588c9c484b3fcecc2aedd774e680dd81b70abf22e2",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image273",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3ad9d64f458bdab936c152518dd36c1b0b4d3dd78e2e65f119962c7fc4eaa415",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image274",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b62f9a626a25051ede23f86c144e07a3dd820763b716134ff0d70af7d3870dd7",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image275",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1947314383af92bc7af3e7b1f8b9026b1310f91928b813d6ded0332e10c71bee",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image276",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5a99b3b055c57f7d268f1a0c326acd3cd796d7292289141286010efc50d6441b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image277",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d26c7bcbff79dec2cca97ca2118d4a73ee9cf64b099226b480a1bcc1a2c3fa5d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image278",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e2b738b1c188f4d4d25eed7dc9fca2dc5b64aa1363f0395238d5779a2a3e0455",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image279",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4d894703dd8e39ad9cbca04929562948b674dabfdc88356459c70d3754b5f107",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image280",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e3fa82628da469507475050343a90f21514e7a372e6a136e7f82ba104c399c40",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image281",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "70a6f41e1d48682783e04b759419855794b483209f441bfec2051764b49b2cbb",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image282",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "459538d1ecbe8d74460a50430cdb895c6411a86465e4e8e65369c0ac56fd9e7f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image283",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7ce307c1cdec73f78306a8b95b742482783751da554b6a19d12dd7659aa11ed5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image284",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6d34899b16b6cd9db0998a1b43e180b137216059da9c3964ba39b10ef0809477",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image285",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7b3fa57e5c238d720e39ab87c860cdf0c812837da94cdc0fa455caa11183b2ee",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image286",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "fe8967b491bc611dc79cf431acfd86e22ce28c960ff6ab3ec2525792c0c6c942",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image287",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "2829584bad85eac92172b6775d902107d98ec563733c5b674f9a470f07916f96",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image288",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "59a80e947b50b9461ead2574fb1a0e2e42b231ebb8d50b17e2f2f1d3dc352e96",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image289",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1421b4f3a382f5929763fe99302779f7ae2277fd0eb13e55e9662af1edfb6716",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image290",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "da9f0372f381196ea809f08c79dcf7f34229373ac3bcbe384ea4ada930ff56e0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image291",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7044707cd37e8434303e83093c7d32647c8a52e936d1871267ef1f05d34bcd8b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image292",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1b422b9739be07c068cb939a39c4fbc0464bee82f19aa9b8fb9733ba9d3f3d04",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image293",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9fd4ad01ec137929ece5dc965917e400e0e8752d8232f5d19fc90a9c09acd399",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image294",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4ccf0368a0432a074039ff99261de8380e8a19d1f577b4079b1cae3ad7a68a3e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image295",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3879f6b716995083334470464e84e50b04e94ca46b21af5d2c0c01a72986ed16",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image296",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e3d2ae80038e6b261f369ee031e41045fdff25753938c020c1208b2ee8be260a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image297",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ec43cd871168764882cacfb92e6c14335ed949816f5784e3f2044df94e614320",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image298",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a05ae009edb69f2bc4788f5c02803c188f6831cfd60cee1121fda62a1796abd5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image299",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d3ede62d8f2ee421ff39f4549f89ad143721d737bdf013d891f3a6ddbd5ac2b9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image300",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f7d2b8b3cab4a8077703a2ec487299bcace948ec9878e8837bdcc1ca6462cd08",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image301",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d1bc37cd16fc6cf1700636c00cdf44db94ec218f05c7b17a663f91d2cbe94bce",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image302",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4b186a90625b0429e2e8c4086966c07f33b689497effc5c052319d0cdebbba82",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image303",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d99abf859c372f18ceb97a9df073e6c9dc52a4e088af5b5b66b428d403988a75",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image304",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ed208abcce7069414f0d4c72682a363322ad5c23166606e5ef0eb9329bf40708",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image305",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0d39d74f14be0ef9077c65366add53181f33390665fedcb3c709d2ef89586e29",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image306",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "c7b994b77f7547bf3dd31f39289539bb0a1a9df0cb2b32cd7ffe8bbd3ffa1721",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image307",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9767cbaa127c29401f66c040b62104185b07c86dc1f47ea17f8e0e7ecf466ff3",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image308",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f6d56f6b63f87bb8af8e39bd24c6229a21897d49aa11cc7b1b3af8cdef0ca951",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image309",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "db95cc1d17f07b98600eed6a6a106ba28251bfc979c91a627d50128460214660",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image310",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6c23f301a5aa877357dd3ae13ac0099b0c696ab4367b065e603e076544c5e8b9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image311",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d2a7f39d4fa9c6f71e162e8b200c87ba7ea393d6d2b7d89c1e61be42f12910f3",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image312",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d8a958feaef941bfc73cef300abb1bc0db7a0ea6cbd49c2d9a1cfef2e6513228",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image313",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "63e0f21effd8ccb2f9102b90db0681707455cb1a0f2a91b9c5271aafedb1bc05",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image314",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "33c898d8f4d2516ab6dbd57b0a2f3b6db7b4458a7273c40fb57ac8fecaa231df",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image315",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "68726dcd1e15e09a50d150e5d05c802a1b10d015871b9f9732b8be3a6e07a2f2",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image316",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "04371fc85946fbff77932b178a1bacb2a6c4c4a2fa9f79b367ed8f6facc28c16",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image317",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "91a7d719870ea4c914d634f9844f0ced00ccadafa724ab5b7c1963e69ef20b73",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image318",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5f87317500aec1413e4ad5b55d03459b0399edee29fedcb2b091fa46d8fa6c08",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image319",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4f328bd658154bf872d0561ac068048d3b2d5b492444a8c4182772dda0e8f952",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image320",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "beef09ad501ba39979f9d7342ffb3748b6489cb32d8170f2c3b61c0bf09503f4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image321",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "59e4e386412560f749d6f6fc4923f24838778f7763d7347e4510eb6c2f737300",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image322",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f67a640fcba1c14c5edee6152edbbe9d139b07ffe9b010386751363ff1b0742c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image323",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2720cdde8ad13ce88479654e777a024da5372881a79df1b95966b551bfe31e97",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image324",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "31e289e1c4d63223c05eaa065064340e29bc56795dd61216085051d9da429c75",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image325",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4f095c1d4b57bae70ce2ee1c207de45fbe442309bd92b2e809e510a009662b1b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image326",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "82cbb058d8aecdbd9a0d5a7f03f8bcdcf3d6020fc2d8075ed6faafd18e5db9be",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image327",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1fd9ecc001e2bc26193c556f11c14c12f0f5276ae98eb7558bd197ff5787317a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image328",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b18f392b80c12a71b7ef6a9e2c8b6bc8ceae37fdf3330a4cf1a03e8defddd99c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image329",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1ec676357ef0c684c3efe1687042fec758b69f16d679dd2f850c92cf021fedc0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image330",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "7337eff190b348e1676d181e5497ebdb56573edb3f118e63311956765ccd91f0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image331",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "28a7753db530aa60282a937d35ac6a1127996294cb99065f52326d7fbdfe09ef",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image332",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f1d2ad7d76ce98d773c72101cbbe7ca7a35a1f441a3feb1e9cb02803d86033df",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image333",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "78b7962eb0510956d906c6d4e89a3a13a6b6535076f9974e9f348c0ff89e2e74",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image334",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "394263044835c717f9f4bec155f04187b644e5f48a6f344bbba35043ee6c1530",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image335",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "62ec6951e0cb9f23aacd4568215b2e68e7ff08f0dbd9aef7c4c13953235465f0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image336",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7b8947d098aef2981242b190a055a46e6318c4dc5fcc5f02630d6e6752f47cb1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image337",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6090102ee94d51a7028c2c96088d60f17c1470c08227a94053871afa135b8d69",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image338",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2f15fa7a296647a21ba9d2c931dd06a1cdc499af3b80e8b88ecf91c0c2518854",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image339",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f614c2ef1141e3bb608573a71af088689f42c06b6e0c9efc1a803e26f6e80c5b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image340",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "cee8414211272ef6ddbd8112722d1ea0d571f32e5c7ab0dba03178dc4ae6ef54",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image341",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6673df00944648ad15ee338495b78e64cb8e8531d27abc6f7475f6eb1fa9e17a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image342",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3715176dfa84b8501fa456cf4676094640dc2441454c16015efaa222b1719fd0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image343",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5e6343676f8a0840127395f6d425f4b5c3adde3a92001bf2c3f9881657e9e0c5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image344",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b2fa3a98028d1201f99753c8eed1e12cbbf72cf479d7059a9d081431482788f1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image345",
+      "category": "annotated_matrix",
+      "contains_raster": false,
+      "original_sha256": "1c6e1757e2fec045bd320ae8c932026533c71424bd7e1a70a75c724ca0b881de",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image346",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a5f786530538a994fb87c9acaeb3e5768167b838e28f10622ccb46076660482e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image347",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "de718855a4f0f5e40eae1bbd0857857a1fd757cc95491994047cf525ea5b0816",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image348",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d7c2a8bc432e8dca18b02c51a6d6f1627409132708f5a852bd236d43428b8392",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image349",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "145af7303e13bf37ee34ca0a59076f402db8555149c775cf77ec28eae81c29a9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image350",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "c64b968a4f368f62fc82bf83d472022c71992a02441c83001a503ecc62bd72f6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image351",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a4c2f813e1ba221ca66434c90b11097b03a48d485985f89dd3651f5d66d9340a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image352",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "48a04f5ca489ab3109cdf5ee431fa6b7fad132146623c2e868dba0f24faa5fdb",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image353",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "999791a14b5b5e97848de7757c6a93e6bfe49ea7839ffea379241d3fd69e682f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image354",
+      "category": "screenshot",
+      "contains_raster": true,
+      "original_sha256": "3f03b755050f4a48685da581ea918725ff7fc5ca66c94c10d8c3b611ba384fcd",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image355",
+      "category": "screenshot",
+      "contains_raster": true,
+      "original_sha256": "c9671c1189fac32572913e0a3d65c4f568e3c59778ff0217b32da734cf26c429",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image356",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "345132af6b93e20d160fede312067680ecf6686a27b8c1f17175d82d96397b86",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image357",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "81bc02e75d6480822119e57bd5e560b1ba52cbb264c955d9526b38d7e35c4a31",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image358",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ab2943d9249a9091987259272245486b75c0bb4d80f0ce400f1004677e91fb69",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image359",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a0591b753018cc7be85af88070fa8245b39ad225e6fca87dea86324570bc2d83",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image360",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5add902330f6b6cfc3a441236094f48fdae2d68aff11532f9ec25e9db3213b0f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image361",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "21cd5d17340e8155352d672f06081943c871039077d7907dfc821e9d92c3697a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image362",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3ce1ba924c18eda140fe3f9060d8c9ea29c128cd381cb55b43b9a83ea38524a8",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image363",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "7b923480a86b53de3277e87c43ba0fae8445d567eee9cbf28cd78d8e53888f35",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image364",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "45407430b04d214413325d797c0d600c3fdd2a11607e3798667b09f16ef3c8a4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image365",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a0ab7c791d5f84d0479dff5b28954e6e1985ef7213d416ff0e1a12b4b46ec049",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image366",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "44b7cea5657ceaa54a31c79117a5b233f1e680e7439cd5808b530752380db5f7",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image367",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "02f9b1fd3f9cab80b985276ebcf8df73a51712d492db5dbba10e2b09658a9045",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image368",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a5d00fcbb0c7febfa62baf14ad8741f8f7004156005b703f7ddf191f74492a1d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image369",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "3e00b86bb7bba74d2154f04caee54bc661948646d891c5415a265f98ae7b2177",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image370",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8100cac16c6b046be4342db7180ee5b34abd3531e2ee7919f67dcac6092326df",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image371",
+      "category": "table",
+      "contains_raster": false,
+      "original_sha256": "107bd4724eef575f2c7b4f7d61aa4f0c5a1183181faa066606c797f66151de8c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image372",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "da7e0cb9945887faaad483bfeb2c5b3c3eee25ca5bfbce6e0d189ef39e6c0210",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image373",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "30b1066e1bd2f5caa37089bfabf0288ac5d921ab9ed5649ec732fb12e4f7e124",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image374",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ed5a8f3c27ac8d7e79ce0c5ac2ed43621a13352560b2f656a4acd70c507d7fed",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image375",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "740cf80074d0d90cc0109c1b5c4c34d548f9812c7adbd8bc3734ae2091586f83",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image376",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "cfdcb986d0efa79f1e70b82211f6bb112a7af43505554e8321b33227844665df",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image377",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3d6aa5446cae807b4234a04d75c5f4533d25d34c8dabcf7b7ca1c503a6d70c55",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image378",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "27b9a9e9b02b838abc7e0e267986630740eba796f61511ae072b0088404a858c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image379",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e3283f61a19e1af295ead1f33f7871ad647aad410a353709452bf12057f61241",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image380",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d9730eff1beee2e2f1a9773821434be410b9e04fcf6666575cc7f93cce55cbfb",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image381",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ff872d0db3f25ee69185001a0c896cb6259d066d477f999279e0b035deceedf0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image382",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2217bba336a3931d712458dde179bf9a6c101d56fed6cbc0de14f803e1e484ea",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image383",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ab8f9290cf5d7038839fa871f3088990a532a77d21629dd12bab489026de0cc6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image384",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2221b826c55b50a651fcfa08c2a3c0d7e765b9415d7f73e44caeac3bc3c2ec4b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image385",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8fb66fc257770b04f0a10af837d50b098a16716796d2c33872047fbb28112ffe",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image386",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9d9bd89b22920de14180a904af0110cd0148ef89526ed854b25b9cd31833e5d6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image387",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "485230c846f4797f89b7843b8bed61edcfa11c3547b235a510472755a21a06e4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image388",
+      "category": "table",
+      "contains_raster": false,
+      "original_sha256": "a98aebb1b3757c529be88da194376797e5f0e96108d32e47fd7226d503d5314e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image389",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7d967b8938dd3a5109631b6bd525474a88cb05ef94ea7ce0d35e5c4a469cc1f1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image390",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "87891842d0b307fbff0dbb5fc3ef9b0c8466954a1e746e1e16ffa6717a8988f5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image391",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b3e25e15f51b8e28567e1f0cc48b3fad07f0828bb4e379af80f1ad57913960a9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image392",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5ffa41bf4f3e5ea1be53222f887849e2a864b32121a89479656d42384cec60e3",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image393",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f300a896ee435a1fb30e23b701e9ba2b060fbec182f17594eb36bb628303be1b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image394",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b845f4d3dfcca6d3320ff6d6b9944bcc81274b9f08baf7ca2252deee8f7903be",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image395",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8735d03bd35a2114b34748550db44ba946ebfc4555aef04ea6e579990022f41c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image396",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ddbf3a83fc872c336c50bc49b3ca98de8a8e73352d383ab09ba3b7fd5a385ca5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image397",
+      "category": "table",
+      "contains_raster": false,
+      "original_sha256": "914ce21fba6989cc6325584be46cb253f6546ea1f487bd22ffbd3b2f5ab510d1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image398",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "1790c8d36128e610f0ec03e3f038593c2e4d3dd45fb2a6c66b23bf4cd2bfea53",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image399",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8bec8972ab4e45577f7aff37caf78d8acda5b10fcc8d2d433ec98bb35694d40a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image400",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1cf3efe8cd60d977bc4993420bb52d89e6383c4e6146ab17a7300f6fb216a8ad",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image401",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7037383b1352bfb6af2739d2c1b9dd3085d75acd9fabf9ce22064fbbdddabb6a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image402",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "b10a2456c52b4a2ae5c2fb8f7ac669730ea183444bd81603c3b497f672015ec2",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image403",
+      "category": "screenshot",
+      "contains_raster": true,
+      "original_sha256": "661df24a3a4fa1de16328077239b1328915469fcc5f78a8ed77297570e688baf",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image404",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "569d8099913400d008bf5320b4f998c3f152ba00ce27f28cb7d7a72b6bd9b9f4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image405",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3a5b9583d4e372d51d75a80b3a41c8a97af47530bfc656003eb8227bd6c8adcd",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image406",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ce4f2c60186375884a6d45567b0a9cdb341dd904036202534102375c64566823",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image407",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "762b28f844999be587d3b7867a2bcd4d15955c2af411a3ae658c269ce9a1f029",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image408",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "134a19991b17e98f0828580ae9fd621b9dca18a5cff32631aa2e4e9d18f48115",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image409",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "96c3755061986c535528adbf9c90bef7c63f5236e9d780e8004d8d20aa4a6c54",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image410",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4b6926acf812d569a469d2db4ba0e90a17cea0c0ed2065cfa3add61c26b57d77",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image411",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1e4b4bf5e129e852e5991817ec0dfb5454dddbcecf33606eec360756ae719c04",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image412",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2b109a6274ee6d939c2b5b51daadc04869f25efd0dc014eb8733b43d9d6bd5f4",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image413",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "39619f9a65eee109bc03b410959d355fc15d9a0fa680c9ea96044f29f80e0a4c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image414",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f11ecd6c652fbf0962a2b81876314acdefcf1191b7c5c60c08ba55431a13e20e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image415",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d33fabe44af8074fcce6cd602b58bf55f6959b7992145052aafcb3f70d8fd2e3",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image416",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "89a61194012c9e828340f7e9df2aa919e55703d3c75185e60623dd31b99edbfb",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image417",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6a8686807c99c8fe7b576599dfa1184d0619efd6e08daa1ce986f247f554821f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image418",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4460ed34a0216537ef1a685d8ee66803947e32af321b1ee6b4dc5303c39a5286",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image419",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "984a87a5baeb8924fb652ad53d68e4904c6367b7d7499e0f374b4d06b488931e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image420",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f0e11175513082013295635ba1d125b747ade559b0688bc692413269562a2335",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image421",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "35288d38e82ec7c5bfc90e38cc374f22d1e407132ead7b69a5dd468db33b753c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image422",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "6e703ceab1ea25d1c00e0a9b0c80b28c550d9bd9eea058d9a0fcde76e216c5d5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete."
+      ]
+    },
+    {
+      "id": "image423",
+      "category": "calculation_flow",
+      "contains_raster": false,
+      "original_sha256": "3eb818fd47fed1d6ee4afc7d5744f145d50f3256166da01b30a827ddea314acf",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image424",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "122483bdac4e679415a7194d694231886d64dd6ea58fa2da58a2e59d106f8c2e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image425",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1ad3f78b3d1efeb4e4510f8fe7317dc0816fbc4a3c0d9fa9c7888f1113dc1f2b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image426",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "fcb99fe3327beb14bab09a88e4e66b1c25d0937d9d78b16aa838287559da4c42",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image427",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8e364a752baa95a1db35adb94fc30c11cedc1698918501ce13815ef88513e93a",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image428",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e90796fc89bcf9b24ee4cf411f094f16d3ada157a47d813e0fc97e2648de1d66",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image429",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "093cdac1ae9f4c7f6ec97616151a7c625f33d154998c5071c451c3be3f0565d0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image430",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4b955e97d8197f57191abfb9098c1eec6825f5df4b9278e85bcfd7f1e1c4c57d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image431",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "fed8055fc5e8850bb965051045f658a3c8fb12cc0b59a5dc93d8d06f822aae8d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image432",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "77caaa33780e37e56ab81d8c640e27ca7ee84e9cb50ce3d3a58513fb498b58eb",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image433",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ca388fdcd452fff41f57238249ef844560be6b8e6002924ec1dad792ac3d97a2",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image434",
+      "category": "map",
+      "contains_raster": false,
+      "original_sha256": "c6b2aebbe594fff401d55e133bb6ca4dc55763181610e795cc7d7036031b523b",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image435",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "b332f45e85efe3bc89f372f6f0ceaec0be1ec36e33041ea11da690ae8560be97",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image436",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "93aa09ee2a7d668e459ad14e4fe4e1320d56c7f58ccf5cd2e2836241555fc60f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image437",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f6cb9f7b63f59e8ac9217614baac77d4e1947a0a9a1b3b1f0129a11611443362",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image438",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a7e2bf56ff62bc97de637914a8c83f875e928a7522bcc0eac27ea0f20cd43e07",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image439",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "1cee4e5a144e4f958c58da9683c3135ece6f238f8f9f24adda772e5bc13e7e1f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image440",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "b59875982963a1397565af25e3ee1ed8e46f335b204ae5dfbb1261888c4a8f4f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image441",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "14d2abfd6f6377f2d46bf49a2dae6ebb554fcbedd3c42c95c7b7b394d68009e9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image442",
+      "category": "coordinate_plot",
+      "contains_raster": true,
+      "original_sha256": "61d86a93c3f1d0ec8970591e5701e2960eb3c585003c7bf359098fdb4b6a2d81",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": [
+        "Contains original raster artwork; retained as an image. Vector conversion is incomplete.",
+        "Several ordinary letters render as Symbol glyphs in the legacy preview; original artwork is retained."
+      ]
+    },
+    {
+      "id": "image443",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "3c057aeb65db7dbc9a08431de3059dfb6e65949e77b748f1b3c53a4038891bea",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image444",
+      "category": "map",
+      "contains_raster": false,
+      "original_sha256": "c5ee380eaa3f21b09b189cc6c1aa96ed3d41c11bec49371573e16290487389bb",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image445",
+      "category": "map",
+      "contains_raster": false,
+      "original_sha256": "903bcf362c7dba27a655167ed5d8b361179c13785e73584bcc2d47bc483f2545",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image446",
+      "category": "map",
+      "contains_raster": false,
+      "original_sha256": "e9ca9c09f9c976e31ea7ec195f29053369ead9ee8774f38631dd2805a51a0ab7",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image447",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "f5f58a64955978534d95e840f57fdc78ef42409a84704cd423916fdc6dc9faed",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image448",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "4146e186e333fd032cd8aabf60f6b25c33dbaae24013b3efba6356db4da676e3",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image449",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "d2cc3c6727ed689dc88295446606e64684bcb305892eba7656f56b9bdd825500",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image450",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "87c6c34774bca0b3139f7069a7f8e8093e9f533d523cb72bdc04ec5ab2635867",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image451",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "bfdda8bc6b27539294d8db9f4188bc86fed7cd54cef774553fcc89515feb6acd",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image452",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "2053e7ee3ed76d16e703c29ca8c54f9fce82891038a9be9201e85fd74d11e5db",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image453",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "876d543d3e47cdb43707874dcbc559d7cbf55ae654513fee72b15c0b7de13195",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image454",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "3d4be05de19bae679829974f98a49999cc2dbc4a76e57ae75860949e45653455",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image455",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "de3e4169402f183c2e0dc05d7990fce836c1a31bceb62e6d9eceed8092f83002",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image456",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "18427d0fa7ad2313c47715903e4ae6eb9294945718323ed95dff9084e2eda3a7",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image457",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a2af7354b9495ce4b350bd5df19df7d893ffa363b5d9f094e753c3958da2d384",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image458",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "636d4ef306b09fdd155b807a5d3941a61a2af76dccf9502d60a03c684268a3bc",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image459",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e8f2e56e8be08ba29bb0d47b5082b2da98b6cb5df21be1e8d616575865cdfcee",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image460",
+      "category": "map",
+      "contains_raster": false,
+      "original_sha256": "79951f4aea6833642a515ff7b7e1c930d9f0bdd4fc136121c9d25fc5d6eb9baf",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image461",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "e122228eecaf0e768a722502680ce417188460750933bcedd848359c8b925ebe",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image462",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "de69ab253dc5c7a84c944b97c7290f50f2f537f82ca0052daab691c999c4c736",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image463",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "670f25305e041d81352cb2e15f5461e9b4e42e731abda6d978e50517968c4b5f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image464",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9f6e40de2e25f90c124b849ac6f222ede5141e53a493d10288fa8d705ce0644c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image465",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "bfc850a9deffc0cfc98e5a926e5feaa001a1e778eb6fc72e6c6884119d185e2d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image466",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7524001cf05b9c631d6c815218896a6edaf46c39f7cd64fb5941a570a747b69c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image467",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "ba6dadccf3bcbfeb371aa8a20cb7c4c8c1ff9c68ee895fe52eeb977d87223629",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image468",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "9f63fd19f40f6c4df7c17d647c7391e0a6980f4f9a22394efd28bcaace86481f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image469",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "f4d0740a037a357fa30d54c1c91d9e432e38c26184eeb1b3a9cec05dad3e10ec",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image470",
+      "category": "coordinate_plot",
+      "contains_raster": false,
+      "original_sha256": "355743ee7e07646a5387b6337473cc2966b0f374858409b068b97564921eb049",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image471",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5998cf5b0f921263c267d7304e6144f41b96a0e8738c64275fcec1658dfc6b66",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image472",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "cc55afb72d6550731dffb281d627f5c300971849daa0f8bdac2dbe382c6a6233",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image473",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8096e28a9bfb333a510186152c177e3c8b58feecb6568955d6253a8a85d54d5f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image474",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "7a99f876d31327b0f649ccf2a3bf0497134533b9fa7d8623055937e6cd2ea18d",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image475",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "bcf7fc7918d5fa87a745f517521813bdb951554fc902d072604c5220bbaeb71f",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image476",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "96fffab0e7c8ff5554545977e9121f1083e8da50308c7844df72cc553249a369",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image477",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "33ec874af683d3366c061e739d872679eece088ae42f82fc3b776e5a7029bfe1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image478",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0e9e2df8f33fb51f96708012a1fe3f4dd14318857f4bb08fc3c06741ae4fd7ee",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image479",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8e3058924b9b6aa9c2856d75101fb1724e18b722f40a8aa51613ae083c03e151",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image480",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "a8300f913c1e35ec77d00836beae5710b5e153bb2b4c4997c420f89dd7eb9c2e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image481",
+      "category": "annotated_matrix",
+      "contains_raster": false,
+      "original_sha256": "6be7b30f13a220c1bceef2ce5286ee7748a62e7808256306fa29b606f1bdddbf",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image482",
+      "category": "annotated_matrix",
+      "contains_raster": false,
+      "original_sha256": "6fed92a8ce19dd85180c48365942800e125953900f1e79ea07e05bcf8a8eecac",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image483",
+      "category": "annotated_matrix",
+      "contains_raster": false,
+      "original_sha256": "9f9c91a6bb02011297ed2bc2276012df129b9a2d65c1ab2f4b5bbaa0587e6601",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image484",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "fddc12ff682fb6bc57337dc757e6abc59831ab9be7431135838f1479e5ef2232",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image485",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5eb3ef6665b1d23685ba0860a065457d175308fbdeca5af1ad645faef11009d1",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image486",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "67cab87234d7c781156a0e19924751f3198185d6a34f6265ce984ef50bc8a9fa",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image487",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "37e67f598e598baae0a405ad970e0bfd59a11cf1e6330d79fe036c18bb3c532c",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image488",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "567c5677d644e864aa3d7e92788592642c8a2b29734bfecfc57094005a495e4e",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image489",
+      "category": "network",
+      "contains_raster": false,
+      "original_sha256": "de2ced2a5fb9d5104bae1192c83b6aef8d9cfc65075b099d80f6d8fc7f246228",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image490",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "0e902f7e7c1a481d07957e09ec1878832b7461401fb2dc3e43bec05b44f20998",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image491",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "5e7ff08aa789ff5f3931f41e234457df0873ec23edc87fea8bb55bc68508cef9",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image492",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "ceb76df7771300fb63d1f264f61c8ae0ca7ec457c82ece48362beef1beb850a0",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image493",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "8977580624e2564379e9c43b90af4e25ed666a34267807f92da48ae8e9120941",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image494",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "1a1893cbc7f245d6e8456dd451ff5c31af60d0e623f10cd5e48e385137c126b5",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image495",
+      "category": "geometry",
+      "contains_raster": false,
+      "original_sha256": "7574c8b4f203b8a0114490fed21c6bc0fc05799fec43f1a4ff8880cf4fd975d8",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image496",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "6ece9af7855be4e8bfc37a6d5b4bb051b7bc39dd2c07246e719679ff36515a65",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    },
+    {
+      "id": "image497",
+      "category": "formula",
+      "contains_raster": false,
+      "original_sha256": "10795f5c0e40be7236a011d20b898617e6e9a971666858f44c603a4fee4177a6",
+      "status": "candidate",
+      "review": "needs_review",
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,780 @@
+{
+  "labels": [
+    {
+      "text": " ",
+      "bbox_pt": [
+        0.75,
+        7.5,
+        3.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        3.75,
+        7.5,
+        6.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        6.75,
+        7.5,
+        9.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        9.75,
+        7.5,
+        12.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        12.75,
+        7.5,
+        15.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        15.75,
+        7.5,
+        18.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        18.75,
+        7.5,
+        21.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        21.75,
+        7.5,
+        24.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        24.75,
+        7.5,
+        27.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        27.75,
+        7.5,
+        30.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        30.75,
+        7.5,
+        33.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        33.75,
+        7.5,
+        36.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        36.75,
+        7.5,
+        39.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        39.75,
+        7.5,
+        42.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        42.75,
+        7.5,
+        45.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        45.75,
+        7.5,
+        48.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        48.75,
+        7.5,
+        51.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        51.75,
+        7.5,
+        54.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        54.75,
+        7.5,
+        57.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        57.75,
+        7.5,
+        60.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        60.75,
+        7.5,
+        63.75,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "A",
+      "bbox_pt": [
+        63.75,
+        7.5,
+        72.414,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        72.75,
+        12.0,
+        77.75,
+        22.0
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        80.25,
+        9.088000000000001,
+        86.838,
+        21.088
+      ],
+      "font": "GMCAQB+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        89.75,
+        0.5,
+        95.75,
+        12.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "⋅",
+      "bbox_pt": [
+        97.75,
+        9.588000000000001,
+        100.75,
+        21.588
+      ],
+      "font": "FWEZOE+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "A",
+      "bbox_pt": [
+        100.75,
+        7.5,
+        109.414,
+        19.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        109.75,
+        12.0,
+        114.75,
+        22.0
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        0.75,
+        32.5,
+        3.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        3.75,
+        32.5,
+        6.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        6.75,
+        32.5,
+        9.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        9.75,
+        32.5,
+        12.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        12.75,
+        32.5,
+        15.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        15.75,
+        32.5,
+        18.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        18.75,
+        32.5,
+        21.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        21.75,
+        32.5,
+        24.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        24.75,
+        32.5,
+        27.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        27.75,
+        32.5,
+        30.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        30.75,
+        32.5,
+        33.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        33.75,
+        32.5,
+        36.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        36.75,
+        32.5,
+        39.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        39.75,
+        32.5,
+        42.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        42.75,
+        32.5,
+        45.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        45.75,
+        32.5,
+        48.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        48.75,
+        32.5,
+        51.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        51.75,
+        32.5,
+        54.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        54.75,
+        32.5,
+        57.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        57.75,
+        32.5,
+        60.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        60.75,
+        32.5,
+        63.75,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "B",
+      "bbox_pt": [
+        63.75,
+        32.5,
+        71.754,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        72.75,
+        37.0,
+        77.75,
+        47.0
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        79.25,
+        32.088,
+        85.838,
+        44.088
+      ],
+      "font": "GMCAQB+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "B",
+      "bbox_pt": [
+        87.75,
+        32.5,
+        95.754,
+        44.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        94.75,
+        37.0,
+        99.75,
+        47.0
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": "⎡",
+      "bbox_pt": [
+        10.0,
+        17.37677669644,
+        14.608,
+        27.53821349644
+      ],
+      "font": "FWEZOE+Symbol",
+      "size": 10.1614368
+    },
+    {
+      "text": "⎣",
+      "bbox_pt": [
+        10.0,
+        31.37675975662,
+        14.608,
+        41.53819655662
+      ],
+      "font": "FWEZOE+Symbol",
+      "size": 10.1614368
+    },
+    {
+      "text": "⎢",
+      "bbox_pt": [
+        10.0,
+        26.376761270200003,
+        14.608,
+        36.5381980702
+      ],
+      "font": "FWEZOE+Symbol",
+      "size": 10.1614368
+    },
+    {
+      "text": "⎤",
+      "bbox_pt": [
+        51.0,
+        17.37677669644,
+        55.608000000000004,
+        27.53821349644
+      ],
+      "font": "FWEZOE+Symbol",
+      "size": 10.1614368
+    },
+    {
+      "text": "⎦",
+      "bbox_pt": [
+        51.0,
+        31.37675975662,
+        55.608000000000004,
+        41.53819655662
+      ],
+      "font": "FWEZOE+Symbol",
+      "size": 10.1614368
+    },
+    {
+      "text": "⎥",
+      "bbox_pt": [
+        51.0,
+        26.12676875526,
+        55.608000000000004,
+        36.28820555526
+      ],
+      "font": "FWEZOE+Symbol",
+      "size": 10.1614368
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        87.0,
+        16.5,
+        93.0,
+        28.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "4",
+      "bbox_pt": [
+        93.0,
+        16.5,
+        99.0,
+        28.5
+      ],
+      "font": "NZUNBF+Times-Roman",
+      "size": 12.0
+    }
+  ],
+  "drawing_primitives": [
+    {
+      "object_type": "line",
+      "x0": 90.5,
+      "x1": 96.5,
+      "top": 14.0,
+      "bottom": 14.0,
+      "path": [
+        [
+          "m",
+          [
+            90.5,
+            14.0
+          ]
+        ],
+        [
+          "l",
+          [
+            96.5,
+            14.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          90.5,
+          14.0
+        ],
+        [
+          96.5,
+          14.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 41.0,
+      "x1": 41.0,
+      "top": 15.25,
+      "bottom": 40.0,
+      "path": [
+        [
+          "m",
+          [
+            41.0,
+            15.25
+          ]
+        ],
+        [
+          "l",
+          [
+            41.0,
+            40.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          41.0,
+          15.25
+        ],
+        [
+          41.0,
+          40.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+[
+  {
+    "id": "image108",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image444",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image336",
+    "source_ink_recall": 0.941345,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image243",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image123",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image490",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image60",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image527",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image254",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image49",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image75",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image283",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image334",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image122",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image132",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image126",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image8",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image244",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image59",
+    "source_ink_recall": 0.997833,
+    "candidate_ink_precision": 0.999633
+  },
+  {
+    "id": "image522",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image70",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image58",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image523",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image494",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image127",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image125",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image482",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image66",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image124",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image157",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image433",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image209",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image221",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image397",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image195",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image168",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image395",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image357",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image431",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 0.982774
+  },
+  {
+    "id": "image394",
+    "source_ink_recall": 0.995008,
+    "candidate_ink_precision": 0.999077
+  },
+  {
+    "id": "image141",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image169",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image196",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image421",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image193",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image224",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image543",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image231",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image392",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image189",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image176",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image35",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image214",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image200",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image34",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image413",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image375",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image149",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image377",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image36",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image216",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image170",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image164",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 0.998873
+  },
+  {
+    "id": "image399",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image206",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image207",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image429",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image401",
+    "source_ink_recall": 0.993908,
+    "candidate_ink_precision": 0.995648
+  },
+  {
+    "id": "image171",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image403",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image205",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image25",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image204",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image402",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image199",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image129",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image101",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image115",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image465",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image95",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image81",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image56",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image464",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image128",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image4",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image260",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image512",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image5",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image103",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image107",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image517",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image259",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image92",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image489",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image104",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image2",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image90",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image53",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image528",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image91",
+    "source_ink_recall": 0.999329,
+    "candidate_ink_precision": 0.999951
+  },
+  {
+    "id": "image449",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image461",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image111",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image3",
+    "source_ink_recall": 0.911224,
+    "candidate_ink_precision": 1.0
+  },
+  {
+    "id": "image105",
+    "source_ink_recall": 1.0,
+    "candidate_ink_precision": 1.0
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "kind": "table",
+  "headers": [
+    "Year in which world record was set",
+    "Record in seconds"
+  ],
+  "rows": [
+    [
+      1953,
+      "127.3"
+    ],
+    [
+      1960,
+      "124.1"
+    ],
+    [
+      1964,
+      "121.5"
+    ],
+    [
+      1968,
+      "120.5"
+    ],
+    [
+      1971,
+      "118.3"
+    ],
+    [
+      1983,
+      "113.28"
+    ]
+  ],
+  "title": "800-meter run for women",
+  "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+  "source_asset_id": "image465",
+  "review": "needs_review"
+}

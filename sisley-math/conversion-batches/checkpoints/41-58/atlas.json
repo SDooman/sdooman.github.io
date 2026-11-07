@@ -1,0 +1,404 @@
+[
+  {
+    "id": "image9",
+    "file": "media/image9.pct",
+    "width_pt": 376.6,
+    "height_pt": 136.85
+  },
+  {
+    "id": "image15",
+    "file": "media/image15.pct",
+    "width_pt": 170.75,
+    "height_pt": 113.5
+  },
+  {
+    "id": "image26",
+    "file": "media/image26.pct",
+    "width_pt": 480.0,
+    "height_pt": 184.6153846153846
+  },
+  {
+    "id": "image27",
+    "file": "media/image27.pct",
+    "width_pt": 124.0,
+    "height_pt": 48.5
+  },
+  {
+    "id": "image28",
+    "file": "media/image28.pct",
+    "width_pt": 147.0,
+    "height_pt": 38.5
+  },
+  {
+    "id": "image47",
+    "file": "media/image47.pct",
+    "width_pt": 118.0,
+    "height_pt": 100.0
+  },
+  {
+    "id": "image66",
+    "file": "media/image66.emf",
+    "width_pt": 192.0,
+    "height_pt": 66.0
+  },
+  {
+    "id": "image73",
+    "file": "media/image73.pct",
+    "width_pt": 359.0,
+    "height_pt": 66.0
+  },
+  {
+    "id": "image74",
+    "file": "media/image74.emf",
+    "width_pt": 192.0,
+    "height_pt": 99.0
+  },
+  {
+    "id": "image75",
+    "file": "media/image75.emf",
+    "width_pt": 12.0,
+    "height_pt": 17.0
+  },
+  {
+    "id": "image76",
+    "file": "media/image76.emf",
+    "width_pt": 192.0,
+    "height_pt": 49.0
+  },
+  {
+    "id": "image78",
+    "file": "media/image78.pct",
+    "width_pt": 86.0,
+    "height_pt": 32.0
+  },
+  {
+    "id": "image79",
+    "file": "media/image79.pct",
+    "width_pt": 116.0,
+    "height_pt": 48.0
+  },
+  {
+    "id": "image92",
+    "file": "media/image92.pct",
+    "width_pt": 93.75,
+    "height_pt": 35.0
+  },
+  {
+    "id": "image94",
+    "file": "media/image94.pct",
+    "width_pt": 147.0,
+    "height_pt": 37.75
+  },
+  {
+    "id": "image96",
+    "file": "media/image96.pct",
+    "width_pt": 141.0,
+    "height_pt": 51.25
+  },
+  {
+    "id": "image107",
+    "file": "media/image107.pct",
+    "width_pt": 193.35,
+    "height_pt": 101.5
+  },
+  {
+    "id": "image110",
+    "file": "media/image110.pct",
+    "width_pt": 212.75,
+    "height_pt": 173.5
+  },
+  {
+    "id": "image123",
+    "file": "media/image123.pct",
+    "width_pt": 67.0,
+    "height_pt": 69.0
+  },
+  {
+    "id": "image125",
+    "file": "media/image125.pct",
+    "width_pt": 144.0,
+    "height_pt": 127.0
+  },
+  {
+    "id": "image128",
+    "file": "media/image128.pct",
+    "width_pt": 145.5,
+    "height_pt": 112.25
+  },
+  {
+    "id": "image131",
+    "file": "media/image131.pct",
+    "width_pt": 162.7,
+    "height_pt": 96.5
+  },
+  {
+    "id": "image132",
+    "file": "media/image132.pct",
+    "width_pt": 190.75,
+    "height_pt": 109.0
+  },
+  {
+    "id": "image143",
+    "file": "media/image143.pct",
+    "width_pt": 159.0,
+    "height_pt": 141.0
+  },
+  {
+    "id": "image146",
+    "file": "media/image146.pct",
+    "width_pt": 156.5,
+    "height_pt": 131.0
+  },
+  {
+    "id": "image162",
+    "file": "media/image162.pct",
+    "width_pt": 203.0,
+    "height_pt": 111.75
+  },
+  {
+    "id": "image163",
+    "file": "media/image163.pct",
+    "width_pt": 154.0,
+    "height_pt": 105.0
+  },
+  {
+    "id": "image166",
+    "file": "media/image166.pct",
+    "width_pt": 264.75,
+    "height_pt": 176.5
+  },
+  {
+    "id": "image175",
+    "file": "media/image175.pct",
+    "width_pt": 145.5,
+    "height_pt": 97.0
+  },
+  {
+    "id": "image180",
+    "file": "media/image180.pct",
+    "width_pt": 159.0,
+    "height_pt": 159.0
+  },
+  {
+    "id": "image182",
+    "file": "media/image182.pct",
+    "width_pt": 238.0,
+    "height_pt": 179.0
+  },
+  {
+    "id": "image183",
+    "file": "media/image183.pct",
+    "width_pt": 223.5,
+    "height_pt": 159.5
+  },
+  {
+    "id": "image199",
+    "file": "media/image199.pct",
+    "width_pt": 127.0,
+    "height_pt": 99.0
+  },
+  {
+    "id": "image200",
+    "file": "media/image200.pct",
+    "width_pt": 186.5,
+    "height_pt": 113.25
+  },
+  {
+    "id": "image203",
+    "file": "media/image203.pct",
+    "width_pt": 232.5,
+    "height_pt": 197.0
+  },
+  {
+    "id": "image209",
+    "file": "media/image209.pct",
+    "width_pt": 171.5,
+    "height_pt": 166.0
+  },
+  {
+    "id": "image211",
+    "file": "media/image211.pct",
+    "width_pt": 159.75,
+    "height_pt": 62.0
+  },
+  {
+    "id": "image215",
+    "file": "media/image215.pct",
+    "width_pt": 169.5,
+    "height_pt": 120.0
+  },
+  {
+    "id": "image219",
+    "file": "media/image219.pct",
+    "width_pt": 480.0,
+    "height_pt": 63.255813953488364
+  },
+  {
+    "id": "image220",
+    "file": "media/image220.pct",
+    "width_pt": 346.5,
+    "height_pt": 205.0
+  },
+  {
+    "id": "image221",
+    "file": "media/image221.pct",
+    "width_pt": 186.5,
+    "height_pt": 136.0
+  },
+  {
+    "id": "image224",
+    "file": "media/image224.pct",
+    "width_pt": 178.0,
+    "height_pt": 144.5
+  },
+  {
+    "id": "image237",
+    "file": "media/image237.pct",
+    "width_pt": 180.5,
+    "height_pt": 121.0
+  },
+  {
+    "id": "image239",
+    "file": "media/image239.pct",
+    "width_pt": 115.5,
+    "height_pt": 107.0
+  },
+  {
+    "id": "image253",
+    "file": "media/image253.pct",
+    "width_pt": 117.0,
+    "height_pt": 150.5
+  },
+  {
+    "id": "image255",
+    "file": "media/image255.pct",
+    "width_pt": 217.5,
+    "height_pt": 203.0
+  },
+  {
+    "id": "image256",
+    "file": "media/image256.pct",
+    "width_pt": 175.0,
+    "height_pt": 187.0
+  },
+  {
+    "id": "image259",
+    "file": "media/image259.pct",
+    "width_pt": 150.2,
+    "height_pt": 187.9
+  },
+  {
+    "id": "image262",
+    "file": "media/image262.pct",
+    "width_pt": 201.0,
+    "height_pt": 108.5
+  },
+  {
+    "id": "image265",
+    "file": "media/image265.pct",
+    "width_pt": 188.0,
+    "height_pt": 60.0
+  },
+  {
+    "id": "image267",
+    "file": "media/image267.pct",
+    "width_pt": 176.0,
+    "height_pt": 160.5
+  },
+  {
+    "id": "image270",
+    "file": "media/image270.pct",
+    "width_pt": 168.75,
+    "height_pt": 130.25
+  },
+  {
+    "id": "image271",
+    "file": "media/image271.pct",
+    "width_pt": 172.25,
+    "height_pt": 107.0
+  },
+  {
+    "id": "image272",
+    "file": "media/image272.pct",
+    "width_pt": 202.5,
+    "height_pt": 119.0
+  },
+  {
+    "id": "image276",
+    "file": "media/image276.pct",
+    "width_pt": 99.5,
+    "height_pt": 94.0
+  },
+  {
+    "id": "image279",
+    "file": "media/image279.pct",
+    "width_pt": 214.25,
+    "height_pt": 108.5
+  },
+  {
+    "id": "image280",
+    "file": "media/image280.pct",
+    "width_pt": 215.0,
+    "height_pt": 42.0
+  },
+  {
+    "id": "image281",
+    "file": "media/image281.pct",
+    "width_pt": 94.0,
+    "height_pt": 93.5
+  },
+  {
+    "id": "image282",
+    "file": "media/image282.pct",
+    "width_pt": 203.75,
+    "height_pt": 109.0
+  },
+  {
+    "id": "image297",
+    "file": "media/image297.pct",
+    "width_pt": 140.5,
+    "height_pt": 221.0
+  },
+  {
+    "id": "image301",
+    "file": "media/image301.pct",
+    "width_pt": 128.0,
+    "height_pt": 115.0
+  },
+  {
+    "id": "image302",
+    "file": "media/image302.pct",
+    "width_pt": 153.0,
+    "height_pt": 141.75
+  },
+  {
+    "id": "image307",
+    "file": "media/image307.pct",
+    "width_pt": 166.0,
+    "height_pt": 154.75
+  },
+  {
+    "id": "image309",
+    "file": "media/image309.pct",
+    "width_pt": 179.0,
+    "height_pt": 88.0
+  },
+  {
+    "id": "image310",
+    "file": "media/image310.pct",
+    "width_pt": 307.0,
+    "height_pt": 129.0
+  },
+  {
+    "id": "image312",
+    "file": "media/image312.pct",
+    "width_pt": 338.75,
+    "height_pt": 120.0
+  },
+  {
+    "id": "image315",
+    "file": "media/image315.pct",
+    "width_pt": 216.75,
+    "height_pt": 124.75
+  }
+]

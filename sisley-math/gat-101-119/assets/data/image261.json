@@ -1,0 +1,31 @@
+{
+  "kind": "embedded-equations",
+  "expressions": [
+    {
+      "id": "image261-1",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "review": "needs_review"
+    },
+    {
+      "id": "image261-2",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "review": "needs_review"
+    },
+    {
+      "id": "image261-3",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "review": "needs_review"
+    },
+    {
+      "id": "image261-4",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "review": "needs_review"
+    }
+  ],
+  "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+  "source_sha256": "c3ac8af5f00153f28959694c21db8a5222b7b460b562f979bb7f36c3bae0acae"
+}

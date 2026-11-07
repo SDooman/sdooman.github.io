@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Conversion notes</title><link rel="stylesheet" href="assets/vendor/katex/katex.min.css"><style>
+html{scroll-behavior:smooth}body{max-width:900px;margin:40px auto;padding:0 24px;font:18px/1.65 Georgia,serif;color:#202124;background:white}
+h1,h2,h3,nav,summary{font-family:system-ui,sans-serif}h1{font-size:2rem;line-height:1.25}h2{border-top:1px solid #ddd;margin-top:64px;padding-top:24px}h3{margin-top:32px}
+img{max-width:100%;height:auto;vertical-align:middle}p:has(>img:only-child){padding:8px 0}blockquote{margin:16px 0;padding:12px 16px;background:#f5f5f5;font-size:16px}
+a{color:#175f9e}table{border-collapse:collapse;font-size:15px;max-width:100%}th,td{padding:10px;border:1px solid #ddd;text-align:left;vertical-align:top}pre{overflow-x:auto;font-size:14px;background:#f5f5f5;padding:12px}
+.katex{font-size:1.08em}.katex-display{overflow-x:auto;overflow-y:hidden;padding:8px 2px;text-align:left}.katex-display>.katex{text-align:left}nav{font-size:14px;margin-bottom:28px}nav a{margin-right:18px}
+.formula-pair{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:24px;border-bottom:1px solid #ddd;padding:24px 0}.formula-pair h3{margin:0;font-size:16px}.formula-pair .source{min-height:60px;display:flex;align-items:center}.formula-pair code{overflow-wrap:anywhere;font-size:13px}.formula-note{grid-column:1/-1;font-size:15px;color:#555}
+@media(max-width:600px){body{margin:24px auto;padding:0 16px;font-size:17px}.formula-pair{grid-template-columns:1fr}table{font-size:13px}th,td{padding:6px}}@media print{nav{display:none}body{max-width:none;margin:0}.katex-display{overflow:visible}h2{break-before:page}}
+</style></head><body><nav><a href="GAT-1-20.html">Textbook</a><a href="GAT-1-20-changes.html#new-network">Highlighted changes</a><a href="conversion-report.html">Conversion notes</a><a href="formula-review.html">Formula review</a><a href="formula-comparison.html">Source comparison</a></nav><main><h1>Conversion report</h1>
+<p>Converted all 20 assignments. The first LaTeX pass replaces 220 formula or mathematical-table graphics in 546 placements with editable math. The textbook retains 116 diagram or instructional graphics in 120 image placements. All 336 original PICT/EMF files and their recovered images are retained. All body text in the intermediate Word extraction is represented in the Markdown; superscripts and subscripts are retained. See the <a href="formula-review.html">formula review</a> for transcription decisions and two source expressions needing proofreading on reference pages 19–20.</p>
+<h2>Page numbering</h2>
+<p>The source file reports <strong>87 pages</strong> in its saved metadata. The initial conversion produced 1,351 pages because equation sizes were misread. Correcting those sizes produced <strong>94 reference pages</strong>. Original Word page boundaries could not be verified. The page numbers below refer to that 94-page render, and assignment/question links identify the content independently.</p>
+<h2>General limitations</h2>
+<ul>
+<li>Formula-only graphics are now LaTeX; annotated diagrams remain images. The legacy negative-number notation (a raised minus) is preserved. Editable LaTeX is presentation markup, not an executable mathematical model.</li>
+<li>Print layout, boxes, whitespace, and headers/footers are reflowed. Side-by-side questions follow their source reading order.</li>
+<li>Old font substitutions and blank EMF rendering were repaired. The original graphics are retained for comparison.</li>
+<li>Some embedded diagrams have tiny labels or matrix entries; these are flagged below rather than guessed. Some line labels resemble the numeral 1.</li>
+<li><strong>10 separate classroom sketch sheets are referenced but are not included in this file.</strong> Those exercises need the additional source sheets.</li>
+<li>Source wording and apparent source typos are preserved. This is a conversion and visual recovery pass, not a mathematical answer-key audit.</li>
+</ul>
+<h2>Issues by reference page</h2>
+<p>Pages with a remaining graphic issue or missing separate worksheet are listed individually. “Reference page” does not mean the original printed textbook page.</p>
+<table>
+<thead>
+<tr>
+<th>Reference page</th>
+<th>Assignment and question</th>
+<th>Issue</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>2</td>
+<td><a href="GAT-1-20.html#gat-01-ii">1 II</a></td>
+<td>The line label looks like “1” or plain “l”; verify whether it should be ℓ.</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="GAT-1-20.html#gat-01-ii">1 II</a>, <a href="GAT-1-20.html#gat-01-iii">1 III</a></td>
+<td>Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="GAT-1-20.html#gat-02-ii">2 II</a></td>
+<td>Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="GAT-1-20.html#gat-03-i">3 I</a></td>
+<td>Missing separate worksheet: Reflections in Parallel Lines — Sketch Sheet #1.</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="GAT-1-20.html#gat-04-ii">4 II</a></td>
+<td>The line label looks like “1” or plain “l”; verify whether it should be ℓ.</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="GAT-1-20.html#gat-04-xi">4 XI</a></td>
+<td>Missing separate worksheet: Composites of Reflections in Parallel Lines — Sketch Sheet #2.</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="GAT-1-20.html#gat-05-ii">5 II</a></td>
+<td>Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="GAT-1-20.html#gat-05-iv">5 IV</a></td>
+<td>Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="GAT-1-20.html#gat-06-iii">6 III</a></td>
+<td>Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="GAT-1-20.html#gat-06-vii">6 VII</a></td>
+<td>Missing separate worksheet: Composite of Reflections in Intersecting Lines — Sketch Sheet #1.</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="GAT-1-20.html#gat-06-viii">6 VIII</a>, <a href="GAT-1-20.html#gat-06-vii">6 VII</a></td>
+<td>Very small diagram labels; inspect before using this exercise. Missing separate worksheet: Composite of Reflections in Intersecting Lines — Sketch Sheet #2.</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="GAT-1-20.html#gat-07-ii">7 II</a></td>
+<td>Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="GAT-1-20.html#gat-07-v">7 V</a></td>
+<td>Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="GAT-1-20.html#gat-07-v">7 V</a>, <a href="GAT-1-20.html#gat-07-vi">7 VI</a></td>
+<td>Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="GAT-1-20.html#gat-08-i">8 I</a></td>
+<td>Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="GAT-1-20.html#gat-08-iv">8 IV</a></td>
+<td>Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="GAT-1-20.html#gat-08-iv">8 IV</a></td>
+<td>The line label looks like “1” or plain “l”; verify whether it should be ℓ.</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="GAT-1-20.html#gat-09-i">9 I</a></td>
+<td>The line label looks like “1” or plain “l”; verify whether it should be ℓ.</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="GAT-1-20.html#gat-09-vi">9 VI</a></td>
+<td>Missing separate worksheet: Reflections in Intersecting Lines — Sketch Sheet #3.</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="GAT-1-20.html#gat-10-ii">10 II</a></td>
+<td>Missing separate worksheet: Reflections in Intersecting Lines — Sketch Sheet #4.</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="GAT-1-20.html#gat-10-vii">10 VII</a></td>
+<td>Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="GAT-1-20.html#gat-10-viii">10 VIII</a></td>
+<td>Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="GAT-1-20.html#gat-11-iii">11 III</a></td>
+<td>Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="GAT-1-20.html#gat-11-viii">11 VIII</a></td>
+<td>The line label looks like “1” or plain “l”; verify whether it should be ℓ.</td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="GAT-1-20.html#gat-11-ix">11 IX</a></td>
+<td>Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>58</td>
+<td><a href="GAT-1-20.html#gat-12-viii">12 VIII</a></td>
+<td>Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="GAT-1-20.html#gat-12-ix">12 IX</a></td>
+<td>Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>60</td>
+<td><a href="GAT-1-20.html#gat-13-i">13 I</a>, <a href="GAT-1-20.html#gat-13-ii">13 II</a></td>
+<td>Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>61</td>
+<td><a href="GAT-1-20.html#gat-13-iii">13 III</a></td>
+<td>Missing separate worksheet: Symmetry Series — Sketch Sheet #1.</td>
+</tr>
+<tr>
+<td>62</td>
+<td><a href="GAT-1-20.html#gat-13-vii">13 VII</a></td>
+<td>Matrix entries inside the diagram are extremely small; verify them before publishing.</td>
+</tr>
+<tr>
+<td>63</td>
+<td><a href="GAT-1-20.html#gat-14-i">14 I</a>, <a href="GAT-1-20.html#gat-14-ii">14 II</a></td>
+<td>The line label looks like “1” or plain “l”; verify whether it should be ℓ. Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>65</td>
+<td><a href="GAT-1-20.html#gat-14-v">14 V</a>, <a href="GAT-1-20.html#gat-14-iv">14 IV</a></td>
+<td>Matrix entries inside the diagram are extremely small; verify them before publishing. Missing separate worksheet: Symmetry Series — Sketch Sheet #2.</td>
+</tr>
+<tr>
+<td>67</td>
+<td><a href="GAT-1-20.html#gat-14-viii">14 VIII</a></td>
+<td>The line label looks like “1” or plain “l”; verify whether it should be ℓ.</td>
+</tr>
+<tr>
+<td>69</td>
+<td><a href="GAT-1-20.html#gat-15-iii">15 III</a>, <a href="GAT-1-20.html#gat-15-iv">15 IV</a></td>
+<td>Very small diagram labels; inspect before using this exercise. Missing separate worksheet: Symmetry Series — Sketch Sheet #3.</td>
+</tr>
+<tr>
+<td>70</td>
+<td><a href="GAT-1-20.html#gat-15-vi">15 VI</a></td>
+<td>Matrix entries inside the diagram are extremely small; verify them before publishing.</td>
+</tr>
+<tr>
+<td>72</td>
+<td><a href="GAT-1-20.html#gat-16-ii">16 II</a></td>
+<td>The line label looks like “1” or plain “l”; verify whether it should be ℓ.</td>
+</tr>
+<tr>
+<td>73</td>
+<td><a href="GAT-1-20.html#gat-16-iii">16 III</a>, <a href="GAT-1-20.html#gat-16-iv">16 IV</a></td>
+<td>The line label looks like “1” or plain “l”; verify whether it should be ℓ. Missing separate worksheet: Symmetry Series — Sketch #4.</td>
+</tr>
+<tr>
+<td>74</td>
+<td><a href="GAT-1-20.html#gat-16-v">16 V</a></td>
+<td>Matrix entries inside the diagram are extremely small; verify them before publishing.</td>
+</tr>
+<tr>
+<td>77</td>
+<td><a href="GAT-1-20.html#gat-17-i">17 I</a></td>
+<td>Very small diagram labels; inspect before using this exercise.</td>
+</tr>
+<tr>
+<td>85</td>
+<td><a href="GAT-1-20.html#gat-19-i">19 I</a></td>
+<td>Matrix brackets are visibly segmented; entries are preserved.</td>
+</tr>
+<tr>
+<td>90</td>
+<td><a href="GAT-1-20.html#gat-20-i">20 I</a></td>
+<td>Matrix brackets are visibly segmented; entries are preserved.</td>
+</tr>
+<tr>
+<td>93</td>
+<td><a href="GAT-1-20.html#gat-20-v">20 V</a></td>
+<td>Matrix brackets are visibly segmented; entries are preserved.</td>
+</tr>
+</tbody></table>
+<p><strong>Other reference pages:</strong> 1, 4–6, 8–11, 13–15, 17, 19–20, 23–26, 28, 31, 33–34, 37, 42–43, 45, 48, 50–51, 54, 56–57, 64, 66, 68, 71, 75–76, 78–84, 86–89, 91–92, 94. No additional graphic omission or obvious rendering failure was identified in the extracted assets. This is not a claim of exact original pagination or mathematical proofreading.</p>
+<h2>Verification</h2>
+<p>At the original image-conversion stage, all 666 image references loaded in a local browser preview, and the rendered text matched the imported Word body text after normalizing whitespace and capitalization. All 336 distinct graphics were inspected.</p>
+<p>For the LaTeX pass, all 546 formula placements render without KaTeX errors, all 120 retained image references resolve, and the 170 question anchors remain present. Source glyph counts and matrix row contents were cross-checked against the recovered equation drawing data. The HTML includes local math styles and fonts. See the <a href="formula-review.html">formula review</a> for the remaining limitations.</p>
+<h2>Using this material in a learning platform</h2>
+<p>The Markdown contains stable assignment and question anchors. <code>manifest.json</code> maps each image placement to its assignment, question, original asset, and reference page. These identifiers can later key progress records. Calculator instructions remain as source text; interactive replacements and account/local storage have not been implemented.</p>
+<p>Use a Markdown viewer that supports LaTeX, or open <code>GAT-1-20.html</code> for an offline reading copy. The recovered SVG and PNG equation images remain available for comparison and fallback use. Keep the <code>assets</code> folder beside the Markdown and HTML.</p>
+</main></body></html>

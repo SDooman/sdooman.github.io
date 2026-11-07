@@ -1,0 +1,41 @@
+{
+  "kind": "table",
+  "title": null,
+  "headers": [
+    "element",
+    "$*$-inverse of that element"
+  ],
+  "rows": [
+    [
+      "a",
+      null
+    ],
+    [
+      "b",
+      null
+    ],
+    [
+      "c",
+      null
+    ],
+    [
+      "d",
+      null
+    ],
+    [
+      "e",
+      null
+    ],
+    [
+      "f",
+      null
+    ],
+    [
+      "g",
+      null
+    ]
+  ],
+  "review": "needs_review",
+  "blank_meaning": "null means an intentional source blank, not zero",
+  "source_sha256": "a0a2fa53ecfd055588a29a47e59a53eaf6b772405f720e4acf27884831d63284"
+}

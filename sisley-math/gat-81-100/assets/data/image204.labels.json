@@ -1,0 +1,527 @@
+{
+  "labels": [
+    {
+      "text": "x",
+      "bbox_pt": [
+        0.75,
+        6.5,
+        6.078,
+        18.5
+      ],
+      "font": "PAKHEL+Times-Italic",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        8.75,
+        2.0,
+        13.75,
+        12.0
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": "+",
+      "bbox_pt": [
+        16.75,
+        9.087999999999994,
+        23.338,
+        21.088
+      ],
+      "font": "ENBDSO+Symbol",
+      "size": 12.000000000000007
+    },
+    {
+      "text": "x",
+      "bbox_pt": [
+        40.75,
+        7.0,
+        46.078,
+        19.0
+      ],
+      "font": "PAKHEL+Times-Italic",
+      "size": 12.0
+    },
+    {
+      "text": "+",
+      "bbox_pt": [
+        49.75,
+        8.587999999999994,
+        56.338,
+        20.588
+      ],
+      "font": "ENBDSO+Symbol",
+      "size": 12.000000000000007
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        59.75,
+        5.5,
+        65.75,
+        17.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        65.75,
+        5.5,
+        71.75,
+        17.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        71.75,
+        5.5,
+        77.75,
+        17.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        77.75,
+        5.5,
+        83.75,
+        17.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        86.75,
+        8.087999999999994,
+        93.338,
+        20.088
+      ],
+      "font": "ENBDSO+Symbol",
+      "size": 12.000000000000007
+    },
+    {
+      "text": "+",
+      "bbox_pt": [
+        116.75,
+        9.087999999999994,
+        123.338,
+        21.088
+      ],
+      "font": "ENBDSO+Symbol",
+      "size": 12.000000000000007
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        125.75,
+        6.5,
+        131.75,
+        18.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        131.75,
+        6.5,
+        137.75,
+        18.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        137.75,
+        6.5,
+        143.75,
+        18.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        143.75,
+        6.5,
+        149.75,
+        18.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "C",
+      "bbox_pt": [
+        132.75,
+        18.5,
+        140.754,
+        30.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        33.75,
+        47.5,
+        37.746,
+        59.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "x",
+      "bbox_pt": [
+        38.75,
+        47.5,
+        44.078,
+        59.5
+      ],
+      "font": "PAKHEL+Times-Italic",
+      "size": 12.0
+    },
+    {
+      "text": "+",
+      "bbox_pt": [
+        45.75,
+        50.088,
+        52.338,
+        62.088
+      ],
+      "font": "ENBDSO+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        54.75,
+        47.5,
+        60.75,
+        59.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        60.75,
+        47.5,
+        66.75,
+        59.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        66.75,
+        47.5,
+        72.75,
+        59.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        72.75,
+        47.5,
+        78.75,
+        59.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        78.75,
+        47.5,
+        82.746,
+        59.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        82.75,
+        43.0,
+        87.75,
+        53.0
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        90.75,
+        50.088,
+        97.338,
+        62.088
+      ],
+      "font": "ENBDSO+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        99.75,
+        47.5,
+        105.75,
+        59.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        105.75,
+        47.5,
+        111.75,
+        59.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        111.75,
+        47.5,
+        117.75,
+        59.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        117.75,
+        47.5,
+        123.75,
+        59.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "A",
+      "bbox_pt": [
+        61.75,
+        62.5,
+        70.414,
+        74.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "B",
+      "bbox_pt": [
+        69.0,
+        17.5,
+        77.004,
+        29.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "D",
+      "bbox_pt": [
+        107.75,
+        61.5,
+        116.414,
+        73.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "b",
+      "bbox_pt": [
+        27.25,
+        0.5,
+        33.25,
+        12.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        27.25,
+        17.5,
+        32.578,
+        29.5
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "¯",
+      "bbox_pt": [
+        100.75,
+        3.0,
+        104.746,
+        15.0
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "c",
+      "bbox_pt": [
+        105.75,
+        3.0,
+        111.078,
+        15.0
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        102.75,
+        20.0,
+        108.078,
+        32.0
+      ],
+      "font": "TTZJWK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ".",
+      "bbox_pt": [
+        36.75,
+        5.0,
+        40.386,
+        17.0
+      ],
+      "font": "ELUJOC+Geneva",
+      "size": 12.0
+    }
+  ],
+  "drawing_primitives": [
+    {
+      "object_type": "line",
+      "x0": 28.0,
+      "x1": 35.0,
+      "top": 14.0,
+      "bottom": 14.0,
+      "path": [
+        [
+          "m",
+          [
+            28.0,
+            14.0
+          ]
+        ],
+        [
+          "l",
+          [
+            35.0,
+            14.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          28.0,
+          14.0
+        ],
+        [
+          35.0,
+          14.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 101.5,
+      "x1": 112.5,
+      "top": 16.5,
+      "bottom": 16.5,
+      "path": [
+        [
+          "m",
+          [
+            101.5,
+            16.5
+          ]
+        ],
+        [
+          "l",
+          [
+            112.5,
+            16.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          101.5,
+          16.5
+        ],
+        [
+          112.5,
+          16.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

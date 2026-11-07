@@ -1,0 +1,370 @@
+{
+  "version": 1,
+  "kind": "vector",
+  "source_asset_id": "image169",
+  "title": "Recovered drawing of GAT image169",
+  "description": "Source vector paths preserved. Drawing positions do not imply exact mathematical coordinates or constraints.",
+  "view_box": [
+    35.0,
+    35.0,
+    170.33333333333334,
+    32.33333333333333
+  ],
+  "coordinate_meaning": "PDF drawing points, top-left origin; original PDF transforms retained within SVG elements.",
+  "representation_level": "drawing-primitives",
+  "provenance": {
+    "atlas_sha256": "6bdf191a0f1aa38ea91cf928cd7d2ced680cb7271f8d51fbca2f7fa30d645415",
+    "atlas_page": 52,
+    "original_asset_sha256": "27914d67739c190a131ec8edd9f226635b448cd75ebbbcc08697d53518e7ae27",
+    "png_sha256": "7db425b9783dfba54b97508f72cafa890bf3af3304199669197884ed490e19e5",
+    "method": "Poppler SVG extraction from saved vector atlas; exact retained PNG crop"
+  },
+  "elements": [
+    {
+      "tag": "defs",
+      "attributes": {
+        "id": "primitive-0001"
+      },
+      "children": [
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-0"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 118 36 L 163 36 L 163 66.5 L 118 66.5 Z M 118 36 ",
+                "id": "primitive-0003"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-1"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 161 36 L 204.5 36 L 204.5 66.5 L 161 66.5 Z M 161 36 ",
+                "id": "primitive-0005"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-2"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 76 36 L 122 36 L 122 66.5 L 76 66.5 Z M 76 36 ",
+                "id": "primitive-0007"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-3"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 36 36 L 80 36 L 80 66.5 L 36 66.5 Z M 36 36 ",
+                "id": "primitive-0009"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-0)",
+        "id": "primitive-0010"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill": "none",
+            "stroke-width": "1",
+            "stroke-linecap": "butt",
+            "stroke-linejoin": "miter",
+            "stroke": "rgb(0%, 0%, 0%)",
+            "stroke-opacity": "1",
+            "stroke-miterlimit": "1",
+            "d": "M 119.75 726.5 L 161.5 755.5 ",
+            "transform": "matrix(1, 0, 0, -1, 0, 792)",
+            "id": "primitive-0011"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-1)",
+        "id": "primitive-0012"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill": "none",
+            "stroke-width": "1",
+            "stroke-linecap": "butt",
+            "stroke-linejoin": "miter",
+            "stroke": "rgb(0%, 0%, 0%)",
+            "stroke-opacity": "1",
+            "stroke-miterlimit": "1",
+            "d": "M 204 726.25 L 162.5 755 ",
+            "transform": "matrix(1, 0, 0, -1, 0, 792)",
+            "id": "primitive-0013"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-2)",
+        "id": "primitive-0014"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill": "none",
+            "stroke-width": "1",
+            "stroke-linecap": "butt",
+            "stroke-linejoin": "miter",
+            "stroke": "rgb(0%, 0%, 0%)",
+            "stroke-opacity": "1",
+            "stroke-miterlimit": "1",
+            "d": "M 119.75 726 L 78.25 755 ",
+            "transform": "matrix(1, 0, 0, -1, 0, 792)",
+            "id": "primitive-0015"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-3)",
+        "id": "primitive-0016"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill": "none",
+            "stroke-width": "1",
+            "stroke-linecap": "butt",
+            "stroke-linejoin": "miter",
+            "stroke": "rgb(0%, 0%, 0%)",
+            "stroke-opacity": "1",
+            "stroke-miterlimit": "1",
+            "d": "M 36.5 726 L 78.25 755 ",
+            "transform": "matrix(1, 0, 0, -1, 0, 792)",
+            "id": "primitive-0017"
+          }
+        }
+      ]
+    }
+  ],
+  "labels": [],
+  "source_drawing_primitives": [
+    {
+      "id": "drawing-0000",
+      "object_type": "line",
+      "x0": 119.75,
+      "x1": 161.5,
+      "top": 36.5,
+      "bottom": 65.5,
+      "path": [
+        [
+          "m",
+          [
+            119.75,
+            65.5
+          ]
+        ],
+        [
+          "l",
+          [
+            161.5,
+            36.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          119.75,
+          65.5
+        ],
+        [
+          161.5,
+          36.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": 0
+    },
+    {
+      "id": "drawing-0001",
+      "object_type": "line",
+      "x0": 162.5,
+      "x1": 204.0,
+      "top": 37.0,
+      "bottom": 65.75,
+      "path": [
+        [
+          "m",
+          [
+            204.0,
+            65.75
+          ]
+        ],
+        [
+          "l",
+          [
+            162.5,
+            37.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          204.0,
+          65.75
+        ],
+        [
+          162.5,
+          37.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": 0
+    },
+    {
+      "id": "drawing-0002",
+      "object_type": "line",
+      "x0": 78.25,
+      "x1": 119.75,
+      "top": 37.0,
+      "bottom": 66.0,
+      "path": [
+        [
+          "m",
+          [
+            119.75,
+            66.0
+          ]
+        ],
+        [
+          "l",
+          [
+            78.25,
+            37.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          119.75,
+          66.0
+        ],
+        [
+          78.25,
+          37.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": 0
+    },
+    {
+      "id": "drawing-0003",
+      "object_type": "line",
+      "x0": 36.5,
+      "x1": 78.25,
+      "top": 37.0,
+      "bottom": 66.0,
+      "path": [
+        [
+          "m",
+          [
+            36.5,
+            66.0
+          ]
+        ],
+        [
+          "l",
+          [
+            78.25,
+            37.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          36.5,
+          66.0
+        ],
+        [
+          78.25,
+          37.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": 0
+    }
+  ],
+  "label_review": "Extracted PDF text may contain legacy symbol encodings; SVG glyph outlines preserve the visible labels.",
+  "notes": [],
+  "review": "needs_review"
+}

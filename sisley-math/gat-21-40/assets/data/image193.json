@@ -1,0 +1,15 @@
+{
+  "kind": "annotated-math",
+  "expressions": [
+    {
+      "id": "expression-1",
+      "latex": "(-2,3)\\longrightarrow(0,0)"
+    },
+    {
+      "id": "expression-2",
+      "latex": "(5,1)\\longrightarrow(7,-2)\\longrightarrow\\left(1,\\frac{-2}{7}\\right)"
+    }
+  ],
+  "source_asset_id": "image193",
+  "review": "needs_review"
+}

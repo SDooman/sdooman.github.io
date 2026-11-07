@@ -1,0 +1,15 @@
+{
+  "kind": "annotated-math",
+  "expressions": [
+    {
+      "id": "expression-1",
+      "latex": "(2,8)\\longrightarrow(0,0)"
+    },
+    {
+      "id": "expression-2",
+      "latex": "(11,{}^{-}5)\\longrightarrow(9,{}^{-}13)\\longrightarrow\\left(1,\\frac{{}^{-}13}{9}\\right)"
+    }
+  ],
+  "source_asset_id": "image206",
+  "review": "needs_review"
+}

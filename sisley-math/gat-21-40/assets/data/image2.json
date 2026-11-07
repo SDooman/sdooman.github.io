@@ -1,0 +1,97 @@
+{
+  "kind": "directed-network",
+  "nodes": [
+    {
+      "id": "SE",
+      "label": "Seattle"
+    },
+    {
+      "id": "NY",
+      "label": "New York"
+    },
+    {
+      "id": "LA",
+      "label": "L.A."
+    },
+    {
+      "id": "SL",
+      "label": "St. Louis"
+    },
+    {
+      "id": "D",
+      "label": "Dallas"
+    }
+  ],
+  "edges": [
+    {
+      "id": "flight-01",
+      "from": "SE",
+      "to": "NY"
+    },
+    {
+      "id": "flight-02",
+      "from": "NY",
+      "to": "SE"
+    },
+    {
+      "id": "flight-03",
+      "from": "SE",
+      "to": "LA"
+    },
+    {
+      "id": "flight-04",
+      "from": "LA",
+      "to": "SE"
+    },
+    {
+      "id": "flight-05",
+      "from": "SE",
+      "to": "SL"
+    },
+    {
+      "id": "flight-06",
+      "from": "LA",
+      "to": "SL"
+    },
+    {
+      "id": "flight-07",
+      "from": "SL",
+      "to": "LA"
+    },
+    {
+      "id": "flight-08",
+      "from": "SL",
+      "to": "NY"
+    },
+    {
+      "id": "flight-09",
+      "from": "NY",
+      "to": "SL"
+    },
+    {
+      "id": "flight-10",
+      "from": "NY",
+      "to": "D"
+    },
+    {
+      "id": "flight-11",
+      "from": "SL",
+      "to": "D"
+    },
+    {
+      "id": "flight-12",
+      "from": "LA",
+      "to": "D"
+    },
+    {
+      "id": "flight-13",
+      "from": "D",
+      "to": "SE"
+    }
+  ],
+  "notes": [
+    "Thirteen visible directional arrows transcribed from the original. The separate flight-matrix exercise remains blank. Node/edge data are separate from the preserved vector layout."
+  ],
+  "source_asset_id": "image2",
+  "review": "needs_review"
+}

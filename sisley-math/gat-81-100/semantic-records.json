@@ -1,0 +1,128 @@
+{
+  "image371": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "",
+      "pre-image",
+      "image"
+    ],
+    "rows": [
+      [
+        "perimeter",
+        null,
+        null
+      ],
+      [
+        "surface area",
+        null,
+        null
+      ],
+      [
+        "volume",
+        null,
+        null
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "107bd4724eef575f2c7b4f7d61aa4f0c5a1183181faa066606c797f66151de8c"
+  },
+  "image388": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "magnitude of size transformation",
+      "perimeter",
+      "surface area",
+      "volume"
+    ],
+    "rows": [
+      [
+        "1",
+        null,
+        null,
+        null
+      ],
+      [
+        "2",
+        null,
+        null,
+        null
+      ],
+      [
+        "3",
+        null,
+        null,
+        null
+      ],
+      [
+        "4",
+        null,
+        null,
+        null
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "a98aebb1b3757c529be88da194376797e5f0e96108d32e47fd7226d503d5314e"
+  },
+  "image397": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "magnitude of size transformation",
+      "perimeter",
+      "surface area",
+      "volume"
+    ],
+    "rows": [
+      [
+        "1",
+        "12",
+        "6",
+        "1"
+      ],
+      [
+        "2",
+        "24",
+        "24",
+        "8"
+      ],
+      [
+        "3",
+        "36",
+        "54",
+        "27"
+      ],
+      [
+        "4",
+        "48",
+        "96",
+        "64"
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "914ce21fba6989cc6325584be46cb253f6546ea1f487bd22ffbd3b2f5ab510d1"
+  },
+  "image177": {
+    "kind": "embedded-equations",
+    "expressions": [
+      {
+        "id": "image177-1",
+        "latex": "y=3\\mathrm{.}2\\cdot \\left( \\frac{1}{1\\mathrm{.}5}\\text{ }\\cdot x \\right)^{2}",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image177-2",
+        "latex": "y=3\\mathrm{.}2\\cdot \\left( \\frac{1}{1\\mathrm{.}5}\\text{ }\\cdot x \\right)^{2}",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      }
+    ],
+    "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+    "source_sha256": "43f226f16eccbceb255d95b38bbf507533357b04cd7db4eb34029702c50759d3"
+  }
+}

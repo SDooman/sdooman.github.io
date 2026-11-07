@@ -1,0 +1,15 @@
+{
+  "kind": "annotated-math",
+  "expressions": [
+    {
+      "id": "expression-1",
+      "latex": "y=0.64\\cdot x"
+    },
+    {
+      "id": "expression-2",
+      "latex": "(y+5)=0.64\\cdot(x+{}^{-}11)"
+    }
+  ],
+  "source_asset_id": "image402",
+  "review": "needs_review"
+}

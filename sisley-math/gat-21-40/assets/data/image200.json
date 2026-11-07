@@ -1,0 +1,33 @@
+{
+  "kind": "table",
+  "headers": [
+    "The diameter of a circle",
+    "The circumference of the same circle"
+  ],
+  "rows": [
+    [
+      1,
+      "$\\pi$"
+    ],
+    [
+      3,
+      null
+    ],
+    [
+      null,
+      "$\\sqrt{14}\\cdot\\pi$"
+    ],
+    [
+      "4.5",
+      null
+    ],
+    [
+      null,
+      10
+    ]
+  ],
+  "title": null,
+  "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+  "source_asset_id": "image200",
+  "review": "needs_review"
+}

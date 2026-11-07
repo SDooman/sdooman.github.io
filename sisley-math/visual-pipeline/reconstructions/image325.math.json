@@ -1,0 +1,14 @@
+[
+  {
+    "id": "identity",
+    "latex": "\\begin{bmatrix}1 & 0 \\\\ 0 & 1\\end{bmatrix}"
+  },
+  {
+    "id": "blank_image",
+    "latex": "\\begin{bmatrix}\\phantom{0} & \\phantom{0} \\\\ \\phantom{0} & \\phantom{0}\\end{bmatrix}"
+  },
+  {
+    "id": "equation",
+    "latex": "A\\cdot\\begin{bmatrix}1 & 0 \\\\ 0 & 1\\end{bmatrix}=\\begin{bmatrix}\\phantom{0} & \\phantom{0} \\\\ \\phantom{0} & \\phantom{0}\\end{bmatrix}"
+  }
+]

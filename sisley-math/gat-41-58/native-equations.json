@@ -1,0 +1,1280 @@
+{
+  "image1-1": {
+    "id": "image1-1",
+    "latex": "\\left\\{ \\begin{array}{l}4\\cdot x+6\\cdot y=4 \\\\ 3\\cdot x+7\\cdot y=13\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image2-1": {
+    "id": "image2-1",
+    "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+\\frac{6}{4}\\cdot y=1 \\\\ 3\\cdot x+7\\cdot y=13\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image3-1": {
+    "id": "image3-1",
+    "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+\\frac{6}{4}\\cdot y=1 \\\\ 0\\cdot x+\\frac{10}{4}\\cdot y=10\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image4-1": {
+    "id": "image4-1",
+    "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+\\frac{6}{4}\\cdot y=1 \\\\ 0\\cdot x+1\\cdot y=4\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image5-1": {
+    "id": "image5-1",
+    "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+0\\cdot y=\\frac{{}^{-}20}{4} \\\\ 0\\cdot x+1\\cdot y=4\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image6-1": {
+    "id": "image6-1",
+    "latex": "\\frac{1}{4}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image7-1": {
+    "id": "image7-1",
+    "latex": "\\left\\{ \\begin{array}{l}4\\cdot x+6\\cdot y=4\\hspace{1.0em}\\text{A}_{\\text{1}} \\\\ 3\\cdot x+7\\cdot y=13\\hspace{0.75em}\\text{B}_{\\text{1}}\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image8-1": {
+    "id": "image8-1",
+    "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+\\frac{6}{4}\\cdot y=1\\hspace{1.25em}\\text{A}_{\\text{2}}=\\frac{1}{4}\\cdot \\text{A}_{1} \\\\ 3\\cdot x+7\\cdot y=13\\hspace{1.0em}\\text{B}_{\\text{2}}=\\text{B}_{1}\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image10-1": {
+    "id": "image10-1",
+    "latex": "\\left\\{ \\begin{array}{l}2\\cdot x+{}^{-}4\\cdot y=14\\hspace{0.5em}\\text{A}_{\\text{1}} \\\\ \\text{ }3\\cdot x+2\\cdot y=5\\hspace{1.0em}\\text{B}_{\\text{1}}\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image16-1": {
+    "id": "image16-1",
+    "latex": "\\text{a}\\cdot x+\\text{b}\\cdot y=\\text{c}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image17-1": {
+    "id": "image17-1",
+    "latex": "y+{}^{-}4=2\\cdot x",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image18-1": {
+    "id": "image18-1",
+    "latex": "y+{}^{-}4={}^{-}1\\cdot x",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image19-1": {
+    "id": "image19-1",
+    "latex": "\\left\\{ \\begin{array}{l}{}^{-}2\\cdot x+1\\cdot y=4 \\\\ \\hspace{0.75em}1\\cdot x+1\\cdot y=4\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image20-1": {
+    "id": "image20-1",
+    "latex": "y={}^{-}1\\mathrm{.}2\\cdot x+30",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image21-1": {
+    "id": "image21-1",
+    "latex": "y=\\text{a}\\cdot x+\\text{b}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image22-1": {
+    "id": "image22-1",
+    "latex": "1\\cdot x+1\\cdot y=2",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image23-1": {
+    "id": "image23-1",
+    "latex": "{}^{-}1\\cdot x+1\\cdot y=4",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image25-1": {
+    "id": "image25-1",
+    "latex": "\\left\\{ \\begin{array}{l}\\hspace{0.5em}1\\cdot x+1\\cdot y=2 \\\\ {}^{-}1\\cdot x+1\\cdot y=4\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image26-1": {
+    "id": "image26-1",
+    "latex": "\\left\\{ \\begin{array}{l}4\\cdot x+2\\cdot y=\\text{ }2\\hspace{0.75em}\\text{A}_{\\text{1}} \\\\ 4\\cdot x+{}^{-}1\\cdot y=11\\hspace{0.75em}\\text{B}_{\\text{1}}\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image29-1": {
+    "id": "image29-1",
+    "latex": "\\left\\{ \\begin{array}{l}\\hspace{5.25em}\\text{A}_{\\text{4}}=\\text{A}_{3} \\\\ \\hspace{5.25em}\\text{B}_{\\text{4}}=\\frac{{}^{-}1}{3}\\cdot \\text{B}_{\\text{3}}\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image31-1": {
+    "id": "image31-1",
+    "latex": "4\\cdot x+2\\cdot y=2",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image32-1": {
+    "id": "image32-1",
+    "latex": "4\\cdot x+{}^{-}1\\cdot y=11",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image33-1": {
+    "id": "image33-1",
+    "latex": "y={}^{-}1\\cdot x+2",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image34-1": {
+    "id": "image34-1",
+    "latex": "y=1\\cdot x+4",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image37-1": {
+    "id": "image37-1",
+    "latex": "\\left\\{ \\begin{array}{l}\\text{a}\\cdot x+\\text{b}\\cdot y=\\text{c} \\\\ \\text{d}\\cdot x+\\text{e}\\cdot y=\\text{f}\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image38-1": {
+    "id": "image38-1",
+    "latex": "\\left\\{ \\begin{array}{l}3\\cdot x+15\\cdot y=7\\hspace{0.75em}\\text{A}_{\\text{1}} \\\\ 12\\cdot x+9\\cdot y=12\\hspace{0.5em}\\text{B}_{\\text{1}}\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image39-1": {
+    "id": "image39-1",
+    "latex": "\\left\\{ \\begin{array}{l}\\text{ 1}\\cdot x+5\\cdot y\\text{ =}\\frac{\\text{7}}{\\text{3}}\\hspace{0.75em}\\text{A}_{\\text{2}}= \\\\ \\text{12}\\cdot x+9\\cdot y=12\\hspace{0.75em}\\text{B}_{\\text{2}}=\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image40-1": {
+    "id": "image40-1",
+    "latex": "\\left\\{ \\begin{array}{l}\\hspace{0.5em}1\\cdot x+5\\cdot y=\\frac{7}{3}\\hspace{1.5em}\\text{A}_{\\text{3}}= \\\\ \\hspace{0.5em}0\\cdot x+{}^{-}\\text{51}\\cdot \\text{y=}{}^{-}\\text{16}\\hspace{0.75em}\\text{B}_{\\text{3}}=\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image41-1": {
+    "id": "image41-1",
+    "latex": "\\left\\{ \\begin{array}{l}\\hspace{0.5em}1\\cdot x+5\\cdot y=\\frac{7}{3}\\hspace{1.25em}\\text{A}_{\\text{4}}= \\\\ \\hspace{0.5em}0\\cdot x+1\\cdot y=\\frac{16}{51}\\hspace{0.75em}\\text{B}_{\\text{4}}=\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image42-1": {
+    "id": "image42-1",
+    "latex": "\\left\\{ \\begin{array}{l}\\hspace{0.5em}1\\cdot x+0\\cdot y=\\frac{13}{17}\\hspace{0.5em}\\text{A}_{\\text{5}}= \\\\ \\text{ 0}\\cdot x\\text{+}1\\cdot y\\text{=}\\frac{\\text{16}}{\\text{51}}\\hspace{0.75em}\\text{B}_{\\text{5}}=\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image43-1": {
+    "id": "image43-1",
+    "latex": "3\\cdot x+15\\cdot y=7",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image44-1": {
+    "id": "image44-1",
+    "latex": "12\\cdot x+9\\cdot y=12",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image46-1": {
+    "id": "image46-1",
+    "latex": "y={}^{-}0\\mathrm{.}73\\cdot x+106\\mathrm{.}2",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image48-1": {
+    "id": "image48-1",
+    "latex": "\\ell _{1}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image49-1": {
+    "id": "image49-1",
+    "latex": "\\ell _{2}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image50-1": {
+    "id": "image50-1",
+    "latex": "\\left( \\sqrt{\\frac{3}{4}}\\mathrm{,}\\frac{1}{2} \\right)",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image51-1": {
+    "id": "image51-1",
+    "latex": "\\left( \\frac{{}^{-}1}{2}\\mathrm{,}\\sqrt{\\frac{3}{4}} \\right)",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image52-1": {
+    "id": "image52-1",
+    "latex": "\\left( \\sqrt{0\\mathrm{.}6}\\mathrm{,}{}^{-}\\sqrt{0\\mathrm{.}4} \\right)",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image53-1": {
+    "id": "image53-1",
+    "latex": "\\times ",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image54-1": {
+    "id": "image54-1",
+    "latex": "\\left[ \\begin{matrix}4 & {}^{-}1 \\\\ {}^{-}3 & 5\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}x \\\\ y\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image55-1": {
+    "id": "image55-1",
+    "latex": "\\left[ \\begin{array}{cc|c}2 & 21 & 5 \\\\ 6 & 8 & 12\\end{array} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image56-1": {
+    "id": "image56-1",
+    "latex": "\\left[ \\begin{array}{cc|c}1 & 0 & \\frac{106}{55} \\\\ 0 & 1 & \\frac{3}{55}\\end{array} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image57-1": {
+    "id": "image57-1",
+    "latex": "\\left\\{ \\begin{array}{l}\\text{ } \\\\ \\text{ } \\\\ \\text{ }\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image58-1": {
+    "id": "image58-1",
+    "latex": "\\left\\{ \\begin{array}{l}y=2\\mathrm{.}3\\cdot x+5 \\\\ y={}^{-}1\\mathrm{.}2\\cdot x+43\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image59-1": {
+    "id": "image59-1",
+    "latex": "\\left\\{ \\begin{array}{l}\\hspace{0.75em}3\\cdot x+1\\cdot y=1 \\\\ {}^{-}2\\cdot x+{}^{-}3\\cdot y=4\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image60-1": {
+    "id": "image60-1",
+    "latex": "\\left[ \\begin{array}{cc|c}3 & 15 & 7 \\\\ 12 & 9 & 12\\end{array} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image61-1": {
+    "id": "image61-1",
+    "latex": "\\left\\{ \\begin{array}{l}3\\cdot x+15\\cdot y=7\\hspace{0.75em} \\\\ 12\\cdot x+9\\cdot y=12\\text{ }\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image62-1": {
+    "id": "image62-1",
+    "latex": "\\left\\{ \\begin{array}{l}\\hspace{0.5em}1\\cdot x+0\\cdot y=\\frac{13}{17}\\hspace{0.5em} \\\\ \\text{ 0}\\cdot x\\text{+1}\\cdot y\\text{=}\\frac{\\text{16}}{\\text{51}}\\hspace{0.5em}\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image63-1": {
+    "id": "image63-1",
+    "latex": "\\left[ \\begin{array}{cc|c}1 & 0 & \\frac{13}{17} \\\\ 0 & 1 & \\frac{16}{51}\\end{array} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image64-1": {
+    "id": "image64-1",
+    "latex": "\\left[ \\begin{matrix}3 & 15 \\\\ 12 & 9\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image65-1": {
+    "id": "image65-1",
+    "latex": "\\left[ \\begin{matrix}7 \\\\ 12\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image67-1": {
+    "id": "image67-1",
+    "latex": "\\text{A}_{\\text{2}}=\\frac{\\text{1}}{\\text{3}}\\cdot \\text{A}_{\\text{1}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image68-1": {
+    "id": "image68-1",
+    "latex": "\\text{B}_{\\text{2}}=\\text{B}_{\\text{1}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image70-1": {
+    "id": "image70-1",
+    "latex": "\\frac{7}{3}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image71-1": {
+    "id": "image71-1",
+    "latex": "\\text{A}_{\\text{3}}=\\text{A}_{\\text{2}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image72-1": {
+    "id": "image72-1",
+    "latex": "\\text{B}_{\\text{3}}={}^{-}\\text{12}\\cdot \\text{A}_{\\text{2}}+\\text{B}_{\\text{2}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image77-1": {
+    "id": "image77-1",
+    "latex": "\\left( \\frac{13}{17}\\mathrm{,}\\frac{16}{51} \\right)",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image83-1": {
+    "id": "image83-1",
+    "latex": "\\left\\{ \\begin{array}{l}9\\cdot x+11\\cdot y\\hspace{0.5em}=3\\hspace{0.75em}\\text{A}_{\\text{1}} \\\\ 17\\cdot x+11\\cdot y=11\\hspace{0.5em}\\text{B}_{\\text{1}}\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image84-1": {
+    "id": "image84-1",
+    "latex": "\\left\\{ \\begin{array}{l}\\text{ 1}\\cdot x+\\frac{11}{9}\\cdot y\\text{ =}\\frac{\\text{1}}{\\text{3}}\\hspace{1.25em}\\text{A}_{\\text{2}}= \\\\ \\text{17}\\cdot x+11\\cdot y=11\\hspace{1.5em}\\text{B}_{\\text{2}}=\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image85-1": {
+    "id": "image85-1",
+    "latex": "\\left\\{ \\begin{array}{l}\\hspace{1.5em}1\\cdot x+\\frac{11}{9}\\cdot y=\\frac{1}{3}\\hspace{0.75em}\\text{A}_{\\text{3}}= \\\\ \\hspace{0.5em}0\\cdot x+\\frac{{}^{-}88}{9}\\cdot \\text{y=}\\frac{\\text{16}}{\\text{3}}\\hspace{0.75em}\\text{B}_{\\text{3}}=\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image86-1": {
+    "id": "image86-1",
+    "latex": "\\left\\{ \\begin{array}{l}\\hspace{0.5em}1\\cdot x+\\frac{11}{9}\\cdot y=\\frac{1}{3}\\hspace{0.5em}\\text{A}_{\\text{4}}= \\\\ \\hspace{0.5em}0\\cdot x+1\\cdot y=\\frac{{}^{-}6}{11}\\hspace{0.75em}\\text{B}_{\\text{4}}=\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image87-1": {
+    "id": "image87-1",
+    "latex": "\\left\\{ \\begin{array}{l}\\hspace{0.5em}1\\cdot x+0\\cdot y=1\\hspace{1.25em}\\text{A}_{\\text{5}}= \\\\ \\text{ 0}\\cdot x\\text{+}1\\cdot y\\text{=}\\frac{{}^{-}6}{\\text{11}}\\hspace{0.75em}\\text{B}_{\\text{5}}=\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image88-1": {
+    "id": "image88-1",
+    "latex": "y={}^{-}0\\mathrm{.}51x+121\\mathrm{.}2",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image89-1": {
+    "id": "image89-1",
+    "latex": "\\left[ \\begin{matrix}1 & 0\\mathrm{.}4 \\\\ 0 & 1\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}1 & 0 \\\\ 0 & 1\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image90-1": {
+    "id": "image90-1",
+    "latex": "\\left[ \\begin{matrix}1 & 0\\mathrm{.}4 \\\\ 0 & 1\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image91-1": {
+    "id": "image91-1",
+    "latex": "\\left\\{ \\begin{array}{l}\\text{ }1\\text{4}\\cdot x+21\\cdot y={}^{-}17 \\\\ \\hspace{0.5em}20\\cdot x+6\\cdot y=8\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image97-1": {
+    "id": "image97-1",
+    "latex": "\\left\\{ \\begin{array}{l}13x+11y=21 \\\\ 17x+1y=10\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image98-1": {
+    "id": "image98-1",
+    "latex": "\\begin{array}{l}1 \\\\ 0\\end{array}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image99-1": {
+    "id": "image99-1",
+    "latex": "\\begin{array}{l}0 \\\\ 1\\end{array}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image100-1": {
+    "id": "image100-1",
+    "latex": "\\left[ \\begin{matrix}1 & 0 \\\\ 0 & 1\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image101-1": {
+    "id": "image101-1",
+    "latex": "\\text{M}\\cdot \\left[ \\begin{matrix}1 & 0 \\\\ 0 & 1\\end{matrix} \\right]=\\left[ \\begin{matrix}\\text{a} & \\text{c} \\\\ \\text{b} & \\text{d}\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image102-1": {
+    "id": "image102-1",
+    "latex": "\\times ",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image103-1": {
+    "id": "image103-1",
+    "latex": "\\left[ \\begin{matrix}\\text{a} \\\\ \\text{b}\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image104-1": {
+    "id": "image104-1",
+    "latex": "\\left[ \\begin{matrix}\\text{c} \\\\ \\text{d}\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image105-1": {
+    "id": "image105-1",
+    "latex": "\\left( \\frac{1}{2}\\mathrm{,}\\frac{\\sqrt{3}}{2} \\right)",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image106-1": {
+    "id": "image106-1",
+    "latex": "\\left( \\frac{{}^{-}\\sqrt{3}}{2}\\mathrm{,}\\frac{1}{2} \\right)",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image108-1": {
+    "id": "image108-1",
+    "latex": "\\left\\{ \\begin{array}{l}y=\\frac{1}{5}\\cdot x \\\\ \\mathrm{(}y+{}^{-}5\\mathrm{)}={}^{-}5\\cdot \\mathrm{(}x+{}^{-}4\\mathrm{)}\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image112-1": {
+    "id": "image112-1",
+    "latex": "\\text{Area}=\\frac{\\text{1}}{\\text{2}}\\cdot \\text{the length of a base}\\cdot \\text{the length of an altitude to that base.}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image113-1": {
+    "id": "image113-1",
+    "latex": "\\sqrt{10^{2}+2^{2}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image114-1": {
+    "id": "image114-1",
+    "latex": "\\mathrm{(}y+{}^{-}5\\mathrm{)}=\\frac{{}^{-}10}{2}\\cdot \\mathrm{(}x+{}^{-}4\\mathrm{)}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image115-1": {
+    "id": "image115-1",
+    "latex": "\\left\\{ \\begin{array}{l}\\mathrm{(}y+{}^{-}5\\mathrm{)}\\text{ }={}^{-}5\\cdot \\mathrm{(}x+{}^{-}4\\mathrm{)} \\\\ \\hspace{2.5em}y=\\frac{1}{5}\\cdot x\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image116-1": {
+    "id": "image116-1",
+    "latex": "\\left\\{ \\begin{array}{l}5\\cdot x+1\\cdot y=25 \\\\ \\frac{{}^{-}1}{5}\\cdot x+1\\cdot y=0\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image117-1": {
+    "id": "image117-1",
+    "latex": "\\left[ \\begin{matrix}5 & 1 \\\\ \\frac{{}^{-}1}{5} & 1\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image118-1": {
+    "id": "image118-1",
+    "latex": "\\left[ \\begin{matrix}25 \\\\ 0\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image119-1": {
+    "id": "image119-1",
+    "latex": "\\left( \\frac{125}{26}\\mathrm{,}\\frac{25}{26} \\right)",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image121-1": {
+    "id": "image121-1",
+    "latex": "\\left( \\sqrt{\\frac{1}{2}}\\mathrm{,}{}^{-}\\sqrt{\\frac{1}{2}} \\right)",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image122-1": {
+    "id": "image122-1",
+    "latex": "\\left( {}^{-}\\sqrt{0\\mathrm{.}57}\\mathrm{,}\\sqrt{0\\mathrm{.}43} \\right)",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image126-1": {
+    "id": "image126-1",
+    "latex": "x^{2}=4",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image127-1": {
+    "id": "image127-1",
+    "latex": "x^{2}+y^{2}=1",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image129-1": {
+    "id": "image129-1",
+    "latex": "\\left( \\frac{\\sqrt{2}}{2}\\mathrm{,}\\frac{\\sqrt{2}}{2} \\right)",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image130-1": {
+    "id": "image130-1",
+    "latex": "\\left( \\frac{{}^{-}\\sqrt{2}}{2}\\mathrm{,}\\frac{\\sqrt{2}}{2} \\right)",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image133-1": {
+    "id": "image133-1",
+    "latex": "\\left( \\frac{{}^{-}1}{2}\\mathrm{,}\\frac{{}^{-}\\sqrt{3}}{2} \\right)",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image135-1": {
+    "id": "image135-1",
+    "latex": "y^{2}=1-x^{2}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image136-1": {
+    "id": "image136-1",
+    "latex": "\\sqrt{\\text{ }}\\mathrm{(}1-\\text{X}^{2}\\mathrm{)}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image137-1": {
+    "id": "image137-1",
+    "latex": "{}^{-}\\sqrt{\\text{ }}\\mathrm{(}1-\\text{X}^{2}\\mathrm{)}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image138-1": {
+    "id": "image138-1",
+    "latex": "x-\\text{axis}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image139-1": {
+    "id": "image139-1",
+    "latex": "\\mathrm{(}{}^{-}\\sqrt{0\\mathrm{.}7}\\mathrm{,}\\sqrt{0\\mathrm{.}3}\\mathrm{)}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image140-1": {
+    "id": "image140-1",
+    "latex": "\\sqrt{1^{2}+0^{2}}=\\sqrt{1}=1",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image141-1": {
+    "id": "image141-1",
+    "latex": "\\sqrt{\\mathrm{(cos(}{}^{-}130^{\\text{o}}\\mathrm{))}^{2}+\\mathrm{(sin(}{}^{-}130^{\\text{o}}\\mathrm{))}^{2}}=1",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image142-1": {
+    "id": "image142-1",
+    "latex": "x^{2}+y^{2}=1",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image144-1": {
+    "id": "image144-1",
+    "latex": "\\text{a}^{\\text{2}}+\\text{b}^{\\text{2}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image145-1": {
+    "id": "image145-1",
+    "latex": "\\text{e}^{\\text{2}}+\\text{f }^{\\text{2}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image147-1": {
+    "id": "image147-1",
+    "latex": "\\ell ",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image148-1": {
+    "id": "image148-1",
+    "latex": "\\text{a}^{\\text{2}}+\\text{a}^{\\text{2}}=\\text{1}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image149-1": {
+    "id": "image149-1",
+    "latex": "\\sqrt{\\frac{1}{2}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image150-1": {
+    "id": "image150-1",
+    "latex": "\\frac{1}{\\sqrt{2}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image151-1": {
+    "id": "image151-1",
+    "latex": "\\frac{1}{\\sqrt{2}}\\cdot \\frac{\\sqrt{2}}{\\sqrt{2}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image152-1": {
+    "id": "image152-1",
+    "latex": "\\sqrt{\\text{ }}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image154-1": {
+    "id": "image154-1",
+    "latex": "\\left( \\frac{\\sqrt{3}}{2}\\mathrm{,}\\frac{1}{2} \\right)",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image155-1": {
+    "id": "image155-1",
+    "latex": "\\left( \\frac{{}^{-}1}{2}\\mathrm{,}\\frac{\\sqrt{3}}{2} \\right)",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image156-1": {
+    "id": "image156-1",
+    "latex": "y=x",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image157-1": {
+    "id": "image157-1",
+    "latex": "\\text{a}^{\\text{2}}+\\text{a}^{2}=1^{2}=1",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image158-1": {
+    "id": "image158-1",
+    "latex": "\\begin{array}{l}\\text{a}^{\\text{2}}+\\text{a}^{\\text{2}}=\\text{1} \\\\ \\hspace{1.25em}\\text{2}\\cdot \\text{a}^{\\text{2}}=\\text{1} \\\\ \\hspace{1.75em}\\text{a}^{\\text{2}}=\\frac{\\text{1}}{\\text{2}}\\end{array}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image159-1": {
+    "id": "image159-1",
+    "latex": "\\frac{1}{2}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image160-1": {
+    "id": "image160-1",
+    "latex": "\\sqrt{\\frac{1}{2}}=\\frac{\\sqrt{1}}{\\sqrt{2}}=\\frac{1}{\\sqrt{2}}=\\frac{1}{\\sqrt{2}}\\cdot \\frac{\\sqrt{2}}{\\sqrt{2}}=\\frac{\\sqrt{2}}{2}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image164-1": {
+    "id": "image164-1",
+    "latex": "\\sqrt{\\frac{3}{4}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image165-1": {
+    "id": "image165-1",
+    "latex": "\\frac{\\sqrt{3}}{\\sqrt{4}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image167-1": {
+    "id": "image167-1",
+    "latex": "\\left[ \\begin{matrix}0 & {}^{-}1 \\\\ 1 & 0\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image168-1": {
+    "id": "image168-1",
+    "latex": "\\left[ \\begin{matrix}\\text{0} & {}^{-}\\text{1} \\\\ \\text{1} & \\text{0}\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}\\text{cos(m)} \\\\ \\text{sin(m)}\\end{matrix} \\right]=\\left[ \\begin{matrix}{}^{-}\\text{sin(m)} \\\\ \\text{cos(m)}\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image169-1": {
+    "id": "image169-1",
+    "latex": "\\left[ \\begin{matrix}\\text{cos(m)} & {}^{-}\\text{sin(m)} \\\\ \\text{sin(m)} & \\text{cos(m)}\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image171-1": {
+    "id": "image171-1",
+    "latex": "\\left[ \\begin{matrix}\\text{L}\\text{1} \\\\ \\text{L}\\text{2}\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image172-1": {
+    "id": "image172-1",
+    "latex": "r_{y=x}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image173-1": {
+    "id": "image173-1",
+    "latex": "\\text{R}_{{}^{-}90}\\circ r_{y=x}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image174-1": {
+    "id": "image174-1",
+    "latex": "r_{y=x}\\circ \\text{R}_{{}^{-}90}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image178-1": {
+    "id": "image178-1",
+    "latex": "\\text{R}_{\\text{90}}\\circ \\text{S}_{\\text{4}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image179-1": {
+    "id": "image179-1",
+    "latex": "\\text{R}_{{}^{-}\\text{90}}\\circ \\text{S}_{{}^{-}\\text{4}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image181-1": {
+    "id": "image181-1",
+    "latex": "\\text{g}^{\\text{2}}+\\text{h}^{\\text{2}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image184-1": {
+    "id": "image184-1",
+    "latex": "\\text{S}\\mathrm{(}x\\mathrm{,}y\\mathrm{)}=",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image185-1": {
+    "id": "image185-1",
+    "latex": "\\left[ \\begin{matrix}\\frac{\\sqrt{2}}{2} & \\frac{{}^{-}\\sqrt{2}}{2} \\\\ \\frac{\\sqrt{2}}{2} & \\frac{\\sqrt{2}}{2}\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}\\text{X}\\text{1T} \\\\ \\text{Y}\\text{1T}\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image186-1": {
+    "id": "image186-1",
+    "latex": "\\left[ \\begin{matrix}\\mathrm{cos(}\\alpha \\mathrm{)} & {}^{-}\\mathrm{sin(}\\alpha \\mathrm{)} \\\\ \\mathrm{sin(}\\alpha \\mathrm{)} & \\mathrm{cos(}\\alpha \\mathrm{)}\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image187-1": {
+    "id": "image187-1",
+    "latex": "\\alpha ",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image188-1": {
+    "id": "image188-1",
+    "latex": "\\text{R}_{\\text{90}}\\circ \\text{S}_{{}^{-}\\text{3}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image189-1": {
+    "id": "image189-1",
+    "latex": "\\text{R}_{\\text{270}}\\circ \\text{S}_{\\text{3}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image191-1": {
+    "id": "image191-1",
+    "latex": "\\text{R}_{\\text{60}}\\circ \\text{S}_{\\frac{\\text{1}}{\\text{2}}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image192-1": {
+    "id": "image192-1",
+    "latex": "x\\mathrm{,}y\\mathrm{)}=\\mathrm{(}x+\\text{c}\\mathrm{,}y+\\text{d}\\mathrm{)}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image193-1": {
+    "id": "image193-1",
+    "latex": "\\text{T}_{\\text{v}}\\circ \\text{T}_{\\text{h.}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image195-1": {
+    "id": "image195-1",
+    "latex": "x-\\text{axis}\\mathrm{.}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image196-1": {
+    "id": "image196-1",
+    "latex": "\\left[ \\begin{matrix}x \\\\ y\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image197-1": {
+    "id": "image197-1",
+    "latex": "r_{y=x}\\mathrm{(}x\\mathrm{,}y\\mathrm{)}=",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image198-1": {
+    "id": "image198-1",
+    "latex": "r_{y=x}\\mathrm{(}\\frac{\\sqrt{3}}{2}\\mathrm{,}\\frac{1}{2}\\mathrm{)}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image204-1": {
+    "id": "image204-1",
+    "latex": "\\text{R}_{\\text{120}}\\circ \\text{S}_{\\text{4}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image205-1": {
+    "id": "image205-1",
+    "latex": "\\text{R}_{{}^{-}\\text{240}}\\circ \\text{S}_{\\text{4}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image207-1": {
+    "id": "image207-1",
+    "latex": "\\text{R}_{\\text{300}}\\circ \\text{S}_{{}^{-}\\text{4}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image208-1": {
+    "id": "image208-1",
+    "latex": "\\text{R}_{{}^{-}60}\\circ \\text{S}_{{}^{-}\\text{4}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image212-1": {
+    "id": "image212-1",
+    "latex": "\\text{R}_{30}\\mathrm{(}1\\mathrm{,}0\\mathrm{)}=\\left( \\frac{\\sqrt{3}}{2}\\mathrm{,}\\frac{1}{2} \\right)",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image213-1": {
+    "id": "image213-1",
+    "latex": "\\text{R}_{45}\\mathrm{(}1\\mathrm{,}0\\mathrm{)}=\\left( \\frac{\\sqrt{2}}{2}\\mathrm{,}\\frac{\\sqrt{2}}{2} \\right)",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image214-1": {
+    "id": "image214-1",
+    "latex": "\\text{R}_{60}\\mathrm{(}1\\mathrm{,}0\\mathrm{)}=\\left( \\frac{1}{2}\\mathrm{,}\\frac{\\sqrt{3}}{2} \\right)",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image216-1": {
+    "id": "image216-1",
+    "latex": "r_{y=x}\\mathrm{(}\\text{A}\\mathrm{)}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image217-1": {
+    "id": "image217-1",
+    "latex": "r_{y}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image218-1": {
+    "id": "image218-1",
+    "latex": "\\mathrm{(}\\sqrt{2}\\mathrm{/}2\\mathrm{)}\\text{X}\\text{1T}+\\text{(}{}^{-}\\sqrt{\\text{2}}\\text{/2)Y}\\text{1T}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image219-1": {
+    "id": "image219-1",
+    "latex": "\\mathrm{(}\\sqrt{2}\\mathrm{/}2\\mathrm{)}\\text{X}\\text{1T}+\\text{(}\\sqrt{\\text{2}}\\text{/2)Y}\\text{1T}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image222-1": {
+    "id": "image222-1",
+    "latex": "0+{}^{-}4=\\sqrt{3}\\cdot \\mathrm{(}x+2\\mathrm{)}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image223-1": {
+    "id": "image223-1",
+    "latex": "y+{}^{-}4=\\sqrt{3}\\cdot \\mathrm{(}x+2\\mathrm{)}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image225-1": {
+    "id": "image225-1",
+    "latex": "\\left[ \\begin{matrix}\\mathrm{cos(}160^{\\text{o}}\\mathrm{)} & {}^{-}\\mathrm{sin(}160^{\\text{o}}\\mathrm{)} \\\\ \\mathrm{sin(}160^{\\text{o}}\\mathrm{)} & \\mathrm{cos(}160^{\\text{o}}\\mathrm{)}\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image227-1": {
+    "id": "image227-1",
+    "latex": "\\text{R}_{150}\\circ \\text{S}_{5}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image228-1": {
+    "id": "image228-1",
+    "latex": "\\text{T}_{\\text{v}}\\circ \\text{T}_{\\text{h}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image229-1": {
+    "id": "image229-1",
+    "latex": "\\text{R}_{{}^{-}210}\\circ \\text{S}_{5}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image230-1": {
+    "id": "image230-1",
+    "latex": "\\text{R}_{{}^{-}30}\\circ \\text{S}_{{}^{-}5}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image231-1": {
+    "id": "image231-1",
+    "latex": "\\text{R}_{\\theta }\\circ \\text{S}_{\\text{r}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image232-1": {
+    "id": "image232-1",
+    "latex": "\\theta ",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image234-1": {
+    "id": "image234-1",
+    "latex": "\\text{R}_{\\text{72}}\\circ \\text{S}_{\\text{3}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image235-1": {
+    "id": "image235-1",
+    "latex": "y-\\text{axis}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image236-1": {
+    "id": "image236-1",
+    "latex": "\\left[ \\begin{matrix}\\text{X}\\text{1T} \\\\ \\text{Y}\\text{1T}\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image241-1": {
+    "id": "image241-1",
+    "latex": "\\mathrm{[}\\text{r}\\mathrm{,}\\theta \\mathrm{]}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image242-1": {
+    "id": "image242-1",
+    "latex": "\\mathrm{(}\\text{R}_{\\theta }\\circ \\text{S}_{\\text{r}}\\mathrm{)(}1\\mathrm{,}0\\mathrm{)}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image243-1": {
+    "id": "image243-1",
+    "latex": "\\mathrm{(}\\text{R}_{\\theta }\\circ \\text{S}_{\\text{r}}\\mathrm{)(}1\\mathrm{,}0\\mathrm{)}=\\text{R}_{\\theta }\\mathrm{(}\\text{S}_{\\text{r}}\\mathrm{(}1\\mathrm{,}0\\mathrm{))}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image244-1": {
+    "id": "image244-1",
+    "latex": "\\text{R}_{\\theta }\\mathrm{(}\\text{S}_{\\text{r}}\\mathrm{(}1\\mathrm{,}0\\mathrm{))}=R_{\\theta }\\mathrm{(}\\text{r}\\mathrm{,}0\\mathrm{)}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image245-1": {
+    "id": "image245-1",
+    "latex": "R_{\\theta }\\mathrm{(}\\text{r}\\mathrm{,}0\\mathrm{)}=\\left[ \\begin{matrix}\\mathrm{cos(}\\theta \\mathrm{)} & {}^{-}\\mathrm{sin(}\\theta \\mathrm{)} \\\\ \\mathrm{sin(}\\theta \\mathrm{)} & \\mathrm{cos(}\\theta \\mathrm{)}\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}\\text{r} \\\\ 0\\end{matrix} \\right]=\\left[ \\begin{matrix}\\text{r}\\cdot \\mathrm{cos(}\\theta \\mathrm{)} \\\\ \\text{r}\\cdot \\mathrm{sin(}\\theta \\mathrm{)}\\end{matrix} \\right]=\\mathrm{(}\\text{r}\\cdot \\mathrm{cos(}\\theta \\mathrm{),}\\text{r}\\cdot \\mathrm{sin(}\\theta \\mathrm{))}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image246-1": {
+    "id": "image246-1",
+    "latex": "\\mathrm{(}\\text{r}\\cdot \\mathrm{cos(}\\theta \\mathrm{),}\\text{r}\\cdot \\mathrm{sin(}\\theta \\mathrm{))}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image247-1": {
+    "id": "image247-1",
+    "latex": "\\mathrm{(cos(}\\theta \\mathrm{),sin(}\\theta \\mathrm{))}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image248-1": {
+    "id": "image248-1",
+    "latex": "\\text{S}_{\\text{r}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image249-1": {
+    "id": "image249-1",
+    "latex": "S_{\\text{r}}\\mathrm{(}x\\mathrm{,}y\\mathrm{)}=\\mathrm{(}\\text{r}\\cdot x\\mathrm{,}\\text{r}\\cdot y\\mathrm{)}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image250-1": {
+    "id": "image250-1",
+    "latex": "\\text{R}_{\\text{110}}\\circ \\text{S}_{\\text{2}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image251-1": {
+    "id": "image251-1",
+    "latex": "\\text{R}_{{}^{-}\\text{70}}\\circ \\text{S}_{{}^{-}\\text{2}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image252-1": {
+    "id": "image252-1",
+    "latex": "\\text{R}_{{}^{-}250}\\circ \\text{S}_{\\text{2}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image254-1": {
+    "id": "image254-1",
+    "latex": "m",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image263-1": {
+    "id": "image263-1",
+    "latex": "y={}^{-}2\\cdot x",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image264-1": {
+    "id": "image264-1",
+    "latex": "\\mathrm{(}y+5\\mathrm{)}={}^{-}2\\cdot \\mathrm{(}x+{}^{-}3\\mathrm{)}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image268-1": {
+    "id": "image268-1",
+    "latex": "\\left[ \\begin{matrix}2 & 0 \\\\ 0 & 3\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image269-1": {
+    "id": "image269-1",
+    "latex": "\\left[ \\begin{matrix}2 & 0 \\\\ 0 & 3\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}x \\\\ y\\end{matrix} \\right]=\\left[ \\begin{matrix}2\\cdot x \\\\ 3\\cdot y\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image272-1": {
+    "id": "image272-1",
+    "latex": "\\ell _{1}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image272-2": {
+    "id": "image272-2",
+    "latex": "\\ell _{1}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image272-3": {
+    "id": "image272-3",
+    "latex": "\\ell _{2}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image272-4": {
+    "id": "image272-4",
+    "latex": "\\ell _{2}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image273-1": {
+    "id": "image273-1",
+    "latex": "r_{\\ell _{1}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image274-1": {
+    "id": "image274-1",
+    "latex": "r_{\\ell _{2}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image275-1": {
+    "id": "image275-1",
+    "latex": "r_{\\ell _{2}}\\circ r_{\\ell _{1}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image282-1": {
+    "id": "image282-1",
+    "latex": "\\ell _{1}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image282-2": {
+    "id": "image282-2",
+    "latex": "\\ell _{1}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image282-3": {
+    "id": "image282-3",
+    "latex": "\\ell _{2}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image282-4": {
+    "id": "image282-4",
+    "latex": "\\ell _{2}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image283-1": {
+    "id": "image283-1",
+    "latex": "r_{\\ell _{1}}\\circ r_{\\ell _{2}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image285-1": {
+    "id": "image285-1",
+    "latex": "\\left\\{ \\begin{array}{l}4\\cdot x+6\\cdot y=4\\hspace{1.25em}\\text{A}_{\\text{1}} \\\\ 3\\cdot x+7\\cdot y=13\\hspace{1.0em}\\text{B}_{\\text{1}}\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image286-1": {
+    "id": "image286-1",
+    "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+\\frac{6}{4}\\cdot y=1\\hspace{1.25em}\\text{A}_{\\text{2}}= \\\\ 3\\cdot x+7\\cdot y=13\\hspace{0.75em}\\text{B}_{\\text{2}}=\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image287-1": {
+    "id": "image287-1",
+    "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+\\frac{6}{4}\\cdot y=1\\hspace{1.5em}\\text{A}_{\\text{3}}= \\\\ 0\\cdot x+\\frac{10}{4}\\cdot y=10\\hspace{0.5em}\\text{B}_{\\text{3}}=\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image288-1": {
+    "id": "image288-1",
+    "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+\\frac{6}{4}\\cdot y=1\\hspace{1.0em}\\text{A}_{\\text{4}}= \\\\ 0\\cdot x+1\\cdot y=4\\hspace{1.0em}\\text{B}_{\\text{4}}=\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image289-1": {
+    "id": "image289-1",
+    "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+0\\cdot y=\\frac{{}^{-}20}{4}\\hspace{1.25em}\\text{A}_{\\text{5}}= \\\\ 0\\cdot x+1\\cdot y=4\\hspace{2.5em}\\text{B}_{\\text{5}}=\\end{array} \\right.",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image290-1": {
+    "id": "image290-1",
+    "latex": "\\frac{22}{7}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image291-1": {
+    "id": "image291-1",
+    "latex": "\\left[ \\begin{matrix}6 & 0 \\\\ 0 & 6\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image292-1": {
+    "id": "image292-1",
+    "latex": "\\left[ \\begin{matrix}\\frac{{}^{-}1}{2} & 0 \\\\ 0 & \\frac{{}^{-}1}{2}\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image294-1": {
+    "id": "image294-1",
+    "latex": "\\frac{1}{2}\\cdot \\pi ",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image295-1": {
+    "id": "image295-1",
+    "latex": "\\pi ",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image296-1": {
+    "id": "image296-1",
+    "latex": "2\\cdot \\pi ",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image299-1": {
+    "id": "image299-1",
+    "latex": "\\left[ \\begin{matrix}0 & 0 & 1 & 1 & 1 & 1 \\\\ 1 & 0 & 0 & 1 & 1 & 1 \\\\ 0 & 1 & 0 & 1 & 0 & 1 \\\\ 0 & 0 & 0 & 0 & 1 & 1 \\\\ 0 & 0 & 1 & 0 & 0 & 1 \\\\ 0 & 0 & 0 & 0 & 0 & 0\\end{matrix} \\right]+\\left[ \\begin{matrix}0 & 1 & 1 & 1 & 1 & 3 \\\\ 0 & 0 & 2 & 1 & 2 & 3 \\\\ 1 & 0 & 0 & 1 & 2 & 2 \\\\ 0 & 0 & 1 & 0 & 0 & 1 \\\\ 0 & 1 & 0 & 1 & 0 & 1 \\\\ 0 & 0 & 0 & 0 & 0 & 0\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image303-1": {
+    "id": "image303-1",
+    "latex": "\\left[ \\begin{matrix}\\text{r} & \\text{0} \\\\ \\text{0} & \\text{r}\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image304-1": {
+    "id": "image304-1",
+    "latex": "\\left[ \\begin{matrix}\\text{r} & \\text{0} \\\\ \\text{0} & \\text{r}\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}x \\\\ y\\end{matrix} \\right]=\\left[ \\begin{matrix}\\text{r}\\cdot x \\\\ \\text{r}\\cdot y\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image305-1": {
+    "id": "image305-1",
+    "latex": "\\frac{8}{5}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image306-1": {
+    "id": "image306-1",
+    "latex": "\\frac{5}{8}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image314-1": {
+    "id": "image314-1",
+    "latex": "\\text{R}_{\\text{120}}\\circ \\text{R}_{\\text{60}}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image317-1": {
+    "id": "image317-1",
+    "latex": "\\left[ \\begin{matrix}\\frac{\\sqrt{2}}{2} & \\frac{{}^{-}\\sqrt{2}}{2} \\\\ \\frac{\\sqrt{2}}{2} & \\frac{\\sqrt{2}}{2}\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image318-1": {
+    "id": "image318-1",
+    "latex": "\\text{X}\\cdot \\left[ \\begin{matrix}\\frac{\\sqrt{2}}{2} & \\frac{{}^{-}\\sqrt{2}}{2} \\\\ \\frac{\\sqrt{2}}{2} & \\frac{\\sqrt{2}}{2}\\end{matrix} \\right]=\\left[ \\begin{matrix}{}^{-}1 & 0 \\\\ 0 & {}^{-}1\\end{matrix} \\right]",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image319-1": {
+    "id": "image319-1",
+    "latex": "\\mathrm{(}y+{}^{-}1\\mathrm{.}2\\mathrm{)}={}^{-}0\\mathrm{.}8\\cdot \\mathrm{(}x+7\\mathrm{)}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  },
+  "image320-1": {
+    "id": "image320-1",
+    "latex": "\\mathrm{(}y+1\\mathrm{.}7\\mathrm{)}=1\\mathrm{.}8\\cdot \\mathrm{(}x+7\\mathrm{.}2\\mathrm{)}",
+    "method": "native-equation-tree",
+    "review": "needs_review"
+  }
+}

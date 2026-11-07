@@ -1,0 +1,15 @@
+{
+  "kind": "annotated-math",
+  "expressions": [
+    {
+      "id": "expression-1",
+      "latex": "y={}^{-}2.1\\cdot x"
+    },
+    {
+      "id": "expression-2",
+      "latex": "(y+{}^{-}7)={}^{-}2.1\\cdot(x+3)"
+    }
+  ],
+  "source_asset_id": "image395",
+  "review": "needs_review"
+}

@@ -1,0 +1,18 @@
+{
+  "document_sha256": "07b2a584a7686eaaa5f3edbabab08dd1f9ceeb91fb65181cd9193feb38dc9abb",
+  "reviewer": "assistant prototype transcription",
+  "assets": [
+    {
+      "id": "image262",
+      "sha256": "f0630fe34c8174f18c42f0f2d20f21f25f5cac4294f805b78f971cc232973501",
+      "conversion": {
+        "kind": "network-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "examples/image262.scene.json",
+        "preview": "examples/image262.svg",
+        "evidence": "Visual transcription; original remains in the textbook. Drawing positions approximate. Ten directed edges with parallel edges preserved."
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "table",
+  "headers": [
+    "The measure of a length in meters",
+    "The measure of the same length in inches"
+  ],
+  "rows": [
+    [
+      1,
+      null
+    ],
+    [
+      2,
+      "78.74"
+    ],
+    [
+      3,
+      "118.11"
+    ],
+    [
+      5,
+      "196.85"
+    ],
+    [
+      null,
+      "393.70"
+    ]
+  ],
+  "title": null,
+  "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+  "source_asset_id": "image231",
+  "review": "needs_review"
+}

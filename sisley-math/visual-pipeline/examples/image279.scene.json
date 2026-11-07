@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "kind": "network",
+  "review": "needs_review",
+  "coordinate_meaning": "Approximate drawing positions, not mathematical measurements. Connectivity transcribed separately from visual layout.",
+  "notes": [
+    "Candidate reconstruction; original retained for comparison. Parallel edges and loops are intentional."
+  ],
+  "width": 900,
+  "height": 258,
+  "nodes": [
+    {
+      "id": "1",
+      "label": "1",
+      "x": 47,
+      "y": 144,
+      "label_dx": -42,
+      "label_dy": 29
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "x": 492,
+      "y": 214,
+      "label_dx": -30,
+      "label_dy": 30
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "x": 274,
+      "y": 13,
+      "label_dx": 4,
+      "label_dy": 40
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "x": 858,
+      "y": 187,
+      "label_dx": 20,
+      "label_dy": 30
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "x": 738,
+      "y": 27,
+      "label_dx": -22,
+      "label_dy": 34
+    }
+  ],
+  "edges": [
+    {
+      "id": "e13-top",
+      "from": "1",
+      "to": "3",
+      "directed": true,
+      "arrow_at": 0.5,
+      "controls": [
+        [
+          161,
+          -17
+        ]
+      ]
+    },
+    {
+      "id": "e13-inner",
+      "from": "1",
+      "to": "3",
+      "directed": true,
+      "arrow_at": 0.72,
+      "controls": [
+        [
+          213,
+          138
+        ]
+      ]
+    },
+    {
+      "id": "e31-inner",
+      "from": "3",
+      "to": "1",
+      "directed": true,
+      "arrow_at": 0.7,
+      "controls": [
+        [
+          213,
+          138
+        ]
+      ]
+    },
+    {
+      "id": "e35",
+      "from": "3",
+      "to": "5",
+      "directed": true,
+      "arrow_at": 0.55
+    },
+    {
+      "id": "e54",
+      "from": "5",
+      "to": "4",
+      "directed": true,
+      "arrow_at": 0.55
+    },
+    {
+      "id": "e43",
+      "from": "4",
+      "to": "3",
+      "directed": true,
+      "arrow_at": 0.55
+    },
+    {
+      "id": "e14",
+      "from": "1",
+      "to": "4",
+      "directed": true,
+      "arrow_at": 0.55
+    },
+    {
+      "id": "e12",
+      "from": "1",
+      "to": "2",
+      "directed": true,
+      "arrow_at": 0.55
+    },
+    {
+      "id": "e21",
+      "from": "2",
+      "to": "1",
+      "directed": true,
+      "arrow_at": 0.65
+    },
+    {
+      "id": "e42",
+      "from": "4",
+      "to": "2",
+      "directed": true,
+      "arrow_at": 0.55
+    }
+  ],
+  "source_asset_id": "image279",
+  "title": "Candidate reconstruction of GAT image279"
+}

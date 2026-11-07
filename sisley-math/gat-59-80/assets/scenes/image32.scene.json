@@ -1,0 +1,355 @@
+{
+  "version": 1,
+  "kind": "vector",
+  "source_asset_id": "image32",
+  "title": "GAT 59-80, image32",
+  "description": "Original drawing paths; positions are layout coordinates, not inferred mathematical constraints.",
+  "view_box": [
+    0.0,
+    0.0,
+    9.0,
+    9.0
+  ],
+  "coordinate_meaning": "PDF/SVG drawing coordinates, top-left origin; source transforms retained.",
+  "representation_level": "drawing-primitives",
+  "provenance": {
+    "original_sha256": "0937fcfe0eea19f301fee085357274bbc28fcec49d84d839c82eca7e7fba59d6",
+    "source_kind": "atlas",
+    "pdf_sha256": "780f433adf7db592e7c0029c01142518c689ce6c9724ef3c0b927d3f6cd0d574"
+  },
+  "elements": [
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(100%, 100%, 100%)",
+        "fill-opacity": "1",
+        "d": "M 1 1 L 8 1 L 8 8 L 1 8 Z M 1 1 ",
+        "id": "primitive-0001"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "2",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 37 755 L 42 755 ",
+        "transform": "matrix(1, 0, 0, -1, -35, 757)",
+        "id": "primitive-0002"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "2",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 42 755 L 42 750 ",
+        "transform": "matrix(1, 0, 0, -1, -35, 757)",
+        "id": "primitive-0003"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "2",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 42 750 L 37 750 ",
+        "transform": "matrix(1, 0, 0, -1, -35, 757)",
+        "id": "primitive-0004"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "2",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 37 750 L 37 755 ",
+        "transform": "matrix(1, 0, 0, -1, -35, 757)",
+        "id": "primitive-0005"
+      }
+    }
+  ],
+  "labels": [],
+  "source_drawing_primitives": [
+    {
+      "object_type": "line",
+      "x0": 37.0,
+      "x1": 42.0,
+      "top": -746.0,
+      "bottom": -746.0,
+      "path": [
+        [
+          "m",
+          [
+            37.0,
+            -746.0
+          ]
+        ],
+        [
+          "l",
+          [
+            42.0,
+            -746.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          37.0,
+          -746.0
+        ],
+        [
+          42.0,
+          -746.0
+        ]
+      ],
+      "linewidth": 2.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 42.0,
+      "x1": 42.0,
+      "top": -746.0,
+      "bottom": -741.0,
+      "path": [
+        [
+          "m",
+          [
+            42.0,
+            -746.0
+          ]
+        ],
+        [
+          "l",
+          [
+            42.0,
+            -741.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          42.0,
+          -746.0
+        ],
+        [
+          42.0,
+          -741.0
+        ]
+      ],
+      "linewidth": 2.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 37.0,
+      "x1": 42.0,
+      "top": -741.0,
+      "bottom": -741.0,
+      "path": [
+        [
+          "m",
+          [
+            42.0,
+            -741.0
+          ]
+        ],
+        [
+          "l",
+          [
+            37.0,
+            -741.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          42.0,
+          -741.0
+        ],
+        [
+          37.0,
+          -741.0
+        ]
+      ],
+      "linewidth": 2.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 37.0,
+      "x1": 37.0,
+      "top": -746.0,
+      "bottom": -741.0,
+      "path": [
+        [
+          "m",
+          [
+            37.0,
+            -741.0
+          ]
+        ],
+        [
+          "l",
+          [
+            37.0,
+            -746.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          37.0,
+          -741.0
+        ],
+        [
+          37.0,
+          -746.0
+        ]
+      ],
+      "linewidth": 2.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "object_type": "rect",
+      "x0": 36.0,
+      "x1": 43.0,
+      "top": -747.0,
+      "bottom": -740.0,
+      "path": [
+        [
+          "m",
+          [
+            36.0,
+            -747.0
+          ]
+        ],
+        [
+          "l",
+          [
+            43.0,
+            -747.0
+          ]
+        ],
+        [
+          "l",
+          [
+            43.0,
+            -740.0
+          ]
+        ],
+        [
+          "l",
+          [
+            36.0,
+            -740.0
+          ]
+        ],
+        [
+          "l",
+          [
+            36.0,
+            -747.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          36.0,
+          -747.0
+        ],
+        [
+          43.0,
+          -747.0
+        ],
+        [
+          43.0,
+          -740.0
+        ],
+        [
+          36.0,
+          -740.0
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "review": "needs_review",
+  "label_review": "Legacy PDF text encodings may require correction. SVG outlines preserve visual labels."
+}

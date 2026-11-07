@@ -1,0 +1,825 @@
+{
+  "source": "Current retained PNGs compared with SVG reconstructions rasterized at their original pixel dimensions.",
+  "method": "Binary ink overlap at gray<180 with a 2-pixel positional tolerance; mean absolute grayscale difference uses 0-255 intensity. Metrics measure rendering similarity, not mathematical correctness.",
+  "visual_review": "All 115 source/reconstruction pairs inspected on 15 comparison sheets. Network layouts are manually redrawn approximations. Image1 is a traced waveform. Image167/168/172 contain very thin strokes with antialiasing differences.",
+  "tests_passed": 17,
+  "source_assets": 336,
+  "placements": 666,
+  "code_candidates": 115,
+  "vector_scenes": 111,
+  "networks": 4,
+  "annotated_math": 10,
+  "coordinate_givens": 12,
+  "remaining_images": [
+    "image15"
+  ],
+  "remaining_reason": "Calculator screenshot retained as an image.",
+  "metrics": [
+    {
+      "id": "image1",
+      "kind": "vector-scene",
+      "ink_recall_2px": 0.99367,
+      "ink_precision_2px": 0.99989,
+      "mean_absolute_gray_difference": 1.8426
+    },
+    {
+      "id": "image2",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.427
+    },
+    {
+      "id": "image3",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.0191
+    },
+    {
+      "id": "image5",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.3241
+    },
+    {
+      "id": "image6",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.2932
+    },
+    {
+      "id": "image9",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.0366
+    },
+    {
+      "id": "image19",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.3168
+    },
+    {
+      "id": "image20",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.5831
+    },
+    {
+      "id": "image70",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.6572
+    },
+    {
+      "id": "image73",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.7465
+    },
+    {
+      "id": "image76",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.2094
+    },
+    {
+      "id": "image90",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.4113
+    },
+    {
+      "id": "image92",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.947
+    },
+    {
+      "id": "image109",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.4629
+    },
+    {
+      "id": "image110",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.5108
+    },
+    {
+      "id": "image117",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.5507
+    },
+    {
+      "id": "image121",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.7635
+    },
+    {
+      "id": "image122",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.8896
+    },
+    {
+      "id": "image123",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.6979
+    },
+    {
+      "id": "image124",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.4602
+    },
+    {
+      "id": "image127",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.3574
+    },
+    {
+      "id": "image128",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.451
+    },
+    {
+      "id": "image131",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.2273
+    },
+    {
+      "id": "image132",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.3068
+    },
+    {
+      "id": "image133",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.7072
+    },
+    {
+      "id": "image134",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.8894
+    },
+    {
+      "id": "image137",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.2898
+    },
+    {
+      "id": "image138",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.5949
+    },
+    {
+      "id": "image139",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.5227
+    },
+    {
+      "id": "image140",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.5283
+    },
+    {
+      "id": "image141",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.127
+    },
+    {
+      "id": "image142",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.3058
+    },
+    {
+      "id": "image143",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.4133
+    },
+    {
+      "id": "image144",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.5227
+    },
+    {
+      "id": "image145",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.6578
+    },
+    {
+      "id": "image146",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.9291
+    },
+    {
+      "id": "image147",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.3339
+    },
+    {
+      "id": "image152",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.7687
+    },
+    {
+      "id": "image153",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.3302
+    },
+    {
+      "id": "image155",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.2802
+    },
+    {
+      "id": "image156",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.7813
+    },
+    {
+      "id": "image160",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.5432
+    },
+    {
+      "id": "image161",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.8254
+    },
+    {
+      "id": "image162",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.8586
+    },
+    {
+      "id": "image163",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.4289
+    },
+    {
+      "id": "image166",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.6021
+    },
+    {
+      "id": "image167",
+      "kind": "vector-scene",
+      "ink_recall_2px": 0.93282,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.485
+    },
+    {
+      "id": "image168",
+      "kind": "vector-scene",
+      "ink_recall_2px": 0.99353,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.4945
+    },
+    {
+      "id": "image169",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.4969
+    },
+    {
+      "id": "image170",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.3836
+    },
+    {
+      "id": "image171",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.6893
+    },
+    {
+      "id": "image172",
+      "kind": "vector-scene",
+      "ink_recall_2px": 0.99269,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.5517
+    },
+    {
+      "id": "image173",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.3007
+    },
+    {
+      "id": "image177",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.8484
+    },
+    {
+      "id": "image178",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.0339
+    },
+    {
+      "id": "image183",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.7121
+    },
+    {
+      "id": "image184",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.22
+    },
+    {
+      "id": "image185",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.4135
+    },
+    {
+      "id": "image186",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.6972
+    },
+    {
+      "id": "image187",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.3119
+    },
+    {
+      "id": "image188",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.4558
+    },
+    {
+      "id": "image189",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.4095
+    },
+    {
+      "id": "image190",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.0001
+    },
+    {
+      "id": "image191",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.482
+    },
+    {
+      "id": "image195",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.478
+    },
+    {
+      "id": "image198",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.3074
+    },
+    {
+      "id": "image199",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.4632
+    },
+    {
+      "id": "image203",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.8684
+    },
+    {
+      "id": "image204",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.7348
+    },
+    {
+      "id": "image205",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.345
+    },
+    {
+      "id": "image206",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.1455
+    },
+    {
+      "id": "image207",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.1983
+    },
+    {
+      "id": "image210",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.1999
+    },
+    {
+      "id": "image211",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.4679
+    },
+    {
+      "id": "image212",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.5687
+    },
+    {
+      "id": "image213",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.9335
+    },
+    {
+      "id": "image214",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.2372
+    },
+    {
+      "id": "image216",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.8982
+    },
+    {
+      "id": "image217",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 2.3661
+    },
+    {
+      "id": "image218",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 2.2509
+    },
+    {
+      "id": "image219",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.9424
+    },
+    {
+      "id": "image220",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.5237
+    },
+    {
+      "id": "image221",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.5663
+    },
+    {
+      "id": "image222",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.9891
+    },
+    {
+      "id": "image223",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.5314
+    },
+    {
+      "id": "image225",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.8484
+    },
+    {
+      "id": "image226",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.3421
+    },
+    {
+      "id": "image227",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.9812
+    },
+    {
+      "id": "image237",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.3712
+    },
+    {
+      "id": "image238",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.8572
+    },
+    {
+      "id": "image239",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.785
+    },
+    {
+      "id": "image240",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.6429
+    },
+    {
+      "id": "image241",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.8273
+    },
+    {
+      "id": "image244",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 3.2622
+    },
+    {
+      "id": "image248",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.5214
+    },
+    {
+      "id": "image249",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 2.8347
+    },
+    {
+      "id": "image250",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.3647
+    },
+    {
+      "id": "image251",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.4339
+    },
+    {
+      "id": "image252",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.1621
+    },
+    {
+      "id": "image253",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 3.8746
+    },
+    {
+      "id": "image261",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.3427
+    },
+    {
+      "id": "image262",
+      "kind": "network-scene",
+      "ink_recall_2px": 0.2703,
+      "ink_precision_2px": 0.3001,
+      "mean_absolute_gray_difference": 32.0915
+    },
+    {
+      "id": "image268",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.4983
+    },
+    {
+      "id": "image274",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.6453
+    },
+    {
+      "id": "image279",
+      "kind": "network-scene",
+      "ink_recall_2px": 0.87274,
+      "ink_precision_2px": 0.95978,
+      "mean_absolute_gray_difference": 10.0933
+    },
+    {
+      "id": "image291",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 3.6217
+    },
+    {
+      "id": "image297",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.1038
+    },
+    {
+      "id": "image307",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 3.6712
+    },
+    {
+      "id": "image308",
+      "kind": "network-scene",
+      "ink_recall_2px": 0.6504,
+      "ink_precision_2px": 0.68889,
+      "mean_absolute_gray_difference": 13.481
+    },
+    {
+      "id": "image309",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 0.6489
+    },
+    {
+      "id": "image325",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.0673
+    },
+    {
+      "id": "image326",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 3.876
+    },
+    {
+      "id": "image327",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.2324
+    },
+    {
+      "id": "image329",
+      "kind": "network-scene",
+      "ink_recall_2px": 0.72278,
+      "ink_precision_2px": 0.77792,
+      "mean_absolute_gray_difference": 14.9443
+    },
+    {
+      "id": "image333",
+      "kind": "vector-scene",
+      "ink_recall_2px": 1.0,
+      "ink_precision_2px": 1.0,
+      "mean_absolute_gray_difference": 1.9298
+    }
+  ],
+  "recovery_replay": "233 generated files reproduced byte-for-byte; catalog rebuilt from base import plus hash-bound decisions matches exactly."
+}

@@ -1,0 +1,1614 @@
+{
+  "image1.pct": {
+    "file": "media/image1.pct",
+    "width_pt": 444.0,
+    "height_pt": 86.0,
+    "output": "gat-1-20/assets/image1.png",
+    "blank": false,
+    "ink_bounds": [
+      5,
+      3,
+      1335,
+      259
+    ]
+  },
+  "image2.emf": {
+    "file": "media/image2.emf",
+    "width_pt": 205.25,
+    "height_pt": 123.0,
+    "output": "gat-1-20/assets/image2.png",
+    "blank": false,
+    "ink_bounds": [
+      12,
+      8,
+      616,
+      368
+    ]
+  },
+  "image3.pct": {
+    "file": "media/image3.pct",
+    "width_pt": 210.5,
+    "height_pt": 114.0,
+    "output": "gat-1-20/assets/image3.png",
+    "blank": false,
+    "ink_bounds": [
+      5,
+      5,
+      621,
+      343
+    ]
+  },
+  "image5.pct": {
+    "file": "media/image5.pct",
+    "width_pt": 112.7,
+    "height_pt": 152.7,
+    "output": "gat-1-20/assets/image5.png",
+    "blank": false,
+    "ink_bounds": [
+      9,
+      9,
+      334,
+      457
+    ]
+  },
+  "image6.pct": {
+    "file": "media/image6.pct",
+    "width_pt": 132.0,
+    "height_pt": 145.5,
+    "output": "gat-1-20/assets/image6.png",
+    "blank": false,
+    "ink_bounds": [
+      6,
+      10,
+      390,
+      425
+    ]
+  },
+  "image9.pct": {
+    "file": "media/image9.pct",
+    "width_pt": 139.5,
+    "height_pt": 139.5,
+    "output": "gat-1-20/assets/image9.png",
+    "blank": false,
+    "ink_bounds": [
+      9,
+      9,
+      419,
+      419
+    ]
+  },
+  "image15.emf": {
+    "file": "media/image15.emf",
+    "width_pt": 196.0,
+    "height_pt": 132.0,
+    "output": "gat-1-20/assets/image15.png",
+    "blank": false,
+    "ink_bounds": [
+      5,
+      3,
+      590,
+      399
+    ]
+  },
+  "image19.pct": {
+    "file": "media/image19.pct",
+    "width_pt": 241.0,
+    "height_pt": 96.25,
+    "output": "gat-1-20/assets/image19.png",
+    "blank": false,
+    "ink_bounds": [
+      6,
+      3,
+      726,
+      288
+    ]
+  },
+  "image20.pct": {
+    "file": "media/image20.pct",
+    "width_pt": 81.6,
+    "height_pt": 164.95,
+    "output": "gat-1-20/assets/image20.png",
+    "blank": false,
+    "ink_bounds": [
+      5,
+      7,
+      245,
+      490
+    ]
+  },
+  "image70.pct": {
+    "file": "media/image70.pct",
+    "width_pt": 163.0,
+    "height_pt": 72.0,
+    "output": "gat-1-20/assets/image70.png",
+    "blank": false,
+    "ink_bounds": [
+      4,
+      3,
+      491,
+      219
+    ]
+  },
+  "image72.pct": {
+    "file": "media/image72.pct",
+    "width_pt": 59.25,
+    "height_pt": 23.5,
+    "output": "gat-1-20/assets/image72.png",
+    "blank": false,
+    "ink_bounds": [
+      4,
+      9,
+      180,
+      52
+    ]
+  },
+  "image73.emf": {
+    "file": "media/image73.emf",
+    "width_pt": 132.0,
+    "height_pt": 115.5,
+    "output": "gat-1-20/assets/image73.png",
+    "blank": false,
+    "ink_bounds": [
+      9,
+      3,
+      394,
+      350
+    ]
+  },
+  "image76.pct": {
+    "file": "media/image76.pct",
+    "width_pt": 119.0,
+    "height_pt": 173.5,
+    "output": "gat-1-20/assets/image76.png",
+    "blank": false,
+    "ink_bounds": [
+      8,
+      12,
+      355,
+      492
+    ]
+  },
+  "image90.pct": {
+    "file": "media/image90.pct",
+    "width_pt": 155.5,
+    "height_pt": 137.5,
+    "output": "gat-1-20/assets/image90.png",
+    "blank": false,
+    "ink_bounds": [
+      6,
+      3,
+      463,
+      404
+    ]
+  },
+  "image92.emf": {
+    "file": "media/image92.emf",
+    "width_pt": 220.5,
+    "height_pt": 151.0,
+    "output": "gat-1-20/assets/image92.png",
+    "blank": false,
+    "ink_bounds": [
+      12,
+      9,
+      660,
+      454
+    ]
+  },
+  "image99.pct": {
+    "file": "media/image99.pct",
+    "width_pt": 59.0,
+    "height_pt": 17.0,
+    "output": "gat-1-20/assets/image99.png",
+    "blank": false,
+    "ink_bounds": [
+      8,
+      18,
+      172,
+      49
+    ]
+  },
+  "image109.pct": {
+    "file": "media/image109.pct",
+    "width_pt": 196.95,
+    "height_pt": 157.7,
+    "output": "gat-1-20/assets/image109.png",
+    "blank": false,
+    "ink_bounds": [
+      9,
+      9,
+      590,
+      466
+    ]
+  },
+  "image110.pct": {
+    "file": "media/image110.pct",
+    "width_pt": 172.65,
+    "height_pt": 151.8,
+    "output": "gat-1-20/assets/image110.png",
+    "blank": false,
+    "ink_bounds": [
+      5,
+      8,
+      490,
+      456
+    ]
+  },
+  "image117.pct": {
+    "file": "media/image117.pct",
+    "width_pt": 105.05,
+    "height_pt": 164.2,
+    "output": "gat-1-20/assets/image117.png",
+    "blank": false,
+    "ink_bounds": [
+      8,
+      9,
+      311,
+      485
+    ]
+  },
+  "image121.emf": {
+    "file": "media/image121.emf",
+    "width_pt": 157.0,
+    "height_pt": 165.0,
+    "output": "gat-1-20/assets/image121.png",
+    "blank": false,
+    "ink_bounds": [
+      7,
+      7,
+      473,
+      490
+    ]
+  },
+  "image122.emf": {
+    "file": "media/image122.emf",
+    "width_pt": 126.0,
+    "height_pt": 102.25,
+    "output": "gat-1-20/assets/image122.png",
+    "blank": false,
+    "ink_bounds": [
+      16,
+      10,
+      376,
+      308
+    ]
+  },
+  "image123.pct": {
+    "file": "media/image123.pct",
+    "width_pt": 175.75,
+    "height_pt": 128.25,
+    "output": "gat-1-20/assets/image123.png",
+    "blank": false,
+    "ink_bounds": [
+      12,
+      12,
+      516,
+      382
+    ]
+  },
+  "image124.emf": {
+    "file": "media/image124.emf",
+    "width_pt": 171.75,
+    "height_pt": 114.75,
+    "output": "gat-1-20/assets/image124.png",
+    "blank": false,
+    "ink_bounds": [
+      11,
+      8,
+      500,
+      346
+    ]
+  },
+  "image127.pct": {
+    "file": "media/image127.pct",
+    "width_pt": 198.95,
+    "height_pt": 130.25,
+    "output": "gat-1-20/assets/image127.png",
+    "blank": false,
+    "ink_bounds": [
+      5,
+      8,
+      592,
+      392
+    ]
+  },
+  "image128.emf": {
+    "file": "media/image128.emf",
+    "width_pt": 214.75,
+    "height_pt": 68.25,
+    "output": "gat-1-20/assets/image128.png",
+    "blank": false,
+    "ink_bounds": [
+      10,
+      3,
+      646,
+      206
+    ]
+  },
+  "image131.emf": {
+    "file": "media/image131.emf",
+    "width_pt": 122.75,
+    "height_pt": 129.75,
+    "output": "gat-1-20/assets/image131.png",
+    "blank": false,
+    "ink_bounds": [
+      7,
+      6,
+      370,
+      384
+    ]
+  },
+  "image132.pct": {
+    "file": "media/image132.pct",
+    "width_pt": 139.75,
+    "height_pt": 107.0,
+    "output": "gat-1-20/assets/image132.png",
+    "blank": false,
+    "ink_bounds": [
+      11,
+      15,
+      417,
+      317
+    ]
+  },
+  "image133.pct": {
+    "file": "media/image133.pct",
+    "width_pt": 197.0,
+    "height_pt": 110.25,
+    "output": "gat-1-20/assets/image133.png",
+    "blank": false,
+    "ink_bounds": [
+      8,
+      11,
+      589,
+      328
+    ]
+  },
+  "image134.emf": {
+    "file": "media/image134.emf",
+    "width_pt": 135.0,
+    "height_pt": 149.25,
+    "output": "gat-1-20/assets/image134.png",
+    "blank": false,
+    "ink_bounds": [
+      18,
+      9,
+      407,
+      449
+    ]
+  },
+  "image137.pct": {
+    "file": "media/image137.pct",
+    "width_pt": 258.0,
+    "height_pt": 166.75,
+    "output": "gat-1-20/assets/image137.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      7,
+      767,
+      495
+    ]
+  },
+  "image138.emf": {
+    "file": "media/image138.emf",
+    "width_pt": 187.4,
+    "height_pt": 88.55,
+    "output": "gat-1-20/assets/image138.png",
+    "blank": false,
+    "ink_bounds": [
+      9,
+      9,
+      564,
+      269
+    ]
+  },
+  "image139.emf": {
+    "file": "media/image139.emf",
+    "width_pt": 170.0,
+    "height_pt": 77.7,
+    "output": "gat-1-20/assets/image139.png",
+    "blank": false,
+    "ink_bounds": [
+      8,
+      6,
+      513,
+      236
+    ]
+  },
+  "image140.emf": {
+    "file": "media/image140.emf",
+    "width_pt": 144.35,
+    "height_pt": 148.25,
+    "output": "gat-1-20/assets/image140.png",
+    "blank": false,
+    "ink_bounds": [
+      9,
+      8,
+      435,
+      424
+    ]
+  },
+  "image141.emf": {
+    "file": "media/image141.emf",
+    "width_pt": 393.2,
+    "height_pt": 226.15,
+    "output": "gat-1-20/assets/image141.png",
+    "blank": false,
+    "ink_bounds": [
+      6,
+      4,
+      1180,
+      682
+    ]
+  },
+  "image142.pct": {
+    "file": "media/image142.pct",
+    "width_pt": 119.0,
+    "height_pt": 124.0,
+    "output": "gat-1-20/assets/image142.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      7,
+      356,
+      365
+    ]
+  },
+  "image143.emf": {
+    "file": "media/image143.emf",
+    "width_pt": 55.0,
+    "height_pt": 51.0,
+    "output": "gat-1-20/assets/image143.png",
+    "blank": false,
+    "ink_bounds": [
+      11,
+      3,
+      158,
+      152
+    ]
+  },
+  "image144.pct": {
+    "file": "media/image144.pct",
+    "width_pt": 51.5,
+    "height_pt": 58.0,
+    "output": "gat-1-20/assets/image144.png",
+    "blank": false,
+    "ink_bounds": [
+      7,
+      9,
+      158,
+      177
+    ]
+  },
+  "image145.pct": {
+    "file": "media/image145.pct",
+    "width_pt": 68.0,
+    "height_pt": 68.25,
+    "output": "gat-1-20/assets/image145.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      207,
+      208
+    ]
+  },
+  "image146.pct": {
+    "file": "media/image146.pct",
+    "width_pt": 54.75,
+    "height_pt": 54.75,
+    "output": "gat-1-20/assets/image146.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      168,
+      168
+    ]
+  },
+  "image147.pct": {
+    "file": "media/image147.pct",
+    "width_pt": 136.0,
+    "height_pt": 109.0,
+    "output": "gat-1-20/assets/image147.png",
+    "blank": false,
+    "ink_bounds": [
+      15,
+      10,
+      407,
+      318
+    ]
+  },
+  "image152.pct": {
+    "file": "media/image152.pct",
+    "width_pt": 115.5,
+    "height_pt": 159.75,
+    "output": "gat-1-20/assets/image152.png",
+    "blank": false,
+    "ink_bounds": [
+      8,
+      9,
+      346,
+      478
+    ]
+  },
+  "image153.emf": {
+    "file": "media/image153.emf",
+    "width_pt": 183.0,
+    "height_pt": 183.75,
+    "output": "gat-1-20/assets/image153.png",
+    "blank": false,
+    "ink_bounds": [
+      16,
+      9,
+      548,
+      552
+    ]
+  },
+  "image155.pct": {
+    "file": "media/image155.pct",
+    "width_pt": 231.8,
+    "height_pt": 105.0,
+    "output": "gat-1-20/assets/image155.png",
+    "blank": false,
+    "ink_bounds": [
+      7,
+      6,
+      696,
+      317
+    ]
+  },
+  "image156.pct": {
+    "file": "media/image156.pct",
+    "width_pt": 271.0,
+    "height_pt": 170.5,
+    "output": "gat-1-20/assets/image156.png",
+    "blank": false,
+    "ink_bounds": [
+      9,
+      9,
+      814,
+      486
+    ]
+  },
+  "image160.pct": {
+    "file": "media/image160.pct",
+    "width_pt": 199.0,
+    "height_pt": 159.0,
+    "output": "gat-1-20/assets/image160.png",
+    "blank": false,
+    "ink_bounds": [
+      5,
+      7,
+      595,
+      470
+    ]
+  },
+  "image161.emf": {
+    "file": "media/image161.emf",
+    "width_pt": 176.25,
+    "height_pt": 99.5,
+    "output": "gat-1-20/assets/image161.png",
+    "blank": false,
+    "ink_bounds": [
+      10,
+      10,
+      531,
+      301
+    ]
+  },
+  "image162.pct": {
+    "file": "media/image162.pct",
+    "width_pt": 288.0,
+    "height_pt": 121.0,
+    "output": "gat-1-20/assets/image162.png",
+    "blank": false,
+    "ink_bounds": [
+      5,
+      5,
+      861,
+      366
+    ]
+  },
+  "image163.pct": {
+    "file": "media/image163.pct",
+    "width_pt": 179.6,
+    "height_pt": 110.1,
+    "output": "gat-1-20/assets/image163.png",
+    "blank": false,
+    "ink_bounds": [
+      8,
+      8,
+      533,
+      314
+    ]
+  },
+  "image166.pct": {
+    "file": "media/image166.pct",
+    "width_pt": 245.25,
+    "height_pt": 64.0,
+    "output": "gat-1-20/assets/image166.png",
+    "blank": false,
+    "ink_bounds": [
+      6,
+      14,
+      739,
+      192
+    ]
+  },
+  "image167.emf": {
+    "file": "media/image167.emf",
+    "width_pt": 115.55,
+    "height_pt": 114.0,
+    "output": "gat-1-20/assets/image167.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      350,
+      345
+    ]
+  },
+  "image168.emf": {
+    "file": "media/image168.emf",
+    "width_pt": 103.55,
+    "height_pt": 111.55,
+    "output": "gat-1-20/assets/image168.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      314,
+      338
+    ]
+  },
+  "image169.pct": {
+    "file": "media/image169.pct",
+    "width_pt": 168.5,
+    "height_pt": 30.5,
+    "output": "gat-1-20/assets/image169.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      508,
+      95
+    ]
+  },
+  "image170.pct": {
+    "file": "media/image170.pct",
+    "width_pt": 192.0,
+    "height_pt": 42.0,
+    "output": "gat-1-20/assets/image170.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      579,
+      129
+    ]
+  },
+  "image171.emf": {
+    "file": "media/image171.emf",
+    "width_pt": 180.5,
+    "height_pt": 113.25,
+    "output": "gat-1-20/assets/image171.png",
+    "blank": false,
+    "ink_bounds": [
+      6,
+      9,
+      543,
+      315
+    ]
+  },
+  "image172.emf": {
+    "file": "media/image172.emf",
+    "width_pt": 137.0,
+    "height_pt": 133.95,
+    "output": "gat-1-20/assets/image172.png",
+    "blank": false,
+    "ink_bounds": [
+      9,
+      8,
+      412,
+      404
+    ]
+  },
+  "image173.emf": {
+    "file": "media/image173.emf",
+    "width_pt": 93.0,
+    "height_pt": 79.0,
+    "output": "gat-1-20/assets/image173.png",
+    "blank": false,
+    "ink_bounds": [
+      4,
+      3,
+      281,
+      240
+    ]
+  },
+  "image177.emf": {
+    "file": "media/image177.emf",
+    "width_pt": 147.0,
+    "height_pt": 123.0,
+    "output": "gat-1-20/assets/image177.png",
+    "blank": false,
+    "ink_bounds": [
+      8,
+      4,
+      441,
+      369
+    ]
+  },
+  "image178.pct": {
+    "file": "media/image178.pct",
+    "width_pt": 221.5,
+    "height_pt": 71.0,
+    "output": "gat-1-20/assets/image178.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      668,
+      211
+    ]
+  },
+  "image180.pct": {
+    "file": "media/image180.pct",
+    "width_pt": 44.0,
+    "height_pt": 20.0,
+    "output": "gat-1-20/assets/image180.png",
+    "blank": false,
+    "ink_bounds": [
+      11,
+      16,
+      133,
+      55
+    ]
+  },
+  "image183.pct": {
+    "file": "media/image183.pct",
+    "width_pt": 160.35,
+    "height_pt": 56.1,
+    "output": "gat-1-20/assets/image183.png",
+    "blank": false,
+    "ink_bounds": [
+      5,
+      13,
+      484,
+      172
+    ]
+  },
+  "image184.pct": {
+    "file": "media/image184.pct",
+    "width_pt": 208.9,
+    "height_pt": 57.55,
+    "output": "gat-1-20/assets/image184.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      630,
+      176
+    ]
+  },
+  "image185.pct": {
+    "file": "media/image185.pct",
+    "width_pt": 187.25,
+    "height_pt": 58.25,
+    "output": "gat-1-20/assets/image185.png",
+    "blank": false,
+    "ink_bounds": [
+      10,
+      7,
+      562,
+      165
+    ]
+  },
+  "image186.emf": {
+    "file": "media/image186.emf",
+    "width_pt": 257.0,
+    "height_pt": 86.0,
+    "output": "gat-1-20/assets/image186.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      8,
+      757,
+      261
+    ]
+  },
+  "image187.emf": {
+    "file": "media/image187.emf",
+    "width_pt": 166.9,
+    "height_pt": 87.8,
+    "output": "gat-1-20/assets/image187.png",
+    "blank": false,
+    "ink_bounds": [
+      9,
+      6,
+      503,
+      260
+    ]
+  },
+  "image188.pct": {
+    "file": "media/image188.pct",
+    "width_pt": 164.6,
+    "height_pt": 123.1,
+    "output": "gat-1-20/assets/image188.png",
+    "blank": false,
+    "ink_bounds": [
+      9,
+      3,
+      495,
+      372
+    ]
+  },
+  "image189.emf": {
+    "file": "media/image189.emf",
+    "width_pt": 195.5,
+    "height_pt": 120.25,
+    "output": "gat-1-20/assets/image189.png",
+    "blank": false,
+    "ink_bounds": [
+      10,
+      4,
+      588,
+      341
+    ]
+  },
+  "image190.pct": {
+    "file": "media/image190.pct",
+    "width_pt": 76.0,
+    "height_pt": 76.0,
+    "output": "gat-1-20/assets/image190.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      231,
+      231
+    ]
+  },
+  "image191.emf": {
+    "file": "media/image191.emf",
+    "width_pt": 185.0,
+    "height_pt": 185.0,
+    "output": "gat-1-20/assets/image191.png",
+    "blank": false,
+    "ink_bounds": [
+      6,
+      5,
+      555,
+      548
+    ]
+  },
+  "image195.pct": {
+    "file": "media/image195.pct",
+    "width_pt": 155.25,
+    "height_pt": 189.75,
+    "output": "gat-1-20/assets/image195.png",
+    "blank": false,
+    "ink_bounds": [
+      9,
+      9,
+      459,
+      570
+    ]
+  },
+  "image198.pct": {
+    "file": "media/image198.pct",
+    "width_pt": 150.0,
+    "height_pt": 125.5,
+    "output": "gat-1-20/assets/image198.png",
+    "blank": false,
+    "ink_bounds": [
+      10,
+      9,
+      451,
+      377
+    ]
+  },
+  "image199.pct": {
+    "file": "media/image199.pct",
+    "width_pt": 277.5,
+    "height_pt": 121.0,
+    "output": "gat-1-20/assets/image199.png",
+    "blank": false,
+    "ink_bounds": [
+      5,
+      9,
+      833,
+      364
+    ]
+  },
+  "image203.emf": {
+    "file": "media/image203.emf",
+    "width_pt": 206.25,
+    "height_pt": 127.0,
+    "output": "gat-1-20/assets/image203.png",
+    "blank": false,
+    "ink_bounds": [
+      10,
+      4,
+      621,
+      360
+    ]
+  },
+  "image204.pct": {
+    "file": "media/image204.pct",
+    "width_pt": 185.0,
+    "height_pt": 185.0,
+    "output": "gat-1-20/assets/image204.png",
+    "blank": false,
+    "ink_bounds": [
+      6,
+      7,
+      550,
+      554
+    ]
+  },
+  "image205.pct": {
+    "file": "media/image205.pct",
+    "width_pt": 68.0,
+    "height_pt": 101.0,
+    "output": "gat-1-20/assets/image205.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      5,
+      207,
+      305
+    ]
+  },
+  "image206.pct": {
+    "file": "media/image206.pct",
+    "width_pt": 146.5,
+    "height_pt": 57.5,
+    "output": "gat-1-20/assets/image206.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      442,
+      176
+    ]
+  },
+  "image207.pct": {
+    "file": "media/image207.pct",
+    "width_pt": 186.25,
+    "height_pt": 190.75,
+    "output": "gat-1-20/assets/image207.png",
+    "blank": false,
+    "ink_bounds": [
+      11,
+      41,
+      559,
+      573
+    ]
+  },
+  "image210.pct": {
+    "file": "media/image210.pct",
+    "width_pt": 160.15,
+    "height_pt": 161.55,
+    "output": "gat-1-20/assets/image210.png",
+    "blank": false,
+    "ink_bounds": [
+      9,
+      35,
+      481,
+      486
+    ]
+  },
+  "image211.pct": {
+    "file": "media/image211.pct",
+    "width_pt": 173.0,
+    "height_pt": 106.0,
+    "output": "gat-1-20/assets/image211.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      522,
+      321
+    ]
+  },
+  "image212.pct": {
+    "file": "media/image212.pct",
+    "width_pt": 170.0,
+    "height_pt": 81.0,
+    "output": "gat-1-20/assets/image212.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      513,
+      246
+    ]
+  },
+  "image213.emf": {
+    "file": "media/image213.emf",
+    "width_pt": 121.0,
+    "height_pt": 167.5,
+    "output": "gat-1-20/assets/image213.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      7,
+      366,
+      485
+    ]
+  },
+  "image214.pct": {
+    "file": "media/image214.pct",
+    "width_pt": 207.0,
+    "height_pt": 170.0,
+    "output": "gat-1-20/assets/image214.png",
+    "blank": false,
+    "ink_bounds": [
+      9,
+      9,
+      622,
+      511
+    ]
+  },
+  "image216.pct": {
+    "file": "media/image216.pct",
+    "width_pt": 152.5,
+    "height_pt": 94.5,
+    "output": "gat-1-20/assets/image216.png",
+    "blank": false,
+    "ink_bounds": [
+      6,
+      3,
+      460,
+      287
+    ]
+  },
+  "image217.pct": {
+    "file": "media/image217.pct",
+    "width_pt": 146.75,
+    "height_pt": 122.75,
+    "output": "gat-1-20/assets/image217.png",
+    "blank": false,
+    "ink_bounds": [
+      5,
+      6,
+      437,
+      367
+    ]
+  },
+  "image218.pct": {
+    "file": "media/image218.pct",
+    "width_pt": 429.85,
+    "height_pt": 196.9,
+    "output": "gat-1-20/assets/image218.png",
+    "blank": false,
+    "ink_bounds": [
+      4,
+      3,
+      1271,
+      593
+    ]
+  },
+  "image219.emf": {
+    "file": "media/image219.emf",
+    "width_pt": 111.5,
+    "height_pt": 107.5,
+    "output": "gat-1-20/assets/image219.png",
+    "blank": false,
+    "ink_bounds": [
+      4,
+      3,
+      336,
+      326
+    ]
+  },
+  "image220.pct": {
+    "file": "media/image220.pct",
+    "width_pt": 181.0,
+    "height_pt": 71.0,
+    "output": "gat-1-20/assets/image220.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      546,
+      215
+    ]
+  },
+  "image221.pct": {
+    "file": "media/image221.pct",
+    "width_pt": 134.5,
+    "height_pt": 77.5,
+    "output": "gat-1-20/assets/image221.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      4,
+      406,
+      235
+    ]
+  },
+  "image222.pct": {
+    "file": "media/image222.pct",
+    "width_pt": 158.0,
+    "height_pt": 129.5,
+    "output": "gat-1-20/assets/image222.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      477,
+      365
+    ]
+  },
+  "image223.pct": {
+    "file": "media/image223.pct",
+    "width_pt": 346.9,
+    "height_pt": 180.6,
+    "output": "gat-1-20/assets/image223.png",
+    "blank": false,
+    "ink_bounds": [
+      8,
+      8,
+      1041,
+      535
+    ]
+  },
+  "image225.emf": {
+    "file": "media/image225.emf",
+    "width_pt": 147.0,
+    "height_pt": 123.0,
+    "output": "gat-1-20/assets/image225.png",
+    "blank": false,
+    "ink_bounds": [
+      8,
+      4,
+      441,
+      369
+    ]
+  },
+  "image226.emf": {
+    "file": "media/image226.emf",
+    "width_pt": 128.0,
+    "height_pt": 95.0,
+    "output": "gat-1-20/assets/image226.png",
+    "blank": false,
+    "ink_bounds": [
+      4,
+      3,
+      386,
+      288
+    ]
+  },
+  "image227.pct": {
+    "file": "media/image227.pct",
+    "width_pt": 189.25,
+    "height_pt": 131.0,
+    "output": "gat-1-20/assets/image227.png",
+    "blank": false,
+    "ink_bounds": [
+      8,
+      8,
+      534,
+      391
+    ]
+  },
+  "image228.pct": {
+    "file": "media/image228.pct",
+    "width_pt": 11.0,
+    "height_pt": 10.0,
+    "output": "gat-1-20/assets/image228.png",
+    "blank": false,
+    "ink_bounds": [
+      16,
+      14,
+      21,
+      19
+    ]
+  },
+  "image235.pct": {
+    "file": "media/image235.pct",
+    "width_pt": 78.5,
+    "height_pt": 18.5,
+    "output": "gat-1-20/assets/image235.png",
+    "blank": false,
+    "ink_bounds": [
+      5,
+      16,
+      234,
+      53
+    ]
+  },
+  "image236.emf": {
+    "file": "media/image236.emf",
+    "width_pt": 378.0,
+    "height_pt": 187.0,
+    "output": "gat-1-20/assets/image236.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      1095,
+      540
+    ]
+  },
+  "image237.pct": {
+    "file": "media/image237.pct",
+    "width_pt": 169.25,
+    "height_pt": 76.0,
+    "output": "gat-1-20/assets/image237.png",
+    "blank": false,
+    "ink_bounds": [
+      9,
+      9,
+      505,
+      229
+    ]
+  },
+  "image238.pct": {
+    "file": "media/image238.pct",
+    "width_pt": 140.75,
+    "height_pt": 88.0,
+    "output": "gat-1-20/assets/image238.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      10,
+      425,
+      267
+    ]
+  },
+  "image239.pct": {
+    "file": "media/image239.pct",
+    "width_pt": 167.25,
+    "height_pt": 81.0,
+    "output": "gat-1-20/assets/image239.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      504,
+      245
+    ]
+  },
+  "image240.pct": {
+    "file": "media/image240.pct",
+    "width_pt": 227.5,
+    "height_pt": 68.0,
+    "output": "gat-1-20/assets/image240.png",
+    "blank": false,
+    "ink_bounds": [
+      4,
+      3,
+      680,
+      206
+    ]
+  },
+  "image241.pct": {
+    "file": "media/image241.pct",
+    "width_pt": 364.5,
+    "height_pt": 133.75,
+    "output": "gat-1-20/assets/image241.png",
+    "blank": false,
+    "ink_bounds": [
+      8,
+      8,
+      1092,
+      394
+    ]
+  },
+  "image244.pct": {
+    "file": "media/image244.pct",
+    "width_pt": 369.2,
+    "height_pt": 180.65,
+    "output": "gat-1-20/assets/image244.png",
+    "blank": false,
+    "ink_bounds": [
+      5,
+      5,
+      1086,
+      534
+    ]
+  },
+  "image248.pct": {
+    "file": "media/image248.pct",
+    "width_pt": 117.95,
+    "height_pt": 96.5,
+    "output": "gat-1-20/assets/image248.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      35,
+      357,
+      291
+    ]
+  },
+  "image249.pct": {
+    "file": "media/image249.pct",
+    "width_pt": 119.65,
+    "height_pt": 41.75,
+    "output": "gat-1-20/assets/image249.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      362,
+      126
+    ]
+  },
+  "image250.pct": {
+    "file": "media/image250.pct",
+    "width_pt": 190.5,
+    "height_pt": 94.0,
+    "output": "gat-1-20/assets/image250.png",
+    "blank": false,
+    "ink_bounds": [
+      4,
+      3,
+      574,
+      285
+    ]
+  },
+  "image251.pct": {
+    "file": "media/image251.pct",
+    "width_pt": 192.5,
+    "height_pt": 107.5,
+    "output": "gat-1-20/assets/image251.png",
+    "blank": false,
+    "ink_bounds": [
+      9,
+      9,
+      571,
+      298
+    ]
+  },
+  "image252.pct": {
+    "file": "media/image252.pct",
+    "width_pt": 139.75,
+    "height_pt": 152.5,
+    "output": "gat-1-20/assets/image252.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      422,
+      442
+    ]
+  },
+  "image253.pct": {
+    "file": "media/image253.pct",
+    "width_pt": 361.4,
+    "height_pt": 172.75,
+    "output": "gat-1-20/assets/image253.png",
+    "blank": false,
+    "ink_bounds": [
+      5,
+      5,
+      1064,
+      510
+    ]
+  },
+  "image255.emf": {
+    "file": "media/image255.emf",
+    "width_pt": 215.0,
+    "height_pt": 138.0,
+    "output": "gat-1-20/assets/image255.png",
+    "blank": false,
+    "ink_bounds": [
+      7,
+      3,
+      604,
+      403
+    ]
+  },
+  "image257.emf": {
+    "file": "media/image257.emf",
+    "width_pt": 204.0,
+    "height_pt": 124.5,
+    "output": "gat-1-20/assets/image257.png",
+    "blank": false,
+    "ink_bounds": [
+      5,
+      3,
+      599,
+      357
+    ]
+  },
+  "image261.pct": {
+    "file": "media/image261.pct",
+    "width_pt": 280.95,
+    "height_pt": 87.8,
+    "output": "gat-1-20/assets/image261.png",
+    "blank": false,
+    "ink_bounds": [
+      8,
+      8,
+      806,
+      264
+    ]
+  },
+  "image262.pct": {
+    "file": "media/image262.pct",
+    "width_pt": 286.0,
+    "height_pt": 72.0,
+    "output": "gat-1-20/assets/image262.png",
+    "blank": false,
+    "ink_bounds": [
+      8,
+      3,
+      856,
+      216
+    ]
+  },
+  "image268.pct": {
+    "file": "media/image268.pct",
+    "width_pt": 135.1,
+    "height_pt": 108.7,
+    "output": "gat-1-20/assets/image268.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      3,
+      405,
+      328
+    ]
+  },
+  "image274.emf": {
+    "file": "media/image274.emf",
+    "width_pt": 156.0,
+    "height_pt": 156.0,
+    "output": "gat-1-20/assets/image274.png",
+    "blank": false,
+    "ink_bounds": [
+      10,
+      7,
+      470,
+      470
+    ]
+  },
+  "image279.pct": {
+    "file": "media/image279.pct",
+    "width_pt": 298.0,
+    "height_pt": 84.0,
+    "output": "gat-1-20/assets/image279.png",
+    "blank": false,
+    "ink_bounds": [
+      8,
+      3,
+      892,
+      245
+    ]
+  },
+  "image291.emf": {
+    "file": "media/image291.emf",
+    "width_pt": 252.0,
+    "height_pt": 134.0,
+    "output": "gat-1-20/assets/image291.png",
+    "blank": false,
+    "ink_bounds": [
+      8,
+      5,
+      759,
+      404
+    ]
+  },
+  "image297.pct": {
+    "file": "media/image297.pct",
+    "width_pt": 126.5,
+    "height_pt": 116.0,
+    "output": "gat-1-20/assets/image297.png",
+    "blank": false,
+    "ink_bounds": [
+      9,
+      9,
+      376,
+      349
+    ]
+  },
+  "image307.pct": {
+    "file": "media/image307.pct",
+    "width_pt": 266.45,
+    "height_pt": 172.75,
+    "output": "gat-1-20/assets/image307.png",
+    "blank": false,
+    "ink_bounds": [
+      5,
+      5,
+      782,
+      514
+    ]
+  },
+  "image308.pct": {
+    "file": "media/image308.pct",
+    "width_pt": 268.0,
+    "height_pt": 126.5,
+    "output": "gat-1-20/assets/image308.png",
+    "blank": false,
+    "ink_bounds": [
+      8,
+      5,
+      801,
+      382
+    ]
+  },
+  "image309.emf": {
+    "file": "media/image309.emf",
+    "width_pt": 156.0,
+    "height_pt": 128.0,
+    "output": "gat-1-20/assets/image309.png",
+    "blank": false,
+    "ink_bounds": [
+      10,
+      7,
+      470,
+      384
+    ]
+  },
+  "image325.pct": {
+    "file": "media/image325.pct",
+    "width_pt": 236.0,
+    "height_pt": 123.0,
+    "output": "gat-1-20/assets/image325.png",
+    "blank": false,
+    "ink_bounds": [
+      5,
+      5,
+      692,
+      360
+    ]
+  },
+  "image326.emf": {
+    "file": "media/image326.emf",
+    "width_pt": 108.0,
+    "height_pt": 122.0,
+    "output": "gat-1-20/assets/image326.png",
+    "blank": false,
+    "ink_bounds": [
+      7,
+      4,
+      305,
+      356
+    ]
+  },
+  "image327.pct": {
+    "file": "media/image327.pct",
+    "width_pt": 167.5,
+    "height_pt": 110.5,
+    "output": "gat-1-20/assets/image327.png",
+    "blank": false,
+    "ink_bounds": [
+      9,
+      9,
+      500,
+      325
+    ]
+  },
+  "image329.pct": {
+    "file": "media/image329.pct",
+    "width_pt": 253.0,
+    "height_pt": 136.0,
+    "output": "gat-1-20/assets/image329.png",
+    "blank": false,
+    "ink_bounds": [
+      3,
+      9,
+      762,
+      409
+    ]
+  },
+  "image333.pct": {
+    "file": "media/image333.pct",
+    "width_pt": 135.1,
+    "height_pt": 122.3,
+    "output": "gat-1-20/assets/image333.png",
+    "blank": false,
+    "ink_bounds": [
+      7,
+      7,
+      404,
+      361
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+# Project context
+
+## Intended goal
+
+Reproduce this textbook and other materials from the user's high-school math class as a browser-based learning platform.
+
+The user's initial ideas are:
+
+- Render the questions as Markdown, using LaTeX for formulas and preserving diagrams.
+- Turn programming assignments into computations that learners can write and execute in the browser. A custom programming language is an idea to explore, not a decided requirement.
+- Save progress locally, with user accounts as a possible later addition.
+
+## Preserved work
+
+The first source is `source/GAT-1-20.doc`, originally named `GAT 1-20.doc`. Its 20 assignments are converted to `gat-1-20/GAT-1-20.md` and an offline HTML reading copy.
+
+- 170 stable question identifiers, such as `gat-01-iii`, can later identify progress records independently of pagination.
+- All 336 distinct embedded graphics were reviewed and retained in recovered form, alongside their extracted legacy PICT/EMF originals.
+- 220 formula or mathematical-table graphics, appearing 546 times, were transcribed into LaTeX.
+- 116 distinct diagrams and instructional graphics remain images in 120 placements.
+- `manifest.json` maps the source, questions, image occurrences, reference pages, and LaTeX representations.
+- `formula-transcriptions.json` records the conversion decision for every graphic. `formula-comparison.html` displays all converted formulas beside their retained source images.
+- The build uses pinned Marked and KaTeX dependencies. Generated HTML, math fonts, and styles are stored locally for offline reading.
+- `conversion/` preserves the Python and JavaScript recovery/transcription scripts, their dependency versions, and the imported DOCX, size-corrected DOCX/PDF, diagram atlas, extracted metadata, and pre-LaTeX baseline. Its README describes isolated replay and document-specific assumptions.
+
+## Known limitations
+
+- The Word file's saved metadata reports 87 pages. A size-corrected reference render has 94 pages; original printed page boundaries are unverified. Review notes use those reference pages.
+- Two expressions in Assignment 5, on reference pages 19–20, need mathematical proofreading. Their apparent source errors were preserved.
+- Some retained instructional diagrams have tiny labels or matrix entries and segmented brackets. The reports list affected reference pages.
+- Ten separate classroom sketch sheets are referenced but were not included in the supplied file.
+- LaTeX makes the formulas editable and renderable; it is not an executable mathematical model or answer key.
+- Interactive computations, grading, progress storage, and user accounts have not been implemented.
+
+## Suggested continuation
+
+Resolve the flagged formulas and diagram labels, obtain the missing sketch sheets, and preserve additional textbook sections using the same question IDs and source records. A later platform prototype can build on this content with a browser computation environment and local progress storage. These are future ideas rather than implemented features or fixed technology choices.
+
+## Visual preservation pipeline
+
+The user wants a reusable system to categorize visuals across textbooks, recover as much content as possible as machine-readable text or graphics code, and only then evolve the faithful reproduction into learner-programmable graphics and animations. Preserve mathematical meaning separately from drawing coordinates; do not infer exact functions or geometry constraints from appearance.
+
+`visual-pipeline/` now provides the category registry, an imported catalog of all 336 graphics/666 occurrences, a filterable offline classification review page, and a Python PDF inventory/review CLI. PDF crops, full-page context, positioned text and vector commands are retained; generic PDF segmentation and classification still need review. New PDFs are not automatically semantically classified or OCR-transcribed. Existing LaTeX is linked into the catalog.
+
+All four networks now have node/edge scenes, SVG previews and adjacency matrices. Another 111 graphics have recovered SVG/JSON drawing scenes, including nine annotated matrices and one calculation flow with structured mathematical records and LaTeX exports. Twelve coordinate diagrams also record source-labelled coordinates and marked givens, keeping unlabelled values unknown. The highlighted textbook contains all 115 candidates in 119 placements, beside their originals, with readable formulas available for the ten annotated-math scenes. The calculator screenshot is the only image asset without a code reconstruction.
+
+The wave in image1 is an explicitly approximate raster-centreline trace; no exact function is invented. Source vector recovery preserves geometry and font outlines, but most drawings still need authored semantic constraints before becoming dynamic mathematical models. Matrix/coordinate records do not automatically reflow the preserved source SVG. The original textbook diagrams remain available. A vision/OCR proposal adapter, general geometry solver, animation and learner execution remain future increments.
+
+Validation includes 17 pipeline tests, all 336 source hashes/666 placements, an independent check of tiny matrix entries against positioned PDF glyphs, the graph/printed-adjacency correspondence, and a reflection identity. All 115 source/reconstruction pairs were visually inspected; 233 recovery files reproduce byte-for-byte. The highlighted page has valid source links and syntax-checked controls; interactive browser QA remains outstanding.
+
+
+## Assignments 41–119 preservation
+
+The four additional legacy DOC files now have Markdown, offline readers, highlighted source comparisons and filtered media galleries. `index.html` is the review overview. They preserve 79 assignments, 714 main questions and 2,244 media placements from 1,448 graphic asset IDs: 1,115 formula images become LaTeX, 21 tables become editable data, 241 drawings become SVG/JSON and 71 retain raster artwork.
+
+Original DOC/media bytes, 1,101 native equation records, parsed trees, reference copies, source-inspected mappings and replayable Python/JavaScript are in the archive. Reference pagination differs from original Word pagination. Candidate review and a few legacy font/label repairs remain; the per-batch conversion notes list issues by reference page. Interactive learning, a geometry constraint model, executable assignments and progress storage remain future work.

@@ -1,0 +1,61 @@
+{
+  "kind": "table",
+  "headers": [
+    "Year",
+    "Winning time"
+  ],
+  "rows": [
+    [
+      1948,
+      "24.4"
+    ],
+    [
+      1952,
+      "23.7"
+    ],
+    [
+      1956,
+      "23.4"
+    ],
+    [
+      1960,
+      "24.0"
+    ],
+    [
+      1964,
+      "23.0"
+    ],
+    [
+      1968,
+      "22.5"
+    ],
+    [
+      1972,
+      "22.4"
+    ],
+    [
+      1976,
+      "22.37"
+    ],
+    [
+      1980,
+      "22.03"
+    ],
+    [
+      1984,
+      "21.81"
+    ],
+    [
+      1988,
+      "21.34"
+    ],
+    [
+      1992,
+      "21.81"
+    ]
+  ],
+  "title": null,
+  "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+  "source_asset_id": "image204",
+  "review": "needs_review"
+}

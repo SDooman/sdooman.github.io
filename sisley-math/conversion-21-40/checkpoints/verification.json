@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "source_sha256": "80b14fc8ad8812ba8bc09fe4a29bad92ffb84315d639740c7de83106eb65e010",
+  "assignments": 20,
+  "main_questions": 175,
+  "graphic_placements": 546,
+  "formula_replacements": 435,
+  "distinct_latex": 214,
+  "editable_tables": 16,
+  "vector_drawings_in_reader": 89,
+  "vector_scenes_including_tables": 105,
+  "retained_raster_graphics": [
+    "image133",
+    "image175",
+    "image430",
+    "image450",
+    "image453",
+    "image462"
+  ],
+  "reference_pages": 95,
+  "tests": {
+    "new_batch_source_tests": 9,
+    "existing_pipeline_regression_tests": 17,
+    "both_book_builds": "passed",
+    "both_book_static_checks": "passed"
+  },
+  "visual_review": {
+    "non_equation_source_graphics": 111,
+    "distinct_formula_pairs": 214,
+    "reference_page_contact_sheets": "All 95 pages inspected as contact sheets; not a 100%-zoom mathematical proofreading claim.",
+    "targeted_followups": [
+      "Legacy C5 raised-minus glyph in all 8 affected objects",
+      "Explicit blank-space preservation in image533",
+      "Formula groups in image440",
+      "Hairline brackets in image3",
+      "Hairline axes in image336",
+      "Full-size table/formula sources image199/image200/image206"
+    ]
+  },
+  "known_limits": [
+    "Original Word pagination unverified",
+    "Six raster-containing originals retained",
+    "Recovered paths are not general mathematical constraints",
+    "Interactive browser controls syntax-checked but not manually exercised"
+  ],
+  "review_state": "candidate"
+}

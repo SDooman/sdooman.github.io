@@ -1,0 +1,1984 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "image1",
+      "latex": "\\left\\{ \\begin{array}{l}4\\cdot x+6\\cdot y=4 \\\\ 3\\cdot x+7\\cdot y=13\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image1-1",
+      "source_asset": "assets/source-png/image1.png",
+      "notes": []
+    },
+    {
+      "id": "image2",
+      "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+\\frac{6}{4}\\cdot y=1 \\\\ 3\\cdot x+7\\cdot y=13\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image2-1",
+      "source_asset": "assets/source-png/image2.png",
+      "notes": []
+    },
+    {
+      "id": "image3",
+      "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+\\frac{6}{4}\\cdot y=1 \\\\ 0\\cdot x+\\frac{10}{4}\\cdot y=10\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image3-1",
+      "source_asset": "assets/source-png/image3.png",
+      "notes": []
+    },
+    {
+      "id": "image4",
+      "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+\\frac{6}{4}\\cdot y=1 \\\\ 0\\cdot x+1\\cdot y=4\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image4-1",
+      "source_asset": "assets/source-png/image4.png",
+      "notes": []
+    },
+    {
+      "id": "image5",
+      "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+0\\cdot y=\\frac{{}^{-}20}{4} \\\\ 0\\cdot x+1\\cdot y=4\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image5-1",
+      "source_asset": "assets/source-png/image5.png",
+      "notes": []
+    },
+    {
+      "id": "image6",
+      "latex": "\\frac{1}{4}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image6-1",
+      "source_asset": "assets/source-png/image6.png",
+      "notes": []
+    },
+    {
+      "id": "image7",
+      "latex": "\\left\\{ \\begin{array}{l}4\\cdot x+6\\cdot y=4\\hspace{1.0em}\\text{A}_{\\text{1}} \\\\ 3\\cdot x+7\\cdot y=13\\hspace{0.75em}\\text{B}_{\\text{1}}\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image7-1",
+      "source_asset": "assets/source-png/image7.png",
+      "notes": []
+    },
+    {
+      "id": "image8",
+      "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+\\frac{6}{4}\\cdot y=1\\hspace{1.25em}\\text{A}_{\\text{2}}=\\frac{1}{4}\\cdot \\text{A}_{1} \\\\ 3\\cdot x+7\\cdot y=13\\hspace{1.0em}\\text{B}_{\\text{2}}=\\text{B}_{1}\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image8-1",
+      "source_asset": "assets/source-png/image8.png",
+      "notes": []
+    },
+    {
+      "id": "image10",
+      "latex": "\\left\\{ \\begin{array}{l}2\\cdot x+{}^{-}4\\cdot y=14\\hspace{0.5em}\\text{A}_{\\text{1}} \\\\ \\text{ }3\\cdot x+2\\cdot y=5\\hspace{1.0em}\\text{B}_{\\text{1}}\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image10-1",
+      "source_asset": "assets/source-png/image10.png",
+      "notes": []
+    },
+    {
+      "id": "image11",
+      "latex": "\\left\\{\\begin{array}{l}A_2=\\frac12\\cdot A_1 \\\\ B_2=B_1\\end{array}\\right.",
+      "method": "source-inspected-transcription",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image11.png",
+      "notes": []
+    },
+    {
+      "id": "image12",
+      "latex": "\\left\\{\\begin{array}{l}A_3=A_2 \\\\ B_3={}^{-}3\\cdot A_2+B_2\\end{array}\\right.",
+      "method": "source-inspected-transcription",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image12.png",
+      "notes": []
+    },
+    {
+      "id": "image13",
+      "latex": "\\left\\{\\begin{array}{l}A_5=2\\cdot B_4+A_4 \\\\ B_5=B_4\\end{array}\\right.",
+      "method": "source-inspected-transcription",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image13.png",
+      "notes": []
+    },
+    {
+      "id": "image16",
+      "latex": "\\text{a}\\cdot x+\\text{b}\\cdot y=\\text{c}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image16-1",
+      "source_asset": "assets/source-png/image16.png",
+      "notes": []
+    },
+    {
+      "id": "image17",
+      "latex": "y+{}^{-}4=2\\cdot x",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image17-1",
+      "source_asset": "assets/source-png/image17.png",
+      "notes": []
+    },
+    {
+      "id": "image18",
+      "latex": "y+{}^{-}4={}^{-}1\\cdot x",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image18-1",
+      "source_asset": "assets/source-png/image18.png",
+      "notes": []
+    },
+    {
+      "id": "image19",
+      "latex": "\\left\\{ \\begin{array}{l}{}^{-}2\\cdot x+1\\cdot y=4 \\\\ \\hspace{0.75em}1\\cdot x+1\\cdot y=4\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image19-1",
+      "source_asset": "assets/source-png/image19.png",
+      "notes": []
+    },
+    {
+      "id": "image20",
+      "latex": "y={}^{-}1\\mathrm{.}2\\cdot x+30",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image20-1",
+      "source_asset": "assets/source-png/image20.png",
+      "notes": []
+    },
+    {
+      "id": "image21",
+      "latex": "y=\\text{a}\\cdot x+\\text{b}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image21-1",
+      "source_asset": "assets/source-png/image21.png",
+      "notes": []
+    },
+    {
+      "id": "image22",
+      "latex": "1\\cdot x+1\\cdot y=2",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image22-1",
+      "source_asset": "assets/source-png/image22.png",
+      "notes": []
+    },
+    {
+      "id": "image23",
+      "latex": "{}^{-}1\\cdot x+1\\cdot y=4",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image23-1",
+      "source_asset": "assets/source-png/image23.png",
+      "notes": []
+    },
+    {
+      "id": "image25",
+      "latex": "\\left\\{ \\begin{array}{l}\\hspace{0.5em}1\\cdot x+1\\cdot y=2 \\\\ {}^{-}1\\cdot x+1\\cdot y=4\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image25-1",
+      "source_asset": "assets/source-png/image25.png",
+      "notes": []
+    },
+    {
+      "id": "image26",
+      "latex": "\\left\\{ \\begin{array}{l}4\\cdot x+2\\cdot y=\\text{ }2\\hspace{0.75em}\\text{A}_{\\text{1}} \\\\ 4\\cdot x+{}^{-}1\\cdot y=11\\hspace{0.75em}\\text{B}_{\\text{1}}\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image26.png",
+      "notes": []
+    },
+    {
+      "id": "image27",
+      "latex": "\\left\\{\\begin{array}{l}A_2=\\frac14\\cdot A_1 \\\\ B_2=B_1\\end{array}\\right.",
+      "method": "source-inspected-transcription",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image27.png",
+      "notes": []
+    },
+    {
+      "id": "image28",
+      "latex": "\\left\\{\\begin{array}{l}A_3=A_2 \\\\ B_3={}^{-}4\\cdot A_2+B_2\\end{array}\\right.",
+      "method": "source-inspected-transcription",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image28.png",
+      "notes": []
+    },
+    {
+      "id": "image29",
+      "latex": "\\left\\{ \\begin{array}{l}\\hspace{5.25em}\\text{A}_{\\text{4}}=\\text{A}_{3} \\\\ \\hspace{5.25em}\\text{B}_{\\text{4}}=\\frac{{}^{-}1}{3}\\cdot \\text{B}_{\\text{3}}\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image29-1",
+      "source_asset": "assets/source-png/image29.png",
+      "notes": []
+    },
+    {
+      "id": "image30",
+      "latex": "\\left\\{\\begin{array}{l}A_5=\\frac{{}^{-}1}{2}\\cdot B_4+A_4 \\\\ B_5=B_4\\end{array}\\right.",
+      "method": "source-inspected-transcription",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image30.png",
+      "notes": []
+    },
+    {
+      "id": "image31",
+      "latex": "4\\cdot x+2\\cdot y=2",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image31-1",
+      "source_asset": "assets/source-png/image31.png",
+      "notes": []
+    },
+    {
+      "id": "image32",
+      "latex": "4\\cdot x+{}^{-}1\\cdot y=11",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image32-1",
+      "source_asset": "assets/source-png/image32.png",
+      "notes": []
+    },
+    {
+      "id": "image33",
+      "latex": "y={}^{-}1\\cdot x+2",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image33-1",
+      "source_asset": "assets/source-png/image33.png",
+      "notes": []
+    },
+    {
+      "id": "image34",
+      "latex": "y=1\\cdot x+4",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image34-1",
+      "source_asset": "assets/source-png/image34.png",
+      "notes": []
+    },
+    {
+      "id": "image37",
+      "latex": "\\left\\{ \\begin{array}{l}\\text{a}\\cdot x+\\text{b}\\cdot y=\\text{c} \\\\ \\text{d}\\cdot x+\\text{e}\\cdot y=\\text{f}\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image37-1",
+      "source_asset": "assets/source-png/image37.png",
+      "notes": []
+    },
+    {
+      "id": "image38",
+      "latex": "\\left\\{ \\begin{array}{l}3\\cdot x+15\\cdot y=7\\hspace{0.75em}\\text{A}_{\\text{1}} \\\\ 12\\cdot x+9\\cdot y=12\\hspace{0.5em}\\text{B}_{\\text{1}}\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image38-1",
+      "source_asset": "assets/source-png/image38.png",
+      "notes": []
+    },
+    {
+      "id": "image39",
+      "latex": "\\left\\{ \\begin{array}{l}\\text{ 1}\\cdot x+5\\cdot y\\text{ =}\\frac{\\text{7}}{\\text{3}}\\hspace{0.75em}\\text{A}_{\\text{2}}= \\\\ \\text{12}\\cdot x+9\\cdot y=12\\hspace{0.75em}\\text{B}_{\\text{2}}=\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image39-1",
+      "source_asset": "assets/source-png/image39.png",
+      "notes": []
+    },
+    {
+      "id": "image40",
+      "latex": "\\left\\{ \\begin{array}{l}\\hspace{0.5em}1\\cdot x+5\\cdot y=\\frac{7}{3}\\hspace{1.5em}\\text{A}_{\\text{3}}= \\\\ \\hspace{0.5em}0\\cdot x+{}^{-}\\text{51}\\cdot \\text{y=}{}^{-}\\text{16}\\hspace{0.75em}\\text{B}_{\\text{3}}=\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image40-1",
+      "source_asset": "assets/source-png/image40.png",
+      "notes": []
+    },
+    {
+      "id": "image41",
+      "latex": "\\left\\{ \\begin{array}{l}\\hspace{0.5em}1\\cdot x+5\\cdot y=\\frac{7}{3}\\hspace{1.25em}\\text{A}_{\\text{4}}= \\\\ \\hspace{0.5em}0\\cdot x+1\\cdot y=\\frac{16}{51}\\hspace{0.75em}\\text{B}_{\\text{4}}=\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image41-1",
+      "source_asset": "assets/source-png/image41.png",
+      "notes": []
+    },
+    {
+      "id": "image42",
+      "latex": "\\left\\{ \\begin{array}{l}\\hspace{0.5em}1\\cdot x+0\\cdot y=\\frac{13}{17}\\hspace{0.5em}\\text{A}_{\\text{5}}= \\\\ \\text{ 0}\\cdot x\\text{+}1\\cdot y\\text{=}\\frac{\\text{16}}{\\text{51}}\\hspace{0.75em}\\text{B}_{\\text{5}}=\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image42-1",
+      "source_asset": "assets/source-png/image42.png",
+      "notes": []
+    },
+    {
+      "id": "image43",
+      "latex": "3\\cdot x+15\\cdot y=7",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image43-1",
+      "source_asset": "assets/source-png/image43.png",
+      "notes": []
+    },
+    {
+      "id": "image44",
+      "latex": "12\\cdot x+9\\cdot y=12",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image44-1",
+      "source_asset": "assets/source-png/image44.png",
+      "notes": []
+    },
+    {
+      "id": "image46",
+      "latex": "y={}^{-}0\\mathrm{.}73\\cdot x+106\\mathrm{.}2",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image46-1",
+      "source_asset": "assets/source-png/image46.png",
+      "notes": []
+    },
+    {
+      "id": "image48",
+      "latex": "\\ell _{1}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image48-1",
+      "source_asset": "assets/source-png/image48.png",
+      "notes": []
+    },
+    {
+      "id": "image49",
+      "latex": "\\ell _{2}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image49-1",
+      "source_asset": "assets/source-png/image49.png",
+      "notes": []
+    },
+    {
+      "id": "image50",
+      "latex": "\\left( \\sqrt{\\frac{3}{4}}\\mathrm{,}\\frac{1}{2} \\right)",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image50-1",
+      "source_asset": "assets/source-png/image50.png",
+      "notes": []
+    },
+    {
+      "id": "image51",
+      "latex": "\\left( \\frac{{}^{-}1}{2}\\mathrm{,}\\sqrt{\\frac{3}{4}} \\right)",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image51-1",
+      "source_asset": "assets/source-png/image51.png",
+      "notes": []
+    },
+    {
+      "id": "image52",
+      "latex": "\\left( \\sqrt{0\\mathrm{.}6}\\mathrm{,}{}^{-}\\sqrt{0\\mathrm{.}4} \\right)",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image52-1",
+      "source_asset": "assets/source-png/image52.png",
+      "notes": []
+    },
+    {
+      "id": "image53",
+      "latex": "\\times ",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image53-1",
+      "source_asset": "assets/source-png/image53.png",
+      "notes": []
+    },
+    {
+      "id": "image54",
+      "latex": "\\left[ \\begin{matrix}4 & {}^{-}1 \\\\ {}^{-}3 & 5\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}x \\\\ y\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image54-1",
+      "source_asset": "assets/source-png/image54.png",
+      "notes": []
+    },
+    {
+      "id": "image55",
+      "latex": "\\left[ \\begin{array}{cc|c}2 & 21 & 5 \\\\ 6 & 8 & 12\\end{array} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image55-1",
+      "source_asset": "assets/source-png/image55.png",
+      "notes": []
+    },
+    {
+      "id": "image56",
+      "latex": "\\left[ \\begin{array}{cc|c}1 & 0 & \\frac{106}{55} \\\\ 0 & 1 & \\frac{3}{55}\\end{array} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image56-1",
+      "source_asset": "assets/source-png/image56.png",
+      "notes": []
+    },
+    {
+      "id": "image57",
+      "latex": "\\left\\{ \\begin{array}{l}\\text{ } \\\\ \\text{ } \\\\ \\text{ }\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image57-1",
+      "source_asset": "assets/source-png/image57.png",
+      "notes": []
+    },
+    {
+      "id": "image58",
+      "latex": "\\left\\{ \\begin{array}{l}y=2\\mathrm{.}3\\cdot x+5 \\\\ y={}^{-}1\\mathrm{.}2\\cdot x+43\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image58-1",
+      "source_asset": "assets/source-png/image58.png",
+      "notes": []
+    },
+    {
+      "id": "image59",
+      "latex": "\\left\\{ \\begin{array}{l}\\hspace{0.75em}3\\cdot x+1\\cdot y=1 \\\\ {}^{-}2\\cdot x+{}^{-}3\\cdot y=4\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image59-1",
+      "source_asset": "assets/source-png/image59.png",
+      "notes": []
+    },
+    {
+      "id": "image60",
+      "latex": "\\left[ \\begin{array}{cc|c}3 & 15 & 7 \\\\ 12 & 9 & 12\\end{array} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image60-1",
+      "source_asset": "assets/source-png/image60.png",
+      "notes": []
+    },
+    {
+      "id": "image61",
+      "latex": "\\left\\{ \\begin{array}{l}3\\cdot x+15\\cdot y=7\\hspace{0.75em} \\\\ 12\\cdot x+9\\cdot y=12\\text{ }\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image61-1",
+      "source_asset": "assets/source-png/image61.png",
+      "notes": []
+    },
+    {
+      "id": "image62",
+      "latex": "\\left\\{ \\begin{array}{l}\\hspace{0.5em}1\\cdot x+0\\cdot y=\\frac{13}{17}\\hspace{0.5em} \\\\ \\text{ 0}\\cdot x\\text{+1}\\cdot y\\text{=}\\frac{\\text{16}}{\\text{51}}\\hspace{0.5em}\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image62-1",
+      "source_asset": "assets/source-png/image62.png",
+      "notes": []
+    },
+    {
+      "id": "image63",
+      "latex": "\\left[ \\begin{array}{cc|c}1 & 0 & \\frac{13}{17} \\\\ 0 & 1 & \\frac{16}{51}\\end{array} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image63-1",
+      "source_asset": "assets/source-png/image63.png",
+      "notes": []
+    },
+    {
+      "id": "image64",
+      "latex": "\\left[ \\begin{matrix}3 & 15 \\\\ 12 & 9\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image64-1",
+      "source_asset": "assets/source-png/image64.png",
+      "notes": []
+    },
+    {
+      "id": "image65",
+      "latex": "\\left[ \\begin{matrix}7 \\\\ 12\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image65-1",
+      "source_asset": "assets/source-png/image65.png",
+      "notes": []
+    },
+    {
+      "id": "image67",
+      "latex": "\\text{A}_{\\text{2}}=\\frac{\\text{1}}{\\text{3}}\\cdot \\text{A}_{\\text{1}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image67-1",
+      "source_asset": "assets/source-png/image67.png",
+      "notes": []
+    },
+    {
+      "id": "image68",
+      "latex": "\\text{B}_{\\text{2}}=\\text{B}_{\\text{1}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image68-1",
+      "source_asset": "assets/source-png/image68.png",
+      "notes": []
+    },
+    {
+      "id": "image70",
+      "latex": "\\frac{7}{3}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image70-1",
+      "source_asset": "assets/source-png/image70.png",
+      "notes": []
+    },
+    {
+      "id": "image71",
+      "latex": "\\text{A}_{\\text{3}}=\\text{A}_{\\text{2}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image71-1",
+      "source_asset": "assets/source-png/image71.png",
+      "notes": []
+    },
+    {
+      "id": "image72",
+      "latex": "\\text{B}_{\\text{3}}={}^{-}\\text{12}\\cdot \\text{A}_{\\text{2}}+\\text{B}_{\\text{2}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image72-1",
+      "source_asset": "assets/source-png/image72.png",
+      "notes": []
+    },
+    {
+      "id": "image77",
+      "latex": "\\left( \\frac{13}{17}\\mathrm{,}\\frac{16}{51} \\right)",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image77-1",
+      "source_asset": "assets/source-png/image77.png",
+      "notes": []
+    },
+    {
+      "id": "image78",
+      "latex": "\\left[\\begin{array}{cc|c}3 & 1 & 1 \\\\ {}^{-}2 & {}^{-}3 & 4\\end{array}\\right]\\quad\\begin{array}{l}A_1 \\\\ B_1\\end{array}",
+      "method": "source-inspected-transcription",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image78.png",
+      "notes": []
+    },
+    {
+      "id": "image79",
+      "latex": "\\left[\\begin{array}{cc|c}\\phantom{00} & \\phantom{00} & \\phantom{00} \\\\ \\phantom{00} & \\phantom{00} & \\phantom{00}\\end{array}\\right]\\quad\\begin{array}{l}A_2=\\frac13\\cdot A_1 \\\\ B_2=B_1\\end{array}",
+      "method": "source-inspected-transcription",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image79.png",
+      "notes": []
+    },
+    {
+      "id": "image80",
+      "latex": "\\left[\\begin{array}{cc|c}\\phantom{00} & \\phantom{00} & \\phantom{00} \\\\ \\phantom{00} & \\phantom{00} & \\phantom{00}\\end{array}\\right]\\quad\\begin{array}{l}A_3=A_2 \\\\ B_3=2\\cdot A_2+B_2\\end{array}",
+      "method": "source-inspected-transcription",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image80.png",
+      "notes": []
+    },
+    {
+      "id": "image81",
+      "latex": "\\left[\\begin{array}{cc|c}\\phantom{00} & \\phantom{00} & \\phantom{00} \\\\ \\phantom{00} & \\phantom{00} & \\phantom{00}\\end{array}\\right]\\quad\\begin{array}{l}A_4=A_3 \\\\ B_4=\\frac{{}^{-}3}{7}\\cdot B_3\\end{array}",
+      "method": "source-inspected-transcription",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image81.png",
+      "notes": []
+    },
+    {
+      "id": "image82",
+      "latex": "\\left[\\begin{array}{cc|c}\\phantom{00} & \\phantom{00} & \\phantom{00} \\\\ \\phantom{00} & \\phantom{00} & \\phantom{00}\\end{array}\\right]\\quad\\begin{array}{l}A_5=\\frac{{}^{-}1}{3}\\cdot B_4+A_4 \\\\ B_5=B_4\\end{array}",
+      "method": "source-inspected-transcription",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image82.png",
+      "notes": []
+    },
+    {
+      "id": "image83",
+      "latex": "\\left\\{ \\begin{array}{l}9\\cdot x+11\\cdot y\\hspace{0.5em}=3\\hspace{0.75em}\\text{A}_{\\text{1}} \\\\ 17\\cdot x+11\\cdot y=11\\hspace{0.5em}\\text{B}_{\\text{1}}\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image83-1",
+      "source_asset": "assets/source-png/image83.png",
+      "notes": []
+    },
+    {
+      "id": "image84",
+      "latex": "\\left\\{ \\begin{array}{l}\\text{ 1}\\cdot x+\\frac{11}{9}\\cdot y\\text{ =}\\frac{\\text{1}}{\\text{3}}\\hspace{1.25em}\\text{A}_{\\text{2}}= \\\\ \\text{17}\\cdot x+11\\cdot y=11\\hspace{1.5em}\\text{B}_{\\text{2}}=\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image84-1",
+      "source_asset": "assets/source-png/image84.png",
+      "notes": []
+    },
+    {
+      "id": "image85",
+      "latex": "\\left\\{ \\begin{array}{l}\\hspace{1.5em}1\\cdot x+\\frac{11}{9}\\cdot y=\\frac{1}{3}\\hspace{0.75em}\\text{A}_{\\text{3}}= \\\\ \\hspace{0.5em}0\\cdot x+\\frac{{}^{-}88}{9}\\cdot \\text{y=}\\frac{\\text{16}}{\\text{3}}\\hspace{0.75em}\\text{B}_{\\text{3}}=\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image85-1",
+      "source_asset": "assets/source-png/image85.png",
+      "notes": []
+    },
+    {
+      "id": "image86",
+      "latex": "\\left\\{ \\begin{array}{l}\\hspace{0.5em}1\\cdot x+\\frac{11}{9}\\cdot y=\\frac{1}{3}\\hspace{0.5em}\\text{A}_{\\text{4}}= \\\\ \\hspace{0.5em}0\\cdot x+1\\cdot y=\\frac{{}^{-}6}{11}\\hspace{0.75em}\\text{B}_{\\text{4}}=\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image86-1",
+      "source_asset": "assets/source-png/image86.png",
+      "notes": []
+    },
+    {
+      "id": "image87",
+      "latex": "\\left\\{ \\begin{array}{l}\\hspace{0.5em}1\\cdot x+0\\cdot y=1\\hspace{1.25em}\\text{A}_{\\text{5}}= \\\\ \\text{ 0}\\cdot x\\text{+}1\\cdot y\\text{=}\\frac{{}^{-}6}{\\text{11}}\\hspace{0.75em}\\text{B}_{\\text{5}}=\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image87-1",
+      "source_asset": "assets/source-png/image87.png",
+      "notes": []
+    },
+    {
+      "id": "image88",
+      "latex": "y={}^{-}0\\mathrm{.}51x+121\\mathrm{.}2",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image88-1",
+      "source_asset": "assets/source-png/image88.png",
+      "notes": []
+    },
+    {
+      "id": "image89",
+      "latex": "\\left[ \\begin{matrix}1 & 0\\mathrm{.}4 \\\\ 0 & 1\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}1 & 0 \\\\ 0 & 1\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image89-1",
+      "source_asset": "assets/source-png/image89.png",
+      "notes": []
+    },
+    {
+      "id": "image90",
+      "latex": "\\left[ \\begin{matrix}1 & 0\\mathrm{.}4 \\\\ 0 & 1\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image90-1",
+      "source_asset": "assets/source-png/image90.png",
+      "notes": []
+    },
+    {
+      "id": "image91",
+      "latex": "\\left\\{ \\begin{array}{l}\\text{ }1\\text{4}\\cdot x+21\\cdot y={}^{-}17 \\\\ \\hspace{0.5em}20\\cdot x+6\\cdot y=8\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image91-1",
+      "source_asset": "assets/source-png/image91.png",
+      "notes": []
+    },
+    {
+      "id": "image92",
+      "latex": "\\left[\\begin{array}{cc|c}14 & 21 & {}^{-}17 \\\\ 20 & 6 & 8\\end{array}\\right]\\quad\\begin{array}{l}A_1 \\\\ B_1\\end{array}",
+      "method": "source-inspected-transcription",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image92.png",
+      "notes": []
+    },
+    {
+      "id": "image93",
+      "latex": "\\left[\\begin{array}{cc|c}\\phantom{00} & \\phantom{00} & \\phantom{00} \\\\ \\phantom{00} & \\phantom{00} & \\phantom{00}\\end{array}\\right]\\quad\\begin{array}{l}A_2=\\frac1{14}\\cdot A_1 \\\\ B_2=B_1\\end{array}",
+      "method": "source-inspected-transcription",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image93.png",
+      "notes": []
+    },
+    {
+      "id": "image94",
+      "latex": "\\left[\\begin{array}{cc|c}\\phantom{00} & \\phantom{00} & \\phantom{00} \\\\ \\phantom{00} & \\phantom{00} & \\phantom{00}\\end{array}\\right]\\quad\\begin{array}{l}A_3=A_2 \\\\ B_3={}^{-}20\\cdot A_2+B_2\\end{array}",
+      "method": "source-inspected-transcription",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image94.png",
+      "notes": []
+    },
+    {
+      "id": "image95",
+      "latex": "\\left[\\begin{array}{cc|c}\\phantom{00} & \\phantom{00} & \\phantom{00} \\\\ \\phantom{00} & \\phantom{00} & \\phantom{00}\\end{array}\\right]\\quad\\begin{array}{l}A_4=A_3 \\\\ B_4=\\frac{{}^{-}1}{24}\\cdot B_3\\end{array}",
+      "method": "source-inspected-transcription",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image95.png",
+      "notes": []
+    },
+    {
+      "id": "image96",
+      "latex": "\\left[\\begin{array}{cc|c}\\phantom{00} & \\phantom{00} & \\phantom{00} \\\\ \\phantom{00} & \\phantom{00} & \\phantom{00}\\end{array}\\right]\\quad\\begin{array}{l}A_5=\\frac{{}^{-}3}{2}\\cdot B_4+A_4 \\\\ B_5=B_4\\end{array}",
+      "method": "source-inspected-transcription",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image96.png",
+      "notes": []
+    },
+    {
+      "id": "image97",
+      "latex": "\\left\\{ \\begin{array}{l}13x+11y=21 \\\\ 17x+1y=10\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image97-1",
+      "source_asset": "assets/source-png/image97.png",
+      "notes": []
+    },
+    {
+      "id": "image98",
+      "latex": "\\begin{array}{l}1 \\\\ 0\\end{array}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image98-1",
+      "source_asset": "assets/source-png/image98.png",
+      "notes": []
+    },
+    {
+      "id": "image99",
+      "latex": "\\begin{array}{l}0 \\\\ 1\\end{array}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image99-1",
+      "source_asset": "assets/source-png/image99.png",
+      "notes": []
+    },
+    {
+      "id": "image100",
+      "latex": "\\left[ \\begin{matrix}1 & 0 \\\\ 0 & 1\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image100-1",
+      "source_asset": "assets/source-png/image100.png",
+      "notes": []
+    },
+    {
+      "id": "image101",
+      "latex": "\\text{M}\\cdot \\left[ \\begin{matrix}1 & 0 \\\\ 0 & 1\\end{matrix} \\right]=\\left[ \\begin{matrix}\\text{a} & \\text{c} \\\\ \\text{b} & \\text{d}\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image101-1",
+      "source_asset": "assets/source-png/image101.png",
+      "notes": []
+    },
+    {
+      "id": "image102",
+      "latex": "\\times ",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image102-1",
+      "source_asset": "assets/source-png/image102.png",
+      "notes": []
+    },
+    {
+      "id": "image103",
+      "latex": "\\left[ \\begin{matrix}\\text{a} \\\\ \\text{b}\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image103-1",
+      "source_asset": "assets/source-png/image103.png",
+      "notes": []
+    },
+    {
+      "id": "image104",
+      "latex": "\\left[ \\begin{matrix}\\text{c} \\\\ \\text{d}\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image104-1",
+      "source_asset": "assets/source-png/image104.png",
+      "notes": []
+    },
+    {
+      "id": "image105",
+      "latex": "\\left( \\frac{1}{2}\\mathrm{,}\\frac{\\sqrt{3}}{2} \\right)",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image105-1",
+      "source_asset": "assets/source-png/image105.png",
+      "notes": []
+    },
+    {
+      "id": "image106",
+      "latex": "\\left( \\frac{{}^{-}\\sqrt{3}}{2}\\mathrm{,}\\frac{1}{2} \\right)",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image106-1",
+      "source_asset": "assets/source-png/image106.png",
+      "notes": []
+    },
+    {
+      "id": "image108",
+      "latex": "\\left\\{ \\begin{array}{l}y=\\frac{1}{5}\\cdot x \\\\ \\mathrm{(}y+{}^{-}5\\mathrm{)}={}^{-}5\\cdot \\mathrm{(}x+{}^{-}4\\mathrm{)}\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image108-1",
+      "source_asset": "assets/source-png/image108.png",
+      "notes": []
+    },
+    {
+      "id": "image112",
+      "latex": "\\text{Area}=\\frac{\\text{1}}{\\text{2}}\\cdot \\text{the length of a base}\\cdot \\text{the length of an altitude to that base.}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image112-1",
+      "source_asset": "assets/source-png/image112.png",
+      "notes": []
+    },
+    {
+      "id": "image113",
+      "latex": "\\sqrt{10^{2}+2^{2}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image113-1",
+      "source_asset": "assets/source-png/image113.png",
+      "notes": []
+    },
+    {
+      "id": "image114",
+      "latex": "\\mathrm{(}y+{}^{-}5\\mathrm{)}=\\frac{{}^{-}10}{2}\\cdot \\mathrm{(}x+{}^{-}4\\mathrm{)}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image114-1",
+      "source_asset": "assets/source-png/image114.png",
+      "notes": []
+    },
+    {
+      "id": "image115",
+      "latex": "\\left\\{ \\begin{array}{l}\\mathrm{(}y+{}^{-}5\\mathrm{)}\\text{ }={}^{-}5\\cdot \\mathrm{(}x+{}^{-}4\\mathrm{)} \\\\ \\hspace{2.5em}y=\\frac{1}{5}\\cdot x\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image115-1",
+      "source_asset": "assets/source-png/image115.png",
+      "notes": []
+    },
+    {
+      "id": "image116",
+      "latex": "\\left\\{ \\begin{array}{l}5\\cdot x+1\\cdot y=25 \\\\ \\frac{{}^{-}1}{5}\\cdot x+1\\cdot y=0\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image116-1",
+      "source_asset": "assets/source-png/image116.png",
+      "notes": []
+    },
+    {
+      "id": "image117",
+      "latex": "\\left[ \\begin{matrix}5 & 1 \\\\ \\frac{{}^{-}1}{5} & 1\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image117-1",
+      "source_asset": "assets/source-png/image117.png",
+      "notes": []
+    },
+    {
+      "id": "image118",
+      "latex": "\\left[ \\begin{matrix}25 \\\\ 0\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image118-1",
+      "source_asset": "assets/source-png/image118.png",
+      "notes": []
+    },
+    {
+      "id": "image119",
+      "latex": "\\left( \\frac{125}{26}\\mathrm{,}\\frac{25}{26} \\right)",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image119-1",
+      "source_asset": "assets/source-png/image119.png",
+      "notes": []
+    },
+    {
+      "id": "image121",
+      "latex": "\\left( \\sqrt{\\frac{1}{2}}\\mathrm{,}{}^{-}\\sqrt{\\frac{1}{2}} \\right)",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image121-1",
+      "source_asset": "assets/source-png/image121.png",
+      "notes": []
+    },
+    {
+      "id": "image122",
+      "latex": "\\left( {}^{-}\\sqrt{0\\mathrm{.}57}\\mathrm{,}\\sqrt{0\\mathrm{.}43} \\right)",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image122-1",
+      "source_asset": "assets/source-png/image122.png",
+      "notes": []
+    },
+    {
+      "id": "image126",
+      "latex": "x^{2}=4",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image126-1",
+      "source_asset": "assets/source-png/image126.png",
+      "notes": []
+    },
+    {
+      "id": "image127",
+      "latex": "x^{2}+y^{2}=1",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image127-1",
+      "source_asset": "assets/source-png/image127.png",
+      "notes": []
+    },
+    {
+      "id": "image129",
+      "latex": "\\left( \\frac{\\sqrt{2}}{2}\\mathrm{,}\\frac{\\sqrt{2}}{2} \\right)",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image129-1",
+      "source_asset": "assets/source-png/image129.png",
+      "notes": []
+    },
+    {
+      "id": "image130",
+      "latex": "\\left( \\frac{{}^{-}\\sqrt{2}}{2}\\mathrm{,}\\frac{\\sqrt{2}}{2} \\right)",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image130-1",
+      "source_asset": "assets/source-png/image130.png",
+      "notes": []
+    },
+    {
+      "id": "image133",
+      "latex": "\\left( \\frac{{}^{-}1}{2}\\mathrm{,}\\frac{{}^{-}\\sqrt{3}}{2} \\right)",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image133-1",
+      "source_asset": "assets/source-png/image133.png",
+      "notes": []
+    },
+    {
+      "id": "image135",
+      "latex": "y^{2}=1-x^{2}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image135-1",
+      "source_asset": "assets/source-png/image135.png",
+      "notes": []
+    },
+    {
+      "id": "image136",
+      "latex": "\\sqrt{\\text{ }}\\mathrm{(}1-\\text{X}^{2}\\mathrm{)}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image136-1",
+      "source_asset": "assets/source-png/image136.png",
+      "notes": []
+    },
+    {
+      "id": "image137",
+      "latex": "{}^{-}\\sqrt{\\text{ }}\\mathrm{(}1-\\text{X}^{2}\\mathrm{)}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image137-1",
+      "source_asset": "assets/source-png/image137.png",
+      "notes": []
+    },
+    {
+      "id": "image138",
+      "latex": "x-\\text{axis}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image138-1",
+      "source_asset": "assets/source-png/image138.png",
+      "notes": []
+    },
+    {
+      "id": "image139",
+      "latex": "\\mathrm{(}{}^{-}\\sqrt{0\\mathrm{.}7}\\mathrm{,}\\sqrt{0\\mathrm{.}3}\\mathrm{)}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image139-1",
+      "source_asset": "assets/source-png/image139.png",
+      "notes": []
+    },
+    {
+      "id": "image140",
+      "latex": "\\sqrt{1^{2}+0^{2}}=\\sqrt{1}=1",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image140-1",
+      "source_asset": "assets/source-png/image140.png",
+      "notes": []
+    },
+    {
+      "id": "image141",
+      "latex": "\\sqrt{\\mathrm{(cos(}{}^{-}130^{\\text{o}}\\mathrm{))}^{2}+\\mathrm{(sin(}{}^{-}130^{\\text{o}}\\mathrm{))}^{2}}=1",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image141-1",
+      "source_asset": "assets/source-png/image141.png",
+      "notes": []
+    },
+    {
+      "id": "image142",
+      "latex": "x^{2}+y^{2}=1",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image142-1",
+      "source_asset": "assets/source-png/image142.png",
+      "notes": []
+    },
+    {
+      "id": "image144",
+      "latex": "\\text{a}^{\\text{2}}+\\text{b}^{\\text{2}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image144-1",
+      "source_asset": "assets/source-png/image144.png",
+      "notes": []
+    },
+    {
+      "id": "image145",
+      "latex": "\\text{e}^{\\text{2}}+\\text{f }^{\\text{2}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image145-1",
+      "source_asset": "assets/source-png/image145.png",
+      "notes": []
+    },
+    {
+      "id": "image147",
+      "latex": "\\ell ",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image147-1",
+      "source_asset": "assets/source-png/image147.png",
+      "notes": []
+    },
+    {
+      "id": "image148",
+      "latex": "\\text{a}^{\\text{2}}+\\text{a}^{\\text{2}}=\\text{1}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image148-1",
+      "source_asset": "assets/source-png/image148.png",
+      "notes": []
+    },
+    {
+      "id": "image149",
+      "latex": "\\sqrt{\\frac{1}{2}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image149-1",
+      "source_asset": "assets/source-png/image149.png",
+      "notes": []
+    },
+    {
+      "id": "image150",
+      "latex": "\\frac{1}{\\sqrt{2}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image150-1",
+      "source_asset": "assets/source-png/image150.png",
+      "notes": []
+    },
+    {
+      "id": "image151",
+      "latex": "\\frac{1}{\\sqrt{2}}\\cdot \\frac{\\sqrt{2}}{\\sqrt{2}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image151-1",
+      "source_asset": "assets/source-png/image151.png",
+      "notes": []
+    },
+    {
+      "id": "image152",
+      "latex": "\\sqrt{\\text{ }}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image152-1",
+      "source_asset": "assets/source-png/image152.png",
+      "notes": []
+    },
+    {
+      "id": "image154",
+      "latex": "\\left( \\frac{\\sqrt{3}}{2}\\mathrm{,}\\frac{1}{2} \\right)",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image154-1",
+      "source_asset": "assets/source-png/image154.png",
+      "notes": []
+    },
+    {
+      "id": "image155",
+      "latex": "\\left( \\frac{{}^{-}1}{2}\\mathrm{,}\\frac{\\sqrt{3}}{2} \\right)",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image155-1",
+      "source_asset": "assets/source-png/image155.png",
+      "notes": []
+    },
+    {
+      "id": "image156",
+      "latex": "y=x",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image156-1",
+      "source_asset": "assets/source-png/image156.png",
+      "notes": []
+    },
+    {
+      "id": "image157",
+      "latex": "\\text{a}^{\\text{2}}+\\text{a}^{2}=1^{2}=1",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image157-1",
+      "source_asset": "assets/source-png/image157.png",
+      "notes": []
+    },
+    {
+      "id": "image158",
+      "latex": "\\begin{array}{l}\\text{a}^{\\text{2}}+\\text{a}^{\\text{2}}=\\text{1} \\\\ \\hspace{1.25em}\\text{2}\\cdot \\text{a}^{\\text{2}}=\\text{1} \\\\ \\hspace{1.75em}\\text{a}^{\\text{2}}=\\frac{\\text{1}}{\\text{2}}\\end{array}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image158-1",
+      "source_asset": "assets/source-png/image158.png",
+      "notes": []
+    },
+    {
+      "id": "image159",
+      "latex": "\\frac{1}{2}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image159-1",
+      "source_asset": "assets/source-png/image159.png",
+      "notes": []
+    },
+    {
+      "id": "image160",
+      "latex": "\\sqrt{\\frac{1}{2}}=\\frac{\\sqrt{1}}{\\sqrt{2}}=\\frac{1}{\\sqrt{2}}=\\frac{1}{\\sqrt{2}}\\cdot \\frac{\\sqrt{2}}{\\sqrt{2}}=\\frac{\\sqrt{2}}{2}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image160-1",
+      "source_asset": "assets/source-png/image160.png",
+      "notes": []
+    },
+    {
+      "id": "image164",
+      "latex": "\\sqrt{\\frac{3}{4}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image164-1",
+      "source_asset": "assets/source-png/image164.png",
+      "notes": []
+    },
+    {
+      "id": "image165",
+      "latex": "\\frac{\\sqrt{3}}{\\sqrt{4}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image165-1",
+      "source_asset": "assets/source-png/image165.png",
+      "notes": []
+    },
+    {
+      "id": "image167",
+      "latex": "\\left[ \\begin{matrix}0 & {}^{-}1 \\\\ 1 & 0\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image167-1",
+      "source_asset": "assets/source-png/image167.png",
+      "notes": []
+    },
+    {
+      "id": "image168",
+      "latex": "\\left[ \\begin{matrix}\\text{0} & {}^{-}\\text{1} \\\\ \\text{1} & \\text{0}\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}\\text{cos(m)} \\\\ \\text{sin(m)}\\end{matrix} \\right]=\\left[ \\begin{matrix}{}^{-}\\text{sin(m)} \\\\ \\text{cos(m)}\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image168-1",
+      "source_asset": "assets/source-png/image168.png",
+      "notes": []
+    },
+    {
+      "id": "image169",
+      "latex": "\\left[ \\begin{matrix}\\text{cos(m)} & {}^{-}\\text{sin(m)} \\\\ \\text{sin(m)} & \\text{cos(m)}\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image169-1",
+      "source_asset": "assets/source-png/image169.png",
+      "notes": []
+    },
+    {
+      "id": "image171",
+      "latex": "\\left[ \\begin{matrix}\\text{L}\\text{1} \\\\ \\text{L}\\text{2}\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image171-1",
+      "source_asset": "assets/source-png/image171.png",
+      "notes": []
+    },
+    {
+      "id": "image172",
+      "latex": "r_{y=x}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image172-1",
+      "source_asset": "assets/source-png/image172.png",
+      "notes": []
+    },
+    {
+      "id": "image173",
+      "latex": "\\text{R}_{{}^{-}90}\\circ r_{y=x}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image173-1",
+      "source_asset": "assets/source-png/image173.png",
+      "notes": []
+    },
+    {
+      "id": "image174",
+      "latex": "r_{y=x}\\circ \\text{R}_{{}^{-}90}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image174-1",
+      "source_asset": "assets/source-png/image174.png",
+      "notes": []
+    },
+    {
+      "id": "image178",
+      "latex": "\\text{R}_{\\text{90}}\\circ \\text{S}_{\\text{4}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image178-1",
+      "source_asset": "assets/source-png/image178.png",
+      "notes": []
+    },
+    {
+      "id": "image179",
+      "latex": "\\text{R}_{{}^{-}\\text{90}}\\circ \\text{S}_{{}^{-}\\text{4}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image179-1",
+      "source_asset": "assets/source-png/image179.png",
+      "notes": []
+    },
+    {
+      "id": "image181",
+      "latex": "\\text{g}^{\\text{2}}+\\text{h}^{\\text{2}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image181-1",
+      "source_asset": "assets/source-png/image181.png",
+      "notes": []
+    },
+    {
+      "id": "image184",
+      "latex": "\\text{S}\\mathrm{(}x\\mathrm{,}y\\mathrm{)}=",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image184-1",
+      "source_asset": "assets/source-png/image184.png",
+      "notes": []
+    },
+    {
+      "id": "image185",
+      "latex": "\\left[ \\begin{matrix}\\frac{\\sqrt{2}}{2} & \\frac{{}^{-}\\sqrt{2}}{2} \\\\ \\frac{\\sqrt{2}}{2} & \\frac{\\sqrt{2}}{2}\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}\\text{X}\\text{1T} \\\\ \\text{Y}\\text{1T}\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image185-1",
+      "source_asset": "assets/source-png/image185.png",
+      "notes": []
+    },
+    {
+      "id": "image186",
+      "latex": "\\left[ \\begin{matrix}\\mathrm{cos(}\\alpha \\mathrm{)} & {}^{-}\\mathrm{sin(}\\alpha \\mathrm{)} \\\\ \\mathrm{sin(}\\alpha \\mathrm{)} & \\mathrm{cos(}\\alpha \\mathrm{)}\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image186-1",
+      "source_asset": "assets/source-png/image186.png",
+      "notes": []
+    },
+    {
+      "id": "image187",
+      "latex": "\\alpha ",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image187-1",
+      "source_asset": "assets/source-png/image187.png",
+      "notes": []
+    },
+    {
+      "id": "image188",
+      "latex": "\\text{R}_{\\text{90}}\\circ \\text{S}_{{}^{-}\\text{3}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image188-1",
+      "source_asset": "assets/source-png/image188.png",
+      "notes": []
+    },
+    {
+      "id": "image189",
+      "latex": "\\text{R}_{\\text{270}}\\circ \\text{S}_{\\text{3}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image189-1",
+      "source_asset": "assets/source-png/image189.png",
+      "notes": []
+    },
+    {
+      "id": "image191",
+      "latex": "\\text{R}_{\\text{60}}\\circ \\text{S}_{\\frac{\\text{1}}{\\text{2}}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image191-1",
+      "source_asset": "assets/source-png/image191.png",
+      "notes": []
+    },
+    {
+      "id": "image192",
+      "latex": "x\\mathrm{,}y\\mathrm{)}=\\mathrm{(}x+\\text{c}\\mathrm{,}y+\\text{d}\\mathrm{)}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image192-1",
+      "source_asset": "assets/source-png/image192.png",
+      "notes": []
+    },
+    {
+      "id": "image193",
+      "latex": "\\text{T}_{\\text{v}}\\circ \\text{T}_{\\text{h.}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image193-1",
+      "source_asset": "assets/source-png/image193.png",
+      "notes": []
+    },
+    {
+      "id": "image195",
+      "latex": "x-\\text{axis}\\mathrm{.}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image195-1",
+      "source_asset": "assets/source-png/image195.png",
+      "notes": []
+    },
+    {
+      "id": "image196",
+      "latex": "\\left[ \\begin{matrix}x \\\\ y\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image196-1",
+      "source_asset": "assets/source-png/image196.png",
+      "notes": []
+    },
+    {
+      "id": "image197",
+      "latex": "r_{y=x}\\mathrm{(}x\\mathrm{,}y\\mathrm{)}=",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image197-1",
+      "source_asset": "assets/source-png/image197.png",
+      "notes": []
+    },
+    {
+      "id": "image198",
+      "latex": "r_{y=x}\\mathrm{(}\\frac{\\sqrt{3}}{2}\\mathrm{,}\\frac{1}{2}\\mathrm{)}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image198-1",
+      "source_asset": "assets/source-png/image198.png",
+      "notes": []
+    },
+    {
+      "id": "image204",
+      "latex": "\\text{R}_{\\text{120}}\\circ \\text{S}_{\\text{4}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image204-1",
+      "source_asset": "assets/source-png/image204.png",
+      "notes": []
+    },
+    {
+      "id": "image205",
+      "latex": "\\text{R}_{{}^{-}\\text{240}}\\circ \\text{S}_{\\text{4}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image205-1",
+      "source_asset": "assets/source-png/image205.png",
+      "notes": []
+    },
+    {
+      "id": "image207",
+      "latex": "\\text{R}_{\\text{300}}\\circ \\text{S}_{{}^{-}\\text{4}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image207-1",
+      "source_asset": "assets/source-png/image207.png",
+      "notes": []
+    },
+    {
+      "id": "image208",
+      "latex": "\\text{R}_{{}^{-}60}\\circ \\text{S}_{{}^{-}\\text{4}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image208-1",
+      "source_asset": "assets/source-png/image208.png",
+      "notes": []
+    },
+    {
+      "id": "image211",
+      "latex": "\\left[\\begin{array}{cc}0 & 1 \\\\ 1 & 0\\end{array}\\right]\\cdot\\left[\\begin{array}{c}\\frac{\\sqrt3}{2} \\\\ \\frac12\\end{array}\\right]=\\left[\\begin{array}{c}\\frac12 \\\\ \\frac{\\sqrt3}{2}\\end{array}\\right]=\\left(\\frac12,\\frac{\\sqrt3}{2}\\right)",
+      "method": "source-inspected-transcription",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image211.png",
+      "notes": []
+    },
+    {
+      "id": "image212",
+      "latex": "\\text{R}_{30}\\mathrm{(}1\\mathrm{,}0\\mathrm{)}=\\left( \\frac{\\sqrt{3}}{2}\\mathrm{,}\\frac{1}{2} \\right)",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image212-1",
+      "source_asset": "assets/source-png/image212.png",
+      "notes": []
+    },
+    {
+      "id": "image213",
+      "latex": "\\text{R}_{45}\\mathrm{(}1\\mathrm{,}0\\mathrm{)}=\\left( \\frac{\\sqrt{2}}{2}\\mathrm{,}\\frac{\\sqrt{2}}{2} \\right)",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image213-1",
+      "source_asset": "assets/source-png/image213.png",
+      "notes": []
+    },
+    {
+      "id": "image214",
+      "latex": "\\text{R}_{60}\\mathrm{(}1\\mathrm{,}0\\mathrm{)}=\\left( \\frac{1}{2}\\mathrm{,}\\frac{\\sqrt{3}}{2} \\right)",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image214-1",
+      "source_asset": "assets/source-png/image214.png",
+      "notes": []
+    },
+    {
+      "id": "image216",
+      "latex": "r_{y=x}\\mathrm{(}\\text{A}\\mathrm{)}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image216-1",
+      "source_asset": "assets/source-png/image216.png",
+      "notes": []
+    },
+    {
+      "id": "image217",
+      "latex": "r_{y}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image217-1",
+      "source_asset": "assets/source-png/image217.png",
+      "notes": []
+    },
+    {
+      "id": "image218",
+      "latex": "\\mathrm{(}\\sqrt{2}\\mathrm{/}2\\mathrm{)}\\text{X}\\text{1T}+\\text{(}{}^{-}\\sqrt{\\text{2}}\\text{/2)Y}\\text{1T}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image218-1",
+      "source_asset": "assets/source-png/image218.png",
+      "notes": []
+    },
+    {
+      "id": "image219",
+      "latex": "\\mathrm{(}\\sqrt{2}\\mathrm{/}2\\mathrm{)}\\text{X}\\text{1T}+\\text{(}\\sqrt{\\text{2}}\\text{/2)Y}\\text{1T}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "source_asset": "assets/source-png/image219.png",
+      "notes": []
+    },
+    {
+      "id": "image222",
+      "latex": "0+{}^{-}4=\\sqrt{3}\\cdot \\mathrm{(}x+2\\mathrm{)}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image222-1",
+      "source_asset": "assets/source-png/image222.png",
+      "notes": []
+    },
+    {
+      "id": "image223",
+      "latex": "y+{}^{-}4=\\sqrt{3}\\cdot \\mathrm{(}x+2\\mathrm{)}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image223-1",
+      "source_asset": "assets/source-png/image223.png",
+      "notes": []
+    },
+    {
+      "id": "image225",
+      "latex": "\\left[ \\begin{matrix}\\mathrm{cos(}160^{\\text{o}}\\mathrm{)} & {}^{-}\\mathrm{sin(}160^{\\text{o}}\\mathrm{)} \\\\ \\mathrm{sin(}160^{\\text{o}}\\mathrm{)} & \\mathrm{cos(}160^{\\text{o}}\\mathrm{)}\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image225-1",
+      "source_asset": "assets/source-png/image225.png",
+      "notes": []
+    },
+    {
+      "id": "image227",
+      "latex": "\\text{R}_{150}\\circ \\text{S}_{5}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image227-1",
+      "source_asset": "assets/source-png/image227.png",
+      "notes": []
+    },
+    {
+      "id": "image228",
+      "latex": "\\text{T}_{\\text{v}}\\circ \\text{T}_{\\text{h}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image228-1",
+      "source_asset": "assets/source-png/image228.png",
+      "notes": []
+    },
+    {
+      "id": "image229",
+      "latex": "\\text{R}_{{}^{-}210}\\circ \\text{S}_{5}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image229-1",
+      "source_asset": "assets/source-png/image229.png",
+      "notes": []
+    },
+    {
+      "id": "image230",
+      "latex": "\\text{R}_{{}^{-}30}\\circ \\text{S}_{{}^{-}5}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image230-1",
+      "source_asset": "assets/source-png/image230.png",
+      "notes": []
+    },
+    {
+      "id": "image231",
+      "latex": "\\text{R}_{\\theta }\\circ \\text{S}_{\\text{r}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image231-1",
+      "source_asset": "assets/source-png/image231.png",
+      "notes": []
+    },
+    {
+      "id": "image232",
+      "latex": "\\theta ",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image232-1",
+      "source_asset": "assets/source-png/image232.png",
+      "notes": []
+    },
+    {
+      "id": "image234",
+      "latex": "\\text{R}_{\\text{72}}\\circ \\text{S}_{\\text{3}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image234-1",
+      "source_asset": "assets/source-png/image234.png",
+      "notes": []
+    },
+    {
+      "id": "image235",
+      "latex": "y-\\text{axis}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image235-1",
+      "source_asset": "assets/source-png/image235.png",
+      "notes": []
+    },
+    {
+      "id": "image236",
+      "latex": "\\left[ \\begin{matrix}\\text{X}\\text{1T} \\\\ \\text{Y}\\text{1T}\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image236-1",
+      "source_asset": "assets/source-png/image236.png",
+      "notes": []
+    },
+    {
+      "id": "image241",
+      "latex": "\\mathrm{[}\\text{r}\\mathrm{,}\\theta \\mathrm{]}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image241-1",
+      "source_asset": "assets/source-png/image241.png",
+      "notes": []
+    },
+    {
+      "id": "image242",
+      "latex": "\\mathrm{(}\\text{R}_{\\theta }\\circ \\text{S}_{\\text{r}}\\mathrm{)(}1\\mathrm{,}0\\mathrm{)}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image242-1",
+      "source_asset": "assets/source-png/image242.png",
+      "notes": []
+    },
+    {
+      "id": "image243",
+      "latex": "\\mathrm{(}\\text{R}_{\\theta }\\circ \\text{S}_{\\text{r}}\\mathrm{)(}1\\mathrm{,}0\\mathrm{)}=\\text{R}_{\\theta }\\mathrm{(}\\text{S}_{\\text{r}}\\mathrm{(}1\\mathrm{,}0\\mathrm{))}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image243-1",
+      "source_asset": "assets/source-png/image243.png",
+      "notes": []
+    },
+    {
+      "id": "image244",
+      "latex": "\\text{R}_{\\theta }\\mathrm{(}\\text{S}_{\\text{r}}\\mathrm{(}1\\mathrm{,}0\\mathrm{))}=R_{\\theta }\\mathrm{(}\\text{r}\\mathrm{,}0\\mathrm{)}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image244-1",
+      "source_asset": "assets/source-png/image244.png",
+      "notes": []
+    },
+    {
+      "id": "image245",
+      "latex": "R_{\\theta }\\mathrm{(}\\text{r}\\mathrm{,}0\\mathrm{)}=\\left[ \\begin{matrix}\\mathrm{cos(}\\theta \\mathrm{)} & {}^{-}\\mathrm{sin(}\\theta \\mathrm{)} \\\\ \\mathrm{sin(}\\theta \\mathrm{)} & \\mathrm{cos(}\\theta \\mathrm{)}\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}\\text{r} \\\\ 0\\end{matrix} \\right]=\\left[ \\begin{matrix}\\text{r}\\cdot \\mathrm{cos(}\\theta \\mathrm{)} \\\\ \\text{r}\\cdot \\mathrm{sin(}\\theta \\mathrm{)}\\end{matrix} \\right]=\\mathrm{(}\\text{r}\\cdot \\mathrm{cos(}\\theta \\mathrm{),}\\text{r}\\cdot \\mathrm{sin(}\\theta \\mathrm{))}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image245-1",
+      "source_asset": "assets/source-png/image245.png",
+      "notes": []
+    },
+    {
+      "id": "image246",
+      "latex": "\\mathrm{(}\\text{r}\\cdot \\mathrm{cos(}\\theta \\mathrm{),}\\text{r}\\cdot \\mathrm{sin(}\\theta \\mathrm{))}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image246-1",
+      "source_asset": "assets/source-png/image246.png",
+      "notes": []
+    },
+    {
+      "id": "image247",
+      "latex": "\\mathrm{(cos(}\\theta \\mathrm{),sin(}\\theta \\mathrm{))}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image247-1",
+      "source_asset": "assets/source-png/image247.png",
+      "notes": []
+    },
+    {
+      "id": "image248",
+      "latex": "\\text{S}_{\\text{r}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image248-1",
+      "source_asset": "assets/source-png/image248.png",
+      "notes": []
+    },
+    {
+      "id": "image249",
+      "latex": "S_{\\text{r}}\\mathrm{(}x\\mathrm{,}y\\mathrm{)}=\\mathrm{(}\\text{r}\\cdot x\\mathrm{,}\\text{r}\\cdot y\\mathrm{)}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image249-1",
+      "source_asset": "assets/source-png/image249.png",
+      "notes": []
+    },
+    {
+      "id": "image250",
+      "latex": "\\text{R}_{\\text{110}}\\circ \\text{S}_{\\text{2}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image250-1",
+      "source_asset": "assets/source-png/image250.png",
+      "notes": []
+    },
+    {
+      "id": "image251",
+      "latex": "\\text{R}_{{}^{-}\\text{70}}\\circ \\text{S}_{{}^{-}\\text{2}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image251-1",
+      "source_asset": "assets/source-png/image251.png",
+      "notes": []
+    },
+    {
+      "id": "image252",
+      "latex": "\\text{R}_{{}^{-}250}\\circ \\text{S}_{\\text{2}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image252-1",
+      "source_asset": "assets/source-png/image252.png",
+      "notes": []
+    },
+    {
+      "id": "image254",
+      "latex": "m",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image254-1",
+      "source_asset": "assets/source-png/image254.png",
+      "notes": []
+    },
+    {
+      "id": "image263",
+      "latex": "y={}^{-}2\\cdot x",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image263-1",
+      "source_asset": "assets/source-png/image263.png",
+      "notes": []
+    },
+    {
+      "id": "image264",
+      "latex": "\\mathrm{(}y+5\\mathrm{)}={}^{-}2\\cdot \\mathrm{(}x+{}^{-}3\\mathrm{)}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image264-1",
+      "source_asset": "assets/source-png/image264.png",
+      "notes": []
+    },
+    {
+      "id": "image268",
+      "latex": "\\left[ \\begin{matrix}2 & 0 \\\\ 0 & 3\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image268-1",
+      "source_asset": "assets/source-png/image268.png",
+      "notes": []
+    },
+    {
+      "id": "image269",
+      "latex": "\\left[ \\begin{matrix}2 & 0 \\\\ 0 & 3\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}x \\\\ y\\end{matrix} \\right]=\\left[ \\begin{matrix}2\\cdot x \\\\ 3\\cdot y\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image269-1",
+      "source_asset": "assets/source-png/image269.png",
+      "notes": []
+    },
+    {
+      "id": "image273",
+      "latex": "r_{\\ell _{1}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image273-1",
+      "source_asset": "assets/source-png/image273.png",
+      "notes": []
+    },
+    {
+      "id": "image274",
+      "latex": "r_{\\ell _{2}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image274-1",
+      "source_asset": "assets/source-png/image274.png",
+      "notes": []
+    },
+    {
+      "id": "image275",
+      "latex": "r_{\\ell _{2}}\\circ r_{\\ell _{1}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image275-1",
+      "source_asset": "assets/source-png/image275.png",
+      "notes": []
+    },
+    {
+      "id": "image283",
+      "latex": "r_{\\ell _{1}}\\circ r_{\\ell _{2}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image283-1",
+      "source_asset": "assets/source-png/image283.png",
+      "notes": []
+    },
+    {
+      "id": "image285",
+      "latex": "\\left\\{ \\begin{array}{l}4\\cdot x+6\\cdot y=4\\hspace{1.25em}\\text{A}_{\\text{1}} \\\\ 3\\cdot x+7\\cdot y=13\\hspace{1.0em}\\text{B}_{\\text{1}}\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image285-1",
+      "source_asset": "assets/source-png/image285.png",
+      "notes": []
+    },
+    {
+      "id": "image286",
+      "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+\\frac{6}{4}\\cdot y=1\\hspace{1.25em}\\text{A}_{\\text{2}}= \\\\ 3\\cdot x+7\\cdot y=13\\hspace{0.75em}\\text{B}_{\\text{2}}=\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image286-1",
+      "source_asset": "assets/source-png/image286.png",
+      "notes": []
+    },
+    {
+      "id": "image287",
+      "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+\\frac{6}{4}\\cdot y=1\\hspace{1.5em}\\text{A}_{\\text{3}}= \\\\ 0\\cdot x+\\frac{10}{4}\\cdot y=10\\hspace{0.5em}\\text{B}_{\\text{3}}=\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image287-1",
+      "source_asset": "assets/source-png/image287.png",
+      "notes": []
+    },
+    {
+      "id": "image288",
+      "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+\\frac{6}{4}\\cdot y=1\\hspace{1.0em}\\text{A}_{\\text{4}}= \\\\ 0\\cdot x+1\\cdot y=4\\hspace{1.0em}\\text{B}_{\\text{4}}=\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image288-1",
+      "source_asset": "assets/source-png/image288.png",
+      "notes": []
+    },
+    {
+      "id": "image289",
+      "latex": "\\left\\{ \\begin{array}{l}1\\cdot x+0\\cdot y=\\frac{{}^{-}20}{4}\\hspace{1.25em}\\text{A}_{\\text{5}}= \\\\ 0\\cdot x+1\\cdot y=4\\hspace{2.5em}\\text{B}_{\\text{5}}=\\end{array} \\right.",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image289-1",
+      "source_asset": "assets/source-png/image289.png",
+      "notes": []
+    },
+    {
+      "id": "image290",
+      "latex": "\\frac{22}{7}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image290-1",
+      "source_asset": "assets/source-png/image290.png",
+      "notes": []
+    },
+    {
+      "id": "image291",
+      "latex": "\\left[ \\begin{matrix}6 & 0 \\\\ 0 & 6\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image291-1",
+      "source_asset": "assets/source-png/image291.png",
+      "notes": []
+    },
+    {
+      "id": "image292",
+      "latex": "\\left[ \\begin{matrix}\\frac{{}^{-}1}{2} & 0 \\\\ 0 & \\frac{{}^{-}1}{2}\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image292-1",
+      "source_asset": "assets/source-png/image292.png",
+      "notes": []
+    },
+    {
+      "id": "image294",
+      "latex": "\\frac{1}{2}\\cdot \\pi ",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image294-1",
+      "source_asset": "assets/source-png/image294.png",
+      "notes": []
+    },
+    {
+      "id": "image295",
+      "latex": "\\pi ",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image295-1",
+      "source_asset": "assets/source-png/image295.png",
+      "notes": []
+    },
+    {
+      "id": "image296",
+      "latex": "2\\cdot \\pi ",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image296-1",
+      "source_asset": "assets/source-png/image296.png",
+      "notes": []
+    },
+    {
+      "id": "image299",
+      "latex": "\\left[ \\begin{matrix}0 & 0 & 1 & 1 & 1 & 1 \\\\ 1 & 0 & 0 & 1 & 1 & 1 \\\\ 0 & 1 & 0 & 1 & 0 & 1 \\\\ 0 & 0 & 0 & 0 & 1 & 1 \\\\ 0 & 0 & 1 & 0 & 0 & 1 \\\\ 0 & 0 & 0 & 0 & 0 & 0\\end{matrix} \\right]+\\left[ \\begin{matrix}0 & 1 & 1 & 1 & 1 & 3 \\\\ 0 & 0 & 2 & 1 & 2 & 3 \\\\ 1 & 0 & 0 & 1 & 2 & 2 \\\\ 0 & 0 & 1 & 0 & 0 & 1 \\\\ 0 & 1 & 0 & 1 & 0 & 1 \\\\ 0 & 0 & 0 & 0 & 0 & 0\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image299-1",
+      "source_asset": "assets/source-png/image299.png",
+      "notes": []
+    },
+    {
+      "id": "image303",
+      "latex": "\\left[ \\begin{matrix}\\text{r} & \\text{0} \\\\ \\text{0} & \\text{r}\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image303-1",
+      "source_asset": "assets/source-png/image303.png",
+      "notes": []
+    },
+    {
+      "id": "image304",
+      "latex": "\\left[ \\begin{matrix}\\text{r} & \\text{0} \\\\ \\text{0} & \\text{r}\\end{matrix} \\right]\\cdot \\left[ \\begin{matrix}x \\\\ y\\end{matrix} \\right]=\\left[ \\begin{matrix}\\text{r}\\cdot x \\\\ \\text{r}\\cdot y\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image304-1",
+      "source_asset": "assets/source-png/image304.png",
+      "notes": []
+    },
+    {
+      "id": "image305",
+      "latex": "\\frac{8}{5}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image305-1",
+      "source_asset": "assets/source-png/image305.png",
+      "notes": []
+    },
+    {
+      "id": "image306",
+      "latex": "\\frac{5}{8}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image306-1",
+      "source_asset": "assets/source-png/image306.png",
+      "notes": []
+    },
+    {
+      "id": "image314",
+      "latex": "\\text{R}_{\\text{120}}\\circ \\text{R}_{\\text{60}}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image314-1",
+      "source_asset": "assets/source-png/image314.png",
+      "notes": []
+    },
+    {
+      "id": "image317",
+      "latex": "\\left[ \\begin{matrix}\\frac{\\sqrt{2}}{2} & \\frac{{}^{-}\\sqrt{2}}{2} \\\\ \\frac{\\sqrt{2}}{2} & \\frac{\\sqrt{2}}{2}\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image317-1",
+      "source_asset": "assets/source-png/image317.png",
+      "notes": []
+    },
+    {
+      "id": "image318",
+      "latex": "\\text{X}\\cdot \\left[ \\begin{matrix}\\frac{\\sqrt{2}}{2} & \\frac{{}^{-}\\sqrt{2}}{2} \\\\ \\frac{\\sqrt{2}}{2} & \\frac{\\sqrt{2}}{2}\\end{matrix} \\right]=\\left[ \\begin{matrix}{}^{-}1 & 0 \\\\ 0 & {}^{-}1\\end{matrix} \\right]",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image318-1",
+      "source_asset": "assets/source-png/image318.png",
+      "notes": []
+    },
+    {
+      "id": "image319",
+      "latex": "\\mathrm{(}y+{}^{-}1\\mathrm{.}2\\mathrm{)}={}^{-}0\\mathrm{.}8\\cdot \\mathrm{(}x+7\\mathrm{)}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image319-1",
+      "source_asset": "assets/source-png/image319.png",
+      "notes": []
+    },
+    {
+      "id": "image320",
+      "latex": "\\mathrm{(}y+1\\mathrm{.}7\\mathrm{)}=1\\mathrm{.}8\\cdot \\mathrm{(}x+7\\mathrm{.}2\\mathrm{)}",
+      "method": "native-equation-tree",
+      "review": "needs_review",
+      "native_record": "image320-1",
+      "source_asset": "assets/source-png/image320.png",
+      "notes": []
+    }
+  ]
+}

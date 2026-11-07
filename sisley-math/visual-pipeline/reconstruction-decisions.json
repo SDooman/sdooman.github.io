@@ -1,0 +1,1497 @@
+{
+  "document_sha256": "07b2a584a7686eaaa5f3edbabab08dd1f9ceeb91fb65181cd9193feb38dc9abb",
+  "reviewer": "assistant source reconstruction; candidates awaiting final fidelity review",
+  "assets": [
+    {
+      "id": "image1",
+      "sha256": "e13aa783490f72a73db0244ac218ec88cd4502a3961f746302be9a32d1cf7d9d",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image1.scene.json",
+        "preview": "reconstructions/image1.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Waveform is an approximate centreline trace of four raster fragments. Other drawing primitives preserved. No exact function inferred."
+      }
+    },
+    {
+      "id": "image2",
+      "sha256": "e7ea3d1ad2e22667c9a7873c60c0b24c7df5d05fea88cc9951d1a6e23483b2ff",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image2.scene.json",
+        "preview": "reconstructions/image2.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image3",
+      "sha256": "65382680a82647f3865f4a2cffa153a7ff72bf1d2393d71fde6c6cf684ea6eb3",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image3.scene.json",
+        "preview": "reconstructions/image3.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image5",
+      "sha256": "118f3b72cf1691b15bf1140b18ef3396f25a006c35c859e93d6d6efc50602d66",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image5.scene.json",
+        "preview": "reconstructions/image5.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image6",
+      "sha256": "175f949cb647fe5f585677fa52cfada210f9581038a364a41d9d41d3b802743c",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image6.scene.json",
+        "preview": "reconstructions/image6.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image9",
+      "sha256": "fe429e91b361a2fb5cd62d031dd1ca82685c163272fc075722a2cffa8b39c9ba",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image9.scene.json",
+        "preview": "reconstructions/image9.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image19",
+      "sha256": "9012b5cee8bd3d522d2e1a644ecc2a8d2d66a76bb1caa6502172b13661602b22",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image19.scene.json",
+        "preview": "reconstructions/image19.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image20",
+      "sha256": "666e5eb830ac7d6e2b2864c324c6af01a3cc4a5ed5a3c431e3bd9fcd8c2fa71a",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image20.scene.json",
+        "preview": "reconstructions/image20.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image70",
+      "sha256": "bc740d764d59594b26e416a3435a66c7a1183241e7b6a84686ad0b8cae6d466d",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image70.scene.json",
+        "preview": "reconstructions/image70.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image73",
+      "sha256": "fb62ecf5194dd00ca0408e39fd3c931a15a39059becfce465948e8ddadd765ed",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image73.scene.json",
+        "preview": "reconstructions/image73.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image76",
+      "sha256": "55dde0ed1749a2b7437ac9d2161ed4153c2698d041bd8649b22c6a9279032c0d",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image76.scene.json",
+        "preview": "reconstructions/image76.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image90",
+      "sha256": "f40662c697d5ba2c910e3a63bf3d3f0eda694a893494c925adb733d6eeb67aea",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image90.scene.json",
+        "preview": "reconstructions/image90.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image92",
+      "sha256": "9cc4b19f8f2a9cab3c5eacfcca71c043e8aaef5823881c2315843b99e18125fd",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image92.scene.json",
+        "preview": "reconstructions/image92.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image109",
+      "sha256": "af6321ba9f794721b20cc0829282cc367192fb78a18c72fb632984dca5975955",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image109.scene.json",
+        "preview": "reconstructions/image109.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image110",
+      "sha256": "6fb6f09d7303fcc639169dc755468cd4dda50a05098ccfb1d94af337ce93ca53",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image110.scene.json",
+        "preview": "reconstructions/image110.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image117",
+      "sha256": "2e1e6a7b816a52fd49ca188a55b652c5968190fad8fe68fc6924565be90e88f3",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image117.scene.json",
+        "preview": "reconstructions/image117.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image121",
+      "sha256": "1726e5141746afc5bfde5617ee4f132376215dc3cd51134ac564d33b76a6fcd2",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image121.scene.json",
+        "preview": "reconstructions/image121.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image122",
+      "sha256": "9c8b27014297a7234653cfa556fd256a7f4d8a8ede1e08c229ceb28da5cbce9a",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image122.scene.json",
+        "preview": "reconstructions/image122.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image123",
+      "sha256": "48cd18ccf6178029b61964e9ec78f51973341e4146e772f3ce794eedfc50cd6c",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image123.scene.json",
+        "preview": "reconstructions/image123.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image124",
+      "sha256": "01a5e0242d8ccc03e58e4142cc84b28c51c56325b531c5a6907825a01380233e",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image124.scene.json",
+        "preview": "reconstructions/image124.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image127",
+      "sha256": "64b9bd0f54f822d61b3a06609879794f04173e3c4123cc61bc82e861cfe49d9c",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image127.scene.json",
+        "preview": "reconstructions/image127.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image128",
+      "sha256": "1009a4d22df6b40d38944a8ef51933c4d54153019a7a91652f96b6426f615209",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image128.scene.json",
+        "preview": "reconstructions/image128.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image131",
+      "sha256": "a03cc909b005228d6c405c5ab80c26386bf8aafba0a72d33586a6c9faf97be45",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image131.scene.json",
+        "preview": "reconstructions/image131.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image132",
+      "sha256": "e35ec77e1aef944e02c75bac9a2bb0742531e6a19f353d3a96d032122cf8bf82",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image132.scene.json",
+        "preview": "reconstructions/image132.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image133",
+      "sha256": "ec0ebf32f242add088d1436d447a4351068b5c6f2eff9d7cc73a3fdec8b63557",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image133.scene.json",
+        "preview": "reconstructions/image133.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image134",
+      "sha256": "6d4642f34b6563cfcca94d7b99ffac7744103f84cde340b8f50b66fa65fd9998",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image134.scene.json",
+        "preview": "reconstructions/image134.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image137",
+      "sha256": "56802999ccd34c1369651d03b2b8c00e747e4013e7301647bf65c1773ae6c8af",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image137.scene.json",
+        "preview": "reconstructions/image137.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image138",
+      "sha256": "c96a85a14f6ab375168e99fb8d236e692d31df65a61984bda164c1d0bd9327a8",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image138.scene.json",
+        "preview": "reconstructions/image138.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image139",
+      "sha256": "b974fb4d1820074851d05d08ebf8a87a4b6623397d04966c86634316bd8183f6",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image139.scene.json",
+        "preview": "reconstructions/image139.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image140",
+      "sha256": "1ed0b632fd97fe43fe6b2019d3c3fa556746299ec9aea83889b9365613b3355d",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image140.scene.json",
+        "preview": "reconstructions/image140.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image141",
+      "sha256": "de3fbff7b209afb6e0636c94a1b6705abd267da4efe34f9acb7ae354f47a7c78",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image141.scene.json",
+        "preview": "reconstructions/image141.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image142",
+      "sha256": "198879e1467573fb72cca84710a30d59ac6e860dcdd746acd4715d1f36d172d6",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image142.scene.json",
+        "preview": "reconstructions/image142.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image143",
+      "sha256": "a7940d0c46edfc25a8f8cb7d707cf03046ce99bda441ec1c0d980f24bfbc0fd7",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image143.scene.json",
+        "preview": "reconstructions/image143.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image144",
+      "sha256": "b7b05dac169468414c7857eca49d21ea0cbb990c0a29368998c82c688595af46",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image144.scene.json",
+        "preview": "reconstructions/image144.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image145",
+      "sha256": "bda8d6ca15c6ffe29e337f005e8509323aec95b0489c4e0e0fa32ef36c518115",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image145.scene.json",
+        "preview": "reconstructions/image145.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image146",
+      "sha256": "e3308b7bdd4b6aeebc1967a713aaf2996aa39c15e645c40b658ba17bf19a7f99",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image146.scene.json",
+        "preview": "reconstructions/image146.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image147",
+      "sha256": "b606a391de82e71320ac7cd5c8c1a70971ce8da221e22f6e6dfd781b816fb4bc",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image147.scene.json",
+        "preview": "reconstructions/image147.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image152",
+      "sha256": "198d79dcb0862bcb5d1e47f12c5776b702f5f2af7f80c4616d8ac7cb2ee9fb27",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image152.scene.json",
+        "preview": "reconstructions/image152.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image153",
+      "sha256": "7e8e9071e43cfcf9b3513ffdca5606f96fbce077846882fe1ebed2175014c226",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image153.scene.json",
+        "preview": "reconstructions/image153.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image155",
+      "sha256": "5c7d12478bdf3f4fcb95713124cb0254a103a7fc0926ae89c810e8930426baa9",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image155.scene.json",
+        "preview": "reconstructions/image155.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image156",
+      "sha256": "bd63e8ed5d0fc0f1810a625670b172b69ad7a3311fe72ccb06a2257704d6f0bd",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image156.scene.json",
+        "preview": "reconstructions/image156.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image160",
+      "sha256": "3d1cb9f7e5f3af3ae102f2532e24c5515a32535e86dc300a4cdc58742729e925",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image160.scene.json",
+        "preview": "reconstructions/image160.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image161",
+      "sha256": "0dc575fcfcd9d15aef2e8ef5deb490bf129e2f730f80453cf5bd52e770128155",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image161.scene.json",
+        "preview": "reconstructions/image161.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image162",
+      "sha256": "44994e64b5b0481e04ef23880a7a9543225fbb89663e67b54464a5adbf660561",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image162.scene.json",
+        "preview": "reconstructions/image162.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image163",
+      "sha256": "18ecdceb57e29189f2ab5f61a867b0fa9770472072ad42a81c9e36c976954580",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image163.scene.json",
+        "preview": "reconstructions/image163.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image166",
+      "sha256": "689d52bb696b94fdf44e0666eb8fc0ed38a6eb86c7086935d08d3eeb3773f3ae",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image166.scene.json",
+        "preview": "reconstructions/image166.svg",
+        "representation_level": "annotated-math",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image167",
+      "sha256": "9165d09413fa0d05a5e705c4d00f7621650fdc794bc42a5356d43e1e82fc807e",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image167.scene.json",
+        "preview": "reconstructions/image167.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image168",
+      "sha256": "db0d44fbc4e14b77e76e012a3002b7522d2e21fd9b99f2ebb3882b70dd7f2783",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image168.scene.json",
+        "preview": "reconstructions/image168.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image169",
+      "sha256": "7db425b9783dfba54b97508f72cafa890bf3af3304199669197884ed490e19e5",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image169.scene.json",
+        "preview": "reconstructions/image169.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image170",
+      "sha256": "b18fc32df40be99e40a852ab81a02a323541b9382122b4e668fb8121bbd8803c",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image170.scene.json",
+        "preview": "reconstructions/image170.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image171",
+      "sha256": "9e358921c450c4c28670b9ad2ac19b9f3663b5aab8036a10ce461192b741e812",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image171.scene.json",
+        "preview": "reconstructions/image171.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image172",
+      "sha256": "5e3292a4c316ceb3f02cf026c08f66f6326dfb7a1ca5f09dfbccfa9ed1771e38",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image172.scene.json",
+        "preview": "reconstructions/image172.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image173",
+      "sha256": "ecd3d17b0e2b1744d2566e9958eb8cbcdb4fb23b89a35ae21da9da1a53c3a46f",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image173.scene.json",
+        "preview": "reconstructions/image173.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image177",
+      "sha256": "f2f41bf7d719dc6f4ba148ca36dfe209354ead58bec095f900e1c17a1889de1f",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image177.scene.json",
+        "preview": "reconstructions/image177.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image178",
+      "sha256": "976126b5aa4dd97b86a75475baf475225bfaca0c15b68a7d86f4d9e4f942e075",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image178.scene.json",
+        "preview": "reconstructions/image178.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image183",
+      "sha256": "1f7ff8091e31ea547cb36871b80978267061cb025c850087271364718090ea4e",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image183.scene.json",
+        "preview": "reconstructions/image183.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image184",
+      "sha256": "48c023cee7bc53dedbcfc2752b340031d065963ceeeb39580bb4a57847805b82",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image184.scene.json",
+        "preview": "reconstructions/image184.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image185",
+      "sha256": "f761832d8c6c72160e762f93396bdf5a5379a2cde95e19747dfe873ce404e3d2",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image185.scene.json",
+        "preview": "reconstructions/image185.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image186",
+      "sha256": "bc2053c6b4a52204e8ad05956938db215118969e1fb07b509d0108366be930d4",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image186.scene.json",
+        "preview": "reconstructions/image186.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image187",
+      "sha256": "ec756b51229620b76a3344986fa9e0803facc52275aad12bca0368d767669386",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image187.scene.json",
+        "preview": "reconstructions/image187.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image188",
+      "sha256": "8ff23ec0734d36f70785be1620cf23ea230812a7c8d7509c6821dece137d222f",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image188.scene.json",
+        "preview": "reconstructions/image188.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image189",
+      "sha256": "0e342ebbdcb357b2efa28bc060ce75fed066bd6e14e909d714720e1d76eb466a",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image189.scene.json",
+        "preview": "reconstructions/image189.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image190",
+      "sha256": "16a821d6815758572c71cf5989cb95d79d706884b3606e1add89d600bfb581d2",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image190.scene.json",
+        "preview": "reconstructions/image190.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image191",
+      "sha256": "7f9dfd758b8a3052bbd8122787161c1ce69f89c4bc768bb0b3602f21749e6079",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image191.scene.json",
+        "preview": "reconstructions/image191.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image195",
+      "sha256": "5c861b0059fd373ba10472f28ec0c10a723b17bb23a69e3d5b057ef1a7fc8969",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image195.scene.json",
+        "preview": "reconstructions/image195.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image198",
+      "sha256": "3d9b137a624be34ebe1e9544b0265fe83331fe287e3569a1b57fb54a3e20dd03",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image198.scene.json",
+        "preview": "reconstructions/image198.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image199",
+      "sha256": "5fa67ef98bb7842de0b3ac8780f16850ea413f37f9253e03e50d744ee37a3b15",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image199.scene.json",
+        "preview": "reconstructions/image199.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image203",
+      "sha256": "516765f60c2377fc22d8e7917bbddd893e0a39afda508e58c8810ae9bd9b7e6b",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image203.scene.json",
+        "preview": "reconstructions/image203.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image204",
+      "sha256": "36aeafffadd0fd2fdbfe5c9c2c17b2ef3e5d1c9287a2fd6ce1212e772c0b579e",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image204.scene.json",
+        "preview": "reconstructions/image204.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image205",
+      "sha256": "db5e1da99d7255cc209d7989b330fe46183b5ac46b8e233a1d43c195b1e726ff",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image205.scene.json",
+        "preview": "reconstructions/image205.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image206",
+      "sha256": "ae6f4195254a74ddafd8b5ebc0250b986e45a1f08c1a07d87bb491578a38fde2",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image206.scene.json",
+        "preview": "reconstructions/image206.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image207",
+      "sha256": "ed13aadf539439233ca24448a787745db9445d529d51e72fe315031089582ca2",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image207.scene.json",
+        "preview": "reconstructions/image207.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image210",
+      "sha256": "4598234660222ad729af74eb5f26fbfe5360e8af9872988b8adb9f0bb55e1e5a",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image210.scene.json",
+        "preview": "reconstructions/image210.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image211",
+      "sha256": "f2ee36d15e0e01005f0df8b07e5c9c9da47b26b644e2d2538ccd7076bd6aa26d",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image211.scene.json",
+        "preview": "reconstructions/image211.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image212",
+      "sha256": "f6a26ef3453faf9aff59975617fc9210c2e35f92937190da65bf50300816a73a",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image212.scene.json",
+        "preview": "reconstructions/image212.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image213",
+      "sha256": "9972ce8de502a82f9521e4fe6e77dec0f29f6848e487a59b4f0018da7ab08bf4",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image213.scene.json",
+        "preview": "reconstructions/image213.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image214",
+      "sha256": "5bffc4d9d91cabf33ff8c98b534251c5b82e3349e3972be2383342c5e8120fe2",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image214.scene.json",
+        "preview": "reconstructions/image214.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image216",
+      "sha256": "bd1b246f3494aaab547ab61e7bb54f63ec3733e265b352e1a473230ba3a2bb01",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image216.scene.json",
+        "preview": "reconstructions/image216.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image217",
+      "sha256": "49247f4d00bbbea412c03049617bfa3d736c419cdee970c166e5f700aa72f1fe",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image217.scene.json",
+        "preview": "reconstructions/image217.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image218",
+      "sha256": "c72eaa62641696d541d42c1b14232de30fde77bcfeec010f9032f47f3b110201",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image218.scene.json",
+        "preview": "reconstructions/image218.svg",
+        "representation_level": "annotated-math",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image219",
+      "sha256": "c3dae0d0592a6aec987fd51a8864c0712ca5cc0c1c93e103e19abea771630e9b",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image219.scene.json",
+        "preview": "reconstructions/image219.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image220",
+      "sha256": "e74a2605bc1d00794a818a6f716d52dd82eccd04db3e30bc11127f17255e3dbd",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image220.scene.json",
+        "preview": "reconstructions/image220.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image221",
+      "sha256": "ae5af228ae0893ab6116916795e3a021d253f9977997cf17688ffaef92ebad7b",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image221.scene.json",
+        "preview": "reconstructions/image221.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image222",
+      "sha256": "206a16959cadae9e679855a419de5b784d0d206fdb9ea7349d9ef7e1650f5744",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image222.scene.json",
+        "preview": "reconstructions/image222.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image223",
+      "sha256": "1c52e53f9129075be64bfb626d32815f54fca83d36e64fc8c7dae0fc2ee39a68",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image223.scene.json",
+        "preview": "reconstructions/image223.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image225",
+      "sha256": "f2f41bf7d719dc6f4ba148ca36dfe209354ead58bec095f900e1c17a1889de1f",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image225.scene.json",
+        "preview": "reconstructions/image225.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image226",
+      "sha256": "653f8a8fa3ef7807cc2c5e8e630e4139c6f254ef6e3aa0e7204d2e27144e6854",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image226.scene.json",
+        "preview": "reconstructions/image226.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image227",
+      "sha256": "4cb65e75dda6b3f551cf6831bbcd7742535eb6ba09e07a34c555c6c2136e8406",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image227.scene.json",
+        "preview": "reconstructions/image227.svg",
+        "representation_level": "annotated-math",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image237",
+      "sha256": "42cef2bd387efee8c9e62632c2eb420007432b4f3852b0cd279f9fe327f811a6",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image237.scene.json",
+        "preview": "reconstructions/image237.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image238",
+      "sha256": "96386c60af0303d35ed36e5d9e61c18660c03a7c83ca6b0783c4218fa98336ad",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image238.scene.json",
+        "preview": "reconstructions/image238.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image239",
+      "sha256": "8fb6f29947e9d5c01bbc829831dce33ed8727173d33d2a0ae7a85c4c41a2c1e7",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image239.scene.json",
+        "preview": "reconstructions/image239.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image240",
+      "sha256": "6d8a9a473a08861d4b88a6102c97b6142236b6527352eec299ef9573420a427a",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image240.scene.json",
+        "preview": "reconstructions/image240.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image241",
+      "sha256": "c727c12b5448dbf56f4f810e39a2be766cadb9452eaf004c7b97a4cde8c103d1",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image241.scene.json",
+        "preview": "reconstructions/image241.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image244",
+      "sha256": "e6c721c48e523679a9e4717b9b551a118c170d2c6743762daa8ace7d054e3cea",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image244.scene.json",
+        "preview": "reconstructions/image244.svg",
+        "representation_level": "annotated-math",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image248",
+      "sha256": "58e1f78fa6853d908eb1d5eff79858f12995d79ce8fb8d80eba509a222153704",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image248.scene.json",
+        "preview": "reconstructions/image248.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image249",
+      "sha256": "95f5113b7cbff0610dba290908c85691298323572ab7bb13cde89007afcd864d",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image249.scene.json",
+        "preview": "reconstructions/image249.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image250",
+      "sha256": "6535d589d6e2aef695d6015f90c5819da271d847c29c4cc851d2fb46365f3432",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image250.scene.json",
+        "preview": "reconstructions/image250.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image251",
+      "sha256": "76be81284757d18828d6177074b2e861562a3d452842d7de596581f1818dae2e",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image251.scene.json",
+        "preview": "reconstructions/image251.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image252",
+      "sha256": "a03b6d2437aaf48dc31b027f9f595469f6628cf8b82b1d1fea9d784ac9517a8a",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image252.scene.json",
+        "preview": "reconstructions/image252.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image253",
+      "sha256": "77ca370ec549ee51dcdbc48e146f1a8f0b9ffd796789b4fe3d72dcd1d09da059",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image253.scene.json",
+        "preview": "reconstructions/image253.svg",
+        "representation_level": "annotated-math",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image261",
+      "sha256": "b5b015d57ac67b1233d94d5229738f67eca60eaf3969d13b273ceff0d33d458c",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image261.scene.json",
+        "preview": "reconstructions/image261.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image262",
+      "sha256": "f0630fe34c8174f18c42f0f2d20f21f25f5cac4294f805b78f971cc232973501",
+      "conversion": {
+        "kind": "network-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "examples/image262.scene.json",
+        "preview": "examples/image262.svg",
+        "evidence": "Node/edge transcription inspected against source; parallel edges and loops preserved. Drawing layout approximate."
+      }
+    },
+    {
+      "id": "image268",
+      "sha256": "663d6d556ec163b08f037b500035528a1b06b8f38b81a0046af527b64aef5033",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image268.scene.json",
+        "preview": "reconstructions/image268.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image274",
+      "sha256": "76d4dec398b86c7cc4ce6f3bc1d9cc365e51fd257fff3b05beea0aa19344d75a",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image274.scene.json",
+        "preview": "reconstructions/image274.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image279",
+      "sha256": "6eda85e21d765c589485013e9d351a204cc2729841b71dedf280a7bd79fe7c5e",
+      "conversion": {
+        "kind": "network-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "examples/image279.scene.json",
+        "preview": "examples/image279.svg",
+        "evidence": "Node/edge transcription inspected against source; parallel edges and loops preserved. Drawing layout approximate."
+      }
+    },
+    {
+      "id": "image291",
+      "sha256": "e15b987b1a0f75200e5333fa5e196487b78450d532cf03a98b009914cda4f9d3",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image291.scene.json",
+        "preview": "reconstructions/image291.svg",
+        "representation_level": "annotated-math",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image297",
+      "sha256": "f3cafa431b42a5689909f29faa251edfde7b11069c33e39d3961ca08ff6fadfe",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image297.scene.json",
+        "preview": "reconstructions/image297.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image307",
+      "sha256": "a2e0debc2b2865362d676c49bb984e29c27bbb1518e3788a5b394fcaed6b2369",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image307.scene.json",
+        "preview": "reconstructions/image307.svg",
+        "representation_level": "annotated-math",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image308",
+      "sha256": "721297ac79918d036fa279eca4c03adc0fb1f79d4f07266895cc8a986f1acb88",
+      "conversion": {
+        "kind": "network-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "examples/image308.scene.json",
+        "preview": "examples/image308.svg",
+        "evidence": "Node/edge transcription inspected against source; parallel edges and loops preserved. Drawing layout approximate."
+      }
+    },
+    {
+      "id": "image309",
+      "sha256": "80a505204aee78176ffc45ac2621fd53d37e755b569a7c2e92b3f211d0a1fc31",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image309.scene.json",
+        "preview": "reconstructions/image309.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image325",
+      "sha256": "c67881aef0a2c9ed194d3fd5c8946bf53fcb28a0f904108b765d063e3f374cf2",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image325.scene.json",
+        "preview": "reconstructions/image325.svg",
+        "representation_level": "annotated-math",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image326",
+      "sha256": "762374cda6964f4f41c3612c7f7f87f84f7ebba6f4f7ef95d84f1c58ebed5974",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image326.scene.json",
+        "preview": "reconstructions/image326.svg",
+        "representation_level": "annotated-math",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image327",
+      "sha256": "c0e58c8eadcb1e9422bf6ef00b6fa960c579e428c9ab3434e5ee6bc3269cae04",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image327.scene.json",
+        "preview": "reconstructions/image327.svg",
+        "representation_level": "drawing-primitives",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    },
+    {
+      "id": "image329",
+      "sha256": "8556a6c42a549284c3b0250e79a6132886086ef5d03b6bf379e3e765158400d8",
+      "conversion": {
+        "kind": "network-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "examples/image329.scene.json",
+        "preview": "examples/image329.svg",
+        "evidence": "Node/edge transcription inspected against source; parallel edges and loops preserved. Drawing layout approximate."
+      }
+    },
+    {
+      "id": "image333",
+      "sha256": "02c7aaec04841876b218ad378bbfdf1d6b9bc703717aa7f2f04cd1c65fb33020",
+      "conversion": {
+        "kind": "vector-scene",
+        "status": "candidate",
+        "review": "needs_review",
+        "path": "reconstructions/image333.scene.json",
+        "preview": "reconstructions/image333.svg",
+        "representation_level": "annotated-math",
+        "evidence": "Source vector instructions recovered from the saved atlas; no geometry constraints inferred. Full source/candidate comparison remains available."
+      }
+    }
+  ]
+}

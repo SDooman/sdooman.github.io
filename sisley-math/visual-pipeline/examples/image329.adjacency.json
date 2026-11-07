@@ -1,0 +1,35 @@
+{
+  "node_order": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "convention": "row = from, column = to; entries count directed edges",
+  "matrix": [
+    [
+      0,
+      0,
+      3,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0
+    ]
+  ]
+}

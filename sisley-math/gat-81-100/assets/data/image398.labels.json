@@ -1,0 +1,1767 @@
+{
+  "labels": [
+    {
+      "text": "s",
+      "bbox_pt": [
+        77.75,
+        105.5,
+        82.418,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        82.4204,
+        105.5,
+        85.7564,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "z",
+      "bbox_pt": [
+        85.754,
+        105.5,
+        91.08200000000001,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        91.0796,
+        105.5,
+        96.4076,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        96.40520000000001,
+        105.5,
+        99.40520000000001,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        99.40520000000001,
+        105.5,
+        102.7412,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        102.7388,
+        105.5,
+        106.73479999999999,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        106.7348,
+        105.5,
+        112.06280000000001,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        112.0604,
+        105.5,
+        118.0604,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        118.0604,
+        105.5,
+        122.72840000000001,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "f",
+      "bbox_pt": [
+        122.73080000000002,
+        105.5,
+        126.72680000000001,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        126.7268,
+        105.5,
+        132.7268,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        132.7268,
+        105.5,
+        136.7228,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "m",
+      "bbox_pt": [
+        136.7228,
+        105.5,
+        146.05880000000002,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        146.0564,
+        105.5,
+        151.3844,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        151.382,
+        105.5,
+        154.71800000000002,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        154.7156,
+        105.5,
+        158.0516,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        158.04919999999998,
+        105.5,
+        164.04919999999998,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        164.04919999999998,
+        105.5,
+        170.04919999999998,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        170.04919999999998,
+        105.5,
+        173.04919999999998,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "m",
+      "bbox_pt": [
+        173.04919999999998,
+        105.5,
+        182.3852,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        182.38279999999997,
+        105.5,
+        187.71079999999998,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "g",
+      "bbox_pt": [
+        187.70839999999998,
+        105.5,
+        193.70839999999998,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        193.70839999999998,
+        105.5,
+        199.70839999999998,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        199.70839999999998,
+        105.5,
+        203.0444,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        203.042,
+        105.5,
+        206.37800000000001,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "u",
+      "bbox_pt": [
+        206.37560000000002,
+        105.5,
+        212.37560000000002,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "d",
+      "bbox_pt": [
+        212.37560000000002,
+        105.5,
+        218.37560000000002,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        218.37560000000002,
+        105.5,
+        223.70360000000002,
+        117.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "l",
+      "bbox_pt": [
+        0.75,
+        36.5,
+        4.086,
+        48.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        4.083600000000001,
+        36.5,
+        9.4116,
+        48.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        9.4092,
+        36.5,
+        15.4092,
+        48.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "g",
+      "bbox_pt": [
+        15.4092,
+        36.5,
+        21.4092,
+        48.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        21.4092,
+        36.5,
+        24.745199999999997,
+        48.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "h",
+      "bbox_pt": [
+        24.742800000000003,
+        36.5,
+        30.742800000000003,
+        48.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        30.742800000000003,
+        36.5,
+        33.7428,
+        48.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "/",
+      "bbox_pt": [
+        33.7428,
+        36.5,
+        37.0788,
+        48.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        0.75,
+        48.5,
+        5.418,
+        60.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "u",
+      "bbox_pt": [
+        5.4204,
+        48.5,
+        11.4204,
+        60.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        11.4204,
+        48.5,
+        15.416400000000001,
+        60.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "f",
+      "bbox_pt": [
+        15.4164,
+        48.5,
+        19.412399999999998,
+        60.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        19.412399999999998,
+        48.5,
+        24.740399999999998,
+        60.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "c",
+      "bbox_pt": [
+        24.738,
+        48.5,
+        30.066,
+        60.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        30.0636,
+        48.5,
+        35.391600000000004,
+        60.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        35.3892,
+        48.5,
+        38.3892,
+        60.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        38.3892,
+        48.5,
+        43.717200000000005,
+        60.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        43.7148,
+        48.5,
+        47.7108,
+        60.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        47.710800000000006,
+        48.5,
+        53.03880000000001,
+        60.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        53.0364,
+        48.5,
+        58.3644,
+        60.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        58.361999999999995,
+        48.5,
+        61.361999999999995,
+        60.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "/",
+      "bbox_pt": [
+        61.361999999999995,
+        48.5,
+        64.698,
+        60.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "v",
+      "bbox_pt": [
+        0.75,
+        60.5,
+        6.75,
+        72.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        6.75,
+        60.5,
+        12.75,
+        72.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "l",
+      "bbox_pt": [
+        12.75,
+        60.5,
+        16.086,
+        72.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "u",
+      "bbox_pt": [
+        16.0836,
+        60.5,
+        22.0836,
+        72.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "m",
+      "bbox_pt": [
+        22.0836,
+        60.5,
+        31.419600000000003,
+        72.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        31.4172,
+        60.5,
+        36.745200000000004,
+        72.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "l",
+      "bbox_pt": [
+        180.75,
+        72.5,
+        184.086,
+        84.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        184.0836,
+        72.5,
+        187.4196,
+        84.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        187.4172,
+        72.5,
+        193.4172,
+        84.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        193.4172,
+        72.5,
+        198.7452,
+        84.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        198.7428,
+        72.5,
+        201.7428,
+        84.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "f",
+      "bbox_pt": [
+        201.7428,
+        72.5,
+        205.7388,
+        84.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        205.7388,
+        72.5,
+        211.7388,
+        84.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        211.7388,
+        72.5,
+        215.7348,
+        84.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        215.7348,
+        72.5,
+        218.7348,
+        84.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "l",
+      "bbox_pt": [
+        218.7348,
+        72.5,
+        222.07080000000002,
+        84.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        222.0684,
+        72.5,
+        227.3964,
+        84.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        227.394,
+        72.5,
+        233.394,
+        84.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "g",
+      "bbox_pt": [
+        233.394,
+        72.5,
+        239.394,
+        84.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        239.394,
+        72.5,
+        242.73000000000002,
+        84.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "h",
+      "bbox_pt": [
+        242.7276,
+        72.5,
+        248.7276,
+        84.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        248.7276,
+        72.5,
+        253.3956,
+        84.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "p",
+      "bbox_pt": [
+        76.75,
+        0.5,
+        82.75,
+        12.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        82.75,
+        0.5,
+        88.078,
+        12.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        88.0756,
+        0.5,
+        92.07159999999999,
+        12.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        92.0716,
+        0.5,
+        97.3996,
+        12.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "b",
+      "bbox_pt": [
+        97.3972,
+        0.5,
+        103.3972,
+        12.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        103.3972,
+        0.5,
+        109.3972,
+        12.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "l",
+      "bbox_pt": [
+        109.3972,
+        0.5,
+        112.7332,
+        12.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        112.7308,
+        0.5,
+        118.0588,
+        12.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        118.0564,
+        0.5,
+        121.0564,
+        12.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "f",
+      "bbox_pt": [
+        121.0564,
+        0.5,
+        125.05239999999999,
+        12.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        125.0524,
+        0.5,
+        131.0524,
+        12.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        131.0524,
+        0.5,
+        135.04840000000002,
+        12.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        76.75,
+        12.5,
+        81.418,
+        24.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "u",
+      "bbox_pt": [
+        81.4204,
+        12.5,
+        87.4204,
+        24.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        87.4204,
+        12.5,
+        91.4164,
+        24.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "f",
+      "bbox_pt": [
+        91.4164,
+        12.5,
+        95.41239999999999,
+        24.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        95.41239999999999,
+        12.5,
+        100.7404,
+        24.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "c",
+      "bbox_pt": [
+        100.738,
+        12.5,
+        106.066,
+        24.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        106.06360000000001,
+        12.5,
+        111.39160000000001,
+        24.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        111.3892,
+        12.5,
+        114.3892,
+        24.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        114.3892,
+        12.5,
+        119.7172,
+        24.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        119.7148,
+        12.5,
+        123.71079999999999,
+        24.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        123.7108,
+        12.5,
+        129.0388,
+        24.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        129.03640000000001,
+        12.5,
+        134.36440000000002,
+        24.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        134.362,
+        12.5,
+        139.03,
+        24.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "c",
+      "bbox_pt": [
+        189.75,
+        20.5,
+        195.078,
+        32.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "u",
+      "bbox_pt": [
+        195.0756,
+        20.5,
+        201.0756,
+        32.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "b",
+      "bbox_pt": [
+        201.0756,
+        20.5,
+        207.0756,
+        32.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        207.0756,
+        20.5,
+        210.41160000000002,
+        32.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "c",
+      "bbox_pt": [
+        210.4092,
+        20.5,
+        215.7372,
+        32.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        215.7348,
+        20.5,
+        218.7348,
+        32.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "c",
+      "bbox_pt": [
+        218.7348,
+        20.5,
+        224.0628,
+        32.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "u",
+      "bbox_pt": [
+        224.06040000000002,
+        20.5,
+        230.06040000000002,
+        32.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        230.06040000000002,
+        20.5,
+        234.05640000000002,
+        32.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "v",
+      "bbox_pt": [
+        234.0564,
+        20.5,
+        240.0564,
+        32.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        240.0564,
+        20.5,
+        245.3844,
+        32.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "f",
+      "bbox_pt": [
+        189.75,
+        32.5,
+        193.746,
+        44.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        193.746,
+        32.5,
+        199.746,
+        44.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        199.746,
+        32.5,
+        203.74200000000002,
+        44.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        203.742,
+        32.5,
+        206.742,
+        44.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "v",
+      "bbox_pt": [
+        206.742,
+        32.5,
+        212.742,
+        44.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        212.742,
+        32.5,
+        218.742,
+        44.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "l",
+      "bbox_pt": [
+        218.742,
+        32.5,
+        222.078,
+        44.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "u",
+      "bbox_pt": [
+        222.0756,
+        32.5,
+        228.0756,
+        44.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "m",
+      "bbox_pt": [
+        228.0756,
+        32.5,
+        237.41160000000002,
+        44.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        237.4092,
+        32.5,
+        242.7372,
+        44.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        242.7348,
+        32.5,
+        247.4028,
+        44.5
+      ],
+      "font": "MWISDI+Times-Roman",
+      "size": 12.0
+    }
+  ],
+  "drawing_primitives": [
+    {
+      "object_type": "curve",
+      "x0": 129.8564,
+      "x1": 141.5,
+      "top": 33.541790000000006,
+      "bottom": 43.25,
+      "path": [
+        [
+          "m",
+          [
+            141.5,
+            43.25
+          ]
+        ],
+        [
+          "l",
+          [
+            129.8564,
+            40.346940000000004
+          ]
+        ],
+        [
+          "c",
+          [
+            130.539,
+            37.60951
+          ],
+          [
+            132.1642,
+            35.20007
+          ],
+          [
+            134.4466,
+            33.541790000000006
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          141.5,
+          43.25
+        ],
+        [
+          129.8564,
+          40.346940000000004
+        ],
+        [
+          134.4466,
+          33.541790000000006
+        ]
+      ],
+      "linewidth": 0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 120.0,
+      "x1": 132.0,
+      "top": 28.75,
+      "bottom": 37.25,
+      "path": [
+        [
+          "m",
+          [
+            120.0,
+            28.75
+          ]
+        ],
+        [
+          "l",
+          [
+            121.0,
+            28.75
+          ]
+        ],
+        [
+          "l",
+          [
+            132.0,
+            36.25
+          ]
+        ],
+        [
+          "l",
+          [
+            132.0,
+            37.25
+          ]
+        ],
+        [
+          "l",
+          [
+            131.0,
+            37.25
+          ]
+        ],
+        [
+          "l",
+          [
+            120.0,
+            29.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          120.0,
+          28.75
+        ],
+        [
+          121.0,
+          28.75
+        ],
+        [
+          132.0,
+          36.25
+        ],
+        [
+          132.0,
+          37.25
+        ],
+        [
+          131.0,
+          37.25
+        ],
+        [
+          120.0,
+          29.75
+        ]
+      ],
+      "linewidth": 0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 177.0,
+      "x1": 188.203,
+      "top": 57.25,
+      "bottom": 67.74544,
+      "path": [
+        [
+          "m",
+          [
+            177.0,
+            57.25
+          ]
+        ],
+        [
+          "l",
+          [
+            188.203,
+            61.55042
+          ]
+        ],
+        [
+          "c",
+          [
+            187.1919,
+            64.18427
+          ],
+          [
+            185.2852,
+            66.37768
+          ],
+          [
+            182.8177,
+            67.74544
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          177.0,
+          57.25
+        ],
+        [
+          188.203,
+          61.55042
+        ],
+        [
+          182.8177,
+          67.74544
+        ]
+      ],
+      "linewidth": 0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 185.5,
+      "x1": 193.0,
+      "top": 64.5,
+      "bottom": 71.0,
+      "path": [
+        [
+          "m",
+          [
+            185.5,
+            64.5
+          ]
+        ],
+        [
+          "l",
+          [
+            186.5,
+            64.5
+          ]
+        ],
+        [
+          "l",
+          [
+            193.0,
+            70.0
+          ]
+        ],
+        [
+          "l",
+          [
+            193.0,
+            71.0
+          ]
+        ],
+        [
+          "l",
+          [
+            192.0,
+            71.0
+          ]
+        ],
+        [
+          "l",
+          [
+            185.5,
+            65.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          185.5,
+          64.5
+        ],
+        [
+          186.5,
+          64.5
+        ],
+        [
+          193.0,
+          70.0
+        ],
+        [
+          193.0,
+          71.0
+        ],
+        [
+          192.0,
+          71.0
+        ],
+        [
+          185.5,
+          65.5
+        ]
+      ],
+      "linewidth": 0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 170.0,
+      "x1": 181.8523,
+      "top": 29.443479999999994,
+      "bottom": 38.5,
+      "path": [
+        [
+          "m",
+          [
+            170.0,
+            38.5
+          ]
+        ],
+        [
+          "l",
+          [
+            177.8727,
+            29.443479999999994
+          ]
+        ],
+        [
+          "c",
+          [
+            180.0019,
+            31.294380000000004
+          ],
+          [
+            181.4109,
+            33.836290000000005
+          ],
+          [
+            181.8523,
+            36.622789999999995
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          170.0,
+          38.5
+        ],
+        [
+          177.8727,
+          29.443479999999994
+        ],
+        [
+          181.8523,
+          36.622789999999995
+        ]
+      ],
+      "linewidth": 0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 180.0,
+      "x1": 187.5,
+      "top": 28.75,
+      "bottom": 33.25,
+      "path": [
+        [
+          "m",
+          [
+            186.5,
+            28.75
+          ]
+        ],
+        [
+          "l",
+          [
+            187.5,
+            28.75
+          ]
+        ],
+        [
+          "l",
+          [
+            187.5,
+            29.75
+          ]
+        ],
+        [
+          "l",
+          [
+            181.0,
+            33.25
+          ]
+        ],
+        [
+          "l",
+          [
+            180.0,
+            33.25
+          ]
+        ],
+        [
+          "l",
+          [
+            180.0,
+            32.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          186.5,
+          28.75
+        ],
+        [
+          187.5,
+          28.75
+        ],
+        [
+          187.5,
+          29.75
+        ],
+        [
+          181.0,
+          33.25
+        ],
+        [
+          180.0,
+          33.25
+        ],
+        [
+          180.0,
+          32.25
+        ]
+      ],
+      "linewidth": 0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

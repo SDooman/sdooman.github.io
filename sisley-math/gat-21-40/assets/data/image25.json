@@ -1,0 +1,43 @@
+{
+  "kind": "annotated-math",
+  "expressions": [
+    {
+      "id": "expression-1",
+      "latex": "\\begin{bmatrix}e&f\\\\g&h\\end{bmatrix}\\cdot\\begin{bmatrix}a&b\\\\c&d\\end{bmatrix}"
+    },
+    {
+      "id": "expression-2",
+      "latex": "T_2\\circ T_1"
+    }
+  ],
+  "matrices": [
+    {
+      "id": "T2",
+      "entries": [
+        [
+          "e",
+          "f"
+        ],
+        [
+          "g",
+          "h"
+        ]
+      ]
+    },
+    {
+      "id": "T1",
+      "entries": [
+        [
+          "a",
+          "b"
+        ],
+        [
+          "c",
+          "d"
+        ]
+      ]
+    }
+  ],
+  "source_asset_id": "image25",
+  "review": "needs_review"
+}

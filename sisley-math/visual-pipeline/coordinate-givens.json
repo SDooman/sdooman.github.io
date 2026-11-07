@@ -1,0 +1,535 @@
+{
+  "image2": {
+    "kind": "coordinate-diagram",
+    "review": "source_transcribed_needs_final_review",
+    "coordinate_system": "cartesian",
+    "axis_scale": "not inferred from drawing pixels",
+    "scope": "Axes and two closed curves preserved as drawing primitives; no exact radii or equation given.",
+    "points": [],
+    "closed_shapes": [
+      {
+        "id": "inner",
+        "description": "inner circle"
+      },
+      {
+        "id": "outer",
+        "description": "surrounding oval"
+      }
+    ]
+  },
+  "image9": {
+    "kind": "coordinate-diagram",
+    "review": "source_transcribed_needs_final_review",
+    "coordinate_system": "cartesian",
+    "axis_scale": "not inferred from drawing pixels",
+    "scope": "Only labelled coordinates and visibly marked relationships are transcribed. Unlabelled values remain unknown.",
+    "points": [
+      {
+        "id": "P",
+        "coordinates": [
+          -2,
+          -2
+        ],
+        "label": "P",
+        "evidence": "printed coordinate label"
+      }
+    ]
+  },
+  "image92": {
+    "kind": "coordinate-diagram",
+    "review": "source_transcribed_needs_final_review",
+    "coordinate_system": "cartesian",
+    "axis_scale": "not inferred from drawing pixels",
+    "scope": "Only labelled coordinates and visibly marked relationships are transcribed. Unlabelled values remain unknown.",
+    "points": [
+      {
+        "id": "A",
+        "coordinates": null,
+        "label": "A",
+        "evidence": "label only; coordinate not transcribed"
+      },
+      {
+        "id": "B",
+        "coordinates": null,
+        "label": "B",
+        "evidence": "label only; coordinate not transcribed"
+      },
+      {
+        "id": "C",
+        "coordinates": [
+          7,
+          5
+        ],
+        "label": "C",
+        "evidence": "printed coordinate label"
+      }
+    ],
+    "segments": [
+      [
+        "A",
+        "B"
+      ],
+      [
+        "B",
+        "C"
+      ],
+      [
+        "C",
+        "A"
+      ]
+    ],
+    "givens": [
+      {
+        "type": "right-angle",
+        "vertices": [
+          "A",
+          "B",
+          "C"
+        ],
+        "evidence": "printed square marker"
+      }
+    ]
+  },
+  "image109": {
+    "kind": "coordinate-diagram",
+    "review": "source_transcribed_needs_final_review",
+    "coordinate_system": "cartesian",
+    "axis_scale": "not inferred from drawing pixels",
+    "scope": "Only labelled coordinates and visibly marked relationships are transcribed. Unlabelled values remain unknown.",
+    "points": [
+      {
+        "id": "A",
+        "coordinates": [
+          3,
+          3
+        ],
+        "label": "A",
+        "evidence": "printed coordinate label"
+      },
+      {
+        "id": "B",
+        "coordinates": [
+          1,
+          0
+        ],
+        "label": "B",
+        "evidence": "printed coordinate label"
+      },
+      {
+        "id": "C",
+        "coordinates": [
+          4,
+          -1
+        ],
+        "label": "C",
+        "evidence": "printed coordinate label"
+      }
+    ],
+    "segments": [
+      [
+        "A",
+        "B"
+      ],
+      [
+        "B",
+        "C"
+      ],
+      [
+        "C",
+        "A"
+      ]
+    ],
+    "lines": [
+      {
+        "id": "left",
+        "equation": "x=-1"
+      },
+      {
+        "id": "middle",
+        "equation": "x=0"
+      },
+      {
+        "id": "right",
+        "equation": "x=3"
+      }
+    ]
+  },
+  "image123": {
+    "kind": "coordinate-diagram",
+    "review": "source_transcribed_needs_final_review",
+    "coordinate_system": "cartesian",
+    "axis_scale": "not inferred from drawing pixels",
+    "scope": "Only labelled coordinates and visibly marked relationships are transcribed. Unlabelled values remain unknown.",
+    "points": [
+      {
+        "id": "A",
+        "coordinates": [
+          0,
+          0
+        ],
+        "label": "A",
+        "evidence": "printed coordinate label"
+      },
+      {
+        "id": "B",
+        "coordinates": [
+          3,
+          0
+        ],
+        "label": "B",
+        "evidence": "printed coordinate label"
+      },
+      {
+        "id": "A'",
+        "coordinates": [
+          3,
+          5
+        ],
+        "label": "A'",
+        "evidence": "printed coordinate label"
+      },
+      {
+        "id": "B'",
+        "coordinates": [
+          6,
+          5
+        ],
+        "label": "B'",
+        "evidence": "printed coordinate label"
+      }
+    ],
+    "segments": [
+      [
+        "A",
+        "B"
+      ],
+      [
+        "A'",
+        "B'"
+      ]
+    ],
+    "correspondences": [
+      [
+        "A",
+        "A'"
+      ],
+      [
+        "B",
+        "B'"
+      ]
+    ]
+  },
+  "image133": {
+    "kind": "coordinate-diagram",
+    "review": "source_transcribed_needs_final_review",
+    "coordinate_system": "cartesian",
+    "axis_scale": "not inferred from drawing pixels",
+    "scope": "Only labelled coordinates and visibly marked relationships are transcribed. Unlabelled values remain unknown.",
+    "points": [
+      {
+        "id": "A",
+        "coordinates": null,
+        "label": "A",
+        "evidence": "label only; coordinate not transcribed"
+      },
+      {
+        "id": "B",
+        "coordinates": null,
+        "label": "B",
+        "evidence": "label only; coordinate not transcribed"
+      },
+      {
+        "id": "C",
+        "coordinates": [
+          -17,
+          -13
+        ],
+        "label": "C",
+        "evidence": "printed coordinate label"
+      }
+    ],
+    "segments": [
+      [
+        "A",
+        "B"
+      ],
+      [
+        "B",
+        "C"
+      ],
+      [
+        "C",
+        "A"
+      ]
+    ],
+    "givens": [
+      {
+        "type": "right-angle",
+        "vertices": [
+          "A",
+          "B",
+          "C"
+        ],
+        "evidence": "printed square marker"
+      }
+    ]
+  },
+  "image156": {
+    "kind": "coordinate-diagram",
+    "review": "source_transcribed_needs_final_review",
+    "coordinate_system": "cartesian",
+    "axis_scale": "not inferred from drawing pixels",
+    "scope": "No parallel constraint or unlabelled line equation inferred from the drawing.",
+    "points": [
+      {
+        "id": "origin",
+        "coordinates": [
+          0,
+          0
+        ],
+        "label": "(0,0)",
+        "evidence": "printed coordinate label"
+      },
+      {
+        "id": "p",
+        "coordinates": [
+          0,
+          6
+        ],
+        "label": "(0,6)",
+        "evidence": "printed coordinate label"
+      },
+      {
+        "id": "q",
+        "coordinates": [
+          10,
+          3
+        ],
+        "label": "(10,3)",
+        "evidence": "printed coordinate label"
+      }
+    ],
+    "lines": [
+      {
+        "id": "m",
+        "through": [
+          "p",
+          "q"
+        ]
+      },
+      {
+        "id": "l",
+        "through": [
+          "origin"
+        ]
+      }
+    ]
+  },
+  "image163": {
+    "kind": "coordinate-diagram",
+    "review": "source_transcribed_needs_final_review",
+    "coordinate_system": "cartesian",
+    "axis_scale": "not inferred from drawing pixels",
+    "scope": "Only labelled coordinates and visibly marked relationships are transcribed. Unlabelled values remain unknown.",
+    "points": [
+      {
+        "id": "A",
+        "coordinates": [
+          5,
+          -2
+        ],
+        "label": "A",
+        "evidence": "printed coordinate label"
+      },
+      {
+        "id": "B",
+        "coordinates": [
+          11,
+          4
+        ],
+        "label": "B",
+        "evidence": "printed coordinate label"
+      },
+      {
+        "id": "A'",
+        "coordinates": [
+          0,
+          0
+        ],
+        "label": "A'",
+        "evidence": "printed coordinate label"
+      },
+      {
+        "id": "B'",
+        "coordinates": [
+          6,
+          6
+        ],
+        "label": "B'",
+        "evidence": "printed coordinate label"
+      }
+    ],
+    "segments": [
+      [
+        "A",
+        "B"
+      ],
+      [
+        "A'",
+        "B'"
+      ]
+    ],
+    "correspondences": [
+      [
+        "A",
+        "A'"
+      ],
+      [
+        "B",
+        "B'"
+      ]
+    ]
+  },
+  "image327": {
+    "kind": "coordinate-diagram",
+    "review": "source_transcribed_needs_final_review",
+    "coordinate_system": "cartesian",
+    "axis_scale": "not inferred from drawing pixels",
+    "scope": "Only labelled coordinates and visibly marked relationships are transcribed. Unlabelled values remain unknown.",
+    "points": [
+      {
+        "id": "A",
+        "coordinates": [
+          1,
+          0
+        ],
+        "label": "A",
+        "evidence": "printed coordinate label"
+      },
+      {
+        "id": "A'",
+        "coordinates": [
+          1,
+          0
+        ],
+        "label": "A'",
+        "evidence": "printed coordinate label"
+      },
+      {
+        "id": "B",
+        "coordinates": [
+          0,
+          1
+        ],
+        "label": "B",
+        "evidence": "printed coordinate label"
+      },
+      {
+        "id": "B'",
+        "coordinates": [
+          0,
+          -1
+        ],
+        "label": "B'",
+        "evidence": "printed coordinate label"
+      }
+    ],
+    "correspondences": [
+      [
+        "A",
+        "A'"
+      ],
+      [
+        "B",
+        "B'"
+      ]
+    ],
+    "transformation": {
+      "type": "reflection",
+      "axis": "x",
+      "source_notation": "r_x",
+      "evidence": "printed labels explicitly identify images under r_x"
+    }
+  },
+  "image274": {
+    "kind": "coordinate-diagram",
+    "review": "source_transcribed_needs_final_review",
+    "coordinate_system": "cartesian",
+    "axis_scale": "not inferred from drawing pixels",
+    "scope": "Only labelled coordinates and visibly marked relationships are transcribed. Unlabelled values remain unknown.",
+    "points": [
+      {
+        "id": "unit_x",
+        "coordinates": [
+          1,
+          0
+        ],
+        "label": "(1,0)",
+        "evidence": "printed coordinate label"
+      },
+      {
+        "id": "unit_y",
+        "coordinates": [
+          0,
+          1
+        ],
+        "label": "(0,1)",
+        "evidence": "printed coordinate label"
+      }
+    ]
+  },
+  "image297": {
+    "kind": "coordinate-diagram",
+    "review": "source_transcribed_needs_final_review",
+    "coordinate_system": "cartesian",
+    "axis_scale": "not inferred from drawing pixels",
+    "scope": "Only labelled coordinates and visibly marked relationships are transcribed. Unlabelled values remain unknown.",
+    "points": [
+      {
+        "id": "unit_x",
+        "coordinates": [
+          1,
+          0
+        ],
+        "label": "(1,0)",
+        "evidence": "printed coordinate label"
+      },
+      {
+        "id": "unit_y",
+        "coordinates": [
+          0,
+          1
+        ],
+        "label": "(0,1)",
+        "evidence": "printed coordinate label"
+      }
+    ]
+  },
+  "image309": {
+    "kind": "coordinate-diagram",
+    "review": "source_transcribed_needs_final_review",
+    "coordinate_system": "cartesian",
+    "axis_scale": "not inferred from drawing pixels",
+    "scope": "Only labelled coordinates and visibly marked relationships are transcribed. Unlabelled values remain unknown.",
+    "points": [
+      {
+        "id": "unit_x",
+        "coordinates": [
+          1,
+          0
+        ],
+        "label": "(1,0)",
+        "evidence": "printed coordinate label"
+      },
+      {
+        "id": "unit_y",
+        "coordinates": [
+          0,
+          1
+        ],
+        "label": "(0,1)",
+        "evidence": "printed coordinate label"
+      }
+    ]
+  }
+}

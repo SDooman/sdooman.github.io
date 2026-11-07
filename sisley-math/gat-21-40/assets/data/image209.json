@@ -1,0 +1,15 @@
+{
+  "kind": "annotated-math",
+  "expressions": [
+    {
+      "id": "expression-1",
+      "latex": "\\overset{y}{\\boxed{\\phantom{00}}}={}^{-}1.4\\cdot(\\overset{x}{\\boxed{\\phantom{00}}}+3)"
+    },
+    {
+      "id": "expression-2",
+      "latex": "y={}^{-}1.4\\cdot(x+3)"
+    }
+  ],
+  "source_asset_id": "image209",
+  "review": "needs_review"
+}

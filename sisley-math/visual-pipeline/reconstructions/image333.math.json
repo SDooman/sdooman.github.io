@@ -1,0 +1,14 @@
+[
+  {
+    "id": "matrix_3",
+    "latex": "\\begin{bmatrix}0 & 1 \\\\ 1 & 0\\end{bmatrix}"
+  },
+  {
+    "id": "matrix_2",
+    "latex": "\\begin{bmatrix}1 & 0 \\\\ 0 & {}^{-}1\\end{bmatrix}"
+  },
+  {
+    "id": "matrix_1",
+    "latex": "\\begin{bmatrix}0 \\\\ 2\\end{bmatrix}"
+  }
+]

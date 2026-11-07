@@ -1,0 +1,2520 @@
+{
+  "labels": [
+    {
+      "text": "3",
+      "bbox_pt": [
+        41.25,
+        -601.048,
+        46.818,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "6",
+      "bbox_pt": [
+        46.818,
+        -601.048,
+        52.386,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        52.386,
+        -601.048,
+        57.95400000000001,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        71.25,
+        -601.048,
+        76.818,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "6",
+      "bbox_pt": [
+        76.818,
+        -601.048,
+        82.386,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        82.386,
+        -601.048,
+        87.95400000000001,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "[",
+      "bbox_pt": [
+        37.25,
+        -600.42,
+        40.622,
+        -588.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.0
+    },
+    {
+      "text": "]",
+      "bbox_pt": [
+        89.25,
+        -600.42,
+        92.622,
+        -588.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.0
+    },
+    {
+      "text": "⋅",
+      "bbox_pt": [
+        93.25,
+        -601.42,
+        100.174,
+        -589.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        103.25,
+        -622.048,
+        108.818,
+        -610.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        103.25,
+        -606.048,
+        108.818,
+        -594.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        122.25,
+        -622.048,
+        127.818,
+        -610.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        122.25,
+        -606.048,
+        127.818,
+        -594.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        103.25,
+        -595.048,
+        108.818,
+        -583.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        103.25,
+        -579.048,
+        108.818,
+        -567.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        122.25,
+        -595.048,
+        127.818,
+        -583.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        122.25,
+        -579.048,
+        127.818,
+        -567.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "⎡",
+      "bbox_pt": [
+        97.25,
+        -621.18,
+        103.25,
+        -609.18
+      ],
+      "font": "DAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎣",
+      "bbox_pt": [
+        97.25,
+        -581.1800000000001,
+        103.25,
+        -569.1800000000001
+      ],
+      "font": "DAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎢",
+      "bbox_pt": [
+        97.25,
+        -609.18,
+        103.25,
+        -597.18
+      ],
+      "font": "DAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎢",
+      "bbox_pt": [
+        97.25,
+        -597.18,
+        103.25,
+        -585.1800000000001
+      ],
+      "font": "DAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎢",
+      "bbox_pt": [
+        97.25,
+        -585.1800000000001,
+        103.25,
+        -573.1800000000001
+      ],
+      "font": "DAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎤",
+      "bbox_pt": [
+        129.25,
+        -621.18,
+        135.25,
+        -609.18
+      ],
+      "font": "DAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎦",
+      "bbox_pt": [
+        129.25,
+        -581.1800000000001,
+        135.25,
+        -569.1800000000001
+      ],
+      "font": "DAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎥",
+      "bbox_pt": [
+        129.25,
+        -609.18,
+        135.25,
+        -597.18
+      ],
+      "font": "DAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎥",
+      "bbox_pt": [
+        129.25,
+        -597.18,
+        135.25,
+        -585.1800000000001
+      ],
+      "font": "DAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎥",
+      "bbox_pt": [
+        129.25,
+        -585.1800000000001,
+        135.25,
+        -573.1800000000001
+      ],
+      "font": "DAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        136.25,
+        -601.42,
+        145.77800000000002,
+        -589.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        150.25,
+        -601.048,
+        155.81799999999998,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "6",
+      "bbox_pt": [
+        155.81799999999998,
+        -601.048,
+        161.386,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        161.386,
+        -601.048,
+        166.954,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "⋅",
+      "bbox_pt": [
+        168.25,
+        -601.42,
+        175.174,
+        -589.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        173.25,
+        -609.048,
+        178.818,
+        -597.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        173.25,
+        -592.048,
+        178.818,
+        -580.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "+",
+      "bbox_pt": [
+        182.25,
+        -601.42,
+        189.246,
+        -589.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        190.25,
+        -601.048,
+        195.818,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "6",
+      "bbox_pt": [
+        195.818,
+        -601.048,
+        201.38600000000002,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        201.386,
+        -601.048,
+        206.954,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "⋅",
+      "bbox_pt": [
+        209.25,
+        -601.42,
+        216.174,
+        -589.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        213.25,
+        -609.048,
+        218.818,
+        -597.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        213.25,
+        -592.048,
+        218.818,
+        -580.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        231.25,
+        -601.048,
+        236.818,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "6",
+      "bbox_pt": [
+        236.818,
+        -601.048,
+        242.38600000000002,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        242.386,
+        -601.048,
+        247.954,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "⋅",
+      "bbox_pt": [
+        250.25,
+        -601.42,
+        257.174,
+        -589.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        255.25,
+        -609.048,
+        260.818,
+        -597.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        255.25,
+        -592.048,
+        260.818,
+        -580.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "+",
+      "bbox_pt": [
+        263.25,
+        -601.42,
+        270.246,
+        -589.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        271.25,
+        -601.048,
+        276.818,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "6",
+      "bbox_pt": [
+        276.818,
+        -601.048,
+        282.386,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        282.38599999999997,
+        -601.048,
+        287.954,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "⋅",
+      "bbox_pt": [
+        290.25,
+        -601.42,
+        297.174,
+        -589.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        294.25,
+        -609.048,
+        299.818,
+        -597.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        294.25,
+        -592.048,
+        299.818,
+        -580.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "⎡",
+      "bbox_pt": [
+        145.25,
+        -608.18,
+        151.25,
+        -596.1800000000001
+      ],
+      "font": "DAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎣",
+      "bbox_pt": [
+        145.25,
+        -594.1800000000001,
+        151.25,
+        -582.1800000000001
+      ],
+      "font": "DAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎢",
+      "bbox_pt": [
+        145.25,
+        -596.1800000000001,
+        151.25,
+        -584.1800000000001
+      ],
+      "font": "DAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎤",
+      "bbox_pt": [
+        302.25,
+        -608.18,
+        308.25,
+        -596.1800000000001
+      ],
+      "font": "DAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎦",
+      "bbox_pt": [
+        302.25,
+        -594.1800000000001,
+        308.25,
+        -582.1800000000001
+      ],
+      "font": "DAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎥",
+      "bbox_pt": [
+        302.25,
+        -596.1800000000001,
+        308.25,
+        -584.1800000000001
+      ],
+      "font": "DAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        308.25,
+        -601.42,
+        317.778,
+        -589.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.0
+    },
+    {
+      "text": "4",
+      "bbox_pt": [
+        321.25,
+        -601.048,
+        326.818,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        326.818,
+        -601.048,
+        332.38599999999997,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        332.386,
+        -601.048,
+        337.954,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        350.25,
+        -601.048,
+        355.818,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        355.818,
+        -601.048,
+        361.38599999999997,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        361.386,
+        -601.048,
+        366.954,
+        -589.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "[",
+      "bbox_pt": [
+        316.25,
+        -600.42,
+        319.622,
+        -588.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.0
+    },
+    {
+      "text": "]",
+      "bbox_pt": [
+        368.25,
+        -600.42,
+        371.622,
+        -588.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        39.25,
+        -656.048,
+        45.286,
+        -644.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        45.286,
+        -656.048,
+        49.738,
+        -644.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        49.738,
+        -656.048,
+        52.978,
+        -644.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "g",
+      "bbox_pt": [
+        52.978,
+        -656.048,
+        58.978,
+        -644.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        58.978,
+        -656.048,
+        62.218,
+        -644.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        62.218,
+        -656.048,
+        68.71000000000001,
+        -644.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        68.71000000000001,
+        -656.048,
+        74.18200000000002,
+        -644.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "l",
+      "bbox_pt": [
+        74.182,
+        -656.048,
+        77.338,
+        -644.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "d",
+      "bbox_pt": [
+        39.25,
+        -644.048,
+        45.31,
+        -632.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        45.31,
+        -644.048,
+        48.55,
+        -632.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        48.55,
+        -644.048,
+        53.218,
+        -632.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "p",
+      "bbox_pt": [
+        53.218,
+        -644.048,
+        59.434,
+        -632.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        59.506,
+        -644.048,
+        65.542,
+        -632.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        65.542,
+        -644.048,
+        70.21000000000001,
+        -632.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        70.21000000000001,
+        -644.048,
+        73.45,
+        -632.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        73.45,
+        -644.048,
+        77.23,
+        -632.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        77.23,
+        -644.048,
+        80.47,
+        -632.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        80.47,
+        -644.048,
+        86.506,
+        -632.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        86.506,
+        -644.048,
+        92.998,
+        -632.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "m",
+      "bbox_pt": [
+        39.25,
+        -632.048,
+        48.718,
+        -620.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        48.718,
+        -632.048,
+        54.19,
+        -620.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        54.19,
+        -632.048,
+        57.97,
+        -620.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        57.97,
+        -632.048,
+        62.422000000000004,
+        -620.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        62.422000000000004,
+        -632.048,
+        65.662,
+        -620.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "x",
+      "bbox_pt": [
+        65.662,
+        -632.048,
+        71.53,
+        -620.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        104.25,
+        -655.048,
+        108.03,
+        -643.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        108.03,
+        -655.048,
+        112.482,
+        -643.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        112.482,
+        -655.048,
+        117.954,
+        -643.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        117.95400000000001,
+        -655.048,
+        124.44600000000001,
+        -643.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        124.446,
+        -655.048,
+        129.114,
+        -643.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        129.114,
+        -655.048,
+        132.35399999999998,
+        -643.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        132.35399999999998,
+        -655.048,
+        136.13400000000001,
+        -643.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        136.13400000000001,
+        -655.048,
+        139.374,
+        -643.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        139.374,
+        -655.048,
+        145.41,
+        -643.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        145.41,
+        -655.048,
+        151.902,
+        -643.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "m",
+      "bbox_pt": [
+        104.25,
+        -643.048,
+        113.718,
+        -631.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        113.718,
+        -643.048,
+        119.19,
+        -631.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        119.19,
+        -643.048,
+        122.97,
+        -631.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        122.97,
+        -643.048,
+        127.422,
+        -631.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        127.422,
+        -643.048,
+        130.66199999999998,
+        -631.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "x",
+      "bbox_pt": [
+        130.662,
+        -643.048,
+        136.53,
+        -631.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "d",
+      "bbox_pt": [
+        319.25,
+        -658.048,
+        325.31,
+        -646.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        325.31,
+        -658.048,
+        328.55,
+        -646.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        328.55,
+        -658.048,
+        333.218,
+        -646.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "p",
+      "bbox_pt": [
+        333.218,
+        -658.048,
+        339.434,
+        -646.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        339.506,
+        -658.048,
+        345.542,
+        -646.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        345.54200000000003,
+        -658.048,
+        350.21000000000004,
+        -646.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        350.21,
+        -658.048,
+        353.45,
+        -646.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        353.45,
+        -658.048,
+        357.22999999999996,
+        -646.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        357.23,
+        -658.048,
+        360.47,
+        -646.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        360.47,
+        -658.048,
+        366.50600000000003,
+        -646.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        366.50600000000003,
+        -658.048,
+        372.99800000000005,
+        -646.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        319.25,
+        -646.048,
+        324.722,
+        -634.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "fte",
+      "bbox_pt": [
+        324.75,
+        -646.048,
+        331.89,
+        -634.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": ",",
+      "bbox_pt": [
+        331.89,
+        -646.048,
+        337.24199999999996,
+        -634.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        337.25,
+        -646.048,
+        341.702,
+        -634.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        341.702,
+        -646.048,
+        344.702,
+        -634.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "fir",
+      "bbox_pt": [
+        344.75,
+        -646.048,
+        351.458,
+        -634.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        351.458,
+        -646.048,
+        355.91,
+        -634.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        356.0,
+        -646.048,
+        360.668,
+        -634.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        360.668,
+        -646.048,
+        364.448,
+        -634.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "h",
+      "bbox_pt": [
+        319.25,
+        -634.048,
+        325.694,
+        -622.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        325.694,
+        -634.048,
+        331.166,
+        -622.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "l",
+      "bbox_pt": [
+        331.166,
+        -634.048,
+        334.322,
+        -622.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "f",
+      "bbox_pt": [
+        334.322,
+        -634.048,
+        338.03000000000003,
+        -622.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "-",
+      "bbox_pt": [
+        338.03,
+        -634.048,
+        342.07399999999996,
+        -622.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "h",
+      "bbox_pt": [
+        342.074,
+        -634.048,
+        348.51800000000003,
+        -622.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        348.51800000000003,
+        -634.048,
+        354.55400000000003,
+        -622.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "u",
+      "bbox_pt": [
+        354.554,
+        -634.048,
+        360.914,
+        -622.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        360.914,
+        -634.048,
+        365.366,
+        -622.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "d",
+      "bbox_pt": [
+        201.25,
+        -659.048,
+        207.31,
+        -647.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        207.31,
+        -659.048,
+        210.55,
+        -647.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        210.55,
+        -659.048,
+        215.21800000000002,
+        -647.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "p",
+      "bbox_pt": [
+        215.218,
+        -659.048,
+        221.434,
+        -647.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        221.506,
+        -659.048,
+        227.542,
+        -647.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        227.542,
+        -659.048,
+        232.21,
+        -647.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        232.21,
+        -659.048,
+        235.45000000000002,
+        -647.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        235.45,
+        -659.048,
+        239.23,
+        -647.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        239.23000000000002,
+        -659.048,
+        242.47000000000003,
+        -647.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        242.47,
+        -659.048,
+        248.506,
+        -647.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        248.506,
+        -659.048,
+        254.998,
+        -647.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        201.25,
+        -647.048,
+        206.722,
+        -635.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "fte",
+      "bbox_pt": [
+        206.75,
+        -647.048,
+        213.89,
+        -635.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": ",",
+      "bbox_pt": [
+        213.89,
+        -647.048,
+        219.242,
+        -635.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        219.25,
+        -647.048,
+        223.702,
+        -635.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        223.702,
+        -647.048,
+        226.702,
+        -635.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "fir",
+      "bbox_pt": [
+        226.75,
+        -647.048,
+        233.458,
+        -635.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        233.458,
+        -647.048,
+        237.91,
+        -635.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        238.0,
+        -647.048,
+        242.668,
+        -635.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        242.668,
+        -647.048,
+        246.448,
+        -635.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "h",
+      "bbox_pt": [
+        201.25,
+        -635.048,
+        207.694,
+        -623.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        207.694,
+        -635.048,
+        213.166,
+        -623.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "l",
+      "bbox_pt": [
+        213.166,
+        -635.048,
+        216.322,
+        -623.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "f",
+      "bbox_pt": [
+        216.322,
+        -635.048,
+        220.03,
+        -623.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "-",
+      "bbox_pt": [
+        220.03,
+        -635.048,
+        224.074,
+        -623.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "h",
+      "bbox_pt": [
+        224.074,
+        -635.048,
+        230.518,
+        -623.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        230.518,
+        -635.048,
+        236.554,
+        -623.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "u",
+      "bbox_pt": [
+        236.554,
+        -635.048,
+        242.91400000000002,
+        -623.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        242.914,
+        -635.048,
+        247.36599999999999,
+        -623.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    }
+  ],
+  "drawing_primitives": [
+    {
+      "object_type": "rect",
+      "x0": 103.0,
+      "x1": 110.0,
+      "top": -609.0,
+      "bottom": -608.0,
+      "path": [
+        [
+          "m",
+          [
+            103.0,
+            -609.0
+          ]
+        ],
+        [
+          "l",
+          [
+            110.0,
+            -609.0
+          ]
+        ],
+        [
+          "l",
+          [
+            110.0,
+            -608.0
+          ]
+        ],
+        [
+          "l",
+          [
+            103.0,
+            -608.0
+          ]
+        ],
+        [
+          "l",
+          [
+            103.0,
+            -609.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          103.0,
+          -609.0
+        ],
+        [
+          110.0,
+          -609.0
+        ],
+        [
+          110.0,
+          -608.0
+        ],
+        [
+          103.0,
+          -608.0
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "rect",
+      "x0": 123.0,
+      "x1": 129.0,
+      "top": -609.0,
+      "bottom": -608.0,
+      "path": [
+        [
+          "m",
+          [
+            123.0,
+            -609.0
+          ]
+        ],
+        [
+          "l",
+          [
+            129.0,
+            -609.0
+          ]
+        ],
+        [
+          "l",
+          [
+            129.0,
+            -608.0
+          ]
+        ],
+        [
+          "l",
+          [
+            123.0,
+            -608.0
+          ]
+        ],
+        [
+          "l",
+          [
+            123.0,
+            -609.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          123.0,
+          -609.0
+        ],
+        [
+          129.0,
+          -609.0
+        ],
+        [
+          129.0,
+          -608.0
+        ],
+        [
+          123.0,
+          -608.0
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "rect",
+      "x0": 103.0,
+      "x1": 110.0,
+      "top": -582.0,
+      "bottom": -581.0,
+      "path": [
+        [
+          "m",
+          [
+            103.0,
+            -582.0
+          ]
+        ],
+        [
+          "l",
+          [
+            110.0,
+            -582.0
+          ]
+        ],
+        [
+          "l",
+          [
+            110.0,
+            -581.0
+          ]
+        ],
+        [
+          "l",
+          [
+            103.0,
+            -581.0
+          ]
+        ],
+        [
+          "l",
+          [
+            103.0,
+            -582.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          103.0,
+          -582.0
+        ],
+        [
+          110.0,
+          -582.0
+        ],
+        [
+          110.0,
+          -581.0
+        ],
+        [
+          103.0,
+          -581.0
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "rect",
+      "x0": 122.0,
+      "x1": 130.0,
+      "top": -582.0,
+      "bottom": -581.0,
+      "path": [
+        [
+          "m",
+          [
+            122.0,
+            -582.0
+          ]
+        ],
+        [
+          "l",
+          [
+            130.0,
+            -582.0
+          ]
+        ],
+        [
+          "l",
+          [
+            130.0,
+            -581.0
+          ]
+        ],
+        [
+          "l",
+          [
+            122.0,
+            -581.0
+          ]
+        ],
+        [
+          "l",
+          [
+            122.0,
+            -582.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          122.0,
+          -582.0
+        ],
+        [
+          130.0,
+          -582.0
+        ],
+        [
+          130.0,
+          -581.0
+        ],
+        [
+          122.0,
+          -581.0
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "rect",
+      "x0": 173.0,
+      "x1": 181.0,
+      "top": -596.0,
+      "bottom": -595.0,
+      "path": [
+        [
+          "m",
+          [
+            173.0,
+            -596.0
+          ]
+        ],
+        [
+          "l",
+          [
+            181.0,
+            -596.0
+          ]
+        ],
+        [
+          "l",
+          [
+            181.0,
+            -595.0
+          ]
+        ],
+        [
+          "l",
+          [
+            173.0,
+            -595.0
+          ]
+        ],
+        [
+          "l",
+          [
+            173.0,
+            -596.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          173.0,
+          -596.0
+        ],
+        [
+          181.0,
+          -596.0
+        ],
+        [
+          181.0,
+          -595.0
+        ],
+        [
+          173.0,
+          -595.0
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "rect",
+      "x0": 214.0,
+      "x1": 221.0,
+      "top": -596.0,
+      "bottom": -595.0,
+      "path": [
+        [
+          "m",
+          [
+            214.0,
+            -596.0
+          ]
+        ],
+        [
+          "l",
+          [
+            221.0,
+            -596.0
+          ]
+        ],
+        [
+          "l",
+          [
+            221.0,
+            -595.0
+          ]
+        ],
+        [
+          "l",
+          [
+            214.0,
+            -595.0
+          ]
+        ],
+        [
+          "l",
+          [
+            214.0,
+            -596.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          214.0,
+          -596.0
+        ],
+        [
+          221.0,
+          -596.0
+        ],
+        [
+          221.0,
+          -595.0
+        ],
+        [
+          214.0,
+          -595.0
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "rect",
+      "x0": 255.0,
+      "x1": 262.0,
+      "top": -596.0,
+      "bottom": -595.0,
+      "path": [
+        [
+          "m",
+          [
+            255.0,
+            -596.0
+          ]
+        ],
+        [
+          "l",
+          [
+            262.0,
+            -596.0
+          ]
+        ],
+        [
+          "l",
+          [
+            262.0,
+            -595.0
+          ]
+        ],
+        [
+          "l",
+          [
+            255.0,
+            -595.0
+          ]
+        ],
+        [
+          "l",
+          [
+            255.0,
+            -596.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          255.0,
+          -596.0
+        ],
+        [
+          262.0,
+          -596.0
+        ],
+        [
+          262.0,
+          -595.0
+        ],
+        [
+          255.0,
+          -595.0
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "rect",
+      "x0": 295.0,
+      "x1": 302.0,
+      "top": -596.0,
+      "bottom": -595.0,
+      "path": [
+        [
+          "m",
+          [
+            295.0,
+            -596.0
+          ]
+        ],
+        [
+          "l",
+          [
+            302.0,
+            -596.0
+          ]
+        ],
+        [
+          "l",
+          [
+            302.0,
+            -595.0
+          ]
+        ],
+        [
+          "l",
+          [
+            295.0,
+            -595.0
+          ]
+        ],
+        [
+          "l",
+          [
+            295.0,
+            -596.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          295.0,
+          -596.0
+        ],
+        [
+          302.0,
+          -596.0
+        ],
+        [
+          302.0,
+          -595.0
+        ],
+        [
+          295.0,
+          -595.0
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "rect",
+      "x0": 225.0,
+      "x1": 227.0,
+      "top": -620.0,
+      "bottom": -576.0,
+      "path": [
+        [
+          "m",
+          [
+            225.0,
+            -620.0
+          ]
+        ],
+        [
+          "l",
+          [
+            227.0,
+            -620.0
+          ]
+        ],
+        [
+          "l",
+          [
+            227.0,
+            -576.0
+          ]
+        ],
+        [
+          "l",
+          [
+            225.0,
+            -576.0
+          ]
+        ],
+        [
+          "l",
+          [
+            225.0,
+            -620.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          225.0,
+          -620.0
+        ],
+        [
+          227.0,
+          -620.0
+        ],
+        [
+          227.0,
+          -576.0
+        ],
+        [
+          225.0,
+          -576.0
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

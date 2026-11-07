@@ -1,0 +1,1375 @@
+{
+  "image200": {
+    "kind": "table",
+    "headers": [
+      "The diameter of a circle",
+      "The circumference of the same circle"
+    ],
+    "rows": [
+      [
+        1,
+        "$\\pi$"
+      ],
+      [
+        3,
+        null
+      ],
+      [
+        null,
+        "$\\sqrt{14}\\cdot\\pi$"
+      ],
+      [
+        "4.5",
+        null
+      ],
+      [
+        null,
+        10
+      ]
+    ],
+    "title": null,
+    "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+    "source_asset_id": "image200",
+    "review": "needs_review"
+  },
+  "image204": {
+    "kind": "table",
+    "headers": [
+      "Year",
+      "Winning time"
+    ],
+    "rows": [
+      [
+        1948,
+        "24.4"
+      ],
+      [
+        1952,
+        "23.7"
+      ],
+      [
+        1956,
+        "23.4"
+      ],
+      [
+        1960,
+        "24.0"
+      ],
+      [
+        1964,
+        "23.0"
+      ],
+      [
+        1968,
+        "22.5"
+      ],
+      [
+        1972,
+        "22.4"
+      ],
+      [
+        1976,
+        "22.37"
+      ],
+      [
+        1980,
+        "22.03"
+      ],
+      [
+        1984,
+        "21.81"
+      ],
+      [
+        1988,
+        "21.34"
+      ],
+      [
+        1992,
+        "21.81"
+      ]
+    ],
+    "title": null,
+    "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+    "source_asset_id": "image204",
+    "review": "needs_review"
+  },
+  "image205": {
+    "kind": "table",
+    "headers": [
+      "Size transformation magnitude",
+      "Image of $(1,\\sqrt{2})$"
+    ],
+    "rows": [
+      [
+        "${}^{-}3$",
+        null
+      ],
+      [
+        "${}^{-}1$",
+        null
+      ],
+      [
+        2,
+        null
+      ],
+      [
+        4,
+        null
+      ],
+      [
+        7,
+        null
+      ]
+    ],
+    "title": null,
+    "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+    "source_asset_id": "image205",
+    "review": "needs_review"
+  },
+  "image224": {
+    "kind": "table",
+    "headers": [
+      "Size transformation magnitude",
+      "Image of $(1,\\sqrt{0.9})$"
+    ],
+    "rows": [
+      [
+        "${}^{-}3$",
+        "$({}^{-}3,{}^{-}3\\cdot\\sqrt{0.9})$"
+      ],
+      [
+        "${}^{-}1$",
+        "$({}^{-}1,{}^{-}1\\cdot\\sqrt{0.9})$"
+      ],
+      [
+        2,
+        "$(2,2\\cdot\\sqrt{0.9})$"
+      ],
+      [
+        4,
+        "$(4,4\\cdot\\sqrt{0.9})$"
+      ],
+      [
+        7,
+        "$(7,7\\cdot\\sqrt{0.9})$"
+      ]
+    ],
+    "title": null,
+    "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+    "source_asset_id": "image224",
+    "review": "needs_review"
+  },
+  "image231": {
+    "kind": "table",
+    "headers": [
+      "The measure of a length in meters",
+      "The measure of the same length in inches"
+    ],
+    "rows": [
+      [
+        1,
+        null
+      ],
+      [
+        2,
+        "78.74"
+      ],
+      [
+        3,
+        "118.11"
+      ],
+      [
+        5,
+        "196.85"
+      ],
+      [
+        null,
+        "393.70"
+      ]
+    ],
+    "title": null,
+    "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+    "source_asset_id": "image231",
+    "review": "needs_review"
+  },
+  "image260": {
+    "kind": "table",
+    "headers": [
+      "The length of an object in inches",
+      "The length of the same object in centimeters"
+    ],
+    "rows": [
+      [
+        0,
+        null
+      ],
+      [
+        1,
+        null
+      ],
+      [
+        2,
+        null
+      ],
+      [
+        10,
+        null
+      ]
+    ],
+    "title": null,
+    "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+    "source_asset_id": "image260",
+    "review": "needs_review"
+  },
+  "image397": {
+    "kind": "table",
+    "headers": [
+      "Year in which world record was set",
+      "Record in seconds"
+    ],
+    "rows": [
+      [
+        1953,
+        "127.3"
+      ],
+      [
+        1960,
+        "124.1"
+      ],
+      [
+        1964,
+        "121.5"
+      ],
+      [
+        1968,
+        "120.5"
+      ],
+      [
+        1971,
+        "118.3"
+      ],
+      [
+        1983,
+        "113.28"
+      ]
+    ],
+    "title": "800-meter run for women",
+    "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+    "source_asset_id": "image397",
+    "review": "needs_review"
+  },
+  "image429": {
+    "kind": "table",
+    "headers": [
+      "Year in which world record was set",
+      "Record in seconds"
+    ],
+    "rows": [
+      [
+        1953,
+        "127.3"
+      ],
+      [
+        1960,
+        "124.1"
+      ],
+      [
+        1964,
+        "121.5"
+      ],
+      [
+        1968,
+        "120.5"
+      ],
+      [
+        1971,
+        "118.3"
+      ],
+      [
+        1983,
+        "113.28"
+      ]
+    ],
+    "title": "800-meter run for women",
+    "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+    "source_asset_id": "image429",
+    "review": "needs_review"
+  },
+  "image465": {
+    "kind": "table",
+    "headers": [
+      "Year in which world record was set",
+      "Record in seconds"
+    ],
+    "rows": [
+      [
+        1953,
+        "127.3"
+      ],
+      [
+        1960,
+        "124.1"
+      ],
+      [
+        1964,
+        "121.5"
+      ],
+      [
+        1968,
+        "120.5"
+      ],
+      [
+        1971,
+        "118.3"
+      ],
+      [
+        1983,
+        "113.28"
+      ]
+    ],
+    "title": "800-meter run for women",
+    "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+    "source_asset_id": "image465",
+    "review": "needs_review"
+  },
+  "image431": {
+    "kind": "table",
+    "headers": [
+      "L1",
+      "L2"
+    ],
+    "rows": [
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        13
+      ],
+      [
+        6,
+        26
+      ],
+      [
+        7,
+        30
+      ],
+      [
+        10,
+        35
+      ],
+      [
+        11,
+        33
+      ]
+    ],
+    "title": null,
+    "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+    "source_asset_id": "image431",
+    "review": "needs_review"
+  },
+  "image449": {
+    "kind": "table",
+    "headers": [
+      "L1",
+      "L2"
+    ],
+    "rows": [
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        13
+      ],
+      [
+        6,
+        26
+      ],
+      [
+        7,
+        30
+      ],
+      [
+        10,
+        35
+      ],
+      [
+        11,
+        33
+      ]
+    ],
+    "title": null,
+    "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+    "source_asset_id": "image449",
+    "review": "needs_review"
+  },
+  "image464": {
+    "kind": "table",
+    "headers": [
+      "Year in which Olympic record was set",
+      "Record in seconds"
+    ],
+    "rows": [
+      [
+        1948,
+        "109.2"
+      ],
+      [
+        1956,
+        "107.7"
+      ],
+      [
+        1960,
+        "106.3"
+      ],
+      [
+        1964,
+        "105.1"
+      ],
+      [
+        1976,
+        "103.5"
+      ],
+      [
+        1984,
+        "103.0"
+      ]
+    ],
+    "title": "800-meter run for men",
+    "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+    "source_asset_id": "image464",
+    "review": "needs_review"
+  },
+  "image489": {
+    "kind": "table",
+    "headers": [
+      "Team",
+      "Wins in 1953",
+      "Wins in 1954"
+    ],
+    "rows": [
+      [
+        "Braves",
+        92,
+        89
+      ],
+      [
+        "Dodgers",
+        105,
+        92
+      ],
+      [
+        "Cubs",
+        65,
+        64
+      ],
+      [
+        "Reds",
+        68,
+        74
+      ],
+      [
+        "Giants",
+        70,
+        97
+      ],
+      [
+        "Phillies",
+        83,
+        75
+      ]
+    ],
+    "title": "Number of season wins for six National League teams",
+    "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+    "source_asset_id": "image489",
+    "review": "needs_review"
+  },
+  "image512": {
+    "kind": "table",
+    "headers": [
+      "Team",
+      "Wins in 1954",
+      "Wins in 1955"
+    ],
+    "rows": [
+      [
+        "Braves",
+        89,
+        85
+      ],
+      [
+        "Dodgers",
+        92,
+        98
+      ],
+      [
+        "Cubs",
+        64,
+        72
+      ],
+      [
+        "Reds",
+        74,
+        75
+      ],
+      [
+        "Giants",
+        97,
+        80
+      ],
+      [
+        "Phillies",
+        75,
+        77
+      ]
+    ],
+    "title": "Number of season wins for six National League teams",
+    "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+    "source_asset_id": "image512",
+    "review": "needs_review"
+  },
+  "image494": {
+    "kind": "table",
+    "headers": [
+      "Year",
+      "Name, nation",
+      "Time in seconds"
+    ],
+    "rows": [
+      [
+        1948,
+        "Blankers-Koen, Netherlands",
+        "24.4"
+      ],
+      [
+        1952,
+        "Jackson, Australia",
+        "23.7"
+      ],
+      [
+        1956,
+        "Cuthbert, Australia",
+        "23.4"
+      ],
+      [
+        1960,
+        "Rudolph, USA",
+        "24.0"
+      ],
+      [
+        1964,
+        "McGuire, USA",
+        "23.0"
+      ],
+      [
+        1968,
+        "Szewinska, Poland",
+        "22.5"
+      ],
+      [
+        1972,
+        "Stecher, E. Germany",
+        "22.4"
+      ],
+      [
+        1976,
+        "Eckert, E. Germany",
+        "22.37"
+      ],
+      [
+        1980,
+        "Wockel, E. Germany",
+        "22.03"
+      ],
+      [
+        1984,
+        "Brisco-Hooks, USA",
+        "21.81"
+      ],
+      [
+        1988,
+        "Griffith-Joyner, USA",
+        "21.34"
+      ],
+      [
+        1992,
+        "Torrence, USA",
+        "21.81"
+      ]
+    ],
+    "title": "200-meter run for women, Olympic gold medal times",
+    "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+    "source_asset_id": "image494",
+    "review": "needs_review"
+  },
+  "image522": {
+    "kind": "table",
+    "headers": [
+      "Year",
+      "Name, nation",
+      "Time in seconds"
+    ],
+    "rows": [
+      [
+        1948,
+        "Patton, USA",
+        "21.1"
+      ],
+      [
+        1952,
+        "Stanfield, USA",
+        "20.7"
+      ],
+      [
+        1956,
+        "Morrow, USA",
+        "20.6"
+      ],
+      [
+        1960,
+        "Berruti, Italy",
+        "20.5"
+      ],
+      [
+        1964,
+        "Carr, USA",
+        "20.3"
+      ],
+      [
+        1968,
+        "Smith, USA",
+        "19.83"
+      ],
+      [
+        1972,
+        "Borzov, USSR",
+        "20.00"
+      ],
+      [
+        1976,
+        "Quarrie, Jamaica",
+        "20.23"
+      ],
+      [
+        1980,
+        "Mennea, Italy",
+        "20.19"
+      ],
+      [
+        1984,
+        "Lewis, USA",
+        "19.80"
+      ],
+      [
+        1988,
+        "DeLoach, USA",
+        "19.75"
+      ],
+      [
+        1992,
+        "Marsh, USA",
+        "20.01"
+      ]
+    ],
+    "title": "200-meter run for men, Olympic gold medal times",
+    "blank_meaning": "Unfilled source exercise cell; no answer inferred.",
+    "source_asset_id": "image522",
+    "review": "needs_review"
+  },
+  "image122": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "\\overset{x}{\\boxed{\\phantom{00}}}+2\\cdot \\overset{y}{\\boxed{\\phantom{00}}}=10"
+      }
+    ],
+    "source_asset_id": "image122",
+    "review": "needs_review"
+  },
+  "image124": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "\\overset{x}{\\boxed{\\phantom{00}}}+2\\cdot \\overset{y}{\\boxed{\\phantom{00}}}=10"
+      }
+    ],
+    "source_asset_id": "image124",
+    "review": "needs_review"
+  },
+  "image123": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "\\overset{x}{\\boxed{3}}+2\\cdot\\overset{y}{\\boxed{4}}=10\\longrightarrow 3+2\\cdot4=10"
+      }
+    ],
+    "source_asset_id": "image123",
+    "review": "needs_review"
+  },
+  "image125": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "\\overset{x}{\\boxed{4}}+2\\cdot\\overset{y}{\\boxed{3}}=10\\longrightarrow 4+2\\cdot3=10"
+      }
+    ],
+    "source_asset_id": "image125",
+    "review": "needs_review"
+  },
+  "image126": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "\\overset{x}{\\boxed{\\phantom{00}}}+2\\cdot \\overset{y}{\\boxed{\\phantom{00}}}=10"
+      },
+      {
+        "id": "expression-2",
+        "latex": "x+2\\cdot y=10"
+      }
+    ],
+    "source_asset_id": "image126",
+    "review": "needs_review"
+  },
+  "image127": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "\\overset{x}{\\boxed{\\phantom{00}}}+\\overset{y}{\\boxed{\\phantom{00}}}=10"
+      },
+      {
+        "id": "expression-2",
+        "latex": "x+y=10"
+      }
+    ],
+    "source_asset_id": "image127",
+    "review": "needs_review"
+  },
+  "image128": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "\\overset{x}{\\boxed{\\phantom{00}}}+\\overset{y}{\\boxed{\\phantom{00}}}=10"
+      }
+    ],
+    "source_asset_id": "image128",
+    "review": "needs_review"
+  },
+  "image168": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "\\overset{x}{\\boxed{\\phantom{00}}}+{}^{-}3\\cdot \\overset{y}{\\boxed{\\phantom{00}}}=10"
+      },
+      {
+        "id": "expression-2",
+        "latex": "x+{}^{-}3\\cdot y=10"
+      }
+    ],
+    "source_asset_id": "image168",
+    "review": "needs_review"
+  },
+  "image169": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "\\overset{x}{\\boxed{\\phantom{00}}}+{}^{-}3\\cdot \\overset{y}{\\boxed{\\phantom{00}}}=10"
+      }
+    ],
+    "source_asset_id": "image169",
+    "review": "needs_review"
+  },
+  "image193": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "(-2,3)\\longrightarrow(0,0)"
+      },
+      {
+        "id": "expression-2",
+        "latex": "(5,1)\\longrightarrow(7,-2)\\longrightarrow\\left(1,\\frac{-2}{7}\\right)"
+      }
+    ],
+    "source_asset_id": "image193",
+    "review": "needs_review"
+  },
+  "image195": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "(-2,3)\\longrightarrow(-7,2)\\longrightarrow\\left(1,\\frac{-2}{7}\\right)"
+      },
+      {
+        "id": "expression-2",
+        "latex": "(5,1)\\longrightarrow(0,0)"
+      }
+    ],
+    "source_asset_id": "image195",
+    "review": "needs_review"
+  },
+  "image199": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "3\\cdot \\overset{x}{\\boxed{\\phantom{00}}}+\\overset{y}{\\boxed{\\phantom{00}}}={}^{-}10"
+      }
+    ],
+    "source_asset_id": "image199",
+    "review": "needs_review"
+  },
+  "image206": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "(2,8)\\longrightarrow(0,0)"
+      },
+      {
+        "id": "expression-2",
+        "latex": "(11,{}^{-}5)\\longrightarrow(9,{}^{-}13)\\longrightarrow\\left(1,\\frac{{}^{-}13}{9}\\right)"
+      }
+    ],
+    "source_asset_id": "image206",
+    "review": "needs_review"
+  },
+  "image207": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "\\overset{y}{\\boxed{\\phantom{00}}}={}^{-}1.4\\cdot \\overset{x}{\\boxed{\\phantom{00}}}"
+      },
+      {
+        "id": "expression-2",
+        "latex": "y={}^{-}1.4\\cdot x"
+      }
+    ],
+    "source_asset_id": "image207",
+    "review": "needs_review"
+  },
+  "image209": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "\\overset{y}{\\boxed{\\phantom{00}}}={}^{-}1.4\\cdot(\\overset{x}{\\boxed{\\phantom{00}}}+3)"
+      },
+      {
+        "id": "expression-2",
+        "latex": "y={}^{-}1.4\\cdot(x+3)"
+      }
+    ],
+    "source_asset_id": "image209",
+    "review": "needs_review"
+  },
+  "image214": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "\\overset{y}{\\boxed{\\phantom{00}}}={}^{-}1.4\\cdot(\\overset{x}{\\boxed{\\phantom{00}}}+{}^{-}3)"
+      },
+      {
+        "id": "expression-2",
+        "latex": "y={}^{-}1.4\\cdot(x+{}^{-}3)"
+      }
+    ],
+    "source_asset_id": "image214",
+    "review": "needs_review"
+  },
+  "image216": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "(\\overset{y}{\\boxed{\\phantom{00}}}+7)={}^{-}1.4\\cdot \\overset{x}{\\boxed{\\phantom{00}}}"
+      },
+      {
+        "id": "expression-2",
+        "latex": "y+7={}^{-}1.4\\cdot x"
+      }
+    ],
+    "source_asset_id": "image216",
+    "review": "needs_review"
+  },
+  "image392": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "y=\\frac13\\cdot x"
+      },
+      {
+        "id": "expression-2",
+        "latex": "T(x,y)=(x+{}^{-}2,y+3)"
+      },
+      {
+        "id": "expression-3",
+        "latex": "(y+{}^{-}3)=\\frac13\\cdot(x+2)"
+      }
+    ],
+    "source_asset_id": "image392",
+    "review": "needs_review"
+  },
+  "image394": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "y=3.4\\cdot x"
+      },
+      {
+        "id": "expression-2",
+        "latex": "T(x,y)=(x+{}^{-}6,y+9)"
+      }
+    ],
+    "source_asset_id": "image394",
+    "review": "needs_review"
+  },
+  "image395": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "y={}^{-}2.1\\cdot x"
+      },
+      {
+        "id": "expression-2",
+        "latex": "(y+{}^{-}7)={}^{-}2.1\\cdot(x+3)"
+      }
+    ],
+    "source_asset_id": "image395",
+    "review": "needs_review"
+  },
+  "image401": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "y={}^{-}2.13\\cdot x"
+      },
+      {
+        "id": "expression-2",
+        "latex": "T(x,y)=(x+{}^{-}3,y+7)"
+      }
+    ],
+    "source_asset_id": "image401",
+    "review": "needs_review"
+  },
+  "image402": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "y=0.64\\cdot x"
+      },
+      {
+        "id": "expression-2",
+        "latex": "(y+5)=0.64\\cdot(x+{}^{-}11)"
+      }
+    ],
+    "source_asset_id": "image402",
+    "review": "needs_review"
+  },
+  "image413": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "(-2,3)\\longrightarrow(0,0)"
+      },
+      {
+        "id": "expression-2",
+        "latex": "(6,-2)\\longrightarrow(8,-5)\\longrightarrow\\left(1,\\frac{-5}{8}\\right)"
+      },
+      {
+        "id": "expression-3",
+        "latex": "(-2,3)\\longrightarrow(-8,5)\\longrightarrow\\left(1,\\frac{-5}{8}\\right)"
+      },
+      {
+        "id": "expression-4",
+        "latex": "(6,-2)\\longrightarrow(0,0)"
+      }
+    ],
+    "source_asset_id": "image413",
+    "review": "needs_review"
+  },
+  "image421": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "y=\\frac{{}^{-}5}{8}\\cdot x"
+      },
+      {
+        "id": "expression-2",
+        "latex": "T_1(x,y)=(x+{}^{-}2,y+3)"
+      },
+      {
+        "id": "expression-3",
+        "latex": "(y+{}^{-}3)=\\frac{{}^{-}5}{8}\\cdot(x+2)"
+      },
+      {
+        "id": "expression-4",
+        "latex": "T_2(x,y)=(x+6,y+{}^{-}2)"
+      },
+      {
+        "id": "expression-5",
+        "latex": "(y+2)=\\frac{{}^{-}5}{8}\\cdot(x+{}^{-}6)"
+      }
+    ],
+    "source_asset_id": "image421",
+    "review": "needs_review"
+  },
+  "image433": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "y=\\frac{24}{9}\\cdot(x+{}^{-}1.5)+10"
+      },
+      {
+        "id": "expression-2",
+        "latex": "T(x,y)=\\left(x,y+\\frac{14}{9}\\right)"
+      }
+    ],
+    "source_asset_id": "image433",
+    "review": "needs_review"
+  },
+  "image461": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "y=\\frac{24}{9}\\cdot(x+{}^{-}1.5)+10"
+      },
+      {
+        "id": "expression-2",
+        "latex": "T(x,y)=\\left(x,y+\\frac{14}{9}\\right)"
+      },
+      {
+        "id": "expression-3",
+        "latex": "y+\\frac{{}^{-}14}{9}=\\frac{24}{9}\\cdot(x+{}^{-}1.5)+10"
+      },
+      {
+        "id": "expression-4",
+        "latex": "y=\\frac{24}{9}\\cdot(x+{}^{-}1.5)+10+\\frac{14}{9}"
+      }
+    ],
+    "source_asset_id": "image461",
+    "review": "needs_review"
+  },
+  "image3": {
+    "kind": "annotated-matrix",
+    "row_labels": [
+      "D",
+      "LA",
+      "NY",
+      "SL",
+      "SE"
+    ],
+    "column_labels": [
+      "D",
+      "LA",
+      "NY",
+      "SL",
+      "SE"
+    ],
+    "entries": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": [
+      "Blank direct-flight matrix exercise. No entries have been supplied."
+    ],
+    "source_asset_id": "image3",
+    "review": "needs_review"
+  },
+  "image8": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "\\begin{bmatrix}0&1\\\\1&0\\end{bmatrix}\\cdot\\begin{bmatrix}1&0\\\\0&{}^{-}1\\end{bmatrix}\\begin{bmatrix}0\\\\2\\end{bmatrix}"
+      },
+      {
+        "id": "expression-2",
+        "latex": "(r_{y=x}\\circ r_x)(0,2)"
+      }
+    ],
+    "matrices": [
+      {
+        "id": "matrix3",
+        "entries": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "matrix2",
+        "entries": [
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            -1
+          ]
+        ]
+      },
+      {
+        "id": "matrix1",
+        "entries": [
+          [
+            0
+          ],
+          [
+            2
+          ]
+        ]
+      }
+    ],
+    "source_asset_id": "image8",
+    "review": "needs_review"
+  },
+  "image25": {
+    "kind": "annotated-math",
+    "expressions": [
+      {
+        "id": "expression-1",
+        "latex": "\\begin{bmatrix}e&f\\\\g&h\\end{bmatrix}\\cdot\\begin{bmatrix}a&b\\\\c&d\\end{bmatrix}"
+      },
+      {
+        "id": "expression-2",
+        "latex": "T_2\\circ T_1"
+      }
+    ],
+    "matrices": [
+      {
+        "id": "T2",
+        "entries": [
+          [
+            "e",
+            "f"
+          ],
+          [
+            "g",
+            "h"
+          ]
+        ]
+      },
+      {
+        "id": "T1",
+        "entries": [
+          [
+            "a",
+            "b"
+          ],
+          [
+            "c",
+            "d"
+          ]
+        ]
+      }
+    ],
+    "source_asset_id": "image25",
+    "review": "needs_review"
+  },
+  "image462": {
+    "kind": "screenshot-transcript",
+    "lines": [
+      "Med–Med",
+      "y=ax+b",
+      "a=2.666666667",
+      "b=7.555555556"
+    ],
+    "notes": [
+      "Displayed rounded decimals, not substituted exact rational values."
+    ],
+    "source_asset_id": "image462",
+    "review": "needs_review"
+  },
+  "image453": {
+    "kind": "screenshot-transcript",
+    "lines": [
+      "(6.5, 28)",
+      "P=(6.5, 70/3)"
+    ],
+    "notes": [
+      "Printed coordinate annotations only. The calculator plot remains an image."
+    ],
+    "source_asset_id": "image453",
+    "review": "needs_review"
+  },
+  "image430": {
+    "kind": "screenshot-transcript",
+    "lines": [],
+    "source_data_asset": "image429",
+    "notes": [
+      "Scatterplot has no visible numeric axes. No data inferred from pixel positions."
+    ],
+    "source_asset_id": "image430",
+    "review": "needs_review"
+  },
+  "image450": {
+    "kind": "screenshot-transcript",
+    "lines": [],
+    "source_data_asset": "image449",
+    "notes": [
+      "Calculator plot and selected markers preserved. No display scale inferred."
+    ],
+    "source_asset_id": "image450",
+    "review": "needs_review"
+  },
+  "image2": {
+    "kind": "directed-network",
+    "nodes": [
+      {
+        "id": "SE",
+        "label": "Seattle"
+      },
+      {
+        "id": "NY",
+        "label": "New York"
+      },
+      {
+        "id": "LA",
+        "label": "L.A."
+      },
+      {
+        "id": "SL",
+        "label": "St. Louis"
+      },
+      {
+        "id": "D",
+        "label": "Dallas"
+      }
+    ],
+    "edges": [
+      {
+        "id": "flight-01",
+        "from": "SE",
+        "to": "NY"
+      },
+      {
+        "id": "flight-02",
+        "from": "NY",
+        "to": "SE"
+      },
+      {
+        "id": "flight-03",
+        "from": "SE",
+        "to": "LA"
+      },
+      {
+        "id": "flight-04",
+        "from": "LA",
+        "to": "SE"
+      },
+      {
+        "id": "flight-05",
+        "from": "SE",
+        "to": "SL"
+      },
+      {
+        "id": "flight-06",
+        "from": "LA",
+        "to": "SL"
+      },
+      {
+        "id": "flight-07",
+        "from": "SL",
+        "to": "LA"
+      },
+      {
+        "id": "flight-08",
+        "from": "SL",
+        "to": "NY"
+      },
+      {
+        "id": "flight-09",
+        "from": "NY",
+        "to": "SL"
+      },
+      {
+        "id": "flight-10",
+        "from": "NY",
+        "to": "D"
+      },
+      {
+        "id": "flight-11",
+        "from": "SL",
+        "to": "D"
+      },
+      {
+        "id": "flight-12",
+        "from": "LA",
+        "to": "D"
+      },
+      {
+        "id": "flight-13",
+        "from": "D",
+        "to": "SE"
+      }
+    ],
+    "notes": [
+      "Thirteen visible directional arrows transcribed from the original. The separate flight-matrix exercise remains blank. Node/edge data are separate from the preserved vector layout."
+    ],
+    "source_asset_id": "image2",
+    "review": "needs_review"
+  }
+}

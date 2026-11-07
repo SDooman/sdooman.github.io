@@ -1,0 +1,897 @@
+{
+  "atlas_sha256": "6bdf191a0f1aa38ea91cf928cd7d2ced680cb7271f8d51fbca2f7fa30d645415",
+  "assets": [
+    {
+      "id": "image1",
+      "atlas_page": 1,
+      "paths": 78,
+      "labels": 16,
+      "representation_level": "drawing-primitives",
+      "notes": [
+        "Waveform traced from raster centreline with 0.20-point simplification tolerance. Approximate shape only; no exact function inferred."
+      ]
+    },
+    {
+      "id": "image2",
+      "atlas_page": 2,
+      "paths": 8,
+      "labels": 0,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image3",
+      "atlas_page": 3,
+      "paths": 33,
+      "labels": 62,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image5",
+      "atlas_page": 4,
+      "paths": 47,
+      "labels": 6,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image6",
+      "atlas_page": 5,
+      "paths": 30,
+      "labels": 5,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image9",
+      "atlas_page": 6,
+      "paths": 19,
+      "labels": 10,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image19",
+      "atlas_page": 8,
+      "paths": 8,
+      "labels": 14,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image20",
+      "atlas_page": 9,
+      "paths": 47,
+      "labels": 6,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image70",
+      "atlas_page": 10,
+      "paths": 5,
+      "labels": 5,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image73",
+      "atlas_page": 12,
+      "paths": 11,
+      "labels": 5,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image76",
+      "atlas_page": 13,
+      "paths": 58,
+      "labels": 5,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image90",
+      "atlas_page": 14,
+      "paths": 5,
+      "labels": 4,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image92",
+      "atlas_page": 15,
+      "paths": 17,
+      "labels": 11,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image109",
+      "atlas_page": 17,
+      "paths": 54,
+      "labels": 32,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image110",
+      "atlas_page": 18,
+      "paths": 46,
+      "labels": 13,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image117",
+      "atlas_page": 19,
+      "paths": 48,
+      "labels": 7,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image121",
+      "atlas_page": 20,
+      "paths": 28,
+      "labels": 13,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image122",
+      "atlas_page": 21,
+      "paths": 6,
+      "labels": 7,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image123",
+      "atlas_page": 22,
+      "paths": 60,
+      "labels": 41,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image124",
+      "atlas_page": 23,
+      "paths": 15,
+      "labels": 15,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image127",
+      "atlas_page": 24,
+      "paths": 46,
+      "labels": 13,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image128",
+      "atlas_page": 25,
+      "paths": 7,
+      "labels": 6,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image131",
+      "atlas_page": 26,
+      "paths": 28,
+      "labels": 13,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image132",
+      "atlas_page": 27,
+      "paths": 23,
+      "labels": 8,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image133",
+      "atlas_page": 28,
+      "paths": 52,
+      "labels": 13,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image134",
+      "atlas_page": 29,
+      "paths": 13,
+      "labels": 14,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image137",
+      "atlas_page": 30,
+      "paths": 47,
+      "labels": 12,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image138",
+      "atlas_page": 31,
+      "paths": 10,
+      "labels": 10,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image139",
+      "atlas_page": 32,
+      "paths": 6,
+      "labels": 4,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image140",
+      "atlas_page": 33,
+      "paths": 8,
+      "labels": 3,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image141",
+      "atlas_page": 34,
+      "paths": 988,
+      "labels": 119,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image142",
+      "atlas_page": 35,
+      "paths": 184,
+      "labels": 13,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image143",
+      "atlas_page": 36,
+      "paths": 41,
+      "labels": 5,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image144",
+      "atlas_page": 37,
+      "paths": 43,
+      "labels": 4,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image145",
+      "atlas_page": 38,
+      "paths": 147,
+      "labels": 5,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image146",
+      "atlas_page": 39,
+      "paths": 142,
+      "labels": 4,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image147",
+      "atlas_page": 40,
+      "paths": 19,
+      "labels": 8,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image152",
+      "atlas_page": 41,
+      "paths": 13,
+      "labels": 14,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image153",
+      "atlas_page": 42,
+      "paths": 8,
+      "labels": 9,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image155",
+      "atlas_page": 43,
+      "paths": 34,
+      "labels": 7,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image156",
+      "atlas_page": 44,
+      "paths": 51,
+      "labels": 21,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image160",
+      "atlas_page": 45,
+      "paths": 118,
+      "labels": 13,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image161",
+      "atlas_page": 46,
+      "paths": 15,
+      "labels": 7,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image162",
+      "atlas_page": 47,
+      "paths": 13,
+      "labels": 36,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image163",
+      "atlas_page": 48,
+      "paths": 65,
+      "labels": 39,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image166",
+      "atlas_page": 49,
+      "paths": 20,
+      "labels": 32,
+      "representation_level": "annotated-math",
+      "notes": []
+    },
+    {
+      "id": "image167",
+      "atlas_page": 50,
+      "paths": 185,
+      "labels": 0,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image168",
+      "atlas_page": 51,
+      "paths": 126,
+      "labels": 0,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image169",
+      "atlas_page": 52,
+      "paths": 4,
+      "labels": 0,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image170",
+      "atlas_page": 53,
+      "paths": 4,
+      "labels": 0,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image171",
+      "atlas_page": 54,
+      "paths": 7,
+      "labels": 1,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image172",
+      "atlas_page": 55,
+      "paths": 170,
+      "labels": 0,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image173",
+      "atlas_page": 56,
+      "paths": 2,
+      "labels": 0,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image177",
+      "atlas_page": 57,
+      "paths": 86,
+      "labels": 16,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image178",
+      "atlas_page": 58,
+      "paths": 3,
+      "labels": 13,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image183",
+      "atlas_page": 60,
+      "paths": 82,
+      "labels": 8,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image184",
+      "atlas_page": 61,
+      "paths": 387,
+      "labels": 9,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image185",
+      "atlas_page": 62,
+      "paths": 19,
+      "labels": 8,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image186",
+      "atlas_page": 63,
+      "paths": 3,
+      "labels": 13,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image187",
+      "atlas_page": 64,
+      "paths": 9,
+      "labels": 12,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image188",
+      "atlas_page": 65,
+      "paths": 8,
+      "labels": 13,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image189",
+      "atlas_page": 66,
+      "paths": 9,
+      "labels": 11,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image190",
+      "atlas_page": 67,
+      "paths": 5,
+      "labels": 0,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image191",
+      "atlas_page": 68,
+      "paths": 86,
+      "labels": 16,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image195",
+      "atlas_page": 69,
+      "paths": 78,
+      "labels": 11,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image198",
+      "atlas_page": 70,
+      "paths": 19,
+      "labels": 8,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image199",
+      "atlas_page": 71,
+      "paths": 12,
+      "labels": 16,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image203",
+      "atlas_page": 72,
+      "paths": 9,
+      "labels": 7,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image204",
+      "atlas_page": 73,
+      "paths": 264,
+      "labels": 16,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image205",
+      "atlas_page": 74,
+      "paths": 2,
+      "labels": 0,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image206",
+      "atlas_page": 75,
+      "paths": 4,
+      "labels": 0,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image207",
+      "atlas_page": 76,
+      "paths": 19,
+      "labels": 8,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image210",
+      "atlas_page": 77,
+      "paths": 19,
+      "labels": 9,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image211",
+      "atlas_page": 78,
+      "paths": 4,
+      "labels": 7,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image212",
+      "atlas_page": 79,
+      "paths": 5,
+      "labels": 7,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image213",
+      "atlas_page": 80,
+      "paths": 6,
+      "labels": 5,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image214",
+      "atlas_page": 81,
+      "paths": 9,
+      "labels": 14,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image216",
+      "atlas_page": 82,
+      "paths": 23,
+      "labels": 6,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image217",
+      "atlas_page": 83,
+      "paths": 264,
+      "labels": 16,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image218",
+      "atlas_page": 84,
+      "paths": 0,
+      "labels": 211,
+      "representation_level": "annotated-math",
+      "notes": []
+    },
+    {
+      "id": "image219",
+      "atlas_page": 85,
+      "paths": 3,
+      "labels": 7,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image220",
+      "atlas_page": 86,
+      "paths": 6,
+      "labels": 7,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image221",
+      "atlas_page": 87,
+      "paths": 3,
+      "labels": 7,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image222",
+      "atlas_page": 88,
+      "paths": 8,
+      "labels": 9,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image223",
+      "atlas_page": 89,
+      "paths": 21,
+      "labels": 46,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image225",
+      "atlas_page": 90,
+      "paths": 86,
+      "labels": 16,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image226",
+      "atlas_page": 91,
+      "paths": 7,
+      "labels": 0,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image227",
+      "atlas_page": 92,
+      "paths": 22,
+      "labels": 39,
+      "representation_level": "annotated-math",
+      "notes": []
+    },
+    {
+      "id": "image237",
+      "atlas_page": 96,
+      "paths": 6,
+      "labels": 5,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image238",
+      "atlas_page": 97,
+      "paths": 3,
+      "labels": 5,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image239",
+      "atlas_page": 98,
+      "paths": 3,
+      "labels": 8,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image240",
+      "atlas_page": 99,
+      "paths": 57,
+      "labels": 12,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image241",
+      "atlas_page": 100,
+      "paths": 21,
+      "labels": 46,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image244",
+      "atlas_page": 101,
+      "paths": 17,
+      "labels": 211,
+      "representation_level": "annotated-math",
+      "notes": []
+    },
+    {
+      "id": "image248",
+      "atlas_page": 102,
+      "paths": 4,
+      "labels": 10,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image249",
+      "atlas_page": 103,
+      "paths": 5,
+      "labels": 8,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image250",
+      "atlas_page": 104,
+      "paths": 3,
+      "labels": 3,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image251",
+      "atlas_page": 105,
+      "paths": 9,
+      "labels": 16,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image252",
+      "atlas_page": 106,
+      "paths": 6,
+      "labels": 13,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image253",
+      "atlas_page": 107,
+      "paths": 19,
+      "labels": 215,
+      "representation_level": "annotated-math",
+      "notes": [
+        "Three inspected uniform 1-by-1 pixel swatches replaced by equivalent SVG rectangles."
+      ]
+    },
+    {
+      "id": "image261",
+      "atlas_page": 110,
+      "paths": 63,
+      "labels": 18,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image268",
+      "atlas_page": 112,
+      "paths": 5,
+      "labels": 3,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image274",
+      "atlas_page": 113,
+      "paths": 10,
+      "labels": 12,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image291",
+      "atlas_page": 115,
+      "paths": 12,
+      "labels": 91,
+      "representation_level": "annotated-math",
+      "notes": []
+    },
+    {
+      "id": "image297",
+      "atlas_page": 116,
+      "paths": 32,
+      "labels": 10,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image307",
+      "atlas_page": 117,
+      "paths": 25,
+      "labels": 197,
+      "representation_level": "annotated-math",
+      "notes": []
+    },
+    {
+      "id": "image309",
+      "atlas_page": 119,
+      "paths": 10,
+      "labels": 12,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image325",
+      "atlas_page": 120,
+      "paths": 14,
+      "labels": 53,
+      "representation_level": "annotated-math",
+      "notes": []
+    },
+    {
+      "id": "image326",
+      "atlas_page": 121,
+      "paths": 8,
+      "labels": 40,
+      "representation_level": "annotated-math",
+      "notes": []
+    },
+    {
+      "id": "image327",
+      "atlas_page": 122,
+      "paths": 47,
+      "labels": 99,
+      "representation_level": "drawing-primitives",
+      "notes": []
+    },
+    {
+      "id": "image333",
+      "atlas_page": 124,
+      "paths": 6,
+      "labels": 57,
+      "representation_level": "annotated-math",
+      "notes": []
+    }
+  ]
+}

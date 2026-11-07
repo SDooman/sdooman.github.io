@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Formula review</title><link rel="stylesheet" href="assets/vendor/katex/katex.min.css"><style>
+html{scroll-behavior:smooth}body{max-width:900px;margin:40px auto;padding:0 24px;font:18px/1.65 Georgia,serif;color:#202124;background:white}
+h1,h2,h3,nav,summary{font-family:system-ui,sans-serif}h1{font-size:2rem;line-height:1.25}h2{border-top:1px solid #ddd;margin-top:64px;padding-top:24px}h3{margin-top:32px}
+img{max-width:100%;height:auto;vertical-align:middle}p:has(>img:only-child){padding:8px 0}blockquote{margin:16px 0;padding:12px 16px;background:#f5f5f5;font-size:16px}
+a{color:#175f9e}table{border-collapse:collapse;font-size:15px;max-width:100%}th,td{padding:10px;border:1px solid #ddd;text-align:left;vertical-align:top}pre{overflow-x:auto;font-size:14px;background:#f5f5f5;padding:12px}
+.katex{font-size:1.08em}.katex-display{overflow-x:auto;overflow-y:hidden;padding:8px 2px;text-align:left}.katex-display>.katex{text-align:left}nav{font-size:14px;margin-bottom:28px}nav a{margin-right:18px}
+.formula-pair{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:24px;border-bottom:1px solid #ddd;padding:24px 0}.formula-pair h3{margin:0;font-size:16px}.formula-pair .source{min-height:60px;display:flex;align-items:center}.formula-pair code{overflow-wrap:anywhere;font-size:13px}.formula-note{grid-column:1/-1;font-size:15px;color:#555}
+@media(max-width:600px){body{margin:24px auto;padding:0 16px;font-size:17px}.formula-pair{grid-template-columns:1fr}table{font-size:13px}th,td{padding:6px}}@media print{nav{display:none}body{max-width:none;margin:0}.katex-display{overflow:visible}h2{break-before:page}}
+</style></head><body><nav><a href="GAT-1-20.html">Textbook</a><a href="GAT-1-20-changes.html#new-network">Highlighted changes</a><a href="conversion-report.html">Conversion notes</a><a href="formula-review.html">Formula review</a><a href="formula-comparison.html">Source comparison</a></nav><main><h1>Formula conversion review</h1>
+<p>Reviewed all <strong>336 distinct embedded graphics</strong>. Converted <strong>220 formula or mathematical-table images</strong>, covering <strong>546 placements</strong>, to editable LaTeX. The textbook retains <strong>116 distinct images in 120 placements</strong> for diagrams, graphs, calculator screens, and annotated instructional figures.</p>
+<p>All 212 SVG equation images were converted, along with 8 PNG graphics containing formulas, symbols, or labelled matrices. Every source image is still retained for comparison.</p>
+<ul>
+<li><a href="GAT-1-20.html">Read the textbook</a>.</li>
+<li><a href="formula-comparison.html">Compare each transcription with its source image</a>.</li>
+<li><a href="formula-transcriptions.json">Machine-readable transcriptions and image decisions</a> include source filenames, question IDs, and reference pages for every graphic.</li>
+</ul>
+<h2>Items to review by reference page</h2>
+<p>Page numbers refer to the existing 94-page reference render, not verified original Word pagination.</p>
+<table>
+<thead>
+<tr>
+<th>Reference page</th>
+<th>Question</th>
+<th>Remaining issue</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>19</td>
+<td><a href="GAT-1-20.html#gat-05-i">5 I</a></td>
+<td>The “combining the stages” expression has unusual composition notation and a missing closing parenthesis. Transcribed as written; needs proofreading. <a href="formula-comparison.html#image96">Source comparison</a>.</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="GAT-1-20.html#gat-05-i">5 I</a></td>
+<td>The final coordinate-like expression uses a period in “−15.0” rather than a comma. Preserved as written. <a href="formula-comparison.html#image104">Source comparison</a>.</td>
+</tr>
+<tr>
+<td>62</td>
+<td><a href="GAT-1-20.html#gat-13-vii">13 VII</a></td>
+<td>The labelled matrix figure has extremely small entries. Kept as an image rather than guessing.</td>
+</tr>
+<tr>
+<td>65</td>
+<td><a href="GAT-1-20.html#gat-14-v">14 V</a></td>
+<td>The matrix explanation uses boxes and arrows, with tiny entries. Kept as an image.</td>
+</tr>
+<tr>
+<td>70</td>
+<td><a href="GAT-1-20.html#gat-15-vi">15 VI</a></td>
+<td>The annotated matrix multiplication figure has tiny entries. Kept as an image.</td>
+</tr>
+<tr>
+<td>74</td>
+<td><a href="GAT-1-20.html#gat-16-v">16 V</a></td>
+<td>The annotated matrix multiplication figure has tiny entries. Kept as an image.</td>
+</tr>
+<tr>
+<td>85</td>
+<td><a href="GAT-1-20.html#gat-19-i">19 I</a></td>
+<td>The matrix illustration uses arrows and boxed rows/columns; segmented brackets remain in the retained image.</td>
+</tr>
+<tr>
+<td>90</td>
+<td><a href="GAT-1-20.html#gat-20-i">20 I</a></td>
+<td>The blank-column matrix illustrations use arrows and labels; segmented brackets remain in the retained images.</td>
+</tr>
+<tr>
+<td>93</td>
+<td><a href="GAT-1-20.html#gat-20-v">20 V</a></td>
+<td>The illustration labels the order of three matrices using arrows; segmented brackets remain in the retained image.</td>
+</tr>
+</tbody></table>
+<p>Other small diagram labels and missing classroom worksheets are listed in the <a href="conversion-report.html">original conversion notes</a>.</p>
+<h2>Transcription choices</h2>
+<ul>
+<li>The source&#39;s raised negative sign is written as <code>{}^{-}</code> in LaTeX. It has not been replaced with ordinary subtraction notation.</li>
+<li>Calculator square-root key symbols use <code>\surd</code>; complete radical expressions use <code>\sqrt{...}</code>.</li>
+<li>Blank exercise entries remain blank. The incomplete 5-by-5 matrix still has fifteen missing entries; <code>\phantom{0}</code> reserves their space without supplying answers.</li>
+<li>Three labelled matrix graphics are now labelled LaTeX arrays. Their labels and values are preserved; their print framing is simplified.</li>
+<li>The centered-dot graphic remains <code>\cdot</code>, including where the source reads it as “by” for matrix dimensions.</li>
+<li>Multiple-choice distractors and apparent source errors were not mathematically corrected.</li>
+</ul>
+<h2>Rendering and validation</h2>
+<p>The Markdown uses <code>$...$</code> for inline formulas and <code> $$... $$</code> for display formulas. It requires a Markdown viewer with math support. The companion HTML pre-renders the same LaTeX using KaTeX and includes local fonts, so no network connection or JavaScript is needed to read it.</p>
+<p>Every transcription was checked for valid LaTeX. Formula placements, retained image links, question anchors, source glyph counts, and matrix row contents were checked against the conversion records. This is a first transcription pass, not a mathematical answer-key audit.</p>
+</main></body></html>

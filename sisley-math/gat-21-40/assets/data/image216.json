@@ -1,0 +1,15 @@
+{
+  "kind": "annotated-math",
+  "expressions": [
+    {
+      "id": "expression-1",
+      "latex": "(\\overset{y}{\\boxed{\\phantom{00}}}+7)={}^{-}1.4\\cdot \\overset{x}{\\boxed{\\phantom{00}}}"
+    },
+    {
+      "id": "expression-2",
+      "latex": "y+7={}^{-}1.4\\cdot x"
+    }
+  ],
+  "source_asset_id": "image216",
+  "review": "needs_review"
+}

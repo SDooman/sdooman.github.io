@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="157.25pt" height="81pt" viewBox="0 0 157.25 81">
+<defs>
+<clipPath id="clip-0">
+<path clip-rule="nonzero" d="M 1 1.1875 L 154 1.1875 L 154 78.816406 L 1 78.816406 Z M 1 1.1875 "/>
+</clipPath>
+<image id="source-5" x="0" y="0" width="154" height="78" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJoAAABOCAIAAABXMph5AAAABmJLR0QA/wD/AP+gvaeTAAAELUlEQVR4nO2c25arMAiG617z/q/svrDLupIAP4doSvmuppogNoJA6GyvEfu+n39v2zY8HsUhv5F8vSijD65SM0s194v497QCRSTvZ7Z//PsnV3scuvzWKtBLux7Ztm1ox6L+4LBv5w8cZ755yjeeAoduEKdX6Vz44dnclLNNxds6xdCD8rH9x2akzTkbTHY4pXfOuRk7W+oV9YpzX8On4ae++hm8l5PJBCiY4MWPR595Wq2PHAqFfyOx3/uPhKwgFQqlQg6FRO60gz6xoRKVIZ7b/Ap+K/BLTznbVKBVocJJE6BR4To1gHKijdhazjvQVkX68VQA31DL+QxitsbvGFLUcs5F3GkYZslifEqJrVAoFWWdswCLU+J23jCGIiOjyjsnwbztkGWjDvIhcTnbVJSznQVvZ6IrpgbwYms5n4QPd/sB4puxnO0z7Puu2jwAqVAoFWWdqWjfnfhWfkhfef9uEMWGNBuICYC2K38RJ/dZTpta/W1re0eGp5rv6ypW1UYL6sMME8cv1dZbzjYVn+YSVePr44/hYTeM2qAVntL8+jDyb8Obd4qZU/Pxhrt1/kqCar/2yLwNdDnBZXjcak+cmqxzIyq81kl5M/AXYeGEd+0e2DaT76dCoVR8ftRwW6h9jezN2Iyeuc1JZn0z9jLCdXw4jNiQK1J9dYYAfinH+1nOEKPBy8qqyyFiVcFa+Bo8bpcHVYJPRYVCqVh3+zrkvzH4u86d7eo3i110Oc3vNltPhlipx0uJYu3+RexdX2/ZvCVQzjYVi1on0zZOgW+Z9cPAWfh4LaAzEC+96HKasf3wipFATUd6XxFpzgHN2WzLKQLmnbyhXDeIqAfImVirBqweCpnBNziH26W2ohhTa+QjUnCbmXmkmlMVCqXi+6xzmFaCs5jxk0rzZjn8eFLbNYt8Yudcf1ycyJz1JPXgFSmHqQrHmIC/8s6ELGqdhY1qmyY14fWM1SeKcrapmN4Fr5XQH2wSxGt6jhTnkMzSXPLW6jObss5UVBf8qx9m04eRfxvetmlzJjePGT15S/V3MZSzTcX0LvieqVHDpHbZbzFWb2RrxvmN9NNBgXxtNlCfR3g72ztf4MNOGbMolXBkW9Gj2+MR4rhtWlv4b4Qg8Lu7hioMeOnhbZ6XM9zOIhnnQYVCqagSfCqW2742J6yqidoSPDMROU6JDd9/LWebiuWs88DwCgC39YcPPlKpB6M2RsL14FA+k7U3wRqV7i+6nP4SMbVsIfrcKUE1cdHljILKZ2yPy3B3nc+4cMVCxi+3nEM/o9qp4L2cdnpU8wOSZyMRFv84ViiUiuWs0wnSnnr9CBqxONGmj3hF8Pi6oRB4/weBNZBHaujhF11uOScBWiG4NaYtTXsGqFhuOT2Rpxl/Cf78e9gS1gs0X7FCoR+iSvCpIF/FtczfyH+nRlOnssCPZgAAAABJRU5ErkJggg=="/>
+<clipPath id="clip-1">
+<path clip-rule="nonzero" d="M 0 0.191406 L 156.503906 0.191406 L 156.503906 80.808594 L 0 80.808594 Z M 0 0.191406 "/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip-0)">
+<use xlink:href="#source-5" transform="matrix(0.995253, 0, 0, 0.995253, 0.995253, 1.1875)"/>
+</g>
+<g clip-path="url(#clip-1)">
+<path fill="none" stroke-width="8" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 4.003378 4 L 624.998013 4 L 624.998013 320 L 4.003378 320 Z M 4.003378 4 " transform="matrix(0.248813, 0, 0, 0.248813, 0.000000000000001998, 0.192247)"/>
+</g>
+</svg>

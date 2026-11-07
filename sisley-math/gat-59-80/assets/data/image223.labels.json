@@ -1,0 +1,82 @@
+{
+  "labels": [
+    {
+      "text": "A",
+      "bbox_pt": [
+        56.25,
+        0.0,
+        64.914,
+        12.0
+      ],
+      "font": "WBDZPN+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "B",
+      "bbox_pt": [
+        23.25,
+        48.0,
+        31.254,
+        60.0
+      ],
+      "font": "WBDZPN+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "C",
+      "bbox_pt": [
+        125.25,
+        45.0,
+        133.254,
+        57.0
+      ],
+      "font": "WBDZPN+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "B",
+      "bbox_pt": [
+        0.25,
+        89.0,
+        8.254000000000001,
+        101.0
+      ],
+      "font": "WBDZPN+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "'",
+      "bbox_pt": [
+        8.254000000000001,
+        89.0,
+        10.414000000000001,
+        101.0
+      ],
+      "font": "WBDZPN+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "C",
+      "bbox_pt": [
+        182.25,
+        90.0,
+        190.254,
+        102.0
+      ],
+      "font": "WBDZPN+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "'",
+      "bbox_pt": [
+        190.254,
+        90.0,
+        192.414,
+        102.0
+      ],
+      "font": "WBDZPN+Times-Roman",
+      "size": 12.0
+    }
+  ],
+  "drawing_primitives": []
+}

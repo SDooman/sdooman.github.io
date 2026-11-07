@@ -1,0 +1,531 @@
+{
+  "version": 1,
+  "kind": "vector",
+  "source_asset_id": "image193",
+  "title": "GAT 101-119, image193",
+  "description": "Original drawing paths; positions are layout coordinates, not inferred mathematical constraints.",
+  "view_box": [
+    -1.0,
+    -1.0,
+    109.0,
+    60.0
+  ],
+  "coordinate_meaning": "PDF/SVG drawing coordinates, top-left origin; source transforms retained.",
+  "representation_level": "drawing-primitives",
+  "provenance": {
+    "original_sha256": "8c972287f577043baa6dfaf37b9963f259b28d3cca9c21c0ae87c70dea537efb",
+    "source_kind": "quickdraw-preview"
+  },
+  "elements": [
+    {
+      "tag": "title",
+      "attributes": {},
+      "text": "Equation from source image image193"
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "d": "M 3.239860037150633 2.640404337120394 Q 0 2.640404337120394 0 6.84022290379714 V 26.1402747418895 Q 0 29.140145146658604 -2.3998963238152835 29.140145146658604 Q 0 29.140145146658604 0 32.14001555142771 V 51.44006738952007 Q 0 55.639885956196814 3.239860037150633 55.639885956196814",
+        "fill": "none",
+        "stroke": "black",
+        "stroke-width": "0.65"
+      }
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "6",
+        "y": "14",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "25"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "19",
+        "y": "14",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "\u22c5"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "22",
+        "y": "14",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "italic",
+        "font-weight": "normal"
+      },
+      "text": "a"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "29",
+        "y": "14",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "+"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "36",
+        "y": "9",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "9.999568015897015",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "\u2212"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "43",
+        "y": "14",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "5"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "49",
+        "y": "14",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "\u22c5"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "53",
+        "y": "14",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "italic",
+        "font-weight": "normal"
+      },
+      "text": "b"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "61",
+        "y": "14",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "+"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "68",
+        "y": "14",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "1"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "74",
+        "y": "14",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "\u22c5"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "77",
+        "y": "14",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "italic",
+        "font-weight": "normal"
+      },
+      "text": "c"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "85",
+        "y": "14",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "="
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "92",
+        "y": "14",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "11"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "13",
+        "y": "36",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "9"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "20",
+        "y": "36",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "\u22c5"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "24",
+        "y": "36",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "italic",
+        "font-weight": "normal"
+      },
+      "text": "a"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "31",
+        "y": "36",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "+"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "39",
+        "y": "36",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "3"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "46",
+        "y": "36",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "\u22c5"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "49",
+        "y": "36",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "italic",
+        "font-weight": "normal"
+      },
+      "text": "b"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "57",
+        "y": "36",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "+"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "64",
+        "y": "36",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "1"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "70",
+        "y": "36",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "\u22c5"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "74",
+        "y": "36",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "italic",
+        "font-weight": "normal"
+      },
+      "text": "c"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "79",
+        "y": "36",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "="
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "87",
+        "y": "31",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "9.999568015897015",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "\u2212"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "93",
+        "y": "36",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "17"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "6",
+        "y": "54",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "49"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "19",
+        "y": "54",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "\u22c5"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "23",
+        "y": "54",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "italic",
+        "font-weight": "normal"
+      },
+      "text": "a"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "31",
+        "y": "54",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "+"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "39",
+        "y": "54",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "7"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "45",
+        "y": "54",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "\u22c5"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "49",
+        "y": "54",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "italic",
+        "font-weight": "normal"
+      },
+      "text": "b"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "57",
+        "y": "54",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "+"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "64",
+        "y": "54",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "1"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "70",
+        "y": "54",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "\u22c5"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "73",
+        "y": "54",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "italic",
+        "font-weight": "normal"
+      },
+      "text": "c"
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "81",
+        "y": "54",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "="
+    },
+    {
+      "tag": "text",
+      "attributes": {
+        "x": "89",
+        "y": "54",
+        "font-family": "STIXGeneral, Times New Roman, Times, serif",
+        "font-size": "11.999481619076418",
+        "font-style": "normal",
+        "font-weight": "normal"
+      },
+      "text": "22"
+    }
+  ],
+  "labels": [],
+  "source_drawing_primitives": [],
+  "review": "needs_review",
+  "label_review": "Legacy PDF text encodings may require correction. SVG outlines preserve visual labels."
+}
