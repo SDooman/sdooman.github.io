@@ -1,0 +1,19 @@
+{
+  "kind": "embedded-equations",
+  "expressions": [
+    {
+      "id": "image177-1",
+      "latex": "y=3\\mathrm{.}2\\cdot \\left( \\frac{1}{1\\mathrm{.}5}\\text{ }\\cdot x \\right)^{2}",
+      "method": "native-equation-tree",
+      "review": "needs_review"
+    },
+    {
+      "id": "image177-2",
+      "latex": "y=3\\mathrm{.}2\\cdot \\left( \\frac{1}{1\\mathrm{.}5}\\text{ }\\cdot x \\right)^{2}",
+      "method": "native-equation-tree",
+      "review": "needs_review"
+    }
+  ],
+  "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+  "source_sha256": "43f226f16eccbceb255d95b38bbf507533357b04cd7db4eb34029702c50759d3"
+}

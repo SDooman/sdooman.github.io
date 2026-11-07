@@ -1,0 +1,39 @@
+{
+  "kind": "table",
+  "title": null,
+  "headers": [
+    "magnitude of size transformation",
+    "perimeter",
+    "surface area",
+    "volume"
+  ],
+  "rows": [
+    [
+      "1",
+      null,
+      null,
+      null
+    ],
+    [
+      "2",
+      null,
+      null,
+      null
+    ],
+    [
+      "3",
+      null,
+      null,
+      null
+    ],
+    [
+      "4",
+      null,
+      null,
+      null
+    ]
+  ],
+  "review": "needs_review",
+  "blank_meaning": "null means an intentional source blank, not zero",
+  "source_sha256": "a98aebb1b3757c529be88da194376797e5f0e96108d32e47fd7226d503d5314e"
+}

@@ -1,0 +1,137 @@
+{
+  "labels": [
+    {
+      "text": "A",
+      "bbox_pt": [
+        36.25,
+        -681.048,
+        44.578,
+        -669.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "4",
+      "bbox_pt": [
+        45.0,
+        -678.048,
+        50.568,
+        -666.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        51.0,
+        -681.048,
+        54.0,
+        -669.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        54.0,
+        -681.048,
+        60.588,
+        -669.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "B",
+      "bbox_pt": [
+        36.25,
+        -649.048,
+        43.294,
+        -637.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "4",
+      "bbox_pt": [
+        44.25,
+        -646.048,
+        49.818,
+        -634.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        50.25,
+        -649.048,
+        53.25,
+        -637.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        53.25,
+        -649.048,
+        59.838,
+        -637.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "C",
+      "bbox_pt": [
+        37.25,
+        -623.048,
+        44.99,
+        -611.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "4",
+      "bbox_pt": [
+        45.25,
+        -620.048,
+        50.818,
+        -608.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        51.25,
+        -623.048,
+        54.25,
+        -611.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        54.25,
+        -623.048,
+        60.838,
+        -611.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    }
+  ],
+  "drawing_primitives": []
+}

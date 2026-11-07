@@ -1,0 +1,39 @@
+{
+  "kind": "table",
+  "title": null,
+  "headers": [
+    "Team",
+    "Won",
+    "Lost"
+  ],
+  "rows": [
+    [
+      "A",
+      "3",
+      "1"
+    ],
+    [
+      "B",
+      "3",
+      "1"
+    ],
+    [
+      "C",
+      "2",
+      "2"
+    ],
+    [
+      "D",
+      "2",
+      "2"
+    ],
+    [
+      "E",
+      "0",
+      "4"
+    ]
+  ],
+  "review": "needs_review",
+  "blank_meaning": "null means an intentional source blank, not zero",
+  "source_sha256": "417b8009e916680542497061d0b1134d8c6562b98523c25dfb2892f2cc956b39"
+}

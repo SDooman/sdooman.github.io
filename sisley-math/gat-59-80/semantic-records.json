@@ -1,0 +1,710 @@
+{
+  "image4": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "$*$",
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g"
+    ],
+    "rows": [
+      [
+        "a",
+        "f",
+        "a",
+        "e",
+        "g",
+        "b",
+        "d",
+        "c"
+      ],
+      [
+        "b",
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g"
+      ],
+      [
+        "c",
+        "e",
+        "c",
+        "d",
+        "a",
+        "g",
+        "b",
+        "f"
+      ],
+      [
+        "d",
+        "g",
+        "d",
+        "a",
+        "e",
+        "f",
+        "c",
+        "b"
+      ],
+      [
+        "e",
+        "b",
+        "e",
+        "g",
+        "f",
+        "c",
+        "a",
+        "d"
+      ],
+      [
+        "f",
+        "d",
+        "f",
+        "b",
+        "c",
+        "a",
+        "g",
+        "e"
+      ],
+      [
+        "g",
+        "c",
+        "g",
+        "f",
+        "b",
+        "d",
+        "e",
+        "a"
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "9090bc947e644cffa006550b22d1591b74a7aeea8531c85ce8e648fc4d7287d5"
+  },
+  "image17": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "$*$",
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g"
+    ],
+    "rows": [
+      [
+        "a",
+        "f",
+        "a",
+        "e",
+        "g",
+        "b",
+        "d",
+        "c"
+      ],
+      [
+        "b",
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g"
+      ],
+      [
+        "c",
+        "e",
+        "c",
+        "d",
+        "a",
+        "g",
+        "b",
+        "f"
+      ],
+      [
+        "d",
+        "g",
+        "d",
+        "a",
+        "e",
+        "f",
+        "c",
+        "b"
+      ],
+      [
+        "e",
+        "b",
+        "e",
+        "g",
+        "f",
+        "c",
+        "a",
+        "d"
+      ],
+      [
+        "f",
+        "d",
+        "f",
+        "b",
+        "c",
+        "a",
+        "g",
+        "e"
+      ],
+      [
+        "g",
+        "c",
+        "g",
+        "f",
+        "b",
+        "d",
+        "e",
+        "a"
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "0fbd2f2662179dfe96ccddf36ceec1bf425a171331d2f7b320d60f50b2b0b6f7"
+  },
+  "image18": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "$*$",
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g"
+    ],
+    "rows": [
+      [
+        "a",
+        "f",
+        "a",
+        "e",
+        "g",
+        "b",
+        "d",
+        "c"
+      ],
+      [
+        "b",
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g"
+      ],
+      [
+        "c",
+        "e",
+        "c",
+        "d",
+        "a",
+        "g",
+        "b",
+        "f"
+      ],
+      [
+        "d",
+        "g",
+        "d",
+        "a",
+        "e",
+        "f",
+        "c",
+        "b"
+      ],
+      [
+        "e",
+        "b",
+        "e",
+        "g",
+        "f",
+        "c",
+        "a",
+        "d"
+      ],
+      [
+        "f",
+        "d",
+        "f",
+        "b",
+        "c",
+        "a",
+        "g",
+        "e"
+      ],
+      [
+        "g",
+        "c",
+        "g",
+        "f",
+        "b",
+        "d",
+        "e",
+        "a"
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "e4bccbdcb07809b7f8d7b6a703b91032644bf4dbe24052be68f187f5bbf30023"
+  },
+  "image24": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "$*$",
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g"
+    ],
+    "rows": [
+      [
+        "a",
+        "f",
+        "a",
+        "e",
+        "g",
+        "b",
+        "d",
+        "c"
+      ],
+      [
+        "b",
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g"
+      ],
+      [
+        "c",
+        "e",
+        "c",
+        "d",
+        "a",
+        "g",
+        "b",
+        "f"
+      ],
+      [
+        "d",
+        "g",
+        "d",
+        "a",
+        "e",
+        "f",
+        "c",
+        "b"
+      ],
+      [
+        "e",
+        "b",
+        "e",
+        "g",
+        "f",
+        "c",
+        "a",
+        "d"
+      ],
+      [
+        "f",
+        "d",
+        "f",
+        "b",
+        "c",
+        "a",
+        "g",
+        "e"
+      ],
+      [
+        "g",
+        "c",
+        "g",
+        "f",
+        "b",
+        "d",
+        "e",
+        "a"
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "957825d11b7ccd1990aeec4188ba9cf599be9217fed874a53a443ceeae0da5f8"
+  },
+  "image29": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "$*$",
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g"
+    ],
+    "rows": [
+      [
+        "a",
+        "f",
+        "a",
+        "e",
+        "g",
+        "b",
+        "d",
+        "c"
+      ],
+      [
+        "b",
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g"
+      ],
+      [
+        "c",
+        "e",
+        "c",
+        "d",
+        "a",
+        "g",
+        "b",
+        "f"
+      ],
+      [
+        "d",
+        "g",
+        "d",
+        "a",
+        "e",
+        "f",
+        "c",
+        "b"
+      ],
+      [
+        "e",
+        "b",
+        "e",
+        "g",
+        "f",
+        "c",
+        "a",
+        "d"
+      ],
+      [
+        "f",
+        "d",
+        "f",
+        "b",
+        "c",
+        "a",
+        "g",
+        "e"
+      ],
+      [
+        "g",
+        "c",
+        "g",
+        "f",
+        "b",
+        "d",
+        "e",
+        "a"
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "3bcb4bc5a1434d06e68dc00e883a4140353510e7714b6649eddd95fa95bf33aa"
+  },
+  "image54": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "$*$",
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g"
+    ],
+    "rows": [
+      [
+        "a",
+        "f",
+        "a",
+        "e",
+        "g",
+        "b",
+        "d",
+        "c"
+      ],
+      [
+        "b",
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g"
+      ],
+      [
+        "c",
+        "e",
+        "c",
+        "d",
+        "a",
+        "g",
+        "b",
+        "f"
+      ],
+      [
+        "d",
+        "g",
+        "d",
+        "a",
+        "e",
+        "f",
+        "c",
+        "b"
+      ],
+      [
+        "e",
+        "b",
+        "e",
+        "g",
+        "f",
+        "c",
+        "a",
+        "d"
+      ],
+      [
+        "f",
+        "d",
+        "f",
+        "b",
+        "c",
+        "a",
+        "g",
+        "e"
+      ],
+      [
+        "g",
+        "c",
+        "g",
+        "f",
+        "b",
+        "d",
+        "e",
+        "a"
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "c0eaaddc7ef79be2711af2db2c274f0fa5cd9bea0c470ac325ae1675c30384a4"
+  },
+  "image42": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "element",
+      "$*$-inverse of that element"
+    ],
+    "rows": [
+      [
+        "a",
+        null
+      ],
+      [
+        "b",
+        null
+      ],
+      [
+        "c",
+        null
+      ],
+      [
+        "d",
+        null
+      ],
+      [
+        "e",
+        null
+      ],
+      [
+        "f",
+        null
+      ],
+      [
+        "g",
+        null
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "a0a2fa53ecfd055588a29a47e59a53eaf6b772405f720e4acf27884831d63284"
+  },
+  "image13": {
+    "kind": "embedded-equations",
+    "expressions": [
+      {
+        "id": "image13-1",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image13-2",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      }
+    ],
+    "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+    "source_sha256": "7ce895fd810565742df612be5bd52b738e26602732dc7f035ff4cb75932ab43e"
+  },
+  "image232": {
+    "kind": "embedded-equations",
+    "expressions": [
+      {
+        "id": "image232-1",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image232-2",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      }
+    ],
+    "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+    "source_sha256": "4ce71cf41b96fab37ed656e243a7038fbe33d83069589a31922fdcaeab166db1"
+  },
+  "image240": {
+    "kind": "embedded-equations",
+    "expressions": [
+      {
+        "id": "image240-1",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image240-2",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      }
+    ],
+    "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+    "source_sha256": "d87cf56b3160f51c17628765d38c366b656e76405bc0fcb9f586714440975549"
+  },
+  "image241": {
+    "kind": "embedded-equations",
+    "expressions": [
+      {
+        "id": "image241-1",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image241-2",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      }
+    ],
+    "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+    "source_sha256": "d31641f82a2c17bb735aca4338bce56e46c0bcdb59ccac5d6214d758dab49621"
+  },
+  "image274": {
+    "kind": "embedded-equations",
+    "expressions": [
+      {
+        "id": "image274-1",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image274-2",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      }
+    ],
+    "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+    "source_sha256": "063f5cd83cbd28b554d1ee5592faf4babb3a33001a7531af2a67599db851fe20"
+  },
+  "image275": {
+    "kind": "embedded-equations",
+    "expressions": [
+      {
+        "id": "image275-1",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image275-2",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      }
+    ],
+    "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+    "source_sha256": "165df299e1a9688fe9b48abdd33bde600328c08e9372d0601bdcf8e2e5d323b7"
+  },
+  "image290": {
+    "kind": "embedded-equations",
+    "expressions": [
+      {
+        "id": "image290-1",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image290-2",
+        "latex": "\\ell ",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      }
+    ],
+    "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+    "source_sha256": "d2fd1947423fb4d7eece90cff2b3f8d3be2c42da5be799c34f428a2038c58f3d"
+  }
+}

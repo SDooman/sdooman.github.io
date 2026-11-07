@@ -1,0 +1,37 @@
+{
+  "kind": "table",
+  "title": null,
+  "headers": [
+    "time in seconds",
+    "distance in meters"
+  ],
+  "rows": [
+    [
+      "1",
+      "1.95"
+    ],
+    [
+      "2",
+      "3.17"
+    ],
+    [
+      "3",
+      "4.31"
+    ],
+    [
+      "4",
+      "5.22"
+    ],
+    [
+      "5",
+      "6.4"
+    ],
+    [
+      "6",
+      "7.64"
+    ]
+  ],
+  "review": "needs_review",
+  "blank_meaning": "null means an intentional source blank, not zero",
+  "source_sha256": "8f51f8b7d5140a635c08ef25c1174d0f9ddbde84b1261809c45f864fb2cd9c0d"
+}

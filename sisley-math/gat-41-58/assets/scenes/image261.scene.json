@@ -1,0 +1,5236 @@
+{
+  "version": 1,
+  "kind": "vector",
+  "source_asset_id": "image261",
+  "title": "GAT 41-58, image261",
+  "description": "Original drawing paths; positions are layout coordinates, not inferred mathematical constraints.",
+  "view_box": [
+    0.0,
+    0.0,
+    161.5,
+    80.75
+  ],
+  "coordinate_meaning": "PDF/SVG drawing coordinates, top-left origin; source transforms retained.",
+  "representation_level": "drawing-primitives",
+  "provenance": {
+    "original_sha256": "27bd485698036e9b926558dfa49dc03cf5ecb30b5aa944d4e228da27f48b72e0",
+    "source_kind": "embedded-pdf",
+    "pdf_sha256": "17311021731fb275ebb15504250c79dd7936aa7a3d559a7ff2d330ac8955b412"
+  },
+  "elements": [
+    {
+      "tag": "defs",
+      "attributes": {
+        "id": "primitive-0001"
+      },
+      "children": [
+        {
+          "tag": "g",
+          "attributes": {
+            "id": "primitive-0002"
+          },
+          "children": [
+            {
+              "tag": "g",
+              "attributes": {
+                "id": "glyph-0-0"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attributes": {
+                    "d": "M 3.546875 -8.03125 C 3.554688 -8.007812 3.5625 -7.992188 3.5625 -7.984375 C 3.570312 -7.972656 3.578125 -7.953125 3.578125 -7.921875 L 3.578125 -0.875 C 3.578125 -0.582031 3.65625 -0.394531 3.8125 -0.3125 C 3.96875 -0.226562 4.265625 -0.175781 4.703125 -0.15625 L 4.703125 0 L 1.40625 0 L 1.40625 -0.171875 C 1.875 -0.191406 2.179688 -0.253906 2.328125 -0.359375 C 2.472656 -0.472656 2.546875 -0.703125 2.546875 -1.046875 L 2.546875 -6.46875 C 2.546875 -6.65625 2.519531 -6.796875 2.46875 -6.890625 C 2.425781 -6.984375 2.328125 -7.03125 2.171875 -7.03125 C 2.066406 -7.03125 1.929688 -7 1.765625 -6.9375 C 1.609375 -6.882812 1.460938 -6.828125 1.328125 -6.765625 L 1.328125 -6.9375 L 3.46875 -8.03125 Z M 3.546875 -8.03125 ",
+                    "id": "primitive-0004"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "g",
+              "attributes": {
+                "id": "glyph-0-1"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attributes": {
+                    "d": "M 0.359375 -0.140625 C 1.785156 -1.617188 2.753906 -2.703125 3.265625 -3.390625 C 3.773438 -4.085938 4.03125 -4.765625 4.03125 -5.421875 C 4.03125 -5.992188 3.875 -6.429688 3.5625 -6.734375 C 3.25 -7.035156 2.875 -7.1875 2.4375 -7.1875 C 1.90625 -7.1875 1.472656 -6.992188 1.140625 -6.609375 C 0.960938 -6.390625 0.789062 -6.0625 0.625 -5.625 L 0.375 -5.671875 C 0.5625 -6.566406 0.890625 -7.1875 1.359375 -7.53125 C 1.828125 -7.882812 2.328125 -8.0625 2.859375 -8.0625 C 3.515625 -8.0625 4.046875 -7.851562 4.453125 -7.4375 C 4.859375 -7.019531 5.0625 -6.515625 5.0625 -5.921875 C 5.0625 -5.285156 4.84375 -4.671875 4.40625 -4.078125 C 3.96875 -3.484375 3.007812 -2.425781 1.53125 -0.90625 L 4.21875 -0.90625 C 4.59375 -0.90625 4.851562 -0.953125 5 -1.046875 C 5.15625 -1.140625 5.328125 -1.359375 5.515625 -1.703125 L 5.671875 -1.625 L 5.03125 0 L 0.359375 0 Z M 0.359375 -0.140625 ",
+                    "id": "primitive-0006"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "g",
+              "attributes": {
+                "id": "glyph-0-2"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attributes": {
+                    "d": "M 0.921875 -1.015625 C 1.140625 -1.015625 1.425781 -0.898438 1.78125 -0.671875 C 2.132812 -0.453125 2.429688 -0.34375 2.671875 -0.34375 C 3.222656 -0.34375 3.628906 -0.523438 3.890625 -0.890625 C 4.160156 -1.265625 4.296875 -1.671875 4.296875 -2.109375 C 4.296875 -2.523438 4.1875 -2.890625 3.96875 -3.203125 C 3.601562 -3.734375 2.992188 -4 2.140625 -4 C 2.085938 -4 2.035156 -4 1.984375 -4 C 1.941406 -4 1.890625 -3.992188 1.828125 -3.984375 L 1.8125 -4.140625 C 2.4375 -4.367188 2.925781 -4.628906 3.28125 -4.921875 C 3.644531 -5.210938 3.828125 -5.597656 3.828125 -6.078125 C 3.828125 -6.492188 3.679688 -6.8125 3.390625 -7.03125 C 3.109375 -7.257812 2.789062 -7.375 2.4375 -7.375 C 2 -7.375 1.617188 -7.21875 1.296875 -6.90625 C 1.117188 -6.726562 0.925781 -6.460938 0.71875 -6.109375 L 0.53125 -6.140625 C 0.6875 -6.734375 0.976562 -7.207031 1.40625 -7.5625 C 1.832031 -7.914062 2.320312 -8.09375 2.875 -8.09375 C 3.476562 -8.09375 3.941406 -7.929688 4.265625 -7.609375 C 4.585938 -7.285156 4.75 -6.90625 4.75 -6.46875 C 4.75 -6.09375 4.613281 -5.75 4.34375 -5.4375 C 4.195312 -5.257812 3.960938 -5.054688 3.640625 -4.828125 C 4.015625 -4.671875 4.316406 -4.484375 4.546875 -4.265625 C 4.960938 -3.859375 5.171875 -3.34375 5.171875 -2.71875 C 5.171875 -1.976562 4.878906 -1.320312 4.296875 -0.75 C 3.722656 -0.1875 2.894531 0.09375 1.8125 0.09375 C 1.332031 0.09375 0.992188 0.0195312 0.796875 -0.125 C 0.609375 -0.269531 0.515625 -0.421875 0.515625 -0.578125 C 0.515625 -0.679688 0.546875 -0.78125 0.609375 -0.875 C 0.679688 -0.96875 0.785156 -1.015625 0.921875 -1.015625 Z M 0.921875 -1.015625 ",
+                    "id": "primitive-0008"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "g",
+              "attributes": {
+                "id": "glyph-0-3"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attributes": {
+                    "d": "M 3.484375 -6.828125 L 0.625 -2.765625 L 3.484375 -2.765625 Z M 3.875 -8.03125 L 4.4375 -8.03125 L 4.4375 -2.765625 L 5.65625 -2.765625 L 5.65625 -2 L 4.4375 -2 L 4.4375 0 L 3.5 0 L 3.5 -2 L 0.140625 -2 L 0.140625 -2.765625 Z M 3.875 -8.03125 ",
+                    "id": "primitive-0010"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-0"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 126 0 L 161 0 L 161 23 L 126 23 Z M 126 0 ",
+                "id": "primitive-0012"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-1"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 140 70 L 150 70 L 150 80.5 L 140 80.5 Z M 140 70 ",
+                "id": "primitive-0014"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-2"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 126 57 L 161 57 L 161 80.5 L 126 80.5 Z M 126 57 ",
+                "id": "primitive-0016"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-3"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 11 70 L 21 70 L 21 80.5 L 11 80.5 Z M 11 70 ",
+                "id": "primitive-0018"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-4"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 0 57 L 35 57 L 35 80.5 L 0 80.5 Z M 0 57 ",
+                "id": "primitive-0020"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 144.550781 4.484375 L 145.550781 4.484375 L 145.550781 5.484375 L 16.949219 75.765625 L 15.949219 75.765625 L 15.949219 74.769531 ",
+        "id": "primitive-0021"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 586.999226 23.995937 L 586.999226 306.006966 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0022"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 63.006966 22.992841 L 63.006966 304.000774 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0023"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 66.00058 19.999226 L 104.995937 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0024"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 100.999226 19.999226 L 140.997678 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0025"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 137.000967 19.999226 L 178.002515 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0026"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 174.005805 19.999226 L 215.007353 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0027"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 210.994969 19.999226 L 251.996517 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0028"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 247.999807 19.999226 L 289.001354 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0029"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 285.004644 19.999226 L 325.003096 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0030"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 321.006385 19.999226 L 361.004837 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0031"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 356.992454 19.999226 L 396.003483 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0032"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 392.006772 19.999226 L 428.995937 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0033"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 424.999226 19.999226 L 459.997872 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0034"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 456.001161 19.999226 L 489.996711 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0035"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 486 19.999226 L 517.001935 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0036"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 513.005224 19.999226 L 542.000967 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0037"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 538.004257 19.999226 L 553.003676 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0038"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 549.006966 19.999226 L 564.006385 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0039"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 559.994002 19.999226 L 574.005998 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0040"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 569.993615 19.999226 L 583.002515 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0041"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 16.449219 4.484375 L 17.445312 4.484375 L 24.175781 11.464844 L 24.175781 12.460938 L 23.179688 12.460938 L 16.449219 5.484375 ",
+        "id": "primitive-0042"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 23.179688 11.464844 L 24.175781 11.464844 L 31.152344 17.945312 L 31.152344 18.941406 L 30.15625 18.941406 L 23.179688 12.460938 ",
+        "id": "primitive-0043"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 30.15625 17.945312 L 31.152344 17.945312 L 38.382812 24.175781 L 38.382812 25.171875 L 37.382812 25.171875 L 30.15625 18.941406 ",
+        "id": "primitive-0044"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 37.382812 24.175781 L 38.382812 24.175781 L 45.859375 29.90625 L 45.859375 30.90625 L 44.859375 30.90625 L 37.382812 25.171875 ",
+        "id": "primitive-0045"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 44.859375 29.90625 L 45.859375 29.90625 L 53.832031 35.390625 L 53.832031 36.386719 L 52.835938 36.386719 L 44.859375 30.90625 ",
+        "id": "primitive-0046"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 52.835938 35.390625 L 53.832031 35.390625 L 61.558594 40.625 L 61.558594 41.621094 L 60.5625 41.621094 L 52.835938 36.386719 ",
+        "id": "primitive-0047"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 60.5625 40.625 L 61.558594 40.625 L 69.785156 45.359375 L 69.785156 46.355469 L 68.785156 46.355469 L 60.5625 41.621094 ",
+        "id": "primitive-0048"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 68.785156 45.359375 L 69.785156 45.359375 L 78.007812 49.84375 L 78.007812 50.84375 L 77.011719 50.84375 L 68.785156 46.355469 ",
+        "id": "primitive-0049"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 77.011719 49.84375 L 78.007812 49.84375 L 86.234375 54.082031 L 86.234375 55.078125 L 85.234375 55.078125 L 77.011719 50.84375 ",
+        "id": "primitive-0050"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 85.234375 54.082031 L 86.234375 54.082031 L 94.707031 58.070312 L 94.707031 59.066406 L 93.710938 59.066406 L 85.234375 55.078125 ",
+        "id": "primitive-0051"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 93.710938 58.070312 L 94.707031 58.070312 L 103.179688 61.558594 L 103.179688 62.554688 L 102.183594 62.554688 L 93.710938 59.066406 ",
+        "id": "primitive-0052"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 102.183594 61.558594 L 103.179688 61.558594 L 111.902344 65.046875 L 111.902344 66.046875 L 110.90625 66.046875 L 102.183594 62.554688 ",
+        "id": "primitive-0053"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 110.90625 65.046875 L 111.902344 65.046875 L 120.378906 68.289062 L 120.378906 69.285156 L 119.378906 69.285156 L 110.90625 66.046875 ",
+        "id": "primitive-0054"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 119.378906 68.289062 L 120.378906 68.289062 L 128.851562 71.03125 L 128.851562 72.027344 L 127.855469 72.027344 L 119.378906 69.285156 ",
+        "id": "primitive-0055"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 127.855469 71.03125 L 128.851562 71.03125 L 137.324219 73.773438 L 137.324219 74.769531 L 136.328125 74.769531 L 127.855469 72.027344 ",
+        "id": "primitive-0056"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 136.328125 73.773438 L 137.324219 73.773438 L 145.796875 76.265625 L 145.796875 77.261719 L 144.800781 77.261719 L 136.328125 74.769531 ",
+        "id": "primitive-0057"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 42.617188 60.5625 L 50.464844 51.535156 C 52.589844 53.378906 53.992188 55.914062 54.433594 58.691406 ",
+        "id": "primitive-0058"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 56.574219 52.089844 L 57.570312 52.089844 L 57.570312 53.085938 L 53.335938 55.328125 L 52.339844 55.328125 L 52.339844 54.332031 ",
+        "id": "primitive-0059"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 15.703125 34.394531 L 19.792969 45.636719 C 17.148438 46.597656 14.253906 46.597656 11.609375 45.636719 ",
+        "id": "primitive-0060"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 63.006966 183.002322 L 63.006966 199.004837 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0061"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 90.46875 4.984375 L 79.226562 9.074219 C 78.265625 6.433594 78.265625 3.535156 79.226562 0.894531 ",
+        "id": "primitive-0062"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 304.000774 19.999226 L 317.997098 19.999226 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0063"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 58.816406 39.628906 L 47.261719 36.53125 C 47.992188 33.8125 49.652344 31.441406 51.957031 29.828125 ",
+        "id": "primitive-0064"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "nonzero",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 47.105469 31.152344 L 48.101562 31.152344 L 49.597656 32.398438 L 49.597656 33.398438 L 48.597656 33.398438 L 47.105469 32.152344 ",
+        "id": "primitive-0065"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 146.296875 55.578125 L 142.207031 44.335938 C 144.847656 43.375 147.746094 43.375 150.386719 44.335938 ",
+        "id": "primitive-0066"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 586.999226 165.996711 L 586.999226 178.002515 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0067"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 61.000774 304.000774 L 584.993034 304.000774 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0068"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 75.515625 75.765625 L 86.757812 71.675781 C 87.71875 74.316406 87.71875 77.214844 86.757812 79.855469 ",
+        "id": "primitive-0069"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 347.995937 304.000774 L 358.998646 304.000774 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0070"
+      }
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "id": "primitive-0071"
+      },
+      "children": [
+        {
+          "tag": "use",
+          "attributes": {
+            "{http://www.w3.org/1999/xlink}href": "#glyph-0-0",
+            "x": "0.747685",
+            "y": "13.95679",
+            "id": "primitive-0072"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "id": "primitive-0073"
+      },
+      "children": [
+        {
+          "tag": "use",
+          "attributes": {
+            "{http://www.w3.org/1999/xlink}href": "#glyph-0-1",
+            "x": "153.275463",
+            "y": "14.455247",
+            "id": "primitive-0074"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "id": "primitive-0075"
+      },
+      "children": [
+        {
+          "tag": "use",
+          "attributes": {
+            "{http://www.w3.org/1999/xlink}href": "#glyph-0-2",
+            "x": "153.77392",
+            "y": "73.771605",
+            "id": "primitive-0076"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "id": "primitive-0077"
+      },
+      "children": [
+        {
+          "tag": "use",
+          "attributes": {
+            "{http://www.w3.org/1999/xlink}href": "#glyph-0-3",
+            "x": "0.747685",
+            "y": "75.266975",
+            "id": "primitive-0078"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 20.6875 5.484375 C 20.6875 7.960938 18.675781 9.96875 16.199219 9.96875 C 13.722656 9.96875 11.714844 7.960938 11.714844 5.484375 C 11.714844 3.003906 13.722656 0.996094 16.199219 0.996094 C 18.675781 0.996094 20.6875 3.003906 20.6875 5.484375 ",
+        "id": "primitive-0079"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "4",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "10",
+        "d": "M 81 22.005418 C 81 30.829528 73.837268 37.99226 64.997485 37.99226 C 56.157701 37.99226 48.994969 30.829528 48.994969 22.005418 C 48.994969 13.165635 56.157701 6.002902 64.997485 6.002902 C 73.837268 6.002902 81 13.165635 81 22.005418 Z M 81 22.005418 ",
+        "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+        "id": "primitive-0080"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 149.039062 4.484375 C 149.039062 6.964844 147.03125 8.972656 144.550781 8.972656 C 142.074219 8.972656 140.066406 6.964844 140.066406 4.484375 C 140.066406 2.007812 142.074219 0 144.550781 0 C 147.03125 0 149.039062 2.007812 149.039062 4.484375 ",
+        "id": "primitive-0081"
+      }
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-0)",
+        "id": "primitive-0082"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill": "none",
+            "stroke-width": "4",
+            "stroke-linecap": "butt",
+            "stroke-linejoin": "miter",
+            "stroke": "rgb(0%, 0%, 0%)",
+            "stroke-opacity": "1",
+            "stroke-miterlimit": "10",
+            "d": "M 595.995743 17.993034 C 595.995743 26.832817 588.833011 33.99555 579.993228 33.99555 C 571.169118 33.99555 564.006385 26.832817 564.006385 17.993034 C 564.006385 9.168924 571.169118 2.006192 579.993228 2.006192 C 588.833011 2.006192 595.995743 9.168924 595.995743 17.993034 Z M 595.995743 17.993034 ",
+            "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+            "id": "primitive-0083"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-1)",
+        "id": "primitive-0084"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill-rule": "evenodd",
+            "fill": "rgb(0%, 0%, 0%)",
+            "fill-opacity": "1",
+            "d": "M 149.039062 75.390625 C 149.039062 77.9375 147.03125 80.003906 144.550781 80.003906 C 142.074219 80.003906 140.066406 77.9375 140.066406 75.390625 C 140.066406 72.84375 142.074219 70.78125 144.550781 70.78125 C 147.03125 70.78125 149.039062 72.84375 149.039062 75.390625 ",
+            "id": "primitive-0085"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-2)",
+        "id": "primitive-0086"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill": "none",
+            "stroke-width": "4",
+            "stroke-linecap": "butt",
+            "stroke-linejoin": "miter",
+            "stroke": "rgb(0%, 0%, 0%)",
+            "stroke-opacity": "1",
+            "stroke-miterlimit": "10",
+            "d": "M 595.995743 302.49613 C 595.995743 311.618034 588.833011 319.000193 579.993228 319.000193 C 571.169118 319.000193 564.006385 311.618034 564.006385 302.49613 C 564.006385 293.389899 571.169118 286.00774 579.993228 286.00774 C 588.833011 286.00774 595.995743 293.389899 595.995743 302.49613 Z M 595.995743 302.49613 ",
+            "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+            "id": "primitive-0087"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-3)",
+        "id": "primitive-0088"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill-rule": "evenodd",
+            "fill": "rgb(0%, 0%, 0%)",
+            "fill-opacity": "1",
+            "d": "M 20.6875 75.390625 C 20.6875 77.9375 18.675781 80.003906 16.199219 80.003906 C 13.722656 80.003906 11.714844 77.9375 11.714844 75.390625 C 11.714844 72.84375 13.722656 70.78125 16.199219 70.78125 C 18.675781 70.78125 20.6875 72.84375 20.6875 75.390625 ",
+            "id": "primitive-0089"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-4)",
+        "id": "primitive-0090"
+      },
+      "children": [
+        {
+          "tag": "path",
+          "attributes": {
+            "fill": "none",
+            "stroke-width": "4",
+            "stroke-linecap": "butt",
+            "stroke-linejoin": "miter",
+            "stroke": "rgb(0%, 0%, 0%)",
+            "stroke-opacity": "1",
+            "stroke-miterlimit": "10",
+            "d": "M 81 302.49613 C 81 311.618034 73.837268 319.000193 64.997485 319.000193 C 56.157701 319.000193 48.994969 311.618034 48.994969 302.49613 C 48.994969 293.389899 56.157701 286.00774 64.997485 286.00774 C 73.837268 286.00774 81 293.389899 81 302.49613 Z M 81 302.49613 ",
+            "transform": "matrix(0.249228, 0, 0, 0.249228, 0.00000000000000111, 0)",
+            "id": "primitive-0091"
+          }
+        }
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "text": "1",
+      "bbox_pt": [
+        0.75,
+        5.0,
+        6.75,
+        17.0
+      ],
+      "font": "JQNGYW+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        153.75,
+        5.5,
+        159.75,
+        17.5
+      ],
+      "font": "JQNGYW+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        154.25,
+        65.0,
+        160.25,
+        77.0
+      ],
+      "font": "JQNGYW+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "4",
+      "bbox_pt": [
+        0.75,
+        66.5,
+        6.75,
+        78.5
+      ],
+      "font": "JQNGYW+Times-Roman",
+      "size": 12.0
+    }
+  ],
+  "source_drawing_primitives": [
+    {
+      "object_type": "line",
+      "x0": 146.75,
+      "x1": 146.75,
+      "top": 6.0,
+      "bottom": 76.5,
+      "path": [
+        [
+          "m",
+          [
+            146.75,
+            6.0
+          ]
+        ],
+        [
+          "l",
+          [
+            146.75,
+            76.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          146.75,
+          6.0
+        ],
+        [
+          146.75,
+          76.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 15.75,
+      "x1": 15.75,
+      "top": 5.75,
+      "bottom": 76.0,
+      "path": [
+        [
+          "m",
+          [
+            15.75,
+            5.75
+          ]
+        ],
+        [
+          "l",
+          [
+            15.75,
+            76.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          15.75,
+          5.75
+        ],
+        [
+          15.75,
+          76.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 16.5,
+      "x1": 26.25,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            16.5,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            26.25,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          16.5,
+          5.0
+        ],
+        [
+          26.25,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 25.25,
+      "x1": 35.25,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            25.25,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            35.25,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          25.25,
+          5.0
+        ],
+        [
+          35.25,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 34.25,
+      "x1": 44.5,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            34.25,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            44.5,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          34.25,
+          5.0
+        ],
+        [
+          44.5,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 43.5,
+      "x1": 53.75,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            43.5,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            53.75,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          43.5,
+          5.0
+        ],
+        [
+          53.75,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 52.75,
+      "x1": 63.0,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            52.75,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            63.0,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          52.75,
+          5.0
+        ],
+        [
+          63.0,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 62.0,
+      "x1": 72.25,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            62.0,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            72.25,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          62.0,
+          5.0
+        ],
+        [
+          72.25,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 71.25,
+      "x1": 81.25,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            71.25,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            81.25,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          71.25,
+          5.0
+        ],
+        [
+          81.25,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 80.25,
+      "x1": 90.25,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            80.25,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            90.25,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          80.25,
+          5.0
+        ],
+        [
+          90.25,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 89.25,
+      "x1": 99.0,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            89.25,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            99.0,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          89.25,
+          5.0
+        ],
+        [
+          99.0,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 98.0,
+      "x1": 107.25,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            98.0,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            107.25,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          98.0,
+          5.0
+        ],
+        [
+          107.25,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 106.25,
+      "x1": 115.0,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            106.25,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            115.0,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          106.25,
+          5.0
+        ],
+        [
+          115.0,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 114.0,
+      "x1": 122.5,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            114.0,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            122.5,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          114.0,
+          5.0
+        ],
+        [
+          122.5,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 121.5,
+      "x1": 129.25,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            121.5,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            129.25,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          121.5,
+          5.0
+        ],
+        [
+          129.25,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 128.25,
+      "x1": 135.5,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            128.25,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            135.5,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          128.25,
+          5.0
+        ],
+        [
+          135.5,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 134.5,
+      "x1": 138.25,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            134.5,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            138.25,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          134.5,
+          5.0
+        ],
+        [
+          138.25,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 137.25,
+      "x1": 141.0,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            137.25,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            141.0,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          137.25,
+          5.0
+        ],
+        [
+          141.0,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 140.0,
+      "x1": 143.5,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            140.0,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            143.5,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          140.0,
+          5.0
+        ],
+        [
+          143.5,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 142.5,
+      "x1": 145.75,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            142.5,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            145.75,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          142.5,
+          5.0
+        ],
+        [
+          145.75,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 15.75,
+      "x1": 15.75,
+      "top": 45.75,
+      "bottom": 49.75,
+      "path": [
+        [
+          "m",
+          [
+            15.75,
+            45.75
+          ]
+        ],
+        [
+          "l",
+          [
+            15.75,
+            49.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          15.75,
+          45.75
+        ],
+        [
+          15.75,
+          49.75
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 76.0,
+      "x1": 79.5,
+      "top": 5.0,
+      "bottom": 5.0,
+      "path": [
+        [
+          "m",
+          [
+            76.0,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            79.5,
+            5.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          76.0,
+          5.0
+        ],
+        [
+          79.5,
+          5.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 146.75,
+      "x1": 146.75,
+      "top": 41.5,
+      "bottom": 44.5,
+      "path": [
+        [
+          "m",
+          [
+            146.75,
+            41.5
+          ]
+        ],
+        [
+          "l",
+          [
+            146.75,
+            44.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          146.75,
+          41.5
+        ],
+        [
+          146.75,
+          44.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 15.25,
+      "x1": 146.25,
+      "top": 76.0,
+      "bottom": 76.0,
+      "path": [
+        [
+          "m",
+          [
+            15.25,
+            76.0
+          ]
+        ],
+        [
+          "l",
+          [
+            146.25,
+            76.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          15.25,
+          76.0
+        ],
+        [
+          146.25,
+          76.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 87.0,
+      "x1": 89.75,
+      "top": 76.0,
+      "bottom": 76.0,
+      "path": [
+        [
+          "m",
+          [
+            87.0,
+            76.0
+          ]
+        ],
+        [
+          "l",
+          [
+            89.75,
+            76.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          87.0,
+          76.0
+        ],
+        [
+          89.75,
+          76.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 16.0,
+      "x1": 146.0,
+      "top": 4.5,
+      "bottom": 76.0,
+      "path": [
+        [
+          "m",
+          [
+            145.0,
+            4.5
+          ]
+        ],
+        [
+          "l",
+          [
+            146.0,
+            4.5
+          ]
+        ],
+        [
+          "l",
+          [
+            146.0,
+            5.5
+          ]
+        ],
+        [
+          "l",
+          [
+            17.0,
+            76.0
+          ]
+        ],
+        [
+          "l",
+          [
+            16.0,
+            76.0
+          ]
+        ],
+        [
+          "l",
+          [
+            16.0,
+            75.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          145.0,
+          4.5
+        ],
+        [
+          146.0,
+          4.5
+        ],
+        [
+          146.0,
+          5.5
+        ],
+        [
+          17.0,
+          76.0
+        ],
+        [
+          16.0,
+          76.0
+        ],
+        [
+          16.0,
+          75.0
+        ]
+      ],
+      "linewidth": 0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 16.5,
+      "x1": 24.25,
+      "top": 4.5,
+      "bottom": 12.5,
+      "path": [
+        [
+          "m",
+          [
+            16.5,
+            4.5
+          ]
+        ],
+        [
+          "l",
+          [
+            17.5,
+            4.5
+          ]
+        ],
+        [
+          "l",
+          [
+            24.25,
+            11.5
+          ]
+        ],
+        [
+          "l",
+          [
+            24.25,
+            12.5
+          ]
+        ],
+        [
+          "l",
+          [
+            23.25,
+            12.5
+          ]
+        ],
+        [
+          "l",
+          [
+            16.5,
+            5.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          16.5,
+          4.5
+        ],
+        [
+          17.5,
+          4.5
+        ],
+        [
+          24.25,
+          11.5
+        ],
+        [
+          24.25,
+          12.5
+        ],
+        [
+          23.25,
+          12.5
+        ],
+        [
+          16.5,
+          5.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 23.25,
+      "x1": 31.25,
+      "top": 11.5,
+      "bottom": 19.0,
+      "path": [
+        [
+          "m",
+          [
+            23.25,
+            11.5
+          ]
+        ],
+        [
+          "l",
+          [
+            24.25,
+            11.5
+          ]
+        ],
+        [
+          "l",
+          [
+            31.25,
+            18.0
+          ]
+        ],
+        [
+          "l",
+          [
+            31.25,
+            19.0
+          ]
+        ],
+        [
+          "l",
+          [
+            30.25,
+            19.0
+          ]
+        ],
+        [
+          "l",
+          [
+            23.25,
+            12.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          23.25,
+          11.5
+        ],
+        [
+          24.25,
+          11.5
+        ],
+        [
+          31.25,
+          18.0
+        ],
+        [
+          31.25,
+          19.0
+        ],
+        [
+          30.25,
+          19.0
+        ],
+        [
+          23.25,
+          12.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 30.25,
+      "x1": 38.5,
+      "top": 18.0,
+      "bottom": 25.25,
+      "path": [
+        [
+          "m",
+          [
+            30.25,
+            18.0
+          ]
+        ],
+        [
+          "l",
+          [
+            31.25,
+            18.0
+          ]
+        ],
+        [
+          "l",
+          [
+            38.5,
+            24.25
+          ]
+        ],
+        [
+          "l",
+          [
+            38.5,
+            25.25
+          ]
+        ],
+        [
+          "l",
+          [
+            37.5,
+            25.25
+          ]
+        ],
+        [
+          "l",
+          [
+            30.25,
+            19.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          30.25,
+          18.0
+        ],
+        [
+          31.25,
+          18.0
+        ],
+        [
+          38.5,
+          24.25
+        ],
+        [
+          38.5,
+          25.25
+        ],
+        [
+          37.5,
+          25.25
+        ],
+        [
+          30.25,
+          19.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 37.5,
+      "x1": 46.0,
+      "top": 24.25,
+      "bottom": 31.0,
+      "path": [
+        [
+          "m",
+          [
+            37.5,
+            24.25
+          ]
+        ],
+        [
+          "l",
+          [
+            38.5,
+            24.25
+          ]
+        ],
+        [
+          "l",
+          [
+            46.0,
+            30.0
+          ]
+        ],
+        [
+          "l",
+          [
+            46.0,
+            31.0
+          ]
+        ],
+        [
+          "l",
+          [
+            45.0,
+            31.0
+          ]
+        ],
+        [
+          "l",
+          [
+            37.5,
+            25.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          37.5,
+          24.25
+        ],
+        [
+          38.5,
+          24.25
+        ],
+        [
+          46.0,
+          30.0
+        ],
+        [
+          46.0,
+          31.0
+        ],
+        [
+          45.0,
+          31.0
+        ],
+        [
+          37.5,
+          25.25
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 45.0,
+      "x1": 54.0,
+      "top": 30.0,
+      "bottom": 36.5,
+      "path": [
+        [
+          "m",
+          [
+            45.0,
+            30.0
+          ]
+        ],
+        [
+          "l",
+          [
+            46.0,
+            30.0
+          ]
+        ],
+        [
+          "l",
+          [
+            54.0,
+            35.5
+          ]
+        ],
+        [
+          "l",
+          [
+            54.0,
+            36.5
+          ]
+        ],
+        [
+          "l",
+          [
+            53.0,
+            36.5
+          ]
+        ],
+        [
+          "l",
+          [
+            45.0,
+            31.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          45.0,
+          30.0
+        ],
+        [
+          46.0,
+          30.0
+        ],
+        [
+          54.0,
+          35.5
+        ],
+        [
+          54.0,
+          36.5
+        ],
+        [
+          53.0,
+          36.5
+        ],
+        [
+          45.0,
+          31.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 53.0,
+      "x1": 61.75,
+      "top": 35.5,
+      "bottom": 41.75,
+      "path": [
+        [
+          "m",
+          [
+            53.0,
+            35.5
+          ]
+        ],
+        [
+          "l",
+          [
+            54.0,
+            35.5
+          ]
+        ],
+        [
+          "l",
+          [
+            61.75,
+            40.75
+          ]
+        ],
+        [
+          "l",
+          [
+            61.75,
+            41.75
+          ]
+        ],
+        [
+          "l",
+          [
+            60.75,
+            41.75
+          ]
+        ],
+        [
+          "l",
+          [
+            53.0,
+            36.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          53.0,
+          35.5
+        ],
+        [
+          54.0,
+          35.5
+        ],
+        [
+          61.75,
+          40.75
+        ],
+        [
+          61.75,
+          41.75
+        ],
+        [
+          60.75,
+          41.75
+        ],
+        [
+          53.0,
+          36.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 60.75,
+      "x1": 70.0,
+      "top": 40.75,
+      "bottom": 46.5,
+      "path": [
+        [
+          "m",
+          [
+            60.75,
+            40.75
+          ]
+        ],
+        [
+          "l",
+          [
+            61.75,
+            40.75
+          ]
+        ],
+        [
+          "l",
+          [
+            70.0,
+            45.5
+          ]
+        ],
+        [
+          "l",
+          [
+            70.0,
+            46.5
+          ]
+        ],
+        [
+          "l",
+          [
+            69.0,
+            46.5
+          ]
+        ],
+        [
+          "l",
+          [
+            60.75,
+            41.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          60.75,
+          40.75
+        ],
+        [
+          61.75,
+          40.75
+        ],
+        [
+          70.0,
+          45.5
+        ],
+        [
+          70.0,
+          46.5
+        ],
+        [
+          69.0,
+          46.5
+        ],
+        [
+          60.75,
+          41.75
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 69.0,
+      "x1": 78.25,
+      "top": 45.5,
+      "bottom": 51.0,
+      "path": [
+        [
+          "m",
+          [
+            69.0,
+            45.5
+          ]
+        ],
+        [
+          "l",
+          [
+            70.0,
+            45.5
+          ]
+        ],
+        [
+          "l",
+          [
+            78.25,
+            50.0
+          ]
+        ],
+        [
+          "l",
+          [
+            78.25,
+            51.0
+          ]
+        ],
+        [
+          "l",
+          [
+            77.25,
+            51.0
+          ]
+        ],
+        [
+          "l",
+          [
+            69.0,
+            46.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          69.0,
+          45.5
+        ],
+        [
+          70.0,
+          45.5
+        ],
+        [
+          78.25,
+          50.0
+        ],
+        [
+          78.25,
+          51.0
+        ],
+        [
+          77.25,
+          51.0
+        ],
+        [
+          69.0,
+          46.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 77.25,
+      "x1": 86.5,
+      "top": 50.0,
+      "bottom": 55.25,
+      "path": [
+        [
+          "m",
+          [
+            77.25,
+            50.0
+          ]
+        ],
+        [
+          "l",
+          [
+            78.25,
+            50.0
+          ]
+        ],
+        [
+          "l",
+          [
+            86.5,
+            54.25
+          ]
+        ],
+        [
+          "l",
+          [
+            86.5,
+            55.25
+          ]
+        ],
+        [
+          "l",
+          [
+            85.5,
+            55.25
+          ]
+        ],
+        [
+          "l",
+          [
+            77.25,
+            51.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          77.25,
+          50.0
+        ],
+        [
+          78.25,
+          50.0
+        ],
+        [
+          86.5,
+          54.25
+        ],
+        [
+          86.5,
+          55.25
+        ],
+        [
+          85.5,
+          55.25
+        ],
+        [
+          77.25,
+          51.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 85.5,
+      "x1": 95.0,
+      "top": 54.25,
+      "bottom": 59.25,
+      "path": [
+        [
+          "m",
+          [
+            85.5,
+            54.25
+          ]
+        ],
+        [
+          "l",
+          [
+            86.5,
+            54.25
+          ]
+        ],
+        [
+          "l",
+          [
+            95.0,
+            58.25
+          ]
+        ],
+        [
+          "l",
+          [
+            95.0,
+            59.25
+          ]
+        ],
+        [
+          "l",
+          [
+            94.0,
+            59.25
+          ]
+        ],
+        [
+          "l",
+          [
+            85.5,
+            55.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          85.5,
+          54.25
+        ],
+        [
+          86.5,
+          54.25
+        ],
+        [
+          95.0,
+          58.25
+        ],
+        [
+          95.0,
+          59.25
+        ],
+        [
+          94.0,
+          59.25
+        ],
+        [
+          85.5,
+          55.25
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 94.0,
+      "x1": 103.5,
+      "top": 58.25,
+      "bottom": 62.75,
+      "path": [
+        [
+          "m",
+          [
+            94.0,
+            58.25
+          ]
+        ],
+        [
+          "l",
+          [
+            95.0,
+            58.25
+          ]
+        ],
+        [
+          "l",
+          [
+            103.5,
+            61.75
+          ]
+        ],
+        [
+          "l",
+          [
+            103.5,
+            62.75
+          ]
+        ],
+        [
+          "l",
+          [
+            102.5,
+            62.75
+          ]
+        ],
+        [
+          "l",
+          [
+            94.0,
+            59.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          94.0,
+          58.25
+        ],
+        [
+          95.0,
+          58.25
+        ],
+        [
+          103.5,
+          61.75
+        ],
+        [
+          103.5,
+          62.75
+        ],
+        [
+          102.5,
+          62.75
+        ],
+        [
+          94.0,
+          59.25
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 102.5,
+      "x1": 112.25,
+      "top": 61.75,
+      "bottom": 66.25,
+      "path": [
+        [
+          "m",
+          [
+            102.5,
+            61.75
+          ]
+        ],
+        [
+          "l",
+          [
+            103.5,
+            61.75
+          ]
+        ],
+        [
+          "l",
+          [
+            112.25,
+            65.25
+          ]
+        ],
+        [
+          "l",
+          [
+            112.25,
+            66.25
+          ]
+        ],
+        [
+          "l",
+          [
+            111.25,
+            66.25
+          ]
+        ],
+        [
+          "l",
+          [
+            102.5,
+            62.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          102.5,
+          61.75
+        ],
+        [
+          103.5,
+          61.75
+        ],
+        [
+          112.25,
+          65.25
+        ],
+        [
+          112.25,
+          66.25
+        ],
+        [
+          111.25,
+          66.25
+        ],
+        [
+          102.5,
+          62.75
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 111.25,
+      "x1": 120.75,
+      "top": 65.25,
+      "bottom": 69.5,
+      "path": [
+        [
+          "m",
+          [
+            111.25,
+            65.25
+          ]
+        ],
+        [
+          "l",
+          [
+            112.25,
+            65.25
+          ]
+        ],
+        [
+          "l",
+          [
+            120.75,
+            68.5
+          ]
+        ],
+        [
+          "l",
+          [
+            120.75,
+            69.5
+          ]
+        ],
+        [
+          "l",
+          [
+            119.75,
+            69.5
+          ]
+        ],
+        [
+          "l",
+          [
+            111.25,
+            66.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          111.25,
+          65.25
+        ],
+        [
+          112.25,
+          65.25
+        ],
+        [
+          120.75,
+          68.5
+        ],
+        [
+          120.75,
+          69.5
+        ],
+        [
+          119.75,
+          69.5
+        ],
+        [
+          111.25,
+          66.25
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 119.75,
+      "x1": 129.25,
+      "top": 68.5,
+      "bottom": 72.25,
+      "path": [
+        [
+          "m",
+          [
+            119.75,
+            68.5
+          ]
+        ],
+        [
+          "l",
+          [
+            120.75,
+            68.5
+          ]
+        ],
+        [
+          "l",
+          [
+            129.25,
+            71.25
+          ]
+        ],
+        [
+          "l",
+          [
+            129.25,
+            72.25
+          ]
+        ],
+        [
+          "l",
+          [
+            128.25,
+            72.25
+          ]
+        ],
+        [
+          "l",
+          [
+            119.75,
+            69.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          119.75,
+          68.5
+        ],
+        [
+          120.75,
+          68.5
+        ],
+        [
+          129.25,
+          71.25
+        ],
+        [
+          129.25,
+          72.25
+        ],
+        [
+          128.25,
+          72.25
+        ],
+        [
+          119.75,
+          69.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 128.25,
+      "x1": 137.75,
+      "top": 71.25,
+      "bottom": 75.0,
+      "path": [
+        [
+          "m",
+          [
+            128.25,
+            71.25
+          ]
+        ],
+        [
+          "l",
+          [
+            129.25,
+            71.25
+          ]
+        ],
+        [
+          "l",
+          [
+            137.75,
+            74.0
+          ]
+        ],
+        [
+          "l",
+          [
+            137.75,
+            75.0
+          ]
+        ],
+        [
+          "l",
+          [
+            136.75,
+            75.0
+          ]
+        ],
+        [
+          "l",
+          [
+            128.25,
+            72.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          128.25,
+          71.25
+        ],
+        [
+          129.25,
+          71.25
+        ],
+        [
+          137.75,
+          74.0
+        ],
+        [
+          137.75,
+          75.0
+        ],
+        [
+          136.75,
+          75.0
+        ],
+        [
+          128.25,
+          72.25
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 136.75,
+      "x1": 146.25,
+      "top": 74.0,
+      "bottom": 77.5,
+      "path": [
+        [
+          "m",
+          [
+            136.75,
+            74.0
+          ]
+        ],
+        [
+          "l",
+          [
+            137.75,
+            74.0
+          ]
+        ],
+        [
+          "l",
+          [
+            146.25,
+            76.5
+          ]
+        ],
+        [
+          "l",
+          [
+            146.25,
+            77.5
+          ]
+        ],
+        [
+          "l",
+          [
+            145.25,
+            77.5
+          ]
+        ],
+        [
+          "l",
+          [
+            136.75,
+            75.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          136.75,
+          74.0
+        ],
+        [
+          137.75,
+          74.0
+        ],
+        [
+          146.25,
+          76.5
+        ],
+        [
+          146.25,
+          77.5
+        ],
+        [
+          145.25,
+          77.5
+        ],
+        [
+          136.75,
+          75.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 42.75,
+      "x1": 54.60226,
+      "top": 51.69349,
+      "bottom": 60.75,
+      "path": [
+        [
+          "m",
+          [
+            42.75,
+            60.75
+          ]
+        ],
+        [
+          "l",
+          [
+            50.62271,
+            51.69349
+          ]
+        ],
+        [
+          "c",
+          [
+            52.75192,
+            53.544380000000004
+          ],
+          [
+            54.16092,
+            56.086290000000005
+          ],
+          [
+            54.60226,
+            58.872789999999995
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          42.75,
+          60.75
+        ],
+        [
+          50.62271,
+          51.69349
+        ],
+        [
+          54.60226,
+          58.872789999999995
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 52.5,
+      "x1": 57.75,
+      "top": 52.25,
+      "bottom": 55.5,
+      "path": [
+        [
+          "m",
+          [
+            56.75,
+            52.25
+          ]
+        ],
+        [
+          "l",
+          [
+            57.75,
+            52.25
+          ]
+        ],
+        [
+          "l",
+          [
+            57.75,
+            53.25
+          ]
+        ],
+        [
+          "l",
+          [
+            53.5,
+            55.5
+          ]
+        ],
+        [
+          "l",
+          [
+            52.5,
+            55.5
+          ]
+        ],
+        [
+          "l",
+          [
+            52.5,
+            54.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          56.75,
+          52.25
+        ],
+        [
+          57.75,
+          52.25
+        ],
+        [
+          57.75,
+          53.25
+        ],
+        [
+          53.5,
+          55.5
+        ],
+        [
+          52.5,
+          55.5
+        ],
+        [
+          52.5,
+          54.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 11.64576,
+      "x1": 19.85424,
+      "top": 34.5,
+      "bottom": 45.77631,
+      "path": [
+        [
+          "m",
+          [
+            15.75,
+            34.5
+          ]
+        ],
+        [
+          "l",
+          [
+            19.85424,
+            45.77631
+          ]
+        ],
+        [
+          "c",
+          [
+            17.20315,
+            46.74123
+          ],
+          [
+            14.29685,
+            46.74123
+          ],
+          [
+            11.64576,
+            45.77631
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          15.75,
+          34.5
+        ],
+        [
+          19.85424,
+          45.77631
+        ],
+        [
+          11.64576,
+          45.77631
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 79.47369,
+      "x1": 90.75,
+      "top": 0.8957599999999957,
+      "bottom": 9.104240000000004,
+      "path": [
+        [
+          "m",
+          [
+            90.75,
+            5.0
+          ]
+        ],
+        [
+          "l",
+          [
+            79.47369,
+            9.104240000000004
+          ]
+        ],
+        [
+          "c",
+          [
+            78.50877,
+            6.453159999999997
+          ],
+          [
+            78.50877,
+            3.5468500000000063
+          ],
+          [
+            79.47369,
+            0.8957599999999957
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          90.75,
+          5.0
+        ],
+        [
+          79.47369,
+          9.104240000000004
+        ],
+        [
+          79.47369,
+          0.8957599999999957
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 47.40889,
+      "x1": 59.0,
+      "top": 29.92017,
+      "bottom": 39.75,
+      "path": [
+        [
+          "m",
+          [
+            59.0,
+            39.75
+          ]
+        ],
+        [
+          "l",
+          [
+            47.40889,
+            36.64417
+          ]
+        ],
+        [
+          "c",
+          [
+            48.13908,
+            33.91907
+          ],
+          [
+            49.80606,
+            31.53837
+          ],
+          [
+            52.11708,
+            29.92017
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          59.0,
+          39.75
+        ],
+        [
+          47.40889,
+          36.64417
+        ],
+        [
+          52.11708,
+          29.92017
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 47.25,
+      "x1": 49.75,
+      "top": 31.25,
+      "bottom": 33.5,
+      "path": [
+        [
+          "m",
+          [
+            47.25,
+            31.25
+          ]
+        ],
+        [
+          "l",
+          [
+            48.25,
+            31.25
+          ]
+        ],
+        [
+          "l",
+          [
+            49.75,
+            32.5
+          ]
+        ],
+        [
+          "l",
+          [
+            49.75,
+            33.5
+          ]
+        ],
+        [
+          "l",
+          [
+            48.75,
+            33.5
+          ]
+        ],
+        [
+          "l",
+          [
+            47.25,
+            32.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          47.25,
+          31.25
+        ],
+        [
+          48.25,
+          31.25
+        ],
+        [
+          49.75,
+          32.5
+        ],
+        [
+          49.75,
+          33.5
+        ],
+        [
+          48.75,
+          33.5
+        ],
+        [
+          47.25,
+          32.25
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 142.6458,
+      "x1": 150.8542,
+      "top": 44.47369,
+      "bottom": 55.75,
+      "path": [
+        [
+          "m",
+          [
+            146.75,
+            55.75
+          ]
+        ],
+        [
+          "l",
+          [
+            142.6458,
+            44.47369
+          ]
+        ],
+        [
+          "c",
+          [
+            145.2968,
+            43.50877
+          ],
+          [
+            148.2032,
+            43.50877
+          ],
+          [
+            150.8542,
+            44.47369
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          146.75,
+          55.75
+        ],
+        [
+          142.6458,
+          44.47369
+        ],
+        [
+          150.8542,
+          44.47369
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 75.75,
+      "x1": 87.02631,
+      "top": 71.89576,
+      "bottom": 80.1042404,
+      "path": [
+        [
+          "m",
+          [
+            75.75,
+            76.0
+          ]
+        ],
+        [
+          "l",
+          [
+            87.02631,
+            71.89576
+          ]
+        ],
+        [
+          "c",
+          [
+            87.99123,
+            74.546852
+          ],
+          [
+            87.99123,
+            77.453148
+          ],
+          [
+            87.02631,
+            80.1042404
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          75.75,
+          76.0
+        ],
+        [
+          87.02631,
+          71.89576
+        ],
+        [
+          87.02631,
+          80.1042404
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 11.75,
+      "x1": 20.75,
+      "top": 1.0,
+      "bottom": 10.0,
+      "path": [
+        [
+          "m",
+          [
+            20.75,
+            5.5
+          ]
+        ],
+        [
+          "c",
+          [
+            20.75,
+            7.985280000000003
+          ],
+          [
+            18.73528,
+            10.0
+          ],
+          [
+            16.25,
+            10.0
+          ]
+        ],
+        [
+          "c",
+          [
+            13.76472,
+            10.0
+          ],
+          [
+            11.75,
+            7.985280000000003
+          ],
+          [
+            11.75,
+            5.5
+          ]
+        ],
+        [
+          "c",
+          [
+            11.75,
+            3.014719999999997
+          ],
+          [
+            13.76472,
+            1.0
+          ],
+          [
+            16.25,
+            1.0
+          ]
+        ],
+        [
+          "c",
+          [
+            18.73528,
+            1.0
+          ],
+          [
+            20.75,
+            3.014719999999997
+          ],
+          [
+            20.75,
+            5.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          20.75,
+          5.5
+        ],
+        [
+          16.25,
+          10.0
+        ],
+        [
+          11.75,
+          5.5
+        ],
+        [
+          16.25,
+          1.0
+        ],
+        [
+          20.75,
+          5.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 12.25,
+      "x1": 20.25,
+      "top": 1.5,
+      "bottom": 9.5,
+      "path": [
+        [
+          "m",
+          [
+            20.25,
+            5.5
+          ]
+        ],
+        [
+          "c",
+          [
+            20.25,
+            7.709137499999997
+          ],
+          [
+            18.45914,
+            9.5
+          ],
+          [
+            16.25,
+            9.5
+          ]
+        ],
+        [
+          "c",
+          [
+            14.04086,
+            9.5
+          ],
+          [
+            12.25,
+            7.709137499999997
+          ],
+          [
+            12.25,
+            5.5
+          ]
+        ],
+        [
+          "c",
+          [
+            12.25,
+            3.290862500000003
+          ],
+          [
+            14.04086,
+            1.5
+          ],
+          [
+            16.25,
+            1.5
+          ]
+        ],
+        [
+          "c",
+          [
+            18.45914,
+            1.5
+          ],
+          [
+            20.25,
+            3.290862500000003
+          ],
+          [
+            20.25,
+            5.5
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          20.25,
+          5.5
+        ],
+        [
+          16.25,
+          9.5
+        ],
+        [
+          12.25,
+          5.5
+        ],
+        [
+          16.25,
+          1.5
+        ],
+        [
+          20.25,
+          5.5
+        ],
+        [
+          20.25,
+          5.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 140.5,
+      "x1": 149.5,
+      "top": 0.0,
+      "bottom": 9.0,
+      "path": [
+        [
+          "m",
+          [
+            149.5,
+            4.5
+          ]
+        ],
+        [
+          "c",
+          [
+            149.5,
+            6.985280000000003
+          ],
+          [
+            147.4853,
+            9.0
+          ],
+          [
+            145.0,
+            9.0
+          ]
+        ],
+        [
+          "c",
+          [
+            142.5147,
+            9.0
+          ],
+          [
+            140.5,
+            6.985280000000003
+          ],
+          [
+            140.5,
+            4.5
+          ]
+        ],
+        [
+          "c",
+          [
+            140.5,
+            2.014719999999997
+          ],
+          [
+            142.5147,
+            0.0
+          ],
+          [
+            145.0,
+            0.0
+          ]
+        ],
+        [
+          "c",
+          [
+            147.4853,
+            0.0
+          ],
+          [
+            149.5,
+            2.014719999999997
+          ],
+          [
+            149.5,
+            4.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          149.5,
+          4.5
+        ],
+        [
+          145.0,
+          9.0
+        ],
+        [
+          140.5,
+          4.5
+        ],
+        [
+          145.0,
+          0.0
+        ],
+        [
+          149.5,
+          4.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 141.0,
+      "x1": 149.0,
+      "top": 0.5,
+      "bottom": 8.5,
+      "path": [
+        [
+          "m",
+          [
+            149.0,
+            4.5
+          ]
+        ],
+        [
+          "c",
+          [
+            149.0,
+            6.709137499999997
+          ],
+          [
+            147.209125,
+            8.5
+          ],
+          [
+            145.0,
+            8.5
+          ]
+        ],
+        [
+          "c",
+          [
+            142.790875,
+            8.5
+          ],
+          [
+            141.0,
+            6.709137499999997
+          ],
+          [
+            141.0,
+            4.5
+          ]
+        ],
+        [
+          "c",
+          [
+            141.0,
+            2.2908630000000016
+          ],
+          [
+            142.790875,
+            0.5
+          ],
+          [
+            145.0,
+            0.5
+          ]
+        ],
+        [
+          "c",
+          [
+            147.209125,
+            0.5
+          ],
+          [
+            149.0,
+            2.2908630000000016
+          ],
+          [
+            149.0,
+            4.5
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          149.0,
+          4.5
+        ],
+        [
+          145.0,
+          8.5
+        ],
+        [
+          141.0,
+          4.5
+        ],
+        [
+          145.0,
+          0.5
+        ],
+        [
+          149.0,
+          4.5
+        ],
+        [
+          149.0,
+          4.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 140.5,
+      "x1": 149.5,
+      "top": 71.0,
+      "bottom": 80.25,
+      "path": [
+        [
+          "m",
+          [
+            149.5,
+            75.625
+          ]
+        ],
+        [
+          "c",
+          [
+            149.5,
+            78.179317
+          ],
+          [
+            147.4853,
+            80.25
+          ],
+          [
+            145.0,
+            80.25
+          ]
+        ],
+        [
+          "c",
+          [
+            142.5147,
+            80.25
+          ],
+          [
+            140.5,
+            78.179317
+          ],
+          [
+            140.5,
+            75.625
+          ]
+        ],
+        [
+          "c",
+          [
+            140.5,
+            73.070683
+          ],
+          [
+            142.5147,
+            71.0
+          ],
+          [
+            145.0,
+            71.0
+          ]
+        ],
+        [
+          "c",
+          [
+            147.4853,
+            71.0
+          ],
+          [
+            149.5,
+            73.070683
+          ],
+          [
+            149.5,
+            75.625
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          149.5,
+          75.625
+        ],
+        [
+          145.0,
+          80.25
+        ],
+        [
+          140.5,
+          75.625
+        ],
+        [
+          145.0,
+          71.0
+        ],
+        [
+          149.5,
+          75.625
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 141.0,
+      "x1": 149.0,
+      "top": 71.5,
+      "bottom": 79.75,
+      "path": [
+        [
+          "m",
+          [
+            149.0,
+            75.625
+          ]
+        ],
+        [
+          "c",
+          [
+            149.0,
+            77.903175
+          ],
+          [
+            147.209125,
+            79.75
+          ],
+          [
+            145.0,
+            79.75
+          ]
+        ],
+        [
+          "c",
+          [
+            142.790875,
+            79.75
+          ],
+          [
+            141.0,
+            77.903175
+          ],
+          [
+            141.0,
+            75.625
+          ]
+        ],
+        [
+          "c",
+          [
+            141.0,
+            73.346825
+          ],
+          [
+            142.790875,
+            71.5
+          ],
+          [
+            145.0,
+            71.5
+          ]
+        ],
+        [
+          "c",
+          [
+            147.209125,
+            71.5
+          ],
+          [
+            149.0,
+            73.346825
+          ],
+          [
+            149.0,
+            75.625
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          149.0,
+          75.625
+        ],
+        [
+          145.0,
+          79.75
+        ],
+        [
+          141.0,
+          75.625
+        ],
+        [
+          145.0,
+          71.5
+        ],
+        [
+          149.0,
+          75.625
+        ],
+        [
+          149.0,
+          75.625
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 11.75,
+      "x1": 20.75,
+      "top": 71.0,
+      "bottom": 80.25,
+      "path": [
+        [
+          "m",
+          [
+            20.75,
+            75.625
+          ]
+        ],
+        [
+          "c",
+          [
+            20.75,
+            78.179317
+          ],
+          [
+            18.73528,
+            80.25
+          ],
+          [
+            16.25,
+            80.25
+          ]
+        ],
+        [
+          "c",
+          [
+            13.76472,
+            80.25
+          ],
+          [
+            11.75,
+            78.179317
+          ],
+          [
+            11.75,
+            75.625
+          ]
+        ],
+        [
+          "c",
+          [
+            11.75,
+            73.070683
+          ],
+          [
+            13.76472,
+            71.0
+          ],
+          [
+            16.25,
+            71.0
+          ]
+        ],
+        [
+          "c",
+          [
+            18.73528,
+            71.0
+          ],
+          [
+            20.75,
+            73.070683
+          ],
+          [
+            20.75,
+            75.625
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          20.75,
+          75.625
+        ],
+        [
+          16.25,
+          80.25
+        ],
+        [
+          11.75,
+          75.625
+        ],
+        [
+          16.25,
+          71.0
+        ],
+        [
+          20.75,
+          75.625
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 12.25,
+      "x1": 20.25,
+      "top": 71.5,
+      "bottom": 79.75,
+      "path": [
+        [
+          "m",
+          [
+            20.25,
+            75.625
+          ]
+        ],
+        [
+          "c",
+          [
+            20.25,
+            77.903175
+          ],
+          [
+            18.45914,
+            79.75
+          ],
+          [
+            16.25,
+            79.75
+          ]
+        ],
+        [
+          "c",
+          [
+            14.04086,
+            79.75
+          ],
+          [
+            12.25,
+            77.903175
+          ],
+          [
+            12.25,
+            75.625
+          ]
+        ],
+        [
+          "c",
+          [
+            12.25,
+            73.346825
+          ],
+          [
+            14.04086,
+            71.5
+          ],
+          [
+            16.25,
+            71.5
+          ]
+        ],
+        [
+          "c",
+          [
+            18.45914,
+            71.5
+          ],
+          [
+            20.25,
+            73.346825
+          ],
+          [
+            20.25,
+            75.625
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          20.25,
+          75.625
+        ],
+        [
+          16.25,
+          79.75
+        ],
+        [
+          12.25,
+          75.625
+        ],
+        [
+          16.25,
+          71.5
+        ],
+        [
+          20.25,
+          75.625
+        ],
+        [
+          20.25,
+          75.625
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "review": "needs_review",
+  "label_review": "Legacy PDF text encodings may require correction. SVG outlines preserve visual labels."
+}

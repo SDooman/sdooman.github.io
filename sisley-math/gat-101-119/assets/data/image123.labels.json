@@ -1,0 +1,3976 @@
+{
+  "labels": [
+    {
+      "text": "X",
+      "bbox_pt": [
+        1.75,
+        16.5,
+        10.414,
+        28.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        10.5,
+        18.0,
+        15.5,
+        28.0
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        15.5,
+        18.0,
+        21.61,
+        28.0
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        21.5,
+        19.5,
+        24.5,
+        31.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        24.5,
+        16.5,
+        31.268,
+        28.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        31.268,
+        16.5,
+        34.268,
+        28.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "c",
+      "bbox_pt": [
+        34.268,
+        16.5,
+        39.596000000000004,
+        28.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        39.5936,
+        16.5,
+        45.5936,
+        28.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        45.5936,
+        16.5,
+        50.2616,
+        28.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        50.263999999999996,
+        16.5,
+        54.26,
+        28.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        54.26,
+        16.5,
+        61.592,
+        28.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        61.589600000000004,
+        16.5,
+        65.5856,
+        28.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "Y",
+      "bbox_pt": [
+        1.75,
+        31.5,
+        10.414,
+        43.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        10.5,
+        33.0,
+        15.5,
+        43.0
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        15.5,
+        33.0,
+        21.61,
+        43.0
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        21.5,
+        34.5,
+        24.5,
+        46.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        24.5,
+        31.5,
+        31.268,
+        43.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        31.268,
+        31.5,
+        34.268,
+        43.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        34.268,
+        31.5,
+        38.936,
+        43.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        38.9384,
+        31.5,
+        42.2744,
+        43.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        42.272000000000006,
+        31.5,
+        48.272000000000006,
+        43.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        48.272000000000006,
+        31.5,
+        52.26800000000001,
+        43.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        52.268,
+        31.5,
+        59.6,
+        43.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        59.5976,
+        31.5,
+        63.5936,
+        43.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        1.75,
+        46.5,
+        9.082,
+        58.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "m",
+      "bbox_pt": [
+        9.0796,
+        46.5,
+        18.415599999999998,
+        58.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        18.4132,
+        46.5,
+        21.749200000000002,
+        58.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        21.7468,
+        46.5,
+        27.7468,
+        58.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        27.746800000000004,
+        46.5,
+        30.746800000000004,
+        58.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        30.746800000000004,
+        46.5,
+        37.51480000000001,
+        58.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        37.51480000000001,
+        46.5,
+        40.51480000000001,
+        58.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        40.51480000000001,
+        46.5,
+        46.51480000000001,
+        58.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        1.75,
+        58.5,
+        9.082,
+        70.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "m",
+      "bbox_pt": [
+        9.0796,
+        58.5,
+        18.415599999999998,
+        70.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        18.4132,
+        58.5,
+        23.7412,
+        70.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "x",
+      "bbox_pt": [
+        23.7388,
+        58.5,
+        29.7388,
+        70.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        29.738799999999998,
+        58.5,
+        32.7388,
+        70.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        32.7388,
+        58.5,
+        39.5068,
+        70.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        39.5068,
+        58.5,
+        42.5068,
+        70.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        42.5068,
+        58.5,
+        48.5068,
+        70.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "6",
+      "bbox_pt": [
+        48.5068,
+        58.5,
+        54.5068,
+        70.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        54.5068,
+        58.5,
+        60.5068,
+        70.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        1.75,
+        70.5,
+        9.082,
+        82.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        9.0796,
+        70.5,
+        13.747599999999998,
+        82.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        13.75,
+        70.5,
+        17.086,
+        82.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        17.0836,
+        70.5,
+        22.4116,
+        82.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "p",
+      "bbox_pt": [
+        22.4092,
+        70.5,
+        28.4092,
+        82.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        28.4092,
+        70.5,
+        31.4092,
+        82.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        31.4092,
+        70.5,
+        38.1772,
+        82.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        38.1772,
+        70.5,
+        41.1772,
+        82.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        41.1772,
+        70.5,
+        47.1772,
+        82.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        47.1772,
+        70.5,
+        53.1772,
+        82.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        53.177200000000006,
+        70.5,
+        59.177200000000006,
+        82.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        1.75,
+        82.5,
+        8.518,
+        94.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        8.518,
+        82.5,
+        11.518,
+        94.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        11.518,
+        82.5,
+        17.518,
+        94.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "6",
+      "bbox_pt": [
+        17.518,
+        82.5,
+        23.518,
+        94.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        23.518,
+        82.5,
+        29.518,
+        94.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        29.518,
+        82.5,
+        32.518,
+        94.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        32.518,
+        82.5,
+        35.518,
+        94.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        35.518,
+        82.5,
+        38.518,
+        94.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        38.518,
+        82.5,
+        44.518,
+        94.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "X",
+      "bbox_pt": [
+        360.75,
+        13.5,
+        369.414,
+        25.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        369.5,
+        15.0,
+        374.5,
+        25.0
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        374.5,
+        15.0,
+        380.61,
+        25.0
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        380.5,
+        16.5,
+        383.5,
+        28.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        383.5,
+        13.5,
+        390.26800000000003,
+        25.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        390.26800000000003,
+        13.5,
+        393.26800000000003,
+        25.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "c",
+      "bbox_pt": [
+        393.26800000000003,
+        13.5,
+        398.596,
+        25.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        398.5936,
+        13.5,
+        404.5936,
+        25.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        404.5936,
+        13.5,
+        409.2616,
+        25.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        409.264,
+        13.5,
+        413.26,
+        25.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        413.26,
+        13.5,
+        420.592,
+        25.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        420.5896,
+        13.5,
+        424.5856,
+        25.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "Y",
+      "bbox_pt": [
+        360.75,
+        28.5,
+        369.414,
+        40.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        369.5,
+        30.0,
+        374.5,
+        40.0
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        374.5,
+        30.0,
+        380.61,
+        40.0
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        380.5,
+        31.5,
+        383.5,
+        43.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        383.5,
+        28.5,
+        390.26800000000003,
+        40.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        390.26800000000003,
+        28.5,
+        393.26800000000003,
+        40.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        393.26800000000003,
+        28.5,
+        397.93600000000004,
+        40.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        397.9384,
+        28.5,
+        401.2744,
+        40.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        401.272,
+        28.5,
+        407.272,
+        40.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        407.272,
+        28.5,
+        411.268,
+        40.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        411.26800000000003,
+        28.5,
+        418.6,
+        40.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        418.5976,
+        28.5,
+        422.5936,
+        40.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        360.75,
+        43.5,
+        368.082,
+        55.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "m",
+      "bbox_pt": [
+        368.0796,
+        43.5,
+        377.41560000000004,
+        55.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        377.4132,
+        43.5,
+        380.74920000000003,
+        55.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        380.7468,
+        43.5,
+        386.7468,
+        55.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        386.7468,
+        43.5,
+        389.7468,
+        55.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        389.7468,
+        43.5,
+        396.51480000000004,
+        55.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        396.51480000000004,
+        43.5,
+        399.51480000000004,
+        55.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        399.51480000000004,
+        43.5,
+        405.51480000000004,
+        55.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "8",
+      "bbox_pt": [
+        405.51480000000004,
+        43.5,
+        411.51480000000004,
+        55.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        411.51480000000004,
+        43.5,
+        417.51480000000004,
+        55.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        360.75,
+        55.5,
+        368.082,
+        67.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "m",
+      "bbox_pt": [
+        368.0796,
+        55.5,
+        377.41560000000004,
+        67.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        377.4132,
+        55.5,
+        382.7412,
+        67.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "x",
+      "bbox_pt": [
+        382.7388,
+        55.5,
+        388.7388,
+        67.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        388.73879999999997,
+        55.5,
+        391.73879999999997,
+        67.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        391.73879999999997,
+        55.5,
+        398.5068,
+        67.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        398.5068,
+        55.5,
+        401.5068,
+        67.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "5",
+      "bbox_pt": [
+        401.5068,
+        55.5,
+        407.5068,
+        67.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "4",
+      "bbox_pt": [
+        407.5068,
+        55.5,
+        413.5068,
+        67.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        413.5068,
+        55.5,
+        419.5068,
+        67.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        360.75,
+        67.5,
+        368.082,
+        79.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        368.0796,
+        67.5,
+        372.74760000000003,
+        79.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        372.75,
+        67.5,
+        376.086,
+        79.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        376.0836,
+        67.5,
+        381.41159999999996,
+        79.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "p",
+      "bbox_pt": [
+        381.4092,
+        67.5,
+        387.4092,
+        79.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        387.4092,
+        67.5,
+        390.4092,
+        79.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        390.4092,
+        67.5,
+        397.17719999999997,
+        79.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        397.17719999999997,
+        67.5,
+        400.17719999999997,
+        79.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        400.17719999999997,
+        67.5,
+        406.17719999999997,
+        79.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        406.17719999999997,
+        67.5,
+        412.17719999999997,
+        79.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        412.1772,
+        67.5,
+        418.1772,
+        79.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        360.75,
+        79.5,
+        367.51800000000003,
+        91.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        367.51800000000003,
+        79.5,
+        370.51800000000003,
+        91.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        370.51800000000003,
+        79.5,
+        376.51800000000003,
+        91.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "6",
+      "bbox_pt": [
+        376.51800000000003,
+        79.5,
+        382.51800000000003,
+        91.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        382.51800000000003,
+        79.5,
+        388.51800000000003,
+        91.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        388.51800000000003,
+        79.5,
+        391.51800000000003,
+        91.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        391.51800000000003,
+        79.5,
+        394.51800000000003,
+        91.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        394.51800000000003,
+        79.5,
+        397.51800000000003,
+        91.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        397.51800000000003,
+        79.5,
+        403.51800000000003,
+        91.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "X",
+      "bbox_pt": [
+        0.75,
+        133.5,
+        9.414,
+        145.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        9.5,
+        135.0,
+        14.5,
+        145.0
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        14.5,
+        135.0,
+        20.61,
+        145.0
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        20.5,
+        136.5,
+        23.5,
+        148.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        23.5,
+        133.5,
+        30.268,
+        145.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        30.268,
+        133.5,
+        33.268,
+        145.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "c",
+      "bbox_pt": [
+        33.268,
+        133.5,
+        38.596000000000004,
+        145.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        38.5936,
+        133.5,
+        44.5936,
+        145.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        44.5936,
+        133.5,
+        49.2616,
+        145.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        49.263999999999996,
+        133.5,
+        53.26,
+        145.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        53.26,
+        133.5,
+        60.592,
+        145.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        60.589600000000004,
+        133.5,
+        64.5856,
+        145.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "Y",
+      "bbox_pt": [
+        0.75,
+        148.5,
+        9.414,
+        160.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        9.5,
+        150.0,
+        14.5,
+        160.0
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        14.5,
+        150.0,
+        20.61,
+        160.0
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        20.5,
+        151.5,
+        23.5,
+        163.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        23.5,
+        148.5,
+        30.268,
+        160.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        30.268,
+        148.5,
+        33.268,
+        160.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        33.268,
+        148.5,
+        37.936,
+        160.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        37.9384,
+        148.5,
+        41.2744,
+        160.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        41.272000000000006,
+        148.5,
+        47.272000000000006,
+        160.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        47.272000000000006,
+        148.5,
+        51.26800000000001,
+        160.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        51.268,
+        148.5,
+        58.6,
+        160.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        58.5976,
+        148.5,
+        62.5936,
+        160.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        0.75,
+        163.5,
+        8.082,
+        175.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "m",
+      "bbox_pt": [
+        8.0796,
+        163.5,
+        17.415599999999998,
+        175.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        17.4132,
+        163.5,
+        20.749200000000002,
+        175.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        20.7468,
+        163.5,
+        26.7468,
+        175.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        26.746800000000004,
+        163.5,
+        29.746800000000004,
+        175.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        29.746800000000004,
+        163.5,
+        36.51480000000001,
+        175.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        36.51480000000001,
+        163.5,
+        39.51480000000001,
+        175.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        39.51480000000001,
+        163.5,
+        45.51480000000001,
+        175.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        0.75,
+        175.5,
+        8.082,
+        187.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "m",
+      "bbox_pt": [
+        8.0796,
+        175.5,
+        17.415599999999998,
+        187.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        17.4132,
+        175.5,
+        22.7412,
+        187.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "x",
+      "bbox_pt": [
+        22.7388,
+        175.5,
+        28.7388,
+        187.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        28.738799999999998,
+        175.5,
+        31.738799999999998,
+        187.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        31.738799999999998,
+        175.5,
+        38.5068,
+        187.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        38.5068,
+        175.5,
+        41.5068,
+        187.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        41.5068,
+        175.5,
+        47.5068,
+        187.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "6",
+      "bbox_pt": [
+        47.5068,
+        175.5,
+        53.5068,
+        187.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        53.5068,
+        175.5,
+        59.5068,
+        187.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        0.75,
+        187.5,
+        8.082,
+        199.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        8.0796,
+        187.5,
+        12.747599999999998,
+        199.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        12.75,
+        187.5,
+        16.086,
+        199.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        16.0836,
+        187.5,
+        21.4116,
+        199.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "p",
+      "bbox_pt": [
+        21.4092,
+        187.5,
+        27.4092,
+        199.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        27.4092,
+        187.5,
+        30.4092,
+        199.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        30.4092,
+        187.5,
+        37.1772,
+        199.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        37.1772,
+        187.5,
+        40.1772,
+        199.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "9",
+      "bbox_pt": [
+        40.1772,
+        187.5,
+        46.1772,
+        199.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        46.1772,
+        187.5,
+        52.1772,
+        199.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        0.75,
+        199.5,
+        3.75,
+        211.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        3.75,
+        199.5,
+        10.518,
+        211.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        10.518,
+        199.5,
+        13.518,
+        211.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        13.518,
+        199.5,
+        19.518,
+        211.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "6",
+      "bbox_pt": [
+        19.518,
+        199.5,
+        25.518,
+        211.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        25.518,
+        199.5,
+        31.518,
+        211.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        31.518,
+        199.5,
+        34.518,
+        211.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        34.518,
+        199.5,
+        37.518,
+        211.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        37.518,
+        199.5,
+        40.518,
+        211.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "4",
+      "bbox_pt": [
+        40.518,
+        199.5,
+        46.518,
+        211.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "X",
+      "bbox_pt": [
+        365.75,
+        132.5,
+        374.414,
+        144.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        374.5,
+        134.0,
+        379.5,
+        144.0
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        379.5,
+        134.0,
+        385.61,
+        144.0
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        385.5,
+        135.5,
+        388.5,
+        147.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        388.5,
+        132.5,
+        395.26800000000003,
+        144.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        395.26800000000003,
+        132.5,
+        398.26800000000003,
+        144.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "c",
+      "bbox_pt": [
+        398.26800000000003,
+        132.5,
+        403.596,
+        144.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        403.5936,
+        132.5,
+        409.5936,
+        144.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        409.5936,
+        132.5,
+        414.2616,
+        144.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        414.264,
+        132.5,
+        418.26,
+        144.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        418.26,
+        132.5,
+        425.592,
+        144.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        425.5896,
+        132.5,
+        429.5856,
+        144.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "Y",
+      "bbox_pt": [
+        365.75,
+        147.5,
+        374.414,
+        159.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        374.5,
+        149.0,
+        379.5,
+        159.0
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        379.5,
+        149.0,
+        385.61,
+        159.0
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        385.5,
+        150.5,
+        388.5,
+        162.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        388.5,
+        147.5,
+        395.26800000000003,
+        159.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        395.26800000000003,
+        147.5,
+        398.26800000000003,
+        159.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        398.26800000000003,
+        147.5,
+        402.93600000000004,
+        159.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        402.9384,
+        147.5,
+        406.2744,
+        159.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        406.272,
+        147.5,
+        412.272,
+        159.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        412.272,
+        147.5,
+        416.268,
+        159.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        416.26800000000003,
+        147.5,
+        423.6,
+        159.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        423.5976,
+        147.5,
+        427.5936,
+        159.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        365.75,
+        162.5,
+        373.082,
+        174.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "m",
+      "bbox_pt": [
+        373.0796,
+        162.5,
+        382.41560000000004,
+        174.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        382.4132,
+        162.5,
+        385.74920000000003,
+        174.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        385.7468,
+        162.5,
+        391.7468,
+        174.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        391.7468,
+        162.5,
+        394.7468,
+        174.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        394.7468,
+        162.5,
+        401.51480000000004,
+        174.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        401.51480000000004,
+        162.5,
+        404.51480000000004,
+        174.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        404.51480000000004,
+        162.5,
+        410.51480000000004,
+        174.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        365.75,
+        174.5,
+        373.082,
+        186.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "m",
+      "bbox_pt": [
+        373.0796,
+        174.5,
+        382.41560000000004,
+        186.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "a",
+      "bbox_pt": [
+        382.4132,
+        174.5,
+        387.7412,
+        186.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "x",
+      "bbox_pt": [
+        387.7388,
+        174.5,
+        393.7388,
+        186.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        393.73879999999997,
+        174.5,
+        396.73879999999997,
+        186.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        396.73879999999997,
+        174.5,
+        403.5068,
+        186.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        403.5068,
+        174.5,
+        406.5068,
+        186.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        406.5068,
+        174.5,
+        412.5068,
+        186.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "6",
+      "bbox_pt": [
+        412.5068,
+        174.5,
+        418.5068,
+        186.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        418.5068,
+        174.5,
+        424.5068,
+        186.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "T",
+      "bbox_pt": [
+        365.75,
+        186.5,
+        373.082,
+        198.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "s",
+      "bbox_pt": [
+        373.0796,
+        186.5,
+        377.74760000000003,
+        198.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        377.75,
+        186.5,
+        381.086,
+        198.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        381.0836,
+        186.5,
+        386.41159999999996,
+        198.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "p",
+      "bbox_pt": [
+        386.4092,
+        186.5,
+        392.4092,
+        198.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        392.4092,
+        186.5,
+        395.4092,
+        198.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        395.4092,
+        186.5,
+        402.17719999999997,
+        198.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        402.17719999999997,
+        186.5,
+        405.17719999999997,
+        198.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "7",
+      "bbox_pt": [
+        405.17719999999997,
+        186.5,
+        411.17719999999997,
+        198.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        411.17719999999997,
+        186.5,
+        417.17719999999997,
+        198.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        365.75,
+        198.5,
+        372.51800000000003,
+        210.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        372.51800000000003,
+        198.5,
+        375.51800000000003,
+        210.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        375.51800000000003,
+        198.5,
+        381.51800000000003,
+        210.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "6",
+      "bbox_pt": [
+        381.51800000000003,
+        198.5,
+        387.51800000000003,
+        210.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        387.51800000000003,
+        198.5,
+        393.51800000000003,
+        210.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        393.51800000000003,
+        198.5,
+        396.51800000000003,
+        210.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        396.51800000000003,
+        198.5,
+        399.51800000000003,
+        210.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        399.51800000000003,
+        198.5,
+        402.51800000000003,
+        210.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "5",
+      "bbox_pt": [
+        402.51800000000003,
+        198.5,
+        408.51800000000003,
+        210.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "÷",
+      "bbox_pt": [
+        30.75,
+        82.088,
+        37.338,
+        94.088
+      ],
+      "font": "PIJPDZ+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "÷",
+      "bbox_pt": [
+        389.75,
+        80.088,
+        396.338,
+        92.088
+      ],
+      "font": "PIJPDZ+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "÷",
+      "bbox_pt": [
+        32.75,
+        200.088,
+        39.338,
+        212.088
+      ],
+      "font": "PIJPDZ+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "÷",
+      "bbox_pt": [
+        394.75,
+        199.088,
+        401.338,
+        211.088
+      ],
+      "font": "PIJPDZ+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        180.75,
+        56.5,
+        184.746,
+        68.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        184.746,
+        56.5,
+        190.746,
+        68.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ",",
+      "bbox_pt": [
+        190.746,
+        56.5,
+        193.746,
+        68.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        193.746,
+        56.5,
+        196.746,
+        68.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        196.746,
+        56.5,
+        202.746,
+        68.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        202.746,
+        56.5,
+        206.74200000000002,
+        68.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        180.75,
+        177.5,
+        184.746,
+        189.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        184.746,
+        177.5,
+        190.746,
+        189.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ",",
+      "bbox_pt": [
+        190.746,
+        177.5,
+        193.746,
+        189.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        193.746,
+        177.5,
+        196.746,
+        189.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        196.746,
+        177.5,
+        202.746,
+        189.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        202.746,
+        177.5,
+        206.74200000000002,
+        189.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        335.75,
+        174.5,
+        339.746,
+        186.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        339.746,
+        174.5,
+        345.746,
+        186.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ",",
+      "bbox_pt": [
+        345.746,
+        174.5,
+        348.746,
+        186.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        348.746,
+        174.5,
+        351.746,
+        186.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        351.746,
+        174.5,
+        357.746,
+        186.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        357.746,
+        174.5,
+        361.74199999999996,
+        186.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        239.75,
+        55.5,
+        243.746,
+        67.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "¯",
+      "bbox_pt": [
+        243.746,
+        55.5,
+        247.74200000000002,
+        67.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        247.742,
+        55.5,
+        253.742,
+        67.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ",",
+      "bbox_pt": [
+        253.742,
+        55.5,
+        256.74199999999996,
+        67.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        256.742,
+        55.5,
+        259.742,
+        67.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        259.742,
+        55.5,
+        265.742,
+        67.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        265.742,
+        55.5,
+        269.738,
+        67.5
+      ],
+      "font": "GYJZDQ+Times-Roman",
+      "size": 12.0
+    }
+  ],
+  "drawing_primitives": [
+    {
+      "object_type": "curve",
+      "x0": 174.0,
+      "x1": 182.0,
+      "top": 47.0,
+      "bottom": 55.0,
+      "path": [
+        [
+          "m",
+          [
+            182.0,
+            51.0
+          ]
+        ],
+        [
+          "c",
+          [
+            182.0,
+            53.20910000000001
+          ],
+          [
+            180.2091,
+            55.0
+          ],
+          [
+            178.0,
+            55.0
+          ]
+        ],
+        [
+          "c",
+          [
+            175.7909,
+            55.0
+          ],
+          [
+            174.0,
+            53.20910000000001
+          ],
+          [
+            174.0,
+            51.0
+          ]
+        ],
+        [
+          "c",
+          [
+            174.0,
+            48.79089999999999
+          ],
+          [
+            175.7909,
+            47.0
+          ],
+          [
+            178.0,
+            47.0
+          ]
+        ],
+        [
+          "c",
+          [
+            180.2091,
+            47.0
+          ],
+          [
+            182.0,
+            48.79089999999999
+          ],
+          [
+            182.0,
+            51.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          182.0,
+          51.0
+        ],
+        [
+          178.0,
+          55.0
+        ],
+        [
+          174.0,
+          51.0
+        ],
+        [
+          178.0,
+          47.0
+        ],
+        [
+          182.0,
+          51.0
+        ]
+      ],
+      "linewidth": 0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 174.5,
+      "x1": 181.5,
+      "top": 47.5,
+      "bottom": 54.5,
+      "path": [
+        [
+          "m",
+          [
+            181.5,
+            51.0
+          ]
+        ],
+        [
+          "c",
+          [
+            181.5,
+            52.93299999999999
+          ],
+          [
+            179.933,
+            54.5
+          ],
+          [
+            178.0,
+            54.5
+          ]
+        ],
+        [
+          "c",
+          [
+            176.067,
+            54.5
+          ],
+          [
+            174.5,
+            52.93299999999999
+          ],
+          [
+            174.5,
+            51.0
+          ]
+        ],
+        [
+          "c",
+          [
+            174.5,
+            49.06700000000001
+          ],
+          [
+            176.067,
+            47.5
+          ],
+          [
+            178.0,
+            47.5
+          ]
+        ],
+        [
+          "c",
+          [
+            179.933,
+            47.5
+          ],
+          [
+            181.5,
+            49.06700000000001
+          ],
+          [
+            181.5,
+            51.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          181.5,
+          51.0
+        ],
+        [
+          178.0,
+          54.5
+        ],
+        [
+          174.5,
+          51.0
+        ],
+        [
+          178.0,
+          47.5
+        ],
+        [
+          181.5,
+          51.0
+        ],
+        [
+          181.5,
+          51.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 257.0,
+      "x1": 265.0,
+      "top": 45.0,
+      "bottom": 53.0,
+      "path": [
+        [
+          "m",
+          [
+            265.0,
+            49.0
+          ]
+        ],
+        [
+          "c",
+          [
+            265.0,
+            51.20910000000001
+          ],
+          [
+            263.2091,
+            53.0
+          ],
+          [
+            261.0,
+            53.0
+          ]
+        ],
+        [
+          "c",
+          [
+            258.7909,
+            53.0
+          ],
+          [
+            257.0,
+            51.20910000000001
+          ],
+          [
+            257.0,
+            49.0
+          ]
+        ],
+        [
+          "c",
+          [
+            257.0,
+            46.79089999999999
+          ],
+          [
+            258.7909,
+            45.0
+          ],
+          [
+            261.0,
+            45.0
+          ]
+        ],
+        [
+          "c",
+          [
+            263.2091,
+            45.0
+          ],
+          [
+            265.0,
+            46.79089999999999
+          ],
+          [
+            265.0,
+            49.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          265.0,
+          49.0
+        ],
+        [
+          261.0,
+          53.0
+        ],
+        [
+          257.0,
+          49.0
+        ],
+        [
+          261.0,
+          45.0
+        ],
+        [
+          265.0,
+          49.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 257.5,
+      "x1": 264.5,
+      "top": 45.5,
+      "bottom": 52.5,
+      "path": [
+        [
+          "m",
+          [
+            264.5,
+            49.0
+          ]
+        ],
+        [
+          "c",
+          [
+            264.5,
+            50.93299999999999
+          ],
+          [
+            262.933,
+            52.5
+          ],
+          [
+            261.0,
+            52.5
+          ]
+        ],
+        [
+          "c",
+          [
+            259.067,
+            52.5
+          ],
+          [
+            257.5,
+            50.93299999999999
+          ],
+          [
+            257.5,
+            49.0
+          ]
+        ],
+        [
+          "c",
+          [
+            257.5,
+            47.06700000000001
+          ],
+          [
+            259.067,
+            45.5
+          ],
+          [
+            261.0,
+            45.5
+          ]
+        ],
+        [
+          "c",
+          [
+            262.933,
+            45.5
+          ],
+          [
+            264.5,
+            47.06700000000001
+          ],
+          [
+            264.5,
+            49.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          264.5,
+          49.0
+        ],
+        [
+          261.0,
+          52.5
+        ],
+        [
+          257.5,
+          49.0
+        ],
+        [
+          261.0,
+          45.5
+        ],
+        [
+          264.5,
+          49.0
+        ],
+        [
+          264.5,
+          49.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 179.0,
+      "x1": 187.0,
+      "top": 163.0,
+      "bottom": 171.0,
+      "path": [
+        [
+          "m",
+          [
+            187.0,
+            167.0
+          ]
+        ],
+        [
+          "c",
+          [
+            187.0,
+            169.20914
+          ],
+          [
+            185.2091,
+            171.0
+          ],
+          [
+            183.0,
+            171.0
+          ]
+        ],
+        [
+          "c",
+          [
+            180.7909,
+            171.0
+          ],
+          [
+            179.0,
+            169.20914
+          ],
+          [
+            179.0,
+            167.0
+          ]
+        ],
+        [
+          "c",
+          [
+            179.0,
+            164.79086
+          ],
+          [
+            180.7909,
+            163.0
+          ],
+          [
+            183.0,
+            163.0
+          ]
+        ],
+        [
+          "c",
+          [
+            185.2091,
+            163.0
+          ],
+          [
+            187.0,
+            164.79086
+          ],
+          [
+            187.0,
+            167.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          187.0,
+          167.0
+        ],
+        [
+          183.0,
+          171.0
+        ],
+        [
+          179.0,
+          167.0
+        ],
+        [
+          183.0,
+          163.0
+        ],
+        [
+          187.0,
+          167.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 179.5,
+      "x1": 186.5,
+      "top": 163.5,
+      "bottom": 170.5,
+      "path": [
+        [
+          "m",
+          [
+            186.5,
+            167.0
+          ]
+        ],
+        [
+          "c",
+          [
+            186.5,
+            168.933
+          ],
+          [
+            184.933,
+            170.5
+          ],
+          [
+            183.0,
+            170.5
+          ]
+        ],
+        [
+          "c",
+          [
+            181.067,
+            170.5
+          ],
+          [
+            179.5,
+            168.933
+          ],
+          [
+            179.5,
+            167.0
+          ]
+        ],
+        [
+          "c",
+          [
+            179.5,
+            165.067
+          ],
+          [
+            181.067,
+            163.5
+          ],
+          [
+            183.0,
+            163.5
+          ]
+        ],
+        [
+          "c",
+          [
+            184.933,
+            163.5
+          ],
+          [
+            186.5,
+            165.067
+          ],
+          [
+            186.5,
+            167.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          186.5,
+          167.0
+        ],
+        [
+          183.0,
+          170.5
+        ],
+        [
+          179.5,
+          167.0
+        ],
+        [
+          183.0,
+          163.5
+        ],
+        [
+          186.5,
+          167.0
+        ],
+        [
+          186.5,
+          167.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 333.0,
+      "x1": 341.0,
+      "top": 162.0,
+      "bottom": 170.0,
+      "path": [
+        [
+          "m",
+          [
+            341.0,
+            166.0
+          ]
+        ],
+        [
+          "c",
+          [
+            341.0,
+            168.20914
+          ],
+          [
+            339.2091,
+            170.0
+          ],
+          [
+            337.0,
+            170.0
+          ]
+        ],
+        [
+          "c",
+          [
+            334.7909,
+            170.0
+          ],
+          [
+            333.0,
+            168.20914
+          ],
+          [
+            333.0,
+            166.0
+          ]
+        ],
+        [
+          "c",
+          [
+            333.0,
+            163.79086
+          ],
+          [
+            334.7909,
+            162.0
+          ],
+          [
+            337.0,
+            162.0
+          ]
+        ],
+        [
+          "c",
+          [
+            339.2091,
+            162.0
+          ],
+          [
+            341.0,
+            163.79086
+          ],
+          [
+            341.0,
+            166.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          341.0,
+          166.0
+        ],
+        [
+          337.0,
+          170.0
+        ],
+        [
+          333.0,
+          166.0
+        ],
+        [
+          337.0,
+          162.0
+        ],
+        [
+          341.0,
+          166.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 333.5,
+      "x1": 340.5,
+      "top": 162.5,
+      "bottom": 169.5,
+      "path": [
+        [
+          "m",
+          [
+            340.5,
+            166.0
+          ]
+        ],
+        [
+          "c",
+          [
+            340.5,
+            167.933
+          ],
+          [
+            338.933,
+            169.5
+          ],
+          [
+            337.0,
+            169.5
+          ]
+        ],
+        [
+          "c",
+          [
+            335.067,
+            169.5
+          ],
+          [
+            333.5,
+            167.933
+          ],
+          [
+            333.5,
+            166.0
+          ]
+        ],
+        [
+          "c",
+          [
+            333.5,
+            164.067
+          ],
+          [
+            335.067,
+            162.5
+          ],
+          [
+            337.0,
+            162.5
+          ]
+        ],
+        [
+          "c",
+          [
+            338.933,
+            162.5
+          ],
+          [
+            340.5,
+            164.067
+          ],
+          [
+            340.5,
+            166.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          340.5,
+          166.0
+        ],
+        [
+          337.0,
+          169.5
+        ],
+        [
+          333.5,
+          166.0
+        ],
+        [
+          337.0,
+          162.5
+        ],
+        [
+          340.5,
+          166.0
+        ],
+        [
+          340.5,
+          166.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

@@ -15,3 +15,15 @@ __pycache__/
 
 /.venv/
 /working/
+
+!gat-41-58/assets/vendor/
+!gat-41-58/assets/vendor/**
+
+!gat-59-80/assets/vendor/
+!gat-59-80/assets/vendor/**
+
+!gat-81-100/assets/vendor/
+!gat-81-100/assets/vendor/**
+
+!gat-101-119/assets/vendor/
+!gat-101-119/assets/vendor/**

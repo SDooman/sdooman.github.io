@@ -1,0 +1,4813 @@
+{
+  "labels": [
+    {
+      "text": "(",
+      "bbox_pt": [
+        161.0,
+        36.0,
+        164.996,
+        48.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        164.996,
+        36.0,
+        170.996,
+        48.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ",",
+      "bbox_pt": [
+        170.996,
+        36.0,
+        173.996,
+        48.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        173.996,
+        36.0,
+        176.996,
+        48.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        176.996,
+        36.0,
+        182.996,
+        48.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        182.996,
+        36.0,
+        188.996,
+        48.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        188.996,
+        36.0,
+        192.99200000000002,
+        48.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        269.5,
+        69.5,
+        273.496,
+        81.5
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        273.496,
+        69.5,
+        279.496,
+        81.5
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        279.496,
+        69.5,
+        285.496,
+        81.5
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ",",
+      "bbox_pt": [
+        285.496,
+        69.5,
+        288.496,
+        81.5
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        288.496,
+        69.5,
+        291.496,
+        81.5
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        291.496,
+        69.5,
+        297.496,
+        81.5
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        297.496,
+        69.5,
+        303.496,
+        81.5
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        303.496,
+        69.5,
+        307.49199999999996,
+        81.5
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        288.0,
+        184.0,
+        291.996,
+        196.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "4",
+      "bbox_pt": [
+        291.996,
+        184.0,
+        297.996,
+        196.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        297.996,
+        184.0,
+        303.996,
+        196.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ",",
+      "bbox_pt": [
+        303.996,
+        184.0,
+        306.996,
+        196.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        306.996,
+        184.0,
+        309.996,
+        196.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        309.996,
+        184.0,
+        315.996,
+        196.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        315.996,
+        184.0,
+        319.99199999999996,
+        196.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "l",
+      "bbox_pt": [
+        10.0,
+        142.0,
+        13.336,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        13.3336,
+        142.0,
+        16.669600000000003,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        16.6672,
+        142.0,
+        22.6672,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        22.6672,
+        142.0,
+        27.9952,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        27.992800000000003,
+        142.0,
+        30.992800000000003,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "f",
+      "bbox_pt": [
+        30.992800000000003,
+        142.0,
+        34.988800000000005,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        34.988800000000005,
+        142.0,
+        40.988800000000005,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        40.988800000000005,
+        142.0,
+        44.98480000000001,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        44.98480000000001,
+        142.0,
+        47.98480000000001,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "$",
+      "bbox_pt": [
+        47.98480000000001,
+        142.0,
+        53.98480000000001,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "5",
+      "bbox_pt": [
+        53.98480000000001,
+        142.0,
+        59.98480000000001,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        59.9848,
+        142.0,
+        65.9848,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        65.9848,
+        142.0,
+        68.9848,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "p",
+      "bbox_pt": [
+        68.9848,
+        142.0,
+        74.9848,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        74.9848,
+        142.0,
+        78.9808,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        78.9808,
+        142.0,
+        84.9808,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "f",
+      "bbox_pt": [
+        84.9808,
+        142.0,
+        88.9768,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        88.9768,
+        142.0,
+        92.3128,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        92.3104,
+        142.0,
+        95.6464,
+        154.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "l",
+      "bbox_pt": [
+        9.25,
+        87.0,
+        12.586,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        12.5836,
+        87.0,
+        15.9196,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        15.917200000000001,
+        87.0,
+        21.9172,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        21.9172,
+        87.0,
+        27.2452,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        27.242800000000003,
+        87.0,
+        30.242800000000003,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "f",
+      "bbox_pt": [
+        30.242800000000003,
+        87.0,
+        34.238800000000005,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        34.238800000000005,
+        87.0,
+        40.238800000000005,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        40.238800000000005,
+        87.0,
+        44.23480000000001,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        44.23480000000001,
+        87.0,
+        47.23480000000001,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "$",
+      "bbox_pt": [
+        47.23480000000001,
+        87.0,
+        53.23480000000001,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        53.23480000000001,
+        87.0,
+        59.23480000000001,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        59.2348,
+        87.0,
+        65.2348,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        65.2348,
+        87.0,
+        71.2348,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        71.2348,
+        87.0,
+        74.2348,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "p",
+      "bbox_pt": [
+        74.2348,
+        87.0,
+        80.2348,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        80.2348,
+        87.0,
+        84.2308,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        84.2308,
+        87.0,
+        90.2308,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "f",
+      "bbox_pt": [
+        90.2308,
+        87.0,
+        94.2268,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        94.2268,
+        87.0,
+        97.5628,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        97.5604,
+        87.0,
+        100.8964,
+        99.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "l",
+      "bbox_pt": [
+        8.0,
+        19.0,
+        11.336,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        11.3336,
+        19.0,
+        14.6696,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "n",
+      "bbox_pt": [
+        14.667200000000001,
+        19.0,
+        20.6672,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "e",
+      "bbox_pt": [
+        20.6672,
+        19.0,
+        25.9952,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        25.992800000000003,
+        19.0,
+        28.992800000000003,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "f",
+      "bbox_pt": [
+        28.992800000000003,
+        19.0,
+        32.988800000000005,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        32.988800000000005,
+        19.0,
+        38.988800000000005,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        38.988800000000005,
+        19.0,
+        42.98480000000001,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        42.98480000000001,
+        19.0,
+        45.98480000000001,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "$",
+      "bbox_pt": [
+        45.98480000000001,
+        19.0,
+        51.98480000000001,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        51.98480000000001,
+        19.0,
+        57.98480000000001,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "5",
+      "bbox_pt": [
+        57.9848,
+        19.0,
+        63.9848,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        63.9848,
+        19.0,
+        69.9848,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        69.9848,
+        19.0,
+        72.9848,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "p",
+      "bbox_pt": [
+        72.9848,
+        19.0,
+        78.9848,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        78.9848,
+        19.0,
+        82.9808,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        82.9808,
+        19.0,
+        88.9808,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "f",
+      "bbox_pt": [
+        88.9808,
+        19.0,
+        92.9768,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        92.9768,
+        19.0,
+        96.3128,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        96.3104,
+        19.0,
+        99.6464,
+        31.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "y",
+      "bbox_pt": [
+        24.0,
+        165.0,
+        29.328,
+        177.0
+      ],
+      "font": "JKOJSF+Times-Italic",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        31.0,
+        169.588,
+        37.588,
+        181.588
+      ],
+      "font": "RQEVXL+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "−",
+      "bbox_pt": [
+        40.0,
+        156.99,
+        45.49,
+        166.99
+      ],
+      "font": "BUEJFY+Symbol",
+      "size": 10.000000000000007
+    },
+    {
+      "text": "⋅",
+      "bbox_pt": [
+        56.0,
+        169.588,
+        59.0,
+        181.588
+      ],
+      "font": "BUEJFY+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "x",
+      "bbox_pt": [
+        61.0,
+        165.0,
+        66.328,
+        177.0
+      ],
+      "font": "JKOJSF+Times-Italic",
+      "size": 12.0
+    },
+    {
+      "text": "+",
+      "bbox_pt": [
+        68.0,
+        169.588,
+        74.588,
+        181.588
+      ],
+      "font": "RQEVXL+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "5",
+      "bbox_pt": [
+        77.0,
+        157.0,
+        83.0,
+        169.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        83.0,
+        157.0,
+        89.0,
+        169.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "y",
+      "bbox_pt": [
+        23.0,
+        110.0,
+        28.328,
+        122.0
+      ],
+      "font": "JKOJSF+Times-Italic",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        30.0,
+        114.588,
+        36.588,
+        126.588
+      ],
+      "font": "RQEVXL+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "−",
+      "bbox_pt": [
+        39.0,
+        101.99,
+        44.49,
+        111.99
+      ],
+      "font": "BUEJFY+Symbol",
+      "size": 10.0
+    },
+    {
+      "text": "⋅",
+      "bbox_pt": [
+        55.0,
+        114.588,
+        58.0,
+        126.588
+      ],
+      "font": "BUEJFY+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "x",
+      "bbox_pt": [
+        60.0,
+        110.0,
+        65.328,
+        122.0
+      ],
+      "font": "JKOJSF+Times-Italic",
+      "size": 12.0
+    },
+    {
+      "text": "+",
+      "bbox_pt": [
+        67.0,
+        114.588,
+        73.588,
+        126.588
+      ],
+      "font": "RQEVXL+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "y",
+      "bbox_pt": [
+        19.0,
+        42.0,
+        24.328,
+        54.0
+      ],
+      "font": "JKOJSF+Times-Italic",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        26.0,
+        46.587999999999994,
+        32.588,
+        58.587999999999994
+      ],
+      "font": "RQEVXL+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "−",
+      "bbox_pt": [
+        35.0,
+        34.99000000000001,
+        40.49,
+        44.99000000000001
+      ],
+      "font": "BUEJFY+Symbol",
+      "size": 10.0
+    },
+    {
+      "text": "⋅",
+      "bbox_pt": [
+        51.0,
+        46.587999999999994,
+        54.0,
+        58.587999999999994
+      ],
+      "font": "BUEJFY+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "x",
+      "bbox_pt": [
+        56.0,
+        42.0,
+        61.328,
+        54.0
+      ],
+      "font": "JKOJSF+Times-Italic",
+      "size": 12.0
+    },
+    {
+      "text": "+",
+      "bbox_pt": [
+        63.0,
+        46.587999999999994,
+        69.588,
+        58.587999999999994
+      ],
+      "font": "RQEVXL+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        71.0,
+        34.0,
+        77.0,
+        46.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "5",
+      "bbox_pt": [
+        77.0,
+        34.0,
+        83.0,
+        46.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        83.0,
+        34.0,
+        89.0,
+        46.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "5",
+      "bbox_pt": [
+        78.0,
+        51.0,
+        84.0,
+        63.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "5",
+      "bbox_pt": [
+        41.0,
+        51.0,
+        47.0,
+        63.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        42.0,
+        37.0,
+        48.0,
+        49.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "y",
+      "bbox_pt": [
+        245.0,
+        49.0,
+        250.328,
+        61.0
+      ],
+      "font": "JKOJSF+Times-Italic",
+      "size": 12.0
+    },
+    {
+      "text": "-",
+      "bbox_pt": [
+        266.0,
+        37.0,
+        269.996,
+        49.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        272.0,
+        41.0,
+        278.0,
+        53.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "5",
+      "bbox_pt": [
+        272.0,
+        55.0,
+        278.0,
+        67.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "x",
+      "bbox_pt": [
+        288.0,
+        46.0,
+        293.328,
+        58.0
+      ],
+      "font": "JKOJSF+Times-Italic",
+      "size": 12.0
+    },
+    {
+      "text": "+",
+      "bbox_pt": [
+        300.0,
+        47.0,
+        306.76800000000003,
+        59.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "P",
+      "bbox_pt": [
+        319.0,
+        37.0,
+        325.672,
+        49.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "5",
+      "bbox_pt": [
+        319.0,
+        54.0,
+        325.0,
+        66.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        257.0,
+        48.0,
+        263.76800000000003,
+        60.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        73.0,
+        101.0,
+        79.0,
+        113.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        79.0,
+        101.0,
+        85.0,
+        113.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        85.0,
+        101.0,
+        91.0,
+        113.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "5",
+      "bbox_pt": [
+        79.0,
+        119.0,
+        85.0,
+        131.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "5",
+      "bbox_pt": [
+        80.0,
+        173.0,
+        86.0,
+        185.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "5",
+      "bbox_pt": [
+        45.0,
+        119.0,
+        51.0,
+        131.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "5",
+      "bbox_pt": [
+        46.0,
+        174.0,
+        52.0,
+        186.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        47.0,
+        159.0,
+        53.0,
+        171.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        46.0,
+        104.0,
+        52.0,
+        116.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "P",
+      "bbox_pt": [
+        243.0,
+        16.0,
+        249.672,
+        28.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "r",
+      "bbox_pt": [
+        249.6744,
+        16.0,
+        253.6704,
+        28.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "o",
+      "bbox_pt": [
+        253.6704,
+        16.0,
+        259.6704,
+        28.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "f",
+      "bbox_pt": [
+        259.6704,
+        16.0,
+        263.66639999999995,
+        28.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "i",
+      "bbox_pt": [
+        263.6664,
+        16.0,
+        267.0024,
+        28.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "t",
+      "bbox_pt": [
+        267.0,
+        16.0,
+        270.336,
+        28.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        270.3336,
+        16.0,
+        273.3336,
+        28.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        273.3336,
+        16.0,
+        280.10159999999996,
+        28.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        280.1016,
+        16.0,
+        283.1016,
+        28.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "P",
+      "bbox_pt": [
+        283.1016,
+        16.0,
+        289.77360000000004,
+        28.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        289.776,
+        16.0,
+        292.776,
+        28.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        292.776,
+        16.0,
+        299.544,
+        28.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        299.544,
+        16.0,
+        302.544,
+        28.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        302.544,
+        16.0,
+        308.544,
+        28.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ".",
+      "bbox_pt": [
+        308.5,
+        13.0,
+        311.5,
+        25.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "x",
+      "bbox_pt": [
+        311.5,
+        16.0,
+        316.828,
+        28.0
+      ],
+      "font": "JKOJSF+Times-Italic",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        316.75,
+        16.0,
+        319.75,
+        28.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "+",
+      "bbox_pt": [
+        319.75,
+        16.0,
+        326.51800000000003,
+        28.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        326.51800000000003,
+        16.0,
+        329.51800000000003,
+        28.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "5",
+      "bbox_pt": [
+        329.51800000000003,
+        16.0,
+        335.51800000000003,
+        28.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ".",
+      "bbox_pt": [
+        335.5,
+        13.0,
+        338.5,
+        25.0
+      ],
+      "font": "COPEKK+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "y",
+      "bbox_pt": [
+        338.5,
+        16.0,
+        343.828,
+        28.0
+      ],
+      "font": "JKOJSF+Times-Italic",
+      "size": 12.0
+    },
+    {
+      "text": ".",
+      "bbox_pt": [
+        285.0,
+        43.0,
+        288.636,
+        55.0
+      ],
+      "font": "EFCBMQ+Geneva",
+      "size": 12.0
+    },
+    {
+      "text": "⋅",
+      "bbox_pt": [
+        1.0,
+        172.588,
+        4.0,
+        184.588
+      ],
+      "font": "BUEJFY+Symbol",
+      "size": 12.0
+    }
+  ],
+  "drawing_primitives": [
+    {
+      "object_type": "line",
+      "x0": 129.5,
+      "x1": 398.875,
+      "top": 175.1875,
+      "bottom": 175.1875,
+      "path": [
+        [
+          "m",
+          [
+            129.5,
+            175.1875
+          ]
+        ],
+        [
+          "l",
+          [
+            398.875,
+            175.1875
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          129.5,
+          175.1875
+        ],
+        [
+          398.875,
+          175.1875
+        ]
+      ],
+      "linewidth": 1.5,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 40.75,
+      "x1": 55.75,
+      "top": 171.5,
+      "bottom": 171.5,
+      "path": [
+        [
+          "m",
+          [
+            40.75,
+            171.5
+          ]
+        ],
+        [
+          "l",
+          [
+            55.75,
+            171.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          40.75,
+          171.5
+        ],
+        [
+          55.75,
+          171.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 76.75,
+      "x1": 90.75,
+      "top": 171.5,
+      "bottom": 171.5,
+      "path": [
+        [
+          "m",
+          [
+            76.75,
+            171.5
+          ]
+        ],
+        [
+          "l",
+          [
+            90.75,
+            171.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          76.75,
+          171.5
+        ],
+        [
+          90.75,
+          171.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 39.75,
+      "x1": 54.75,
+      "top": 116.5,
+      "bottom": 116.5,
+      "path": [
+        [
+          "m",
+          [
+            39.75,
+            116.5
+          ]
+        ],
+        [
+          "l",
+          [
+            54.75,
+            116.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          39.75,
+          116.5
+        ],
+        [
+          54.75,
+          116.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 75.75,
+      "x1": 88.75,
+      "top": 116.5,
+      "bottom": 116.5,
+      "path": [
+        [
+          "m",
+          [
+            75.75,
+            116.5
+          ]
+        ],
+        [
+          "l",
+          [
+            88.75,
+            116.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          75.75,
+          116.5
+        ],
+        [
+          88.75,
+          116.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 35.75,
+      "x1": 50.75,
+      "top": 48.5,
+      "bottom": 48.5,
+      "path": [
+        [
+          "m",
+          [
+            35.75,
+            48.5
+          ]
+        ],
+        [
+          "l",
+          [
+            50.75,
+            48.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          35.75,
+          48.5
+        ],
+        [
+          50.75,
+          48.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 71.75,
+      "x1": 90.75,
+      "top": 48.5,
+      "bottom": 48.5,
+      "path": [
+        [
+          "m",
+          [
+            71.75,
+            48.5
+          ]
+        ],
+        [
+          "l",
+          [
+            90.75,
+            48.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          71.75,
+          48.5
+        ],
+        [
+          90.75,
+          48.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "rect",
+      "x0": 1.75,
+      "x1": 105.75,
+      "top": 83.0,
+      "bottom": 131.0,
+      "path": [
+        [
+          "m",
+          [
+            1.75,
+            83.0
+          ]
+        ],
+        [
+          "l",
+          [
+            105.75,
+            83.0
+          ]
+        ],
+        [
+          "l",
+          [
+            105.75,
+            131.0
+          ]
+        ],
+        [
+          "l",
+          [
+            1.75,
+            131.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          1.75,
+          83.0
+        ],
+        [
+          105.75,
+          83.0
+        ],
+        [
+          105.75,
+          131.0
+        ],
+        [
+          1.75,
+          131.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "rect",
+      "x0": 1.75,
+      "x1": 105.75,
+      "top": 139.0,
+      "bottom": 187.0,
+      "path": [
+        [
+          "m",
+          [
+            1.75,
+            139.0
+          ]
+        ],
+        [
+          "l",
+          [
+            105.75,
+            139.0
+          ]
+        ],
+        [
+          "l",
+          [
+            105.75,
+            187.0
+          ]
+        ],
+        [
+          "l",
+          [
+            1.75,
+            187.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          1.75,
+          139.0
+        ],
+        [
+          105.75,
+          139.0
+        ],
+        [
+          105.75,
+          187.0
+        ],
+        [
+          1.75,
+          187.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "rect",
+      "x0": 1.75,
+      "x1": 105.75,
+      "top": 16.0,
+      "bottom": 64.0,
+      "path": [
+        [
+          "m",
+          [
+            1.75,
+            16.0
+          ]
+        ],
+        [
+          "l",
+          [
+            105.75,
+            16.0
+          ]
+        ],
+        [
+          "l",
+          [
+            105.75,
+            64.0
+          ]
+        ],
+        [
+          "l",
+          [
+            1.75,
+            64.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          1.75,
+          16.0
+        ],
+        [
+          105.75,
+          16.0
+        ],
+        [
+          105.75,
+          64.0
+        ],
+        [
+          1.75,
+          64.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 153.8958,
+      "x1": 162.1042,
+      "top": 208.72369,
+      "bottom": 220.0,
+      "path": [
+        [
+          "m",
+          [
+            158.0,
+            220.0
+          ]
+        ],
+        [
+          "l",
+          [
+            153.8958,
+            208.72369
+          ]
+        ],
+        [
+          "c",
+          [
+            156.5468,
+            207.75877
+          ],
+          [
+            159.4532,
+            207.75877
+          ],
+          [
+            162.1042,
+            208.72369
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          158.0,
+          220.0
+        ],
+        [
+          153.8958,
+          208.72369
+        ],
+        [
+          162.1042,
+          208.72369
+        ]
+      ],
+      "linewidth": 0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 153.6458,
+      "x1": 161.8542,
+      "top": 3.0,
+      "bottom": 14.276299999999992,
+      "path": [
+        [
+          "m",
+          [
+            157.75,
+            3.0
+          ]
+        ],
+        [
+          "l",
+          [
+            161.8542,
+            14.276299999999992
+          ]
+        ],
+        [
+          "c",
+          [
+            159.2032,
+            15.241199999999992
+          ],
+          [
+            156.2968,
+            15.241199999999992
+          ],
+          [
+            153.6458,
+            14.276299999999992
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          157.75,
+          3.0
+        ],
+        [
+          161.8542,
+          14.276299999999992
+        ],
+        [
+          153.6458,
+          14.276299999999992
+        ]
+      ],
+      "linewidth": 0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 157.0,
+      "x1": 157.625,
+      "top": 14.0,
+      "bottom": 207.875,
+      "path": [
+        [
+          "m",
+          [
+            157.0,
+            14.0
+          ]
+        ],
+        [
+          "l",
+          [
+            157.375,
+            14.0
+          ]
+        ],
+        [
+          "l",
+          [
+            157.625,
+            207.5
+          ]
+        ],
+        [
+          "l",
+          [
+            157.625,
+            207.875
+          ]
+        ],
+        [
+          "l",
+          [
+            157.25,
+            207.875
+          ]
+        ],
+        [
+          "l",
+          [
+            157.0,
+            14.375
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          157.0,
+          14.0
+        ],
+        [
+          157.375,
+          14.0
+        ],
+        [
+          157.625,
+          207.5
+        ],
+        [
+          157.625,
+          207.875
+        ],
+        [
+          157.25,
+          207.875
+        ],
+        [
+          157.0,
+          14.375
+        ]
+      ],
+      "linewidth": 0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 399.7237,
+      "x1": 411.0,
+      "top": 171.64577,
+      "bottom": 179.85425,
+      "path": [
+        [
+          "m",
+          [
+            411.0,
+            175.75
+          ]
+        ],
+        [
+          "l",
+          [
+            399.7237,
+            179.85425
+          ]
+        ],
+        [
+          "c",
+          [
+            398.7588,
+            177.20316
+          ],
+          [
+            398.7588,
+            174.29686
+          ],
+          [
+            399.7237,
+            171.64577
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          411.0,
+          175.75
+        ],
+        [
+          399.7237,
+          179.85425
+        ],
+        [
+          399.7237,
+          171.64577
+        ]
+      ],
+      "linewidth": 0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 118.5,
+      "x1": 129.7763,
+      "top": 171.64575,
+      "bottom": 179.85425,
+      "path": [
+        [
+          "m",
+          [
+            118.5,
+            175.75
+          ]
+        ],
+        [
+          "l",
+          [
+            129.7763,
+            171.64575
+          ]
+        ],
+        [
+          "c",
+          [
+            130.7412,
+            174.29684
+          ],
+          [
+            130.7412,
+            177.20316
+          ],
+          [
+            129.7763,
+            179.85425
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          118.5,
+          175.75
+        ],
+        [
+          129.7763,
+          171.64575
+        ],
+        [
+          129.7763,
+          179.85425
+        ]
+      ],
+      "linewidth": 0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 152.25,
+      "x1": 164.25,
+      "top": 49.0,
+      "bottom": 61.0,
+      "path": [
+        [
+          "m",
+          [
+            164.25,
+            55.0
+          ]
+        ],
+        [
+          "c",
+          [
+            164.25,
+            58.31370000000001
+          ],
+          [
+            161.5637,
+            61.0
+          ],
+          [
+            158.25,
+            61.0
+          ]
+        ],
+        [
+          "c",
+          [
+            154.9363,
+            61.0
+          ],
+          [
+            152.25,
+            58.31370000000001
+          ],
+          [
+            152.25,
+            55.0
+          ]
+        ],
+        [
+          "c",
+          [
+            152.25,
+            51.68629999999999
+          ],
+          [
+            154.9363,
+            49.0
+          ],
+          [
+            158.25,
+            49.0
+          ]
+        ],
+        [
+          "c",
+          [
+            161.5637,
+            49.0
+          ],
+          [
+            164.25,
+            51.68629999999999
+          ],
+          [
+            164.25,
+            55.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          164.25,
+          55.0
+        ],
+        [
+          158.25,
+          61.0
+        ],
+        [
+          152.25,
+          55.0
+        ],
+        [
+          158.25,
+          49.0
+        ],
+        [
+          164.25,
+          55.0
+        ]
+      ],
+      "linewidth": 1.5,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 153.0,
+      "x1": 163.5,
+      "top": 49.75,
+      "bottom": 60.25,
+      "path": [
+        [
+          "m",
+          [
+            163.5,
+            55.0
+          ]
+        ],
+        [
+          "c",
+          [
+            163.5,
+            57.89949999999999
+          ],
+          [
+            161.1495,
+            60.25
+          ],
+          [
+            158.25,
+            60.25
+          ]
+        ],
+        [
+          "c",
+          [
+            155.3505,
+            60.25
+          ],
+          [
+            153.0,
+            57.89949999999999
+          ],
+          [
+            153.0,
+            55.0
+          ]
+        ],
+        [
+          "c",
+          [
+            153.0,
+            52.10050000000001
+          ],
+          [
+            155.3505,
+            49.75
+          ],
+          [
+            158.25,
+            49.75
+          ]
+        ],
+        [
+          "c",
+          [
+            161.1495,
+            49.75
+          ],
+          [
+            163.5,
+            52.10050000000001
+          ],
+          [
+            163.5,
+            55.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          163.5,
+          55.0
+        ],
+        [
+          158.25,
+          60.25
+        ],
+        [
+          153.0,
+          55.0
+        ],
+        [
+          158.25,
+          49.75
+        ],
+        [
+          163.5,
+          55.0
+        ],
+        [
+          163.5,
+          55.0
+        ]
+      ],
+      "linewidth": 6.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 246.75,
+      "x1": 258.75,
+      "top": 91.5,
+      "bottom": 103.5,
+      "path": [
+        [
+          "m",
+          [
+            258.75,
+            97.5
+          ]
+        ],
+        [
+          "c",
+          [
+            258.75,
+            100.8137
+          ],
+          [
+            256.0637,
+            103.5
+          ],
+          [
+            252.75,
+            103.5
+          ]
+        ],
+        [
+          "c",
+          [
+            249.4363,
+            103.5
+          ],
+          [
+            246.75,
+            100.8137
+          ],
+          [
+            246.75,
+            97.5
+          ]
+        ],
+        [
+          "c",
+          [
+            246.75,
+            94.1863
+          ],
+          [
+            249.4363,
+            91.5
+          ],
+          [
+            252.75,
+            91.5
+          ]
+        ],
+        [
+          "c",
+          [
+            256.0637,
+            91.5
+          ],
+          [
+            258.75,
+            94.1863
+          ],
+          [
+            258.75,
+            97.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          258.75,
+          97.5
+        ],
+        [
+          252.75,
+          103.5
+        ],
+        [
+          246.75,
+          97.5
+        ],
+        [
+          252.75,
+          91.5
+        ],
+        [
+          258.75,
+          97.5
+        ]
+      ],
+      "linewidth": 6.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 247.5,
+      "x1": 258.0,
+      "top": 92.25,
+      "bottom": 102.75,
+      "path": [
+        [
+          "m",
+          [
+            258.0,
+            97.5
+          ]
+        ],
+        [
+          "c",
+          [
+            258.0,
+            100.3995
+          ],
+          [
+            255.6495,
+            102.75
+          ],
+          [
+            252.75,
+            102.75
+          ]
+        ],
+        [
+          "c",
+          [
+            249.8505,
+            102.75
+          ],
+          [
+            247.5,
+            100.3995
+          ],
+          [
+            247.5,
+            97.5
+          ]
+        ],
+        [
+          "c",
+          [
+            247.5,
+            94.6005
+          ],
+          [
+            249.8505,
+            92.25
+          ],
+          [
+            252.75,
+            92.25
+          ]
+        ],
+        [
+          "c",
+          [
+            255.6495,
+            92.25
+          ],
+          [
+            258.0,
+            94.6005
+          ],
+          [
+            258.0,
+            97.5
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          258.0,
+          97.5
+        ],
+        [
+          252.75,
+          102.75
+        ],
+        [
+          247.5,
+          97.5
+        ],
+        [
+          252.75,
+          92.25
+        ],
+        [
+          258.0,
+          97.5
+        ],
+        [
+          258.0,
+          97.5
+        ]
+      ],
+      "linewidth": 6.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 306.25,
+      "x1": 318.25,
+      "top": 166.5,
+      "bottom": 178.5,
+      "path": [
+        [
+          "m",
+          [
+            318.25,
+            172.5
+          ]
+        ],
+        [
+          "c",
+          [
+            318.25,
+            175.81371000000001
+          ],
+          [
+            315.5637,
+            178.5
+          ],
+          [
+            312.25,
+            178.5
+          ]
+        ],
+        [
+          "c",
+          [
+            308.9363,
+            178.5
+          ],
+          [
+            306.25,
+            175.81371000000001
+          ],
+          [
+            306.25,
+            172.5
+          ]
+        ],
+        [
+          "c",
+          [
+            306.25,
+            169.18628999999999
+          ],
+          [
+            308.9363,
+            166.5
+          ],
+          [
+            312.25,
+            166.5
+          ]
+        ],
+        [
+          "c",
+          [
+            315.5637,
+            166.5
+          ],
+          [
+            318.25,
+            169.18628999999999
+          ],
+          [
+            318.25,
+            172.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          318.25,
+          172.5
+        ],
+        [
+          312.25,
+          178.5
+        ],
+        [
+          306.25,
+          172.5
+        ],
+        [
+          312.25,
+          166.5
+        ],
+        [
+          318.25,
+          172.5
+        ]
+      ],
+      "linewidth": 6.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 307.0,
+      "x1": 317.5,
+      "top": 167.25,
+      "bottom": 177.75,
+      "path": [
+        [
+          "m",
+          [
+            317.5,
+            172.5
+          ]
+        ],
+        [
+          "c",
+          [
+            317.5,
+            175.3995
+          ],
+          [
+            315.1495,
+            177.75
+          ],
+          [
+            312.25,
+            177.75
+          ]
+        ],
+        [
+          "c",
+          [
+            309.3505,
+            177.75
+          ],
+          [
+            307.0,
+            175.3995
+          ],
+          [
+            307.0,
+            172.5
+          ]
+        ],
+        [
+          "c",
+          [
+            307.0,
+            169.6005
+          ],
+          [
+            309.3505,
+            167.25
+          ],
+          [
+            312.25,
+            167.25
+          ]
+        ],
+        [
+          "c",
+          [
+            315.1495,
+            167.25
+          ],
+          [
+            317.5,
+            169.6005
+          ],
+          [
+            317.5,
+            172.5
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          317.5,
+          172.5
+        ],
+        [
+          312.25,
+          177.75
+        ],
+        [
+          307.0,
+          172.5
+        ],
+        [
+          312.25,
+          167.25
+        ],
+        [
+          317.5,
+          172.5
+        ],
+        [
+          317.5,
+          172.5
+        ]
+      ],
+      "linewidth": 6.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 150.75,
+      "x1": 162.75,
+      "top": 169.0,
+      "bottom": 181.0,
+      "path": [
+        [
+          "m",
+          [
+            162.75,
+            175.0
+          ]
+        ],
+        [
+          "c",
+          [
+            162.75,
+            178.31371000000001
+          ],
+          [
+            160.0637,
+            181.0
+          ],
+          [
+            156.75,
+            181.0
+          ]
+        ],
+        [
+          "c",
+          [
+            153.4363,
+            181.0
+          ],
+          [
+            150.75,
+            178.31371000000001
+          ],
+          [
+            150.75,
+            175.0
+          ]
+        ],
+        [
+          "c",
+          [
+            150.75,
+            171.68628999999999
+          ],
+          [
+            153.4363,
+            169.0
+          ],
+          [
+            156.75,
+            169.0
+          ]
+        ],
+        [
+          "c",
+          [
+            160.0637,
+            169.0
+          ],
+          [
+            162.75,
+            171.68628999999999
+          ],
+          [
+            162.75,
+            175.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          162.75,
+          175.0
+        ],
+        [
+          156.75,
+          181.0
+        ],
+        [
+          150.75,
+          175.0
+        ],
+        [
+          156.75,
+          169.0
+        ],
+        [
+          162.75,
+          175.0
+        ]
+      ],
+      "linewidth": 6.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 151.5,
+      "x1": 162.0,
+      "top": 169.75,
+      "bottom": 180.25,
+      "path": [
+        [
+          "m",
+          [
+            162.0,
+            175.0
+          ]
+        ],
+        [
+          "c",
+          [
+            162.0,
+            177.8995
+          ],
+          [
+            159.6495,
+            180.25
+          ],
+          [
+            156.75,
+            180.25
+          ]
+        ],
+        [
+          "c",
+          [
+            153.8505,
+            180.25
+          ],
+          [
+            151.5,
+            177.8995
+          ],
+          [
+            151.5,
+            175.0
+          ]
+        ],
+        [
+          "c",
+          [
+            151.5,
+            172.1005
+          ],
+          [
+            153.8505,
+            169.75
+          ],
+          [
+            156.75,
+            169.75
+          ]
+        ],
+        [
+          "c",
+          [
+            159.6495,
+            169.75
+          ],
+          [
+            162.0,
+            172.1005
+          ],
+          [
+            162.0,
+            175.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          162.0,
+          175.0
+        ],
+        [
+          156.75,
+          180.25
+        ],
+        [
+          151.5,
+          175.0
+        ],
+        [
+          156.75,
+          169.75
+        ],
+        [
+          162.0,
+          175.0
+        ],
+        [
+          162.0,
+          175.0
+        ]
+      ],
+      "linewidth": 6.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 114.25,
+      "x1": 350.25,
+      "top": 119.5,
+      "bottom": 181.5,
+      "path": [
+        [
+          "m",
+          [
+            114.25,
+            119.5
+          ]
+        ],
+        [
+          "l",
+          [
+            115.25,
+            119.5
+          ]
+        ],
+        [
+          "l",
+          [
+            350.25,
+            180.5
+          ]
+        ],
+        [
+          "l",
+          [
+            350.25,
+            181.5
+          ]
+        ],
+        [
+          "l",
+          [
+            349.25,
+            181.5
+          ]
+        ],
+        [
+          "l",
+          [
+            114.25,
+            120.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          114.25,
+          119.5
+        ],
+        [
+          115.25,
+          119.5
+        ],
+        [
+          350.25,
+          180.5
+        ],
+        [
+          350.25,
+          181.5
+        ],
+        [
+          349.25,
+          181.5
+        ],
+        [
+          114.25,
+          120.5
+        ]
+      ],
+      "linewidth": 6.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 111.25,
+      "x1": 390.5,
+      "top": 83.5,
+      "bottom": 158.5,
+      "path": [
+        [
+          "m",
+          [
+            111.25,
+            83.5
+          ]
+        ],
+        [
+          "l",
+          [
+            112.25,
+            83.5
+          ]
+        ],
+        [
+          "l",
+          [
+            390.5,
+            157.5
+          ]
+        ],
+        [
+          "l",
+          [
+            390.5,
+            158.5
+          ]
+        ],
+        [
+          "l",
+          [
+            389.5,
+            158.5
+          ]
+        ],
+        [
+          "l",
+          [
+            111.25,
+            84.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          111.25,
+          83.5
+        ],
+        [
+          112.25,
+          83.5
+        ],
+        [
+          390.5,
+          157.5
+        ],
+        [
+          390.5,
+          158.5
+        ],
+        [
+          389.5,
+          158.5
+        ],
+        [
+          111.25,
+          84.5
+        ]
+      ],
+      "linewidth": 6.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 110.75,
+      "x1": 402.25,
+      "top": 39.5,
+      "bottom": 121.5,
+      "path": [
+        [
+          "m",
+          [
+            110.75,
+            39.5
+          ]
+        ],
+        [
+          "l",
+          [
+            111.75,
+            39.5
+          ]
+        ],
+        [
+          "l",
+          [
+            402.25,
+            120.5
+          ]
+        ],
+        [
+          "l",
+          [
+            402.25,
+            121.5
+          ]
+        ],
+        [
+          "l",
+          [
+            401.25,
+            121.5
+          ]
+        ],
+        [
+          "l",
+          [
+            110.75,
+            40.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          110.75,
+          39.5
+        ],
+        [
+          111.75,
+          39.5
+        ],
+        [
+          402.25,
+          120.5
+        ],
+        [
+          402.25,
+          121.5
+        ],
+        [
+          401.25,
+          121.5
+        ],
+        [
+          110.75,
+          40.5
+        ]
+      ],
+      "linewidth": 6.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 126.8668,
+      "x1": 138.75,
+      "top": 130.0,
+      "bottom": 138.91773999999998,
+      "path": [
+        [
+          "m",
+          [
+            138.75,
+            130.0
+          ]
+        ],
+        [
+          "l",
+          [
+            130.7204,
+            138.91773999999998
+          ]
+        ],
+        [
+          "c",
+          [
+            128.6238,
+            137.02997
+          ],
+          [
+            127.2594,
+            134.46384999999998
+          ],
+          [
+            126.8668,
+            131.67007
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          138.75,
+          130.0
+        ],
+        [
+          130.7204,
+          138.91773999999998
+        ],
+        [
+          126.8668,
+          131.67007
+        ]
+      ],
+      "linewidth": 6.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 106.25,
+      "x1": 128.75,
+      "top": 135.0,
+      "bottom": 147.5,
+      "path": [
+        [
+          "m",
+          [
+            127.75,
+            135.0
+          ]
+        ],
+        [
+          "l",
+          [
+            128.75,
+            135.0
+          ]
+        ],
+        [
+          "l",
+          [
+            128.75,
+            136.0
+          ]
+        ],
+        [
+          "l",
+          [
+            107.25,
+            147.5
+          ]
+        ],
+        [
+          "l",
+          [
+            106.25,
+            147.5
+          ]
+        ],
+        [
+          "l",
+          [
+            106.25,
+            146.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          127.75,
+          135.0
+        ],
+        [
+          128.75,
+          135.0
+        ],
+        [
+          128.75,
+          136.0
+        ],
+        [
+          107.25,
+          147.5
+        ],
+        [
+          106.25,
+          147.5
+        ],
+        [
+          106.25,
+          146.5
+        ]
+      ],
+      "linewidth": 6.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 130.2743,
+      "x1": 141.75,
+      "top": 90.31120000000001,
+      "bottom": 98.5085,
+      "path": [
+        [
+          "m",
+          [
+            141.75,
+            95.0
+          ]
+        ],
+        [
+          "l",
+          [
+            130.2743,
+            98.5085
+          ]
+        ],
+        [
+          "c",
+          [
+            129.4495,
+            95.8105
+          ],
+          [
+            129.6016,
+            92.9082
+          ],
+          [
+            130.7039,
+            90.31120000000001
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          141.75,
+          95.0
+        ],
+        [
+          130.2743,
+          98.5085
+        ],
+        [
+          130.7039,
+          90.31120000000001
+        ]
+      ],
+      "linewidth": 6.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 106.25,
+      "x1": 130.5,
+      "top": 92.5,
+      "bottom": 94.75,
+      "path": [
+        [
+          "m",
+          [
+            106.25,
+            92.5
+          ]
+        ],
+        [
+          "l",
+          [
+            107.25,
+            92.5
+          ]
+        ],
+        [
+          "l",
+          [
+            130.5,
+            93.75
+          ]
+        ],
+        [
+          "l",
+          [
+            130.5,
+            94.75
+          ]
+        ],
+        [
+          "l",
+          [
+            129.5,
+            94.75
+          ]
+        ],
+        [
+          "l",
+          [
+            106.25,
+            93.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          106.25,
+          92.5
+        ],
+        [
+          107.25,
+          92.5
+        ],
+        [
+          130.5,
+          93.75
+        ],
+        [
+          130.5,
+          94.75
+        ],
+        [
+          129.5,
+          94.75
+        ],
+        [
+          106.25,
+          93.5
+        ]
+      ],
+      "linewidth": 6.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 117.2149,
+      "x1": 128.75,
+      "top": 31.051500000000004,
+      "bottom": 41.0,
+      "path": [
+        [
+          "m",
+          [
+            128.75,
+            41.0
+          ]
+        ],
+        [
+          "l",
+          [
+            117.2149,
+            37.69239999999999
+          ]
+        ],
+        [
+          "c",
+          [
+            117.9925,
+            34.9804
+          ],
+          [
+            119.7008,
+            32.6292
+          ],
+          [
+            122.0397,
+            31.051500000000004
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          128.75,
+          41.0
+        ],
+        [
+          117.2149,
+          37.69239999999999
+        ],
+        [
+          122.0397,
+          31.051500000000004
+        ]
+      ],
+      "linewidth": 6.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 105.25,
+      "x1": 119.75,
+      "top": 23.5,
+      "bottom": 34.5,
+      "path": [
+        [
+          "m",
+          [
+            105.25,
+            23.5
+          ]
+        ],
+        [
+          "l",
+          [
+            106.25,
+            23.5
+          ]
+        ],
+        [
+          "l",
+          [
+            119.75,
+            33.5
+          ]
+        ],
+        [
+          "l",
+          [
+            119.75,
+            34.5
+          ]
+        ],
+        [
+          "l",
+          [
+            118.75,
+            34.5
+          ]
+        ],
+        [
+          "l",
+          [
+            105.25,
+            24.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          105.25,
+          23.5
+        ],
+        [
+          106.25,
+          23.5
+        ],
+        [
+          119.75,
+          33.5
+        ],
+        [
+          119.75,
+          34.5
+        ],
+        [
+          118.75,
+          34.5
+        ],
+        [
+          105.25,
+          24.5
+        ]
+      ],
+      "linewidth": 6.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 66.75,
+      "x1": 93.75,
+      "top": 30.0,
+      "bottom": 46.0,
+      "path": [
+        [
+          "m",
+          [
+            93.75,
+            38.0
+          ]
+        ],
+        [
+          "c",
+          [
+            93.75,
+            42.418274999999994
+          ],
+          [
+            87.70585,
+            46.0
+          ],
+          [
+            80.25,
+            46.0
+          ]
+        ],
+        [
+          "c",
+          [
+            72.79415,
+            46.0
+          ],
+          [
+            66.75,
+            42.418274999999994
+          ],
+          [
+            66.75,
+            38.0
+          ]
+        ],
+        [
+          "c",
+          [
+            66.75,
+            33.581725000000006
+          ],
+          [
+            72.79415,
+            30.0
+          ],
+          [
+            80.25,
+            30.0
+          ]
+        ],
+        [
+          "c",
+          [
+            87.70585,
+            30.0
+          ],
+          [
+            93.75,
+            33.581725000000006
+          ],
+          [
+            93.75,
+            38.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          93.75,
+          38.0
+        ],
+        [
+          80.25,
+          46.0
+        ],
+        [
+          66.75,
+          38.0
+        ],
+        [
+          80.25,
+          30.0
+        ],
+        [
+          93.75,
+          38.0
+        ],
+        [
+          93.75,
+          38.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 67.75,
+      "x1": 94.75,
+      "top": 98.0,
+      "bottom": 114.0,
+      "path": [
+        [
+          "m",
+          [
+            94.75,
+            106.0
+          ]
+        ],
+        [
+          "c",
+          [
+            94.75,
+            110.418275
+          ],
+          [
+            88.70585,
+            114.0
+          ],
+          [
+            81.25,
+            114.0
+          ]
+        ],
+        [
+          "c",
+          [
+            73.79415,
+            114.0
+          ],
+          [
+            67.75,
+            110.418275
+          ],
+          [
+            67.75,
+            106.0
+          ]
+        ],
+        [
+          "c",
+          [
+            67.75,
+            101.581725
+          ],
+          [
+            73.79415,
+            98.0
+          ],
+          [
+            81.25,
+            98.0
+          ]
+        ],
+        [
+          "c",
+          [
+            88.70585,
+            98.0
+          ],
+          [
+            94.75,
+            101.581725
+          ],
+          [
+            94.75,
+            106.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          94.75,
+          106.0
+        ],
+        [
+          81.25,
+          114.0
+        ],
+        [
+          67.75,
+          106.0
+        ],
+        [
+          81.25,
+          98.0
+        ],
+        [
+          94.75,
+          106.0
+        ],
+        [
+          94.75,
+          106.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 69.75,
+      "x1": 96.75,
+      "top": 153.0,
+      "bottom": 169.0,
+      "path": [
+        [
+          "m",
+          [
+            96.75,
+            161.0
+          ]
+        ],
+        [
+          "c",
+          [
+            96.75,
+            165.418275
+          ],
+          [
+            90.70585,
+            169.0
+          ],
+          [
+            83.25,
+            169.0
+          ]
+        ],
+        [
+          "c",
+          [
+            75.79415,
+            169.0
+          ],
+          [
+            69.75,
+            165.418275
+          ],
+          [
+            69.75,
+            161.0
+          ]
+        ],
+        [
+          "c",
+          [
+            69.75,
+            156.581725
+          ],
+          [
+            75.79415,
+            153.0
+          ],
+          [
+            83.25,
+            153.0
+          ]
+        ],
+        [
+          "c",
+          [
+            90.70585,
+            153.0
+          ],
+          [
+            96.75,
+            156.581725
+          ],
+          [
+            96.75,
+            161.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          96.75,
+          161.0
+        ],
+        [
+          83.25,
+          169.0
+        ],
+        [
+          69.75,
+          161.0
+        ],
+        [
+          83.25,
+          153.0
+        ],
+        [
+          96.75,
+          161.0
+        ],
+        [
+          96.75,
+          161.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 267.75,
+      "x1": 283.25,
+      "top": 51.5,
+      "bottom": 53.0,
+      "path": [
+        [
+          "m",
+          [
+            282.25,
+            51.5
+          ]
+        ],
+        [
+          "l",
+          [
+            283.25,
+            51.5
+          ]
+        ],
+        [
+          "l",
+          [
+            283.25,
+            52.5
+          ]
+        ],
+        [
+          "l",
+          [
+            268.75,
+            53.0
+          ]
+        ],
+        [
+          "l",
+          [
+            267.75,
+            53.0
+          ]
+        ],
+        [
+          "l",
+          [
+            267.75,
+            52.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          282.25,
+          51.5
+        ],
+        [
+          283.25,
+          51.5
+        ],
+        [
+          283.25,
+          52.5
+        ],
+        [
+          268.75,
+          53.0
+        ],
+        [
+          267.75,
+          53.0
+        ],
+        [
+          267.75,
+          52.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 312.75,
+      "x1": 329.25,
+      "top": 51.5,
+      "bottom": 53.0,
+      "path": [
+        [
+          "m",
+          [
+            328.25,
+            51.5
+          ]
+        ],
+        [
+          "l",
+          [
+            329.25,
+            51.5
+          ]
+        ],
+        [
+          "l",
+          [
+            329.25,
+            52.5
+          ]
+        ],
+        [
+          "l",
+          [
+            313.75,
+            53.0
+          ]
+        ],
+        [
+          "l",
+          [
+            312.75,
+            53.0
+          ]
+        ],
+        [
+          "l",
+          [
+            312.75,
+            52.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          328.25,
+          51.5
+        ],
+        [
+          329.25,
+          51.5
+        ],
+        [
+          329.25,
+          52.5
+        ],
+        [
+          313.75,
+          53.0
+        ],
+        [
+          312.75,
+          53.0
+        ],
+        [
+          312.75,
+          52.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 307.75,
+      "x1": 334.75,
+      "top": 31.0,
+      "bottom": 50.0,
+      "path": [
+        [
+          "m",
+          [
+            334.75,
+            40.5
+          ]
+        ],
+        [
+          "c",
+          [
+            334.75,
+            45.746700000000004
+          ],
+          [
+            328.70575,
+            50.0
+          ],
+          [
+            321.25,
+            50.0
+          ]
+        ],
+        [
+          "c",
+          [
+            313.79425,
+            50.0
+          ],
+          [
+            307.75,
+            45.746700000000004
+          ],
+          [
+            307.75,
+            40.5
+          ]
+        ],
+        [
+          "c",
+          [
+            307.75,
+            35.253299999999996
+          ],
+          [
+            313.79425,
+            31.0
+          ],
+          [
+            321.25,
+            31.0
+          ]
+        ],
+        [
+          "c",
+          [
+            328.70575,
+            31.0
+          ],
+          [
+            334.75,
+            35.253299999999996
+          ],
+          [
+            334.75,
+            40.5
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          334.75,
+          40.5
+        ],
+        [
+          321.25,
+          50.0
+        ],
+        [
+          307.75,
+          40.5
+        ],
+        [
+          321.25,
+          31.0
+        ],
+        [
+          334.75,
+          40.5
+        ],
+        [
+          334.75,
+          40.5
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

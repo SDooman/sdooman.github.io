@@ -1,0 +1,423 @@
+{
+  "labels": [
+    {
+      "text": "x",
+      "bbox_pt": [
+        36.25,
+        -688.048,
+        41.938,
+        -676.048
+      ],
+      "font": "BAAAAA+LinuxLibertineGI",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        42.25,
+        -692.54,
+        46.89,
+        -682.54
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 10.0
+    },
+    {
+      "text": "+",
+      "bbox_pt": [
+        50.25,
+        -688.42,
+        57.245999999999995,
+        -676.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.0
+    },
+    {
+      "text": "x",
+      "bbox_pt": [
+        74.25,
+        -689.048,
+        79.938,
+        -677.048
+      ],
+      "font": "BAAAAA+LinuxLibertineGI",
+      "size": 12.0
+    },
+    {
+      "text": "+",
+      "bbox_pt": [
+        81.25,
+        -689.42,
+        88.24600000000001,
+        -677.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        89.25,
+        -689.048,
+        95.07,
+        -677.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        95.07,
+        -689.048,
+        100.89,
+        -677.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        100.89,
+        -689.048,
+        106.71000000000001,
+        -677.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        106.71000000000001,
+        -689.048,
+        112.53,
+        -677.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        116.25,
+        -689.42,
+        125.778,
+        -677.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.0
+    },
+    {
+      "text": "+",
+      "bbox_pt": [
+        147.25,
+        -687.42,
+        154.24599999999998,
+        -675.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        155.25,
+        -688.048,
+        161.07,
+        -676.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        161.07,
+        -688.048,
+        166.89,
+        -676.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        166.89,
+        -688.048,
+        172.70999999999998,
+        -676.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        172.71,
+        -688.048,
+        178.53,
+        -676.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "C",
+      "bbox_pt": [
+        162.25,
+        -675.048,
+        169.99,
+        -663.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        61.25,
+        -659.048,
+        64.814,
+        -647.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "x",
+      "bbox_pt": [
+        66.25,
+        -659.048,
+        71.938,
+        -647.048
+      ],
+      "font": "BAAAAA+LinuxLibertineGI",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "+",
+      "bbox_pt": [
+        73.25,
+        -659.42,
+        80.24600000000001,
+        -647.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        82.25,
+        -659.048,
+        88.07,
+        -647.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        88.07,
+        -659.048,
+        93.89,
+        -647.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        93.89,
+        -659.048,
+        99.71000000000001,
+        -647.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        99.71000000000001,
+        -659.048,
+        105.53,
+        -647.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        105.53,
+        -659.048,
+        109.094,
+        -647.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        110.25,
+        -663.54,
+        114.89,
+        -653.54
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 10.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        118.25,
+        -659.42,
+        127.778,
+        -647.42
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        127.25,
+        -659.048,
+        133.07,
+        -647.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        133.07,
+        -659.048,
+        138.89,
+        -647.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        138.89,
+        -659.048,
+        144.71,
+        -647.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "_",
+      "bbox_pt": [
+        144.71,
+        -659.048,
+        150.53,
+        -647.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "A",
+      "bbox_pt": [
+        90.25,
+        -646.048,
+        98.578,
+        -634.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "D",
+      "bbox_pt": [
+        135.25,
+        -646.048,
+        143.65,
+        -634.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "B",
+      "bbox_pt": [
+        98.5,
+        -677.048,
+        105.544,
+        -665.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        59.5,
+        -689.048,
+        65.068,
+        -677.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        65.068,
+        -689.048,
+        70.636,
+        -677.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "-",
+      "bbox_pt": [
+        128.25,
+        -691.048,
+        132.29399999999998,
+        -679.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        132.25,
+        -688.048,
+        137.81799999999998,
+        -676.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        137.81799999999998,
+        -688.048,
+        143.386,
+        -676.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    }
+  ],
+  "drawing_primitives": []
+}

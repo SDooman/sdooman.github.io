@@ -1,0 +1,3498 @@
+[
+  {
+    "image": "image2",
+    "original_extent_pt": [
+      7200.0,
+      4104.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image3",
+    "original_extent_pt": [
+      5976.0,
+      4104.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image4",
+    "original_extent_pt": [
+      4176.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image5",
+    "original_extent_pt": [
+      5472.0,
+      4680.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image8",
+    "original_extent_pt": [
+      2952.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image10",
+    "original_extent_pt": [
+      31320.0,
+      9288.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image11",
+    "original_extent_pt": [
+      23832.0,
+      1656.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image13",
+    "original_extent_pt": [
+      2232.0,
+      1368.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image14",
+    "original_extent_pt": [
+      5328.0,
+      1368.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image4",
+    "original_extent_pt": [
+      4176.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image17",
+    "original_extent_pt": [
+      3384.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image18",
+    "original_extent_pt": [
+      3384.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image21",
+    "original_extent_pt": [
+      8496.0,
+      4104.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image22",
+    "original_extent_pt": [
+      5544.0,
+      2520.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image26",
+    "original_extent_pt": [
+      1440.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image27",
+    "original_extent_pt": [
+      10440.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image28",
+    "original_extent_pt": [
+      16992.0,
+      5472.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image30",
+    "original_extent_pt": [
+      12528.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image13",
+    "original_extent_pt": [
+      2232.0,
+      1368.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image13",
+    "original_extent_pt": [
+      2232.0,
+      1368.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image32",
+    "original_extent_pt": [
+      1944.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image33",
+    "original_extent_pt": [
+      1800.0,
+      864.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image34",
+    "original_extent_pt": [
+      1944.0,
+      864.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image35",
+    "original_extent_pt": [
+      1944.0,
+      864.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image33",
+    "original_extent_pt": [
+      1800.0,
+      864.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image36",
+    "original_extent_pt": [
+      1944.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image38",
+    "original_extent_pt": [
+      1944.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image40",
+    "original_extent_pt": [
+      5760.0,
+      3816.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image41",
+    "original_extent_pt": [
+      5688.0,
+      3816.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image42",
+    "original_extent_pt": [
+      5760.0,
+      7848.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image43",
+    "original_extent_pt": [
+      8136.0,
+      4320.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image46",
+    "original_extent_pt": [
+      864.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image47",
+    "original_extent_pt": [
+      7488.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image48",
+    "original_extent_pt": [
+      10512.0,
+      1512.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image49",
+    "original_extent_pt": [
+      12168.0,
+      1512.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image50",
+    "original_extent_pt": [
+      18792.0,
+      5472.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image46",
+    "original_extent_pt": [
+      864.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image51",
+    "original_extent_pt": [
+      10800.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image53",
+    "original_extent_pt": [
+      10152.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image54",
+    "original_extent_pt": [
+      1008.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image46",
+    "original_extent_pt": [
+      864.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image55",
+    "original_extent_pt": [
+      792.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image56",
+    "original_extent_pt": [
+      792.0,
+      864.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image46",
+    "original_extent_pt": [
+      864.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image55",
+    "original_extent_pt": [
+      792.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image56",
+    "original_extent_pt": [
+      792.0,
+      864.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image58",
+    "original_extent_pt": [
+      12456.0,
+      1008.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image26",
+    "original_extent_pt": [
+      1440.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image46",
+    "original_extent_pt": [
+      864.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image59",
+    "original_extent_pt": [
+      14400.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image60",
+    "original_extent_pt": [
+      9936.0,
+      2520.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image61",
+    "original_extent_pt": [
+      9936.0,
+      2520.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image62",
+    "original_extent_pt": [
+      9936.0,
+      2520.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image64",
+    "original_extent_pt": [
+      7272.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image65",
+    "original_extent_pt": [
+      5112.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image66",
+    "original_extent_pt": [
+      5544.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image67",
+    "original_extent_pt": [
+      5472.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image21",
+    "original_extent_pt": [
+      8496.0,
+      4104.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image66",
+    "original_extent_pt": [
+      5544.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image65",
+    "original_extent_pt": [
+      5112.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image68",
+    "original_extent_pt": [
+      1872.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image69",
+    "original_extent_pt": [
+      5328.0,
+      2376.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image70",
+    "original_extent_pt": [
+      1872.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image67",
+    "original_extent_pt": [
+      5472.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image71",
+    "original_extent_pt": [
+      3960.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image40",
+    "original_extent_pt": [
+      5760.0,
+      3816.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image33",
+    "original_extent_pt": [
+      1800.0,
+      864.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image73",
+    "original_extent_pt": [
+      1800.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image74",
+    "original_extent_pt": [
+      1872.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image46",
+    "original_extent_pt": [
+      864.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image46",
+    "original_extent_pt": [
+      864.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image76",
+    "original_extent_pt": [
+      10440.0,
+      4680.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image77",
+    "original_extent_pt": [
+      10656.0,
+      4680.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image53",
+    "original_extent_pt": [
+      10152.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image79",
+    "original_extent_pt": [
+      2592.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image80",
+    "original_extent_pt": [
+      1368.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image81",
+    "original_extent_pt": [
+      1368.0,
+      1008.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image82",
+    "original_extent_pt": [
+      10224.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image83",
+    "original_extent_pt": [
+      3024.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image84",
+    "original_extent_pt": [
+      7776.0,
+      2232.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image85",
+    "original_extent_pt": [
+      7776.0,
+      2232.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image13",
+    "original_extent_pt": [
+      2232.0,
+      1368.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image46",
+    "original_extent_pt": [
+      864.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image13",
+    "original_extent_pt": [
+      2232.0,
+      1368.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image55",
+    "original_extent_pt": [
+      792.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image56",
+    "original_extent_pt": [
+      792.0,
+      864.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image65",
+    "original_extent_pt": [
+      5112.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image73",
+    "original_extent_pt": [
+      1800.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image88",
+    "original_extent_pt": [
+      6912.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image91",
+    "original_extent_pt": [
+      12672.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image92",
+    "original_extent_pt": [
+      14112.0,
+      3816.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image74",
+    "original_extent_pt": [
+      1872.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image93",
+    "original_extent_pt": [
+      15048.0,
+      3816.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image94",
+    "original_extent_pt": [
+      7200.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image46",
+    "original_extent_pt": [
+      864.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image55",
+    "original_extent_pt": [
+      792.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image56",
+    "original_extent_pt": [
+      792.0,
+      864.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image97",
+    "original_extent_pt": [
+      1440.0,
+      2376.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image98",
+    "original_extent_pt": [
+      3384.0,
+      2376.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image99",
+    "original_extent_pt": [
+      6768.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image65",
+    "original_extent_pt": [
+      5112.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image101",
+    "original_extent_pt": [
+      3384.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image102",
+    "original_extent_pt": [
+      6480.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image103",
+    "original_extent_pt": [
+      3384.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image74",
+    "original_extent_pt": [
+      1872.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image104",
+    "original_extent_pt": [
+      10656.0,
+      5832.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image74",
+    "original_extent_pt": [
+      1872.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image105",
+    "original_extent_pt": [
+      1728.0,
+      864.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image106",
+    "original_extent_pt": [
+      4176.0,
+      2232.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image107",
+    "original_extent_pt": [
+      5472.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image108",
+    "original_extent_pt": [
+      4968.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image109",
+    "original_extent_pt": [
+      3600.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image22",
+    "original_extent_pt": [
+      5544.0,
+      2520.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image110",
+    "original_extent_pt": [
+      2160.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image111",
+    "original_extent_pt": [
+      2232.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image112",
+    "original_extent_pt": [
+      2232.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image113",
+    "original_extent_pt": [
+      2304.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image114",
+    "original_extent_pt": [
+      3456.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image115",
+    "original_extent_pt": [
+      5256.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image116",
+    "original_extent_pt": [
+      5256.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image115",
+    "original_extent_pt": [
+      5256.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image116",
+    "original_extent_pt": [
+      5256.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image117",
+    "original_extent_pt": [
+      720.0,
+      792.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image116",
+    "original_extent_pt": [
+      5256.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image116",
+    "original_extent_pt": [
+      5256.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image118",
+    "original_extent_pt": [
+      5256.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image116",
+    "original_extent_pt": [
+      5256.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image120",
+    "original_extent_pt": [
+      5688.0,
+      3816.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image125",
+    "original_extent_pt": [
+      720.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image125",
+    "original_extent_pt": [
+      720.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image112",
+    "original_extent_pt": [
+      2232.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image112",
+    "original_extent_pt": [
+      2232.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image126",
+    "original_extent_pt": [
+      3096.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image127",
+    "original_extent_pt": [
+      8352.0,
+      1656.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image128",
+    "original_extent_pt": [
+      5472.0,
+      1512.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image129",
+    "original_extent_pt": [
+      7560.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image130",
+    "original_extent_pt": [
+      3744.0,
+      1440.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image131",
+    "original_extent_pt": [
+      6912.0,
+      1440.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image132",
+    "original_extent_pt": [
+      1944.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image133",
+    "original_extent_pt": [
+      3024.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image134",
+    "original_extent_pt": [
+      1944.0,
+      1008.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image135",
+    "original_extent_pt": [
+      5544.0,
+      3816.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image136",
+    "original_extent_pt": [
+      3960.0,
+      1008.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image137",
+    "original_extent_pt": [
+      3744.0,
+      1008.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image138",
+    "original_extent_pt": [
+      3096.0,
+      1008.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image126",
+    "original_extent_pt": [
+      3096.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image8",
+    "original_extent_pt": [
+      2952.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image127",
+    "original_extent_pt": [
+      8352.0,
+      1656.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image128",
+    "original_extent_pt": [
+      5472.0,
+      1512.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image129",
+    "original_extent_pt": [
+      7560.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image139",
+    "original_extent_pt": [
+      6840.0,
+      1944.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image139",
+    "original_extent_pt": [
+      6840.0,
+      1944.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image139",
+    "original_extent_pt": [
+      6840.0,
+      1944.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image112",
+    "original_extent_pt": [
+      2232.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image112",
+    "original_extent_pt": [
+      2232.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image140",
+    "original_extent_pt": [
+      25776.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image141",
+    "original_extent_pt": [
+      26640.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image112",
+    "original_extent_pt": [
+      2232.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image113",
+    "original_extent_pt": [
+      2304.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image8",
+    "original_extent_pt": [
+      2952.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image113",
+    "original_extent_pt": [
+      2304.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image146",
+    "original_extent_pt": [
+      3312.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image151",
+    "original_extent_pt": [
+      2160.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image152",
+    "original_extent_pt": [
+      2232.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image154",
+    "original_extent_pt": [
+      2520.0,
+      2376.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image155",
+    "original_extent_pt": [
+      2448.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image156",
+    "original_extent_pt": [
+      2520.0,
+      2376.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image157",
+    "original_extent_pt": [
+      6624.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image151",
+    "original_extent_pt": [
+      2160.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image157",
+    "original_extent_pt": [
+      6624.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image158",
+    "original_extent_pt": [
+      6912.0,
+      2232.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image159",
+    "original_extent_pt": [
+      2880.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image159",
+    "original_extent_pt": [
+      2880.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image160",
+    "original_extent_pt": [
+      3096.0,
+      2736.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image161",
+    "original_extent_pt": [
+      9072.0,
+      2808.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image159",
+    "original_extent_pt": [
+      2880.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image34",
+    "original_extent_pt": [
+      1944.0,
+      864.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image159",
+    "original_extent_pt": [
+      2880.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image132",
+    "original_extent_pt": [
+      1944.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image159",
+    "original_extent_pt": [
+      2880.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image163",
+    "original_extent_pt": [
+      1512.0,
+      864.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image164",
+    "original_extent_pt": [
+      9072.0,
+      1584.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image165",
+    "original_extent_pt": [
+      1872.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image165",
+    "original_extent_pt": [
+      1872.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image165",
+    "original_extent_pt": [
+      1872.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image112",
+    "original_extent_pt": [
+      2232.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image113",
+    "original_extent_pt": [
+      2304.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image166",
+    "original_extent_pt": [
+      2232.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image8",
+    "original_extent_pt": [
+      2952.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image112",
+    "original_extent_pt": [
+      2232.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image113",
+    "original_extent_pt": [
+      2304.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image166",
+    "original_extent_pt": [
+      2232.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image166",
+    "original_extent_pt": [
+      2232.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image166",
+    "original_extent_pt": [
+      2232.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image167",
+    "original_extent_pt": [
+      2232.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image146",
+    "original_extent_pt": [
+      3312.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image171",
+    "original_extent_pt": [
+      2448.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image156",
+    "original_extent_pt": [
+      2520.0,
+      2376.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image172",
+    "original_extent_pt": [
+      7632.0,
+      2376.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image151",
+    "original_extent_pt": [
+      2160.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image172",
+    "original_extent_pt": [
+      7632.0,
+      2376.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image173",
+    "original_extent_pt": [
+      6984.0,
+      2232.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image174",
+    "original_extent_pt": [
+      7848.0,
+      2736.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image22",
+    "original_extent_pt": [
+      5544.0,
+      2520.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image176",
+    "original_extent_pt": [
+      1872.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image176",
+    "original_extent_pt": [
+      1872.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image176",
+    "original_extent_pt": [
+      1872.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image176",
+    "original_extent_pt": [
+      1872.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image177",
+    "original_extent_pt": [
+      3096.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image22",
+    "original_extent_pt": [
+      5544.0,
+      2520.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image22",
+    "original_extent_pt": [
+      5544.0,
+      2520.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image125",
+    "original_extent_pt": [
+      720.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image8",
+    "original_extent_pt": [
+      2952.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image8",
+    "original_extent_pt": [
+      2952.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image181",
+    "original_extent_pt": [
+      2448.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image22",
+    "original_extent_pt": [
+      5544.0,
+      2592.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image183",
+    "original_extent_pt": [
+      3312.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image184",
+    "original_extent_pt": [
+      3168.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image185",
+    "original_extent_pt": [
+      2376.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image187",
+    "original_extent_pt": [
+      2016.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image187",
+    "original_extent_pt": [
+      2016.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image188",
+    "original_extent_pt": [
+      2160.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image159",
+    "original_extent_pt": [
+      2880.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image22",
+    "original_extent_pt": [
+      5544.0,
+      2592.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image22",
+    "original_extent_pt": [
+      5544.0,
+      2592.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image159",
+    "original_extent_pt": [
+      2880.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image159",
+    "original_extent_pt": [
+      2880.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image8",
+    "original_extent_pt": [
+      2952.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image8",
+    "original_extent_pt": [
+      2952.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image191",
+    "original_extent_pt": [
+      2808.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image192",
+    "original_extent_pt": [
+      6768.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image74",
+    "original_extent_pt": [
+      1872.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image195",
+    "original_extent_pt": [
+      3024.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image196",
+    "original_extent_pt": [
+      3096.0,
+      2592.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image197",
+    "original_extent_pt": [
+      2592.0,
+      2304.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image195",
+    "original_extent_pt": [
+      3024.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image195",
+    "original_extent_pt": [
+      3024.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image146",
+    "original_extent_pt": [
+      3312.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image199",
+    "original_extent_pt": [
+      5976.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image156",
+    "original_extent_pt": [
+      2520.0,
+      2376.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image199",
+    "original_extent_pt": [
+      5976.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image151",
+    "original_extent_pt": [
+      2160.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image199",
+    "original_extent_pt": [
+      5976.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image200",
+    "original_extent_pt": [
+      3096.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image156",
+    "original_extent_pt": [
+      2520.0,
+      2376.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image151",
+    "original_extent_pt": [
+      2160.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image201",
+    "original_extent_pt": [
+      2736.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image202",
+    "original_extent_pt": [
+      2592.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image203",
+    "original_extent_pt": [
+      2160.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image203",
+    "original_extent_pt": [
+      2160.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image203",
+    "original_extent_pt": [
+      2160.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image203",
+    "original_extent_pt": [
+      2160.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image204",
+    "original_extent_pt": [
+      1728.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image8",
+    "original_extent_pt": [
+      2952.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image8",
+    "original_extent_pt": [
+      2952.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image8",
+    "original_extent_pt": [
+      2952.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image8",
+    "original_extent_pt": [
+      2952.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image192",
+    "original_extent_pt": [
+      6768.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image206",
+    "original_extent_pt": [
+      10512.0,
+      2376.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image207",
+    "original_extent_pt": [
+      9648.0,
+      2376.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image151",
+    "original_extent_pt": [
+      2160.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image208",
+    "original_extent_pt": [
+      2592.0,
+      2304.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image151",
+    "original_extent_pt": [
+      2160.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image208",
+    "original_extent_pt": [
+      2592.0,
+      2304.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image159",
+    "original_extent_pt": [
+      2880.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image195",
+    "original_extent_pt": [
+      3024.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image157",
+    "original_extent_pt": [
+      6624.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image210",
+    "original_extent_pt": [
+      7056.0,
+      2232.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image211",
+    "original_extent_pt": [
+      6264.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image195",
+    "original_extent_pt": [
+      3024.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image212",
+    "original_extent_pt": [
+      2736.0,
+      2232.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image213",
+    "original_extent_pt": [
+      2592.0,
+      2304.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image214",
+    "original_extent_pt": [
+      3096.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image215",
+    "original_extent_pt": [
+      3240.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image216",
+    "original_extent_pt": [
+      3312.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image214",
+    "original_extent_pt": [
+      3096.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image217",
+    "original_extent_pt": [
+      2520.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image218",
+    "original_extent_pt": [
+      21096.0,
+      2808.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image219",
+    "original_extent_pt": [
+      21240.0,
+      2808.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image220",
+    "original_extent_pt": [
+      3024.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image221",
+    "original_extent_pt": [
+      2736.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image222",
+    "original_extent_pt": [
+      5976.0,
+      5328.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image223",
+    "original_extent_pt": [
+      7560.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image192",
+    "original_extent_pt": [
+      6768.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image224",
+    "original_extent_pt": [
+      9288.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image225",
+    "original_extent_pt": [
+      1728.0,
+      2232.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image224",
+    "original_extent_pt": [
+      9288.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image227",
+    "original_extent_pt": [
+      792.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image227",
+    "original_extent_pt": [
+      792.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image192",
+    "original_extent_pt": [
+      6768.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image230",
+    "original_extent_pt": [
+      13248.0,
+      9000.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image225",
+    "original_extent_pt": [
+      1728.0,
+      2232.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image225",
+    "original_extent_pt": [
+      1728.0,
+      2232.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image192",
+    "original_extent_pt": [
+      6768.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image232",
+    "original_extent_pt": [
+      3240.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image233",
+    "original_extent_pt": [
+      6624.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image233",
+    "original_extent_pt": [
+      6624.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image234",
+    "original_extent_pt": [
+      9720.0,
+      2232.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image192",
+    "original_extent_pt": [
+      6768.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image235",
+    "original_extent_pt": [
+      6552.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image236",
+    "original_extent_pt": [
+      1584.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image237",
+    "original_extent_pt": [
+      25272.0,
+      2448.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image238",
+    "original_extent_pt": [
+      10584.0,
+      2376.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image239",
+    "original_extent_pt": [
+      6696.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image240",
+    "original_extent_pt": [
+      7488.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image241",
+    "original_extent_pt": [
+      7560.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image245",
+    "original_extent_pt": [
+      7200.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image246",
+    "original_extent_pt": [
+      3168.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image247",
+    "original_extent_pt": [
+      3528.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image248",
+    "original_extent_pt": [
+      3528.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image46",
+    "original_extent_pt": [
+      864.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image55",
+    "original_extent_pt": [
+      792.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image56",
+    "original_extent_pt": [
+      792.0,
+      864.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image46",
+    "original_extent_pt": [
+      864.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image55",
+    "original_extent_pt": [
+      792.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image56",
+    "original_extent_pt": [
+      792.0,
+      864.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image251",
+    "original_extent_pt": [
+      11160.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image46",
+    "original_extent_pt": [
+      864.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image46",
+    "original_extent_pt": [
+      864.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image46",
+    "original_extent_pt": [
+      864.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image252",
+    "original_extent_pt": [
+      3744.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image253",
+    "original_extent_pt": [
+      4248.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image254",
+    "original_extent_pt": [
+      7992.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image255",
+    "original_extent_pt": [
+      4752.0,
+      6408.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image257",
+    "original_extent_pt": [
+      11520.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image55",
+    "original_extent_pt": [
+      792.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image55",
+    "original_extent_pt": [
+      792.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image55",
+    "original_extent_pt": [
+      792.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image46",
+    "original_extent_pt": [
+      864.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image55",
+    "original_extent_pt": [
+      792.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image262",
+    "original_extent_pt": [
+      936.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image263",
+    "original_extent_pt": [
+      6480.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image262",
+    "original_extent_pt": [
+      936.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image253",
+    "original_extent_pt": [
+      4248.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image265",
+    "original_extent_pt": [
+      1944.0,
+      864.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image265",
+    "original_extent_pt": [
+      1944.0,
+      864.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image245",
+    "original_extent_pt": [
+      7200.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image267",
+    "original_extent_pt": [
+      3096.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image267",
+    "original_extent_pt": [
+      3096.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image268",
+    "original_extent_pt": [
+      2880.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image267",
+    "original_extent_pt": [
+      3096.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image268",
+    "original_extent_pt": [
+      2880.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image267",
+    "original_extent_pt": [
+      3096.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image265",
+    "original_extent_pt": [
+      1944.0,
+      864.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image245",
+    "original_extent_pt": [
+      7200.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image273",
+    "original_extent_pt": [
+      26352.0,
+      5112.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image275",
+    "original_extent_pt": [
+      7632.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image22",
+    "original_extent_pt": [
+      5544.0,
+      2520.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image125",
+    "original_extent_pt": [
+      720.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image177",
+    "original_extent_pt": [
+      3096.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image125",
+    "original_extent_pt": [
+      720.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image125",
+    "original_extent_pt": [
+      720.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image8",
+    "original_extent_pt": [
+      2952.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image245",
+    "original_extent_pt": [
+      7200.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image22",
+    "original_extent_pt": [
+      5544.0,
+      2520.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image22",
+    "original_extent_pt": [
+      5544.0,
+      2520.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image177",
+    "original_extent_pt": [
+      3096.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image227",
+    "original_extent_pt": [
+      792.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image227",
+    "original_extent_pt": [
+      792.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image283",
+    "original_extent_pt": [
+      2376.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image185",
+    "original_extent_pt": [
+      2376.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image284",
+    "original_extent_pt": [
+      2448.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image284",
+    "original_extent_pt": [
+      2448.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image284",
+    "original_extent_pt": [
+      2448.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image285",
+    "original_extent_pt": [
+      1944.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image284",
+    "original_extent_pt": [
+      2448.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image286",
+    "original_extent_pt": [
+      1584.0,
+      1008.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image287",
+    "original_extent_pt": [
+      23400.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image288",
+    "original_extent_pt": [
+      2736.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image288",
+    "original_extent_pt": [
+      2736.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image289",
+    "original_extent_pt": [
+      1944.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image289",
+    "original_extent_pt": [
+      1944.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image289",
+    "original_extent_pt": [
+      1944.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image290",
+    "original_extent_pt": [
+      1944.0,
+      1152.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image146",
+    "original_extent_pt": [
+      3312.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image292",
+    "original_extent_pt": [
+      6264.0,
+      1080.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image293",
+    "original_extent_pt": [
+      792.0,
+      2088.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image294",
+    "original_extent_pt": [
+      1368.0,
+      2304.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image245",
+    "original_extent_pt": [
+      7200.0,
+      1224.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image227",
+    "original_extent_pt": [
+      792.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image227",
+    "original_extent_pt": [
+      792.0,
+      720.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image144",
+    "original_extent_pt": [
+      648.0,
+      936.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image297",
+    "original_extent_pt": [
+      1944.0,
+      2520.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  },
+  {
+    "image": "image150",
+    "original_extent_pt": [
+      2304.0,
+      1296.0
+    ],
+    "scale": 0.013888888888888888
+  }
+]

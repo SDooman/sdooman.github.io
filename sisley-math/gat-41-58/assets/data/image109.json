@@ -1,0 +1,37 @@
+{
+  "kind": "table",
+  "title": "800 meter run for men",
+  "headers": [
+    "year in which Olympic record was set",
+    "record in seconds"
+  ],
+  "rows": [
+    [
+      "1948",
+      "109.2"
+    ],
+    [
+      "1956",
+      "107.7"
+    ],
+    [
+      "1960",
+      "106.3"
+    ],
+    [
+      "1964",
+      "105.1"
+    ],
+    [
+      "1976",
+      "103.5"
+    ],
+    [
+      "1984",
+      "103.0"
+    ]
+  ],
+  "review": "needs_review",
+  "blank_meaning": "null means an intentional source blank, not zero",
+  "source_sha256": "29b18c7c4db98b210c1126f2a32fb12a79aa1acda336c75d63a4835d795ab6ca"
+}

@@ -47,3 +47,10 @@ All four networks now have node/edge scenes, SVG previews and adjacency matrices
 The wave in image1 is an explicitly approximate raster-centreline trace; no exact function is invented. Source vector recovery preserves geometry and font outlines, but most drawings still need authored semantic constraints before becoming dynamic mathematical models. Matrix/coordinate records do not automatically reflow the preserved source SVG. The original textbook diagrams remain available. A vision/OCR proposal adapter, general geometry solver, animation and learner execution remain future increments.
 
 Validation includes 17 pipeline tests, all 336 source hashes/666 placements, an independent check of tiny matrix entries against positioned PDF glyphs, the graph/printed-adjacency correspondence, and a reflection identity. All 115 source/reconstruction pairs were visually inspected; 233 recovery files reproduce byte-for-byte. The highlighted page has valid source links and syntax-checked controls; interactive browser QA remains outstanding.
+
+
+## Assignments 41–119 preservation
+
+The four additional legacy DOC files now have Markdown, offline readers, highlighted source comparisons and filtered media galleries. `index.html` is the review overview. They preserve 79 assignments, 714 main questions and 2,244 media placements from 1,448 graphic asset IDs: 1,115 formula images become LaTeX, 21 tables become editable data, 241 drawings become SVG/JSON and 71 retain raster artwork.
+
+Original DOC/media bytes, 1,101 native equation records, parsed trees, reference copies, source-inspected mappings and replayable Python/JavaScript are in the archive. Reference pagination differs from original Word pagination. Candidate review and a few legacy font/label repairs remain; the per-batch conversion notes list issues by reference page. Interactive learning, a geometry constraint model, executable assignments and progress storage remain future work.

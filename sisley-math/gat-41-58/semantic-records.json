@@ -1,0 +1,421 @@
+{
+  "image109": {
+    "kind": "table",
+    "title": "800 meter run for men",
+    "headers": [
+      "year in which Olympic record was set",
+      "record in seconds"
+    ],
+    "rows": [
+      [
+        "1948",
+        "109.2"
+      ],
+      [
+        "1956",
+        "107.7"
+      ],
+      [
+        "1960",
+        "106.3"
+      ],
+      [
+        "1964",
+        "105.1"
+      ],
+      [
+        "1976",
+        "103.5"
+      ],
+      [
+        "1984",
+        "103.0"
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "29b18c7c4db98b210c1126f2a32fb12a79aa1acda336c75d63a4835d795ab6ca"
+  },
+  "image110": {
+    "kind": "table",
+    "title": "800 meter run for women",
+    "headers": [
+      "year in which world record was set",
+      "record in seconds"
+    ],
+    "rows": [
+      [
+        "1953",
+        "127.3"
+      ],
+      [
+        "1960",
+        "124.1"
+      ],
+      [
+        "1964",
+        "121.5"
+      ],
+      [
+        "1968",
+        "120.5"
+      ],
+      [
+        "1971",
+        "118.3"
+      ],
+      [
+        "1983",
+        "113.28"
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "25c64161cf19fee939b37bc67f11f123a6b5b92ad46bc9a1861ba4fab2ae508b"
+  },
+  "image260": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "Team",
+      "Won",
+      "Lost"
+    ],
+    "rows": [
+      [
+        "A",
+        "2",
+        "1"
+      ],
+      [
+        "B",
+        "2",
+        "1"
+      ],
+      [
+        "C",
+        "1",
+        "2"
+      ],
+      [
+        "D",
+        "1",
+        "2"
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "f312b5dd29ee6a00f2fdfa86e7eaafae3f30608436c0873936c9d612da719d29"
+  },
+  "image276": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "Team",
+      "Won",
+      "Lost"
+    ],
+    "rows": [
+      [
+        "A",
+        "2",
+        "1"
+      ],
+      [
+        "B",
+        "2",
+        "1"
+      ],
+      [
+        "C",
+        "1",
+        "2"
+      ],
+      [
+        "D",
+        "1",
+        "2"
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "5672e940a531f14af655f1df7e56bed1661870451e8602ed3e3c81e8ece8da5c"
+  },
+  "image278": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "Team",
+      "Won",
+      "Lost"
+    ],
+    "rows": [
+      [
+        "A",
+        "3",
+        "1"
+      ],
+      [
+        "B",
+        "3",
+        "1"
+      ],
+      [
+        "C",
+        "2",
+        "2"
+      ],
+      [
+        "D",
+        "2",
+        "2"
+      ],
+      [
+        "E",
+        "0",
+        "4"
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "417b8009e916680542497061d0b1134d8c6562b98523c25dfb2892f2cc956b39"
+  },
+  "image284": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "Team",
+      "Won",
+      "Lost"
+    ],
+    "rows": [
+      [
+        "A",
+        "3",
+        "1"
+      ],
+      [
+        "B",
+        "3",
+        "1"
+      ],
+      [
+        "C",
+        "2",
+        "2"
+      ],
+      [
+        "D",
+        "2",
+        "2"
+      ],
+      [
+        "E",
+        "0",
+        "4"
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "15b34d675edc7bf4bff774f74af0e3c5d7e0f088be64654a08486aac582a29ed"
+  },
+  "image300": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "Team",
+      "Won",
+      "Lost"
+    ],
+    "rows": [
+      [
+        "A",
+        "4",
+        "1"
+      ],
+      [
+        "B",
+        "4",
+        "1"
+      ],
+      [
+        "C",
+        "3",
+        "2"
+      ],
+      [
+        "D",
+        "2",
+        "3"
+      ],
+      [
+        "E",
+        "2",
+        "3"
+      ],
+      [
+        "F",
+        "0",
+        "5"
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "1dea4591a91f5a484f6267dcd81687e6ed992844f58977c7265a99cb2b06d6fd"
+  },
+  "image313": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "Team",
+      "Won",
+      "Lost"
+    ],
+    "rows": [
+      [
+        "A",
+        "4",
+        "1"
+      ],
+      [
+        "B",
+        "4",
+        "1"
+      ],
+      [
+        "C",
+        "3",
+        "2"
+      ],
+      [
+        "D",
+        "2",
+        "3"
+      ],
+      [
+        "E",
+        "2",
+        "3"
+      ],
+      [
+        "F",
+        "0",
+        "5"
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "a76493b2ad6da1d7dd66c2bc3fc084aa261a195f83dcbbef299ddb015cb63aca"
+  },
+  "image297": {
+    "kind": "table",
+    "title": null,
+    "headers": [
+      "closeness index",
+      "cancer deaths"
+    ],
+    "rows": [
+      [
+        "1.3",
+        "114"
+      ],
+      [
+        "1.6",
+        "138"
+      ],
+      [
+        "2.5",
+        "147"
+      ],
+      [
+        "2.6",
+        "130"
+      ],
+      [
+        "3.4",
+        "130"
+      ],
+      [
+        "3.8",
+        "162"
+      ],
+      [
+        "6.4",
+        "178"
+      ],
+      [
+        "8.3",
+        "210"
+      ],
+      [
+        "11.6",
+        "208"
+      ]
+    ],
+    "review": "needs_review",
+    "blank_meaning": "null means an intentional source blank, not zero",
+    "source_sha256": "6d6348c6c3bda3ddf9daffc124907f50d6eba7389fc5d6955fbb0720046ae090"
+  },
+  "image272": {
+    "kind": "embedded-equations",
+    "expressions": [
+      {
+        "id": "image272-1",
+        "latex": "\\ell _{1}",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image272-2",
+        "latex": "\\ell _{1}",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image272-3",
+        "latex": "\\ell _{2}",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image272-4",
+        "latex": "\\ell _{2}",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      }
+    ],
+    "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+    "source_sha256": "259f4b9472dd969700b107c9f58ecccb1a8b93d789e35ea744f8d2bf0c18da1e"
+  },
+  "image282": {
+    "kind": "embedded-equations",
+    "expressions": [
+      {
+        "id": "image282-1",
+        "latex": "\\ell _{1}",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image282-2",
+        "latex": "\\ell _{1}",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image282-3",
+        "latex": "\\ell _{2}",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      },
+      {
+        "id": "image282-4",
+        "latex": "\\ell _{2}",
+        "method": "native-equation-tree",
+        "review": "needs_review"
+      }
+    ],
+    "note": "Equations recovered from native records embedded in a larger drawing. Record order does not establish placement or mathematical constraints.",
+    "source_sha256": "b0c161a3e53a008044083b5b4ff9b5993151dcfcef20f7f3def4659864d225ce"
+  }
+}

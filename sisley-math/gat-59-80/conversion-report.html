@@ -1,0 +1,228 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>GAT 59–80 conversion notes</title><link rel="stylesheet" href="assets/vendor/katex/katex.min.css"><style>html{scroll-behavior:smooth}body{max-width:1000px;margin:32px auto;padding:0 24px;font:18px/1.65 Georgia,serif;color:#202124;background:white}h1,h2,h3,nav,summary,button,select,.review-summary{font-family:system-ui,sans-serif}h1{font-size:2rem;line-height:1.3}h2{border-top:1px solid #ddd;margin-top:56px;padding-top:24px}h3{margin-top:28px}nav{font-size:14px;margin-bottom:24px;display:flex;flex-wrap:wrap;gap:16px}a{color:#175f9e}img{max-width:100%;height:auto;vertical-align:middle}table{border-collapse:collapse;font-size:16px;max-width:100%;margin:20px 0}th,td{padding:8px 12px;border:1px solid #ccc;text-align:left}th{background:#f3f5f7}pre{overflow:auto;font-size:14px}blockquote{margin:16px 0;padding:8px 16px;background:#f5f5f5;font-size:16px}.katex{font-size:1.06em}.katex-display{overflow-x:auto;overflow-y:hidden;padding:6px 0}.review-table{display:table;border-collapse:collapse;font:14px/1.4 system-ui,sans-serif;width:100%;margin:12px 0}.review-row{display:table-row}.review-cell{display:table-cell;border:1px solid #ccd2d7;padding:7px;vertical-align:middle}.review-header{font-weight:600;background:#f1f4f7}.data-links{display:block;font:13px/1.5 system-ui,sans-serif;margin-top:8px}.retained-media{border-color:#c59734!important;background:#fffbef!important}.review-summary{font-size:15px;color:#475569}.media-gallery{display:grid;gap:24px}.media-card{padding:22px;border:1px solid #ddd;border-radius:6px;scroll-margin-top:130px}.media-card h2{font-size:18px;border:0;margin:0 0 12px;padding:0}.media-card .graph-pair{align-items:center}.media-card img{max-height:320px;object-fit:contain}.gallery-controls{position:sticky;top:0;background:#fff;padding:12px;border-bottom:1px solid #ddd;z-index:5;font:14px system-ui;display:flex;gap:12px;flex-wrap:wrap}.code-source{overflow-wrap:anywhere;font:13px/1.5 monospace}.gallery-filtered{display:none}@media(max-width:640px){body{padding:0 14px;font-size:17px}table{font-size:13px}th,td{padding:5px}.review-cell{padding:4px}.media-card{padding:12px}}@media print{nav,.changes-bar,.gallery-controls{display:none}h2{break-before:page}}
+.changed-math{font:inherit;color:inherit;border:0;border-bottom:2px solid #d29c18;border-radius:4px;background:#fff0b3;padding:3px 5px;margin:0 2px;cursor:pointer;max-width:100%;vertical-align:baseline;text-align:left}
+.changed-math:hover,.changed-math:focus-visible{background:#ffe38a;outline:2px solid #986d06;outline-offset:2px}
+.changed-display{display:block;margin:14px 0;padding:6px 12px;overflow-x:auto;width:fit-content;max-width:100%}
+.changed-display .katex-display{margin:6px 0}.changed-math,.changed-graph{scroll-margin-top:180px}
+.changed-graph{display:block;border:3px solid #3583b7;border-radius:8px;background:#edf7ff;padding:20px;margin:24px 0}
+.diagram-heading{display:block;font:700 20px/1.3 system-ui,sans-serif;color:#145c8a;margin:0 0 10px}
+.diagram-side{display:block;margin:0;padding:12px;background:white;border-radius:5px;min-width:0}
+.diagram-caption{display:block;font:600 13px/1.5 system-ui,sans-serif;margin-bottom:12px;color:#285c7e}
+.diagram-math{display:block;margin-top:14px;padding:16px;background:white;border-radius:5px}.diagram-math[hidden]{display:none}.math-entry{display:block;overflow-x:auto}.math-entry-label{font:600 14px/1.5 system-ui,sans-serif}.toggle-diagram-math{font:14px system-ui,sans-serif;padding:8px 12px;margin-top:16px;border:1px solid #3583b7;border-radius:5px;background:white;color:#145c8a;cursor:pointer}
+.changed-graph h4{font:700 20px/1.3 system-ui,sans-serif;color:#145c8a;margin:0 0 10px}
+.graph-pair,.source-pair{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:24px}
+.graph-pair figure{margin:0;padding:12px;background:white;border-radius:5px}.graph-pair figcaption{font:600 13px/1.5 system-ui,sans-serif;margin-bottom:12px;color:#285c7e}
+.change-note,.change-intro{font:15px/1.6 system-ui,sans-serif}.change-note{display:block;margin:0 0 18px}
+.changes-bar{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:10px 16px;flex-wrap:wrap;padding:14px;margin:0 -14px 24px;background:#fffffff5;backdrop-filter:blur(8px);border-bottom:1px solid #ccd4db;font:13px/1.4 system-ui,sans-serif;box-shadow:0 3px 9px #0000000a}
+.changes-bar strong{font-size:15px}.formula-key,.graph-key{padding:4px 8px;border-radius:4px}.formula-key{background:#fff0b3}.graph-key{background:#edf7ff;border:1px solid #3583b7}
+.changes-bar button,#close-source{font:inherit;padding:7px 10px;background:white;border:1px solid #9caeba;border-radius:5px;color:#163e59;cursor:pointer}
+#change-count{color:#55636e}dialog{width:min(850px,calc(100vw - 32px));max-height:85vh;overflow:auto;border:1px solid #9caeba;border-radius:10px;padding:24px;color:#202124;background:white}dialog::backdrop{background:#172d4066}
+.dialog-heading{display:flex;justify-content:space-between;align-items:center;gap:20px}.dialog-heading h2{font-size:22px;margin:0;padding:0;border:0}.source-pair h3{font-size:16px;margin:12px 0}.source-pair section{min-width:0;overflow-x:auto;padding:12px;background:#f6f7f8;border-radius:5px}#source-page{font:14px system-ui,sans-serif;color:#52616c}
+@media(max-width:650px){.graph-pair,.source-pair{grid-template-columns:1fr}.changes-bar{gap:8px;padding:10px}.changed-graph{padding:12px}.changed-math,.changed-graph{scroll-margin-top:225px}}
+@media print{.changes-bar,dialog{display:none}.changed-math{background:#fff0b3;print-color-adjust:exact}.changed-graph{break-inside:avoid}}
+
+.math-inline{display:inline-block;max-width:100%;overflow-x:auto;vertical-align:middle;padding:4px 0}.changed-math{overflow-x:auto}</style></head><body><nav><a href="GAT-59-80.html">Textbook</a><a href="GAT-59-80-changes.html">Highlighted changes</a><a href="media-review.html">All media comparisons</a><a href="conversion-report.html">Conversion notes</a><a href="../index.html">All batches</a></nav><main><h1>Conversion notes for GAT 59–80</h1>
+<p>All 22 assignments, 201 main question anchors, 514 graphic placements and 331 unique source graphics are accounted for. 251 formula images → LaTeX · 7 image tables → editable tables · 54 drawings → SVG/JSON · 19 originals retained.</p>
+<h2>Graphics by category</h2>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th align="right">Unique graphics</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Coordinate-plane diagrams</td>
+<td align="right">48</td>
+</tr>
+<tr>
+<td>Formulas and mathematical notation</td>
+<td align="right">251</td>
+</tr>
+<tr>
+<td>Data tables</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td>Angles, triangles and intersecting/parallel lines</td>
+<td align="right">10</td>
+</tr>
+<tr>
+<td>Calculator and software screenshots</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Reflection and translation constructions</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Annotated calculation flow</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td>Matrices with labels, boxes or arrows</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Shapes, symmetry and geometric patterns</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Photographs and illustrations</td>
+<td align="right">1</td>
+</tr>
+</tbody></table>
+<h2>Pagination</h2>
+<p>The original file metadata reports 103 pages. The repaired reference copy has 106 pages. Numbers below refer to that copy; original printed numbering is not certified. Markdown reflows text, headers and spacing.</p>
+<h2>Issues by reference page</h2>
+<table>
+<thead>
+<tr>
+<th>Reference page</th>
+<th>Assignment/question</th>
+<th>Issue</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>6</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0016">60 II</a></td>
+<td>Some formula labels are small in the legacy preview and need layout review. Available native equations are exposed separately.</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0030">61 I</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0055">61 IX</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0056">61 IX</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0060">62 I</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0085">62 VIII</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0086">62 IX</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0134">63 X</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0152">64 IV</a></td>
+<td>Small legacy formula labels need review; the complete vector layout is retained.</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0168">64 VIII</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0261">67 VI</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0282">68 V</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0300">69 II</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+<tr>
+<td>56</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0313">70 I</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0318">70 VI</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+<tr>
+<td>61</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0322">71 I</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete. Some ordinary letters in this legacy preview render as Symbol glyphs. The original PICT is preserved; its labels need correction before publication.</td>
+</tr>
+<tr>
+<td>62</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0324">71 I</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+<tr>
+<td>74</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0350">73 VII</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+<tr>
+<td>75</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0355">73 VIII</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+<tr>
+<td>80</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0366">74 VIII</a></td>
+<td>Some formula labels are small in the legacy preview and need layout review. Available native equations are exposed separately.</td>
+</tr>
+<tr>
+<td>82</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0374">75 </a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+<tr>
+<td>84</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0376">75 IV</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+<tr>
+<td>84</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0377">75 V</a></td>
+<td>Some formula labels are small in the legacy preview and need layout review. Available native equations are exposed separately.</td>
+</tr>
+<tr>
+<td>85</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0381">75 V</a></td>
+<td>Some formula labels are small in the legacy preview and need layout review. Available native equations are exposed separately.</td>
+</tr>
+<tr>
+<td>91</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0426">77 VIII</a>, <a href="GAT-59-80-changes.html#diagram-gat5980-media-0430">77 IX</a></td>
+<td>Some formula labels are small in the legacy preview and need layout review. Available native equations are exposed separately.</td>
+</tr>
+<tr>
+<td>95</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0447">78 IV</a></td>
+<td>Some formula labels are small in the legacy preview and need layout review. Available native equations are exposed separately.</td>
+</tr>
+<tr>
+<td>104</td>
+<td><a href="GAT-59-80-changes.html#diagram-gat5980-media-0501">80 VII</a></td>
+<td>Contains original raster artwork; retained as an image. Vector conversion is incomplete.</td>
+</tr>
+</tbody></table>
+<h2>What is preserved</h2>
+<p>Original DOC files, unchanged embedded media, native equation records, parsed equation trees, drawing JSON and conversion scripts are retained. Formulas are recovered from native MTEF where available; a separate source-inspected mapping covers formula pictures without native equations. No exercise answers or missing data have been filled in.</p>
+<p>Equation source previews are decoded from QuickDraw text and line records. Composite PICT drawings are rendered through a font-repaired Word atlas; embedded PDF artwork is extracted directly when available. These are reconstructed previews, not certified screenshots from the original version of Word. The original binary files remain linked for independent checking.</p>
+<p>Vector JSON exposes paths and positioned labels. Layout coordinates do not imply exact mathematical coordinates, and extracted PDF text may contain legacy encodings. Native equation records embedded in larger figures are exposed separately; editing them does not yet relayout the drawing.</p>
+<p>19 graphics still contain raster artwork. Their original previews remain in the reading copy. Formula and table pictures converted to text are counted as converted even when their originals were raster images.</p>
+<p>All replacements are review candidates. Structural checks, symbol comparisons and visual spot checks are not a full mathematical proofreading pass. Browser interactions have not been automatically tested because local-file browser access is restricted in this session.</p>
+<p><a href="GAT-59-80-changes.html">Highlighted textbook</a> · <a href="media-review.html">All media comparisons</a> · <a href="GAT-59-80.html">Plain textbook</a></p>
+</main></body></html>

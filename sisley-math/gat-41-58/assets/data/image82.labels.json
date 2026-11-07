@@ -1,0 +1,809 @@
+{
+  "labels": [
+    {
+      "text": "⎡",
+      "bbox_pt": [
+        6.75,
+        18.088,
+        11.358,
+        30.088
+      ],
+      "font": "SQPKHB+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "⎣",
+      "bbox_pt": [
+        6.75,
+        36.088,
+        11.358,
+        48.088
+      ],
+      "font": "SQPKHB+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "⎢",
+      "bbox_pt": [
+        6.75,
+        30.088,
+        11.358,
+        42.088
+      ],
+      "font": "SQPKHB+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "⎤",
+      "bbox_pt": [
+        47.75,
+        18.088,
+        52.358000000000004,
+        30.088
+      ],
+      "font": "SQPKHB+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "⎦",
+      "bbox_pt": [
+        47.75,
+        36.088,
+        52.358000000000004,
+        48.088
+      ],
+      "font": "SQPKHB+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "⎥",
+      "bbox_pt": [
+        47.75,
+        30.088,
+        52.358000000000004,
+        42.088
+      ],
+      "font": "SQPKHB+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        0.75,
+        13.5,
+        3.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        3.75,
+        13.5,
+        6.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        6.75,
+        13.5,
+        9.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        9.75,
+        13.5,
+        12.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        12.75,
+        13.5,
+        15.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        15.75,
+        13.5,
+        18.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        18.75,
+        13.5,
+        21.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        21.75,
+        13.5,
+        24.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        24.75,
+        13.5,
+        27.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        27.75,
+        13.5,
+        30.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        30.75,
+        13.5,
+        33.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        33.75,
+        13.5,
+        36.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        36.75,
+        13.5,
+        39.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        39.75,
+        13.5,
+        42.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        42.75,
+        13.5,
+        45.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        45.75,
+        13.5,
+        48.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        48.75,
+        13.5,
+        51.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        51.75,
+        13.5,
+        54.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        54.75,
+        13.5,
+        57.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        57.75,
+        13.5,
+        60.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        60.75,
+        13.5,
+        63.75,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "A",
+      "bbox_pt": [
+        63.75,
+        13.5,
+        72.414,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "5",
+      "bbox_pt": [
+        72.75,
+        18.0,
+        77.75,
+        28.0
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        80.25,
+        14.588000000000001,
+        86.838,
+        26.588
+      ],
+      "font": "YIQECR+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "−",
+      "bbox_pt": [
+        90.75,
+        2.490000000000002,
+        96.24,
+        12.490000000000002
+      ],
+      "font": "SQPKHB+Symbol",
+      "size": 10.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        96.75,
+        6.5,
+        102.75,
+        18.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        92.75,
+        22.5,
+        98.75,
+        34.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "⋅",
+      "bbox_pt": [
+        104.25,
+        15.838000000000001,
+        107.25,
+        27.838
+      ],
+      "font": "SQPKHB+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "B",
+      "bbox_pt": [
+        107.75,
+        13.5,
+        115.754,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "4",
+      "bbox_pt": [
+        115.75,
+        18.0,
+        120.75,
+        28.0
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": "+",
+      "bbox_pt": [
+        123.25,
+        14.338000000000001,
+        129.838,
+        26.338
+      ],
+      "font": "YIQECR+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "A",
+      "bbox_pt": [
+        131.75,
+        13.5,
+        140.414,
+        25.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "4",
+      "bbox_pt": [
+        140.75,
+        18.0,
+        145.75,
+        28.0
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        0.75,
+        38.5,
+        3.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        3.75,
+        38.5,
+        6.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        6.75,
+        38.5,
+        9.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        9.75,
+        38.5,
+        12.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        12.75,
+        38.5,
+        15.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        15.75,
+        38.5,
+        18.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        18.75,
+        38.5,
+        21.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        21.75,
+        38.5,
+        24.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        24.75,
+        38.5,
+        27.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        27.75,
+        38.5,
+        30.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        30.75,
+        38.5,
+        33.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        33.75,
+        38.5,
+        36.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        36.75,
+        38.5,
+        39.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        39.75,
+        38.5,
+        42.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        42.75,
+        38.5,
+        45.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        45.75,
+        38.5,
+        48.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        48.75,
+        38.5,
+        51.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        51.75,
+        38.5,
+        54.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        54.75,
+        38.5,
+        57.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        57.75,
+        38.5,
+        60.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        60.75,
+        38.5,
+        63.75,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "B",
+      "bbox_pt": [
+        63.75,
+        38.5,
+        71.754,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "5",
+      "bbox_pt": [
+        70.75,
+        43.0,
+        75.75,
+        53.0
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 10.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        78.5,
+        39.588,
+        85.088,
+        51.588
+      ],
+      "font": "YIQECR+Symbol",
+      "size": 12.0
+    },
+    {
+      "text": "B",
+      "bbox_pt": [
+        87.75,
+        38.5,
+        95.754,
+        50.5
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "4",
+      "bbox_pt": [
+        95.75,
+        43.0,
+        100.75,
+        53.0
+      ],
+      "font": "PHIRAM+Times-Roman",
+      "size": 10.0
+    }
+  ],
+  "drawing_primitives": [
+    {
+      "object_type": "line",
+      "x0": 38.25,
+      "x1": 38.25,
+      "top": 17.0,
+      "bottom": 46.0,
+      "path": [
+        [
+          "m",
+          [
+            38.25,
+            17.0
+          ]
+        ],
+        [
+          "l",
+          [
+            38.25,
+            46.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          38.25,
+          17.0
+        ],
+        [
+          38.25,
+          46.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": 0
+    },
+    {
+      "object_type": "line",
+      "x0": 89.5,
+      "x1": 103.5,
+      "top": 20.0,
+      "bottom": 20.0,
+      "path": [
+        [
+          "m",
+          [
+            89.5,
+            20.0
+          ]
+        ],
+        [
+          "l",
+          [
+            103.5,
+            20.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          89.5,
+          20.0
+        ],
+        [
+          103.5,
+          20.0
+        ]
+      ],
+      "linewidth": 4.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

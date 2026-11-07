@@ -4,10 +4,12 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/render-textbook.mjs && node scripts/render-batch.mjs",
-    "check": "node scripts/check-textbook.mjs && node scripts/check-batch.mjs",
+    "build": "node scripts/render-textbook.mjs && node scripts/render-batch.mjs && node scripts/build-series.mjs",
+    "check": "node scripts/check-textbook.mjs && node scripts/check-batch.mjs && node scripts/check-series.mjs",
     "build:21-40": "node scripts/render-batch.mjs",
-    "apply-media:21-40": "node scripts/render-batch.mjs --apply-media"
+    "apply-media:21-40": "node scripts/render-batch.mjs --apply-media",
+    "build:41-119": "node scripts/build-series.mjs",
+    "apply-media:41-119": "node scripts/build-series.mjs --apply-media"
   },
   "dependencies": {
     "katex": "0.19.1",

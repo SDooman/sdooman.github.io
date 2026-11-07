@@ -1,0 +1,89 @@
+{
+  "labels": [],
+  "drawing_primitives": [
+    {
+      "object_type": "line",
+      "x0": 64.0,
+      "x1": 64.0,
+      "top": 4.0,
+      "bottom": 157.0,
+      "path": [
+        [
+          "m",
+          [
+            64.0,
+            4.0
+          ]
+        ],
+        [
+          "l",
+          [
+            64.0,
+            157.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          64.0,
+          4.0
+        ],
+        [
+          64.0,
+          157.0
+        ]
+      ],
+      "linewidth": 8.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": 0
+    },
+    {
+      "object_type": "line",
+      "x0": 124.0,
+      "x1": 124.0,
+      "top": 7.0,
+      "bottom": 158.0,
+      "path": [
+        [
+          "m",
+          [
+            124.0,
+            7.0
+          ]
+        ],
+        [
+          "l",
+          [
+            124.0,
+            158.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          124.0,
+          7.0
+        ],
+        [
+          124.0,
+          158.0
+        ]
+      ],
+      "linewidth": 8.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": 0
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "labels": [
+    {
+      "text": "3",
+      "bbox_pt": [
+        44.75,
+        -721.548,
+        50.318,
+        -709.548
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        69.75,
+        -721.548,
+        75.318,
+        -709.548
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        91.75,
+        -721.548,
+        97.318,
+        -709.548
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "−",
+      "bbox_pt": [
+        41.75,
+        -707.35,
+        49.69,
+        -697.35
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 10.000000000000002
+    },
+    {
+      "text": "2",
+      "bbox_pt": [
+        48.75,
+        -703.548,
+        54.318,
+        -691.548
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "−",
+      "bbox_pt": [
+        67.75,
+        -707.35,
+        75.69,
+        -697.35
+      ],
+      "font": "CAAAAA+OpenSymbol",
+      "size": 10.000000000000002
+    },
+    {
+      "text": "3",
+      "bbox_pt": [
+        74.75,
+        -703.548,
+        80.318,
+        -691.548
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "4",
+      "bbox_pt": [
+        91.75,
+        -703.548,
+        97.318,
+        -691.548
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "⎡",
+      "bbox_pt": [
+        36.75,
+        -720.68,
+        42.75,
+        -708.68
+      ],
+      "font": "EAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎣",
+      "bbox_pt": [
+        36.75,
+        -702.68,
+        42.75,
+        -690.68
+      ],
+      "font": "EAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎢",
+      "bbox_pt": [
+        36.75,
+        -708.68,
+        42.75,
+        -696.68
+      ],
+      "font": "EAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎤",
+      "bbox_pt": [
+        97.75,
+        -720.68,
+        103.75,
+        -708.68
+      ],
+      "font": "EAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎦",
+      "bbox_pt": [
+        97.75,
+        -702.68,
+        103.75,
+        -690.68
+      ],
+      "font": "EAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "⎥",
+      "bbox_pt": [
+        97.75,
+        -708.68,
+        103.75,
+        -696.68
+      ],
+      "font": "EAAAAA+DejaVuSans",
+      "size": 12.0
+    },
+    {
+      "text": "A",
+      "bbox_pt": [
+        107.75,
+        -720.548,
+        116.078,
+        -708.548
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        116.5,
+        -716.04,
+        121.14,
+        -706.04
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 10.0
+    },
+    {
+      "text": "B",
+      "bbox_pt": [
+        107.75,
+        -705.548,
+        114.794,
+        -693.548
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        115.75,
+        -701.04,
+        120.39,
+        -691.04
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 10.0
+    }
+  ],
+  "drawing_primitives": [
+    {
+      "object_type": "rect",
+      "x0": 86.5,
+      "x1": 87.5,
+      "top": -720.5,
+      "bottom": -691.5,
+      "path": [
+        [
+          "m",
+          [
+            86.5,
+            -720.5
+          ]
+        ],
+        [
+          "l",
+          [
+            87.5,
+            -720.5
+          ]
+        ],
+        [
+          "l",
+          [
+            87.5,
+            -691.5
+          ]
+        ],
+        [
+          "l",
+          [
+            86.5,
+            -691.5
+          ]
+        ],
+        [
+          "l",
+          [
+            86.5,
+            -720.5
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          86.5,
+          -720.5
+        ],
+        [
+          87.5,
+          -720.5
+        ],
+        [
+          87.5,
+          -691.5
+        ],
+        [
+          86.5,
+          -691.5
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": 0,
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

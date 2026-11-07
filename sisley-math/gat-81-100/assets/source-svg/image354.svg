@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="157.25pt" height="86pt" viewBox="0 0 157.25 86">
+<defs>
+<clipPath id="clip-0">
+<path clip-rule="nonzero" d="M 1 1.199219 L 154 1.199219 L 154 84.800781 L 1 84.800781 Z M 1 1.199219 "/>
+</clipPath>
+<image id="source-5" x="0" y="0" width="154" height="84" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJoAAABUCAIAAAD1f7mEAAAABmJLR0QA/wD/AP+gvaeTAAACf0lEQVR4nO2d0W6DMAxFYdr//zJ7oKKIxI5JAoG7c56mQmilu+s5tpvNy7JMAeZ5nqYpe/N6aSX4tMOqUwvB4Wf0B4Ce/BbvONgoe9XxVnpDdknxORDhK6cV/dYfUlGDAmzLkeoGCLZSfN1Z5x7L00U3+zEc6ujsTkQaSzkV8slmNNnXD69YC6GFVjmLkLLeCamQFOf2nfuYmd3ApC7El3fCdlAKgq0Ul6dC0MLZzgdyPpRIqTwFOV9M6lrkHEzfzgepkBS4czB9Ox/I+UqskjjBVgrklIJg+1CsUnl6dQ/ufBnLsjh9DkrwUuBOKY6DmZZZrasVw+zZuE+Q6MJHTqfga12ypp+D89CMTV8BwVaKj5yOLbKpVJx1OYN699C67/RDcfoKY9OXUi9ncPTr1NOgkXo5/VSobmwaURshFZKCKXgpjvtO69u128+9vltCKnQFl6dCQV9i3y5QgpeCVEgK2teD6dv5QM6RdO98EGylQM6RdO98EGxfCaNfIvijX7jzZZAK/SOQUwqKfCNxKt5+Mdy6ijulwJ1SRDNbvw+6xxruOvV7w9HidRBspWg9PDzeCqiemp/nmcOqg+BOKerPgvdX+bft7y/OhuHLOPWHh1sni1nB8zBdli6s+AxwgGArxbUl+GwKw/z7ddS7c004G98+8oQub/RPuNadEc/hy46U93N1teDiwpY3BQtSISmotkjBcMlgnP+XmFJsbxBspcCdI3E2YKe+5rDt75HzDtoP0woWwwm2I+meh+LOO2hvb/j9482juFMK5HwlVt8COZ9IdcuBv52vxEx0KfINhCl48MCdUpwuMsGTIdhKgZxSIKcUyCkFma0UuFOKP9Qps7sumLIrAAAAAElFTkSuQmCC"/>
+<clipPath id="clip-1">
+<path clip-rule="nonzero" d="M 0 0.203125 L 156.503906 0.203125 L 156.503906 82 L 0 82 Z M 0 0.203125 "/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip-0)">
+<use xlink:href="#source-5" transform="matrix(0.995253, 0, 0, 0.995253, 0.995253, 1.199367)"/>
+</g>
+<g clip-path="url(#clip-1)">
+<path fill="none" stroke-width="8" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 4.003378 3.999404 L 624.998013 3.999404 L 624.998013 324.002782 L 4.003378 324.002782 Z M 4.003378 3.999404 " transform="matrix(0.248813, 0, 0, 0.248813, 0.000000000000001998, 0.204114)"/>
+</g>
+</svg>

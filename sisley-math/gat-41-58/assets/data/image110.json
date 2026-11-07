@@ -1,0 +1,37 @@
+{
+  "kind": "table",
+  "title": "800 meter run for women",
+  "headers": [
+    "year in which world record was set",
+    "record in seconds"
+  ],
+  "rows": [
+    [
+      "1953",
+      "127.3"
+    ],
+    [
+      "1960",
+      "124.1"
+    ],
+    [
+      "1964",
+      "121.5"
+    ],
+    [
+      "1968",
+      "120.5"
+    ],
+    [
+      "1971",
+      "118.3"
+    ],
+    [
+      "1983",
+      "113.28"
+    ]
+  ],
+  "review": "needs_review",
+  "blank_meaning": "null means an intentional source blank, not zero",
+  "source_sha256": "25c64161cf19fee939b37bc67f11f123a6b5b92ad46bc9a1861ba4fab2ae508b"
+}

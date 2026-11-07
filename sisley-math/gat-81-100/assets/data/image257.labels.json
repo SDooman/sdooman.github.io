@@ -1,0 +1,49 @@
+{
+  "labels": [
+    {
+      "text": "A",
+      "bbox_pt": [
+        36.25,
+        -721.048,
+        44.578,
+        -709.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        45.0,
+        -718.048,
+        50.568,
+        -706.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "B",
+      "bbox_pt": [
+        37.25,
+        -703.048,
+        44.294,
+        -691.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.000000000000002
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        45.25,
+        -700.048,
+        50.818,
+        -688.048
+      ],
+      "font": "DAAAAA+LinuxLibertineG",
+      "size": 12.0
+    }
+  ],
+  "drawing_primitives": []
+}

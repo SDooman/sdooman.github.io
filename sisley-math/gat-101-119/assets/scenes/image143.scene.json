@@ -1,0 +1,4513 @@
+{
+  "version": 1,
+  "kind": "vector",
+  "source_asset_id": "image143",
+  "title": "GAT 101-119, image143",
+  "description": "Original drawing paths; positions are layout coordinates, not inferred mathematical constraints.",
+  "view_box": [
+    0.0,
+    0.0,
+    132.75,
+    100.25
+  ],
+  "coordinate_meaning": "PDF/SVG drawing coordinates, top-left origin; source transforms retained.",
+  "representation_level": "drawing-primitives",
+  "provenance": {
+    "original_sha256": "836d3852db7156c94ae23158a237f2e77e6b27f4d30293954161ec762230d547",
+    "source_kind": "atlas",
+    "pdf_sha256": "b0c43dd59dce7b5f3f4e5b5e94aea46c7d9e03346e42bae9a532e9a143aeeba0"
+  },
+  "elements": [
+    {
+      "tag": "defs",
+      "attributes": {
+        "id": "primitive-0001"
+      },
+      "children": [
+        {
+          "tag": "g",
+          "attributes": {
+            "id": "primitive-0002"
+          },
+          "children": [
+            {
+              "tag": "g",
+              "attributes": {
+                "id": "glyph-0-0"
+              }
+            },
+            {
+              "tag": "g",
+              "attributes": {
+                "id": "glyph-0-1"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attributes": {
+                    "d": "M 0.28125 -0.359375 L 0.28125 -1.671875 C 0.28125 -1.710938 0.28125 -1.742188 0.28125 -1.765625 C 0.28125 -1.796875 0.273438 -1.816406 0.265625 -1.828125 C 0.265625 -1.847656 0.257812 -1.863281 0.25 -1.875 C 0.25 -1.882812 0.238281 -1.890625 0.21875 -1.890625 C 0.195312 -1.898438 0.179688 -1.90625 0.171875 -1.90625 C 0.160156 -1.90625 0.144531 -1.90625 0.125 -1.90625 C 0.113281 -1.90625 0.101562 -1.90625 0.09375 -1.90625 C 0.0820312 -1.914062 0.0703125 -1.929688 0.0625 -1.953125 C 0.0625 -1.972656 0.0664062 -1.988281 0.078125 -2 C 0.140625 -2.007812 0.210938 -2.019531 0.296875 -2.03125 C 0.390625 -2.050781 0.457031 -2.066406 0.5 -2.078125 C 0.519531 -2.078125 0.53125 -2.066406 0.53125 -2.046875 C 0.519531 -1.972656 0.515625 -1.867188 0.515625 -1.734375 L 0.515625 -0.359375 C 0.515625 -0.296875 0.515625 -0.25 0.515625 -0.21875 C 0.523438 -0.1875 0.539062 -0.160156 0.5625 -0.140625 C 0.582031 -0.117188 0.601562 -0.101562 0.625 -0.09375 C 0.644531 -0.09375 0.679688 -0.09375 0.734375 -0.09375 C 0.742188 -0.0820312 0.75 -0.0625 0.75 -0.03125 C 0.75 -0.0078125 0.742188 0 0.734375 0 C 0.566406 0 0.457031 0 0.40625 0 C 0.34375 0 0.226562 0 0.0625 0 C 0.0625 0 0.0625 -0.0078125 0.0625 -0.03125 C 0.0625 -0.0625 0.0625 -0.0820312 0.0625 -0.09375 C 0.113281 -0.09375 0.148438 -0.09375 0.171875 -0.09375 C 0.203125 -0.101562 0.222656 -0.117188 0.234375 -0.140625 C 0.253906 -0.160156 0.265625 -0.1875 0.265625 -0.21875 C 0.273438 -0.25 0.28125 -0.296875 0.28125 -0.359375 Z M 0.28125 -0.359375 ",
+                    "id": "primitive-0005"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "g",
+              "attributes": {
+                "id": "glyph-1-0"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attributes": {
+                    "d": "M 2.265625 -6.78125 L 2.265625 -4.359375 L 3.15625 -4.359375 C 4.28125 -4.359375 4.84375 -4.8125 4.84375 -5.71875 C 4.84375 -6.007812 4.796875 -6.257812 4.703125 -6.46875 C 4.609375 -6.6875 4.484375 -6.851562 4.328125 -6.96875 C 4.171875 -7.082031 4.003906 -7.164062 3.828125 -7.21875 C 3.660156 -7.269531 3.488281 -7.296875 3.3125 -7.296875 C 3.132812 -7.296875 2.988281 -7.289062 2.875 -7.28125 C 2.757812 -7.28125 2.660156 -7.269531 2.578125 -7.25 C 2.503906 -7.226562 2.445312 -7.207031 2.40625 -7.1875 C 2.363281 -7.164062 2.332031 -7.128906 2.3125 -7.078125 C 2.289062 -7.035156 2.273438 -6.992188 2.265625 -6.953125 C 2.265625 -6.921875 2.265625 -6.863281 2.265625 -6.78125 Z M 2.265625 -3.953125 L 2.265625 -1.171875 C 2.265625 -0.929688 2.335938 -0.734375 2.484375 -0.578125 C 2.628906 -0.429688 2.890625 -0.359375 3.265625 -0.359375 C 3.554688 -0.359375 3.816406 -0.378906 4.046875 -0.421875 C 4.273438 -0.460938 4.46875 -0.519531 4.625 -0.59375 C 4.78125 -0.664062 4.910156 -0.75 5.015625 -0.84375 C 5.117188 -0.9375 5.195312 -1.046875 5.25 -1.171875 C 5.3125 -1.296875 5.351562 -1.421875 5.375 -1.546875 C 5.394531 -1.671875 5.40625 -1.8125 5.40625 -1.96875 C 5.40625 -2.539062 5.210938 -3.015625 4.828125 -3.390625 C 4.441406 -3.765625 3.863281 -3.953125 3.09375 -3.953125 Z M 1.765625 -7.6875 C 1.941406 -7.6875 2.195312 -7.6875 2.53125 -7.6875 C 2.875 -7.695312 3.113281 -7.703125 3.25 -7.703125 C 4.957031 -7.703125 5.8125 -7.09375 5.8125 -5.875 C 5.8125 -5.5625 5.703125 -5.257812 5.484375 -4.96875 C 5.265625 -4.6875 5 -4.46875 4.6875 -4.3125 L 4.6875 -4.28125 C 5.238281 -4.125 5.679688 -3.867188 6.015625 -3.515625 C 6.347656 -3.171875 6.515625 -2.726562 6.515625 -2.1875 C 6.515625 -1.96875 6.484375 -1.757812 6.421875 -1.5625 C 6.367188 -1.363281 6.269531 -1.164062 6.125 -0.96875 C 5.988281 -0.769531 5.8125 -0.597656 5.59375 -0.453125 C 5.375 -0.316406 5.085938 -0.203125 4.734375 -0.109375 C 4.378906 -0.0234375 3.972656 0.015625 3.515625 0.015625 C 3.109375 0.015625 2.742188 0.0078125 2.421875 0 C 2.109375 0 1.890625 0 1.765625 0 C 1.515625 0 1.003906 0.00390625 0.234375 0.015625 C 0.191406 -0.0117188 0.171875 -0.078125 0.171875 -0.171875 C 0.171875 -0.265625 0.191406 -0.328125 0.234375 -0.359375 C 0.390625 -0.367188 0.507812 -0.378906 0.59375 -0.390625 C 0.6875 -0.398438 0.773438 -0.414062 0.859375 -0.4375 C 0.953125 -0.46875 1.019531 -0.503906 1.0625 -0.546875 C 1.101562 -0.585938 1.140625 -0.648438 1.171875 -0.734375 C 1.210938 -0.816406 1.238281 -0.914062 1.25 -1.03125 C 1.257812 -1.144531 1.265625 -1.285156 1.265625 -1.453125 L 1.265625 -6.21875 C 1.265625 -6.476562 1.25 -6.675781 1.21875 -6.8125 C 1.195312 -6.945312 1.140625 -7.050781 1.046875 -7.125 C 0.953125 -7.195312 0.847656 -7.242188 0.734375 -7.265625 C 0.628906 -7.285156 0.460938 -7.300781 0.234375 -7.3125 C 0.191406 -7.34375 0.171875 -7.40625 0.171875 -7.5 C 0.171875 -7.601562 0.191406 -7.671875 0.234375 -7.703125 C 1.015625 -7.691406 1.523438 -7.6875 1.765625 -7.6875 Z M 1.765625 -7.6875 ",
+                    "id": "primitive-0007"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "g",
+              "attributes": {
+                "id": "glyph-1-1"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attributes": {
+                    "d": "M 3.140625 -3.375 L 5.234375 -3.375 L 4.125 -6.609375 L 4.046875 -6.609375 L 2.828125 -3.53125 C 2.804688 -3.46875 2.816406 -3.425781 2.859375 -3.40625 C 2.910156 -3.382812 3.003906 -3.375 3.140625 -3.375 Z M 1.84375 -0.9375 C 1.820312 -0.882812 1.804688 -0.832031 1.796875 -0.78125 C 1.796875 -0.726562 1.804688 -0.679688 1.828125 -0.640625 C 1.847656 -0.609375 1.875 -0.578125 1.90625 -0.546875 C 1.9375 -0.523438 1.972656 -0.503906 2.015625 -0.484375 C 2.066406 -0.460938 2.113281 -0.441406 2.15625 -0.421875 C 2.207031 -0.410156 2.265625 -0.398438 2.328125 -0.390625 C 2.390625 -0.390625 2.441406 -0.382812 2.484375 -0.375 C 2.535156 -0.375 2.597656 -0.367188 2.671875 -0.359375 C 2.703125 -0.328125 2.71875 -0.265625 2.71875 -0.171875 C 2.71875 -0.078125 2.703125 -0.0117188 2.671875 0.015625 C 2.078125 0.00390625 1.566406 0 1.140625 0 C 1.023438 0 0.671875 0.00390625 0.078125 0.015625 C 0.046875 -0.0117188 0.03125 -0.078125 0.03125 -0.171875 C 0.03125 -0.265625 0.046875 -0.328125 0.078125 -0.359375 C 0.378906 -0.378906 0.617188 -0.441406 0.796875 -0.546875 C 0.972656 -0.648438 1.128906 -0.875 1.265625 -1.21875 L 3.96875 -7.59375 C 4.132812 -7.59375 4.359375 -7.675781 4.640625 -7.84375 L 7.09375 -1.015625 C 7.125 -0.921875 7.160156 -0.835938 7.203125 -0.765625 C 7.242188 -0.691406 7.296875 -0.632812 7.359375 -0.59375 L 7.515625 -0.484375 C 7.566406 -0.453125 7.640625 -0.425781 7.734375 -0.40625 C 7.828125 -0.394531 7.890625 -0.390625 7.921875 -0.390625 C 7.953125 -0.390625 8.03125 -0.378906 8.15625 -0.359375 C 8.1875 -0.328125 8.203125 -0.265625 8.203125 -0.171875 C 8.203125 -0.078125 8.1875 -0.0117188 8.15625 0.015625 C 7.5625 0.00390625 7.109375 0 6.796875 0 C 6.347656 0 5.828125 0.00390625 5.234375 0.015625 C 5.203125 -0.0117188 5.1875 -0.078125 5.1875 -0.171875 C 5.1875 -0.265625 5.203125 -0.328125 5.234375 -0.359375 C 5.285156 -0.367188 5.347656 -0.375 5.421875 -0.375 C 5.492188 -0.382812 5.550781 -0.390625 5.59375 -0.390625 L 5.75 -0.40625 C 5.8125 -0.40625 5.859375 -0.410156 5.890625 -0.421875 C 5.921875 -0.429688 5.957031 -0.441406 6 -0.453125 C 6.039062 -0.472656 6.070312 -0.492188 6.09375 -0.515625 C 6.113281 -0.535156 6.128906 -0.5625 6.140625 -0.59375 C 6.148438 -0.625 6.15625 -0.660156 6.15625 -0.703125 C 6.15625 -0.742188 6.144531 -0.796875 6.125 -0.859375 L 5.4375 -2.875 L 2.921875 -2.875 C 2.773438 -2.875 2.675781 -2.859375 2.625 -2.828125 C 2.570312 -2.804688 2.53125 -2.753906 2.5 -2.671875 Z M 1.84375 -0.9375 ",
+                    "id": "primitive-0009"
+                  }
+                }
+              ]
+            },
+            {
+              "tag": "g",
+              "attributes": {
+                "id": "glyph-1-2"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attributes": {
+                    "d": "M 0.9375 -5.0625 C 0.738281 -6.332031 0.640625 -7.003906 0.640625 -7.078125 C 0.640625 -7.210938 0.695312 -7.34375 0.8125 -7.46875 C 0.925781 -7.601562 1.066406 -7.671875 1.234375 -7.671875 C 1.378906 -7.671875 1.484375 -7.628906 1.546875 -7.546875 C 1.617188 -7.472656 1.65625 -7.378906 1.65625 -7.265625 C 1.65625 -7.210938 1.625 -7.007812 1.5625 -6.65625 L 1.359375 -5.609375 L 1.265625 -5.125 Z M 0.9375 -5.0625 ",
+                    "id": "primitive-0011"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "clipPath",
+          "attributes": {
+            "id": "clip-0"
+          },
+          "children": [
+            {
+              "tag": "path",
+              "attributes": {
+                "clip-rule": "nonzero",
+                "d": "M 90.445312 96 L 92 96 L 92 96.28125 L 90.445312 96.28125 Z M 90.445312 96 ",
+                "id": "primitive-0013"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 104.498831 662.749338 L 149.748909 730.75039 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0014"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 15.007812 5.707031 C 14.761719 6.699219 14.363281 7.988281 13.769531 8.933594 C 12.824219 10.472656 11.785156 11.414062 10.542969 12.40625 L 3.347656 2.976562 Z M 15.007812 5.707031 ",
+        "id": "primitive-0015"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 100.867188 71.714844 C 101.113281 70.722656 101.511719 69.429688 102.109375 68.488281 C 103.050781 66.949219 104.09375 66.007812 105.332031 65.011719 L 112.53125 74.441406 Z M 100.867188 71.714844 ",
+        "id": "primitive-0016"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 138.00152 688.499143 L 48.001169 747.499766 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0017"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 70.097656 92.308594 L 70.34375 93.300781 L 70.097656 94.046875 L 69.601562 95.039062 L 68.855469 95.535156 L 67.863281 95.785156 L 66.871094 95.535156 L 66.125 95.039062 L 65.382812 94.292969 L 65.382812 92.558594 L 65.878906 91.566406 L 66.625 91.070312 L 67.617188 90.820312 L 68.609375 91.070312 L 69.351562 91.566406 Z M 70.097656 92.308594 ",
+        "id": "primitive-0018"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 105.750312 663.501013 L 105.998247 662.501403 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0019"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 105.998247 662.501403 L 105.750312 661.749727 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0020"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 105.750312 661.749727 L 105.250507 660.750117 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0021"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 105.250507 660.750117 L 104.498831 660.250312 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0022"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 104.498831 660.250312 L 103.499221 659.998441 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0023"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 103.499221 659.998441 L 102.49961 660.250312 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0024"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 102.49961 660.250312 L 101.75187 660.750117 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0025"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 101.75187 660.750117 L 101.000195 661.501792 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0026"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 101.000195 661.501792 L 101.000195 662.501403 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0027"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 101.000195 662.501403 L 101.000195 663.249143 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0028"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 101.000195 663.249143 L 101.5 664.248753 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0029"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 101.5 664.248753 L 102.251675 664.748558 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0030"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 102.251675 664.748558 L 103.251286 665.000429 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0031"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 103.251286 665.000429 L 104.250896 664.748558 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0032"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 104.250896 664.748558 L 104.998636 664.248753 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0033"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 104.998636 664.248753 L 105.750312 663.501013 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0034"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 115.257812 25.3125 L 115.507812 26.304688 L 115.507812 27.296875 L 115.011719 28.039062 L 114.019531 28.785156 L 113.273438 29.03125 L 112.28125 28.785156 L 111.289062 28.289062 L 110.792969 27.542969 L 110.542969 26.550781 L 110.792969 25.558594 L 111.289062 24.8125 L 112.035156 24.070312 L 113.027344 23.820312 L 114.019531 24.070312 L 114.761719 24.566406 Z M 115.257812 25.3125 ",
+        "id": "primitive-0035"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 151.248325 730.998325 L 151.500195 729.998714 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0036"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 151.500195 729.998714 L 151.500195 728.999104 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0037"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 151.500195 728.999104 L 151.00039 728.251364 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0038"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 151.00039 728.251364 L 150.000779 727.499688 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0039"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 150.000779 727.499688 L 149.249104 727.251753 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0040"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 149.249104 727.251753 L 148.249493 727.499688 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0041"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 148.249493 727.499688 L 147.249883 727.999493 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0042"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 147.249883 727.999493 L 146.750078 728.751169 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0043"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 146.750078 728.751169 L 146.498208 729.750779 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0044"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 146.498208 729.750779 L 146.750078 730.75039 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0045"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 146.750078 730.75039 L 147.249883 731.49813 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0046"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 147.249883 731.49813 L 148.001559 732.249805 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0047"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 148.001559 732.249805 L 149.001169 732.501675 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0048"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 149.001169 732.501675 L 150.000779 732.249805 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0049"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 150.000779 732.249805 L 150.748519 731.75 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0050"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 150.748519 731.75 L 151.248325 730.998325 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0051"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 114.998675 703.249299 L 108.001403 692.749454 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0052"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 118.749182 685.000507 L 108.249338 692.249649 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0053"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill-rule": "evenodd",
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "d": "M 21.710938 12.160156 L 21.957031 13.152344 L 21.710938 14.144531 L 21.210938 14.886719 L 20.46875 15.632812 L 19.476562 15.882812 L 18.484375 15.632812 L 17.738281 15.136719 L 17.242188 14.390625 L 16.996094 13.398438 L 16.996094 12.40625 L 17.492188 11.664062 L 18.484375 11.167969 L 19.226562 10.917969 L 20.21875 10.917969 L 21.210938 11.414062 Z M 21.710938 12.160156 ",
+        "id": "primitive-0054"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 57.001598 744.249065 L 57.249532 743.249454 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0055"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 57.249532 743.249454 L 57.001598 742.249844 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0056"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 57.001598 742.249844 L 56.501792 741.498169 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0057"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 56.501792 741.498169 L 55.750117 740.750429 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0058"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 55.750117 740.750429 L 54.750507 740.498558 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0059"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 54.750507 740.498558 L 53.750896 740.750429 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0060"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 53.750896 740.750429 L 52.999221 741.250234 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0061"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 52.999221 741.250234 L 52.499416 742.001909 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0062"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 52.499416 742.001909 L 52.251481 743.00152 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0063"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 52.251481 743.00152 L 52.251481 744.00113 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0064"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 52.251481 744.00113 L 52.751286 744.74887 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0065"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 52.751286 744.74887 L 53.750896 745.248675 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0066"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 53.750896 745.248675 L 54.498636 745.500546 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0067"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 54.498636 745.500546 L 55.498247 745.500546 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0068"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 55.498247 745.500546 L 56.501792 745.00074 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0069"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 56.501792 745.00074 L 57.001598 744.249065 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0070"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 55.250312 743.00152 L 103.499221 663.001208 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0071"
+      }
+    },
+    {
+      "tag": "path",
+      "attributes": {
+        "fill": "none",
+        "stroke-width": "1",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke": "rgb(0%, 0%, 0%)",
+        "stroke-opacity": "1",
+        "stroke-miterlimit": "1",
+        "d": "M 148.749299 729.498909 L 55.250312 743.00152 ",
+        "transform": "matrix(0.992574, 0, 0, -0.992574, -34.371287, 751.378713)",
+        "id": "primitive-0072"
+      }
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "clip-path": "url(#clip-0)",
+        "id": "primitive-0073"
+      },
+      "children": [
+        {
+          "tag": "g",
+          "attributes": {
+            "fill": "rgb(0%, 0%, 0%)",
+            "fill-opacity": "1",
+            "id": "primitive-0074"
+          },
+          "children": [
+            {
+              "tag": "use",
+              "attributes": {
+                "{http://www.w3.org/1999/xlink}href": "#glyph-0-0",
+                "x": "90.444926",
+                "y": "96.031559",
+                "id": "primitive-0075"
+              }
+            },
+            {
+              "tag": "use",
+              "attributes": {
+                "{http://www.w3.org/1999/xlink}href": "#glyph-0-0",
+                "x": "91.189356",
+                "y": "96.031559",
+                "id": "primitive-0076"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "id": "primitive-0077"
+      },
+      "children": [
+        {
+          "tag": "use",
+          "attributes": {
+            "{http://www.w3.org/1999/xlink}href": "#glyph-0-1",
+            "x": "92.430074",
+            "y": "92.309406",
+            "id": "primitive-0078"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "id": "primitive-0079"
+      },
+      "children": [
+        {
+          "tag": "use",
+          "attributes": {
+            "{http://www.w3.org/1999/xlink}href": "#glyph-1-0",
+            "x": "8.805693",
+            "y": "26.551361",
+            "id": "primitive-0080"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "id": "primitive-0081"
+      },
+      "children": [
+        {
+          "tag": "use",
+          "attributes": {
+            "{http://www.w3.org/1999/xlink}href": "#glyph-1-1",
+            "x": "52.47896",
+            "y": "95.038985",
+            "id": "primitive-0082"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "id": "primitive-0083"
+      },
+      "children": [
+        {
+          "tag": "use",
+          "attributes": {
+            "{http://www.w3.org/1999/xlink}href": "#glyph-1-1",
+            "x": "119.97401",
+            "y": "32.506807",
+            "id": "primitive-0084"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "g",
+      "attributes": {
+        "fill": "rgb(0%, 0%, 0%)",
+        "fill-opacity": "1",
+        "id": "primitive-0085"
+      },
+      "children": [
+        {
+          "tag": "use",
+          "attributes": {
+            "{http://www.w3.org/1999/xlink}href": "#glyph-1-2",
+            "x": "127.382584",
+            "y": "32.506807",
+            "id": "primitive-0086"
+          }
+        }
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "text": " ",
+      "bbox_pt": [
+        125.75,
+        -562.262,
+        126.5,
+        -559.262
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 3.0000000000000004
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        126.5,
+        -562.262,
+        127.25,
+        -559.262
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 3.0000000000000004
+    },
+    {
+      "text": "l",
+      "bbox_pt": [
+        127.75,
+        -566.012,
+        128.539,
+        -563.012
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 3.0
+    },
+    {
+      "text": "B",
+      "bbox_pt": [
+        43.5,
+        -639.048,
+        50.544,
+        -627.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "A",
+      "bbox_pt": [
+        87.5,
+        -570.048,
+        95.828,
+        -558.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "A",
+      "bbox_pt": [
+        155.5,
+        -633.048,
+        163.828,
+        -621.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    },
+    {
+      "text": "'",
+      "bbox_pt": [
+        162.964,
+        -633.048,
+        165.232,
+        -621.048
+      ],
+      "font": "BAAAAA+LinuxLibertineG",
+      "size": 12.0
+    }
+  ],
+  "source_drawing_primitives": [
+    {
+      "object_type": "line",
+      "x0": 104.5,
+      "x1": 149.75,
+      "top": -630.5,
+      "bottom": -562.5,
+      "path": [
+        [
+          "m",
+          [
+            104.5,
+            -562.5
+          ]
+        ],
+        [
+          "l",
+          [
+            149.75,
+            -630.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          104.5,
+          -562.5
+        ],
+        [
+          149.75,
+          -630.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": 0
+    },
+    {
+      "object_type": "line",
+      "x0": 48.0,
+      "x1": 138.0,
+      "top": -647.25,
+      "bottom": -588.25,
+      "path": [
+        [
+          "m",
+          [
+            138.0,
+            -588.25
+          ]
+        ],
+        [
+          "l",
+          [
+            48.0,
+            -647.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          138.0,
+          -588.25
+        ],
+        [
+          48.0,
+          -647.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 105.75,
+      "x1": 106.0,
+      "top": -563.25,
+      "bottom": -562.25,
+      "path": [
+        [
+          "m",
+          [
+            105.75,
+            -563.25
+          ]
+        ],
+        [
+          "l",
+          [
+            106.0,
+            -562.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          105.75,
+          -563.25
+        ],
+        [
+          106.0,
+          -562.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 105.75,
+      "x1": 106.0,
+      "top": -562.25,
+      "bottom": -561.5,
+      "path": [
+        [
+          "m",
+          [
+            106.0,
+            -562.25
+          ]
+        ],
+        [
+          "l",
+          [
+            105.75,
+            -561.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          106.0,
+          -562.25
+        ],
+        [
+          105.75,
+          -561.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 105.25,
+      "x1": 105.75,
+      "top": -561.5,
+      "bottom": -560.5,
+      "path": [
+        [
+          "m",
+          [
+            105.75,
+            -561.5
+          ]
+        ],
+        [
+          "l",
+          [
+            105.25,
+            -560.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          105.75,
+          -561.5
+        ],
+        [
+          105.25,
+          -560.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 104.5,
+      "x1": 105.25,
+      "top": -560.5,
+      "bottom": -560.0,
+      "path": [
+        [
+          "m",
+          [
+            105.25,
+            -560.5
+          ]
+        ],
+        [
+          "l",
+          [
+            104.5,
+            -560.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          105.25,
+          -560.5
+        ],
+        [
+          104.5,
+          -560.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 103.5,
+      "x1": 104.5,
+      "top": -560.0,
+      "bottom": -559.75,
+      "path": [
+        [
+          "m",
+          [
+            104.5,
+            -560.0
+          ]
+        ],
+        [
+          "l",
+          [
+            103.5,
+            -559.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          104.5,
+          -560.0
+        ],
+        [
+          103.5,
+          -559.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 102.5,
+      "x1": 103.5,
+      "top": -560.0,
+      "bottom": -559.75,
+      "path": [
+        [
+          "m",
+          [
+            103.5,
+            -559.75
+          ]
+        ],
+        [
+          "l",
+          [
+            102.5,
+            -560.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          103.5,
+          -559.75
+        ],
+        [
+          102.5,
+          -560.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 101.75,
+      "x1": 102.5,
+      "top": -560.5,
+      "bottom": -560.0,
+      "path": [
+        [
+          "m",
+          [
+            102.5,
+            -560.0
+          ]
+        ],
+        [
+          "l",
+          [
+            101.75,
+            -560.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          102.5,
+          -560.0
+        ],
+        [
+          101.75,
+          -560.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 101.0,
+      "x1": 101.75,
+      "top": -561.25,
+      "bottom": -560.5,
+      "path": [
+        [
+          "m",
+          [
+            101.75,
+            -560.5
+          ]
+        ],
+        [
+          "l",
+          [
+            101.0,
+            -561.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          101.75,
+          -560.5
+        ],
+        [
+          101.0,
+          -561.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 101.0,
+      "x1": 101.0,
+      "top": -562.25,
+      "bottom": -561.25,
+      "path": [
+        [
+          "m",
+          [
+            101.0,
+            -561.25
+          ]
+        ],
+        [
+          "l",
+          [
+            101.0,
+            -562.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          101.0,
+          -561.25
+        ],
+        [
+          101.0,
+          -562.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 101.0,
+      "x1": 101.0,
+      "top": -563.0,
+      "bottom": -562.25,
+      "path": [
+        [
+          "m",
+          [
+            101.0,
+            -562.25
+          ]
+        ],
+        [
+          "l",
+          [
+            101.0,
+            -563.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          101.0,
+          -562.25
+        ],
+        [
+          101.0,
+          -563.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 101.0,
+      "x1": 101.5,
+      "top": -564.0,
+      "bottom": -563.0,
+      "path": [
+        [
+          "m",
+          [
+            101.0,
+            -563.0
+          ]
+        ],
+        [
+          "l",
+          [
+            101.5,
+            -564.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          101.0,
+          -563.0
+        ],
+        [
+          101.5,
+          -564.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 101.5,
+      "x1": 102.25,
+      "top": -564.5,
+      "bottom": -564.0,
+      "path": [
+        [
+          "m",
+          [
+            101.5,
+            -564.0
+          ]
+        ],
+        [
+          "l",
+          [
+            102.25,
+            -564.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          101.5,
+          -564.0
+        ],
+        [
+          102.25,
+          -564.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 102.25,
+      "x1": 103.25,
+      "top": -564.75,
+      "bottom": -564.5,
+      "path": [
+        [
+          "m",
+          [
+            102.25,
+            -564.5
+          ]
+        ],
+        [
+          "l",
+          [
+            103.25,
+            -564.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          102.25,
+          -564.5
+        ],
+        [
+          103.25,
+          -564.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 103.25,
+      "x1": 104.25,
+      "top": -564.75,
+      "bottom": -564.5,
+      "path": [
+        [
+          "m",
+          [
+            103.25,
+            -564.75
+          ]
+        ],
+        [
+          "l",
+          [
+            104.25,
+            -564.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          103.25,
+          -564.75
+        ],
+        [
+          104.25,
+          -564.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 104.25,
+      "x1": 105.0,
+      "top": -564.5,
+      "bottom": -564.0,
+      "path": [
+        [
+          "m",
+          [
+            104.25,
+            -564.5
+          ]
+        ],
+        [
+          "l",
+          [
+            105.0,
+            -564.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          104.25,
+          -564.5
+        ],
+        [
+          105.0,
+          -564.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 105.0,
+      "x1": 105.75,
+      "top": -564.0,
+      "bottom": -563.25,
+      "path": [
+        [
+          "m",
+          [
+            105.0,
+            -564.0
+          ]
+        ],
+        [
+          "l",
+          [
+            105.75,
+            -563.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          105.0,
+          -564.0
+        ],
+        [
+          105.75,
+          -563.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 151.25,
+      "x1": 151.5,
+      "top": -630.75,
+      "bottom": -629.75,
+      "path": [
+        [
+          "m",
+          [
+            151.25,
+            -630.75
+          ]
+        ],
+        [
+          "l",
+          [
+            151.5,
+            -629.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          151.25,
+          -630.75
+        ],
+        [
+          151.5,
+          -629.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 151.5,
+      "x1": 151.5,
+      "top": -629.75,
+      "bottom": -628.75,
+      "path": [
+        [
+          "m",
+          [
+            151.5,
+            -629.75
+          ]
+        ],
+        [
+          "l",
+          [
+            151.5,
+            -628.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          151.5,
+          -629.75
+        ],
+        [
+          151.5,
+          -628.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 151.0,
+      "x1": 151.5,
+      "top": -628.75,
+      "bottom": -628.0,
+      "path": [
+        [
+          "m",
+          [
+            151.5,
+            -628.75
+          ]
+        ],
+        [
+          "l",
+          [
+            151.0,
+            -628.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          151.5,
+          -628.75
+        ],
+        [
+          151.0,
+          -628.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 150.0,
+      "x1": 151.0,
+      "top": -628.0,
+      "bottom": -627.25,
+      "path": [
+        [
+          "m",
+          [
+            151.0,
+            -628.0
+          ]
+        ],
+        [
+          "l",
+          [
+            150.0,
+            -627.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          151.0,
+          -628.0
+        ],
+        [
+          150.0,
+          -627.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 149.25,
+      "x1": 150.0,
+      "top": -627.25,
+      "bottom": -627.0,
+      "path": [
+        [
+          "m",
+          [
+            150.0,
+            -627.25
+          ]
+        ],
+        [
+          "l",
+          [
+            149.25,
+            -627.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          150.0,
+          -627.25
+        ],
+        [
+          149.25,
+          -627.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 148.25,
+      "x1": 149.25,
+      "top": -627.25,
+      "bottom": -627.0,
+      "path": [
+        [
+          "m",
+          [
+            149.25,
+            -627.0
+          ]
+        ],
+        [
+          "l",
+          [
+            148.25,
+            -627.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          149.25,
+          -627.0
+        ],
+        [
+          148.25,
+          -627.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 147.25,
+      "x1": 148.25,
+      "top": -627.75,
+      "bottom": -627.25,
+      "path": [
+        [
+          "m",
+          [
+            148.25,
+            -627.25
+          ]
+        ],
+        [
+          "l",
+          [
+            147.25,
+            -627.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          148.25,
+          -627.25
+        ],
+        [
+          147.25,
+          -627.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 146.75,
+      "x1": 147.25,
+      "top": -628.5,
+      "bottom": -627.75,
+      "path": [
+        [
+          "m",
+          [
+            147.25,
+            -627.75
+          ]
+        ],
+        [
+          "l",
+          [
+            146.75,
+            -628.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          147.25,
+          -627.75
+        ],
+        [
+          146.75,
+          -628.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 146.5,
+      "x1": 146.75,
+      "top": -629.5,
+      "bottom": -628.5,
+      "path": [
+        [
+          "m",
+          [
+            146.75,
+            -628.5
+          ]
+        ],
+        [
+          "l",
+          [
+            146.5,
+            -629.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          146.75,
+          -628.5
+        ],
+        [
+          146.5,
+          -629.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 146.5,
+      "x1": 146.75,
+      "top": -630.5,
+      "bottom": -629.5,
+      "path": [
+        [
+          "m",
+          [
+            146.5,
+            -629.5
+          ]
+        ],
+        [
+          "l",
+          [
+            146.75,
+            -630.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          146.5,
+          -629.5
+        ],
+        [
+          146.75,
+          -630.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 146.75,
+      "x1": 147.25,
+      "top": -631.25,
+      "bottom": -630.5,
+      "path": [
+        [
+          "m",
+          [
+            146.75,
+            -630.5
+          ]
+        ],
+        [
+          "l",
+          [
+            147.25,
+            -631.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          146.75,
+          -630.5
+        ],
+        [
+          147.25,
+          -631.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 147.25,
+      "x1": 148.0,
+      "top": -632.0,
+      "bottom": -631.25,
+      "path": [
+        [
+          "m",
+          [
+            147.25,
+            -631.25
+          ]
+        ],
+        [
+          "l",
+          [
+            148.0,
+            -632.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          147.25,
+          -631.25
+        ],
+        [
+          148.0,
+          -632.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 148.0,
+      "x1": 149.0,
+      "top": -632.25,
+      "bottom": -632.0,
+      "path": [
+        [
+          "m",
+          [
+            148.0,
+            -632.0
+          ]
+        ],
+        [
+          "l",
+          [
+            149.0,
+            -632.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          148.0,
+          -632.0
+        ],
+        [
+          149.0,
+          -632.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 149.0,
+      "x1": 150.0,
+      "top": -632.25,
+      "bottom": -632.0,
+      "path": [
+        [
+          "m",
+          [
+            149.0,
+            -632.25
+          ]
+        ],
+        [
+          "l",
+          [
+            150.0,
+            -632.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          149.0,
+          -632.25
+        ],
+        [
+          150.0,
+          -632.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 150.0,
+      "x1": 150.75,
+      "top": -632.0,
+      "bottom": -631.5,
+      "path": [
+        [
+          "m",
+          [
+            150.0,
+            -632.0
+          ]
+        ],
+        [
+          "l",
+          [
+            150.75,
+            -631.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          150.0,
+          -632.0
+        ],
+        [
+          150.75,
+          -631.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 150.75,
+      "x1": 151.25,
+      "top": -631.5,
+      "bottom": -630.75,
+      "path": [
+        [
+          "m",
+          [
+            150.75,
+            -631.5
+          ]
+        ],
+        [
+          "l",
+          [
+            151.25,
+            -630.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          150.75,
+          -631.5
+        ],
+        [
+          151.25,
+          -630.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 108.0,
+      "x1": 115.0,
+      "top": -603.0,
+      "bottom": -592.5,
+      "path": [
+        [
+          "m",
+          [
+            115.0,
+            -603.0
+          ]
+        ],
+        [
+          "l",
+          [
+            108.0,
+            -592.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          115.0,
+          -603.0
+        ],
+        [
+          108.0,
+          -592.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 108.25,
+      "x1": 118.75,
+      "top": -592.0,
+      "bottom": -584.75,
+      "path": [
+        [
+          "m",
+          [
+            118.75,
+            -584.75
+          ]
+        ],
+        [
+          "l",
+          [
+            108.25,
+            -592.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          118.75,
+          -584.75
+        ],
+        [
+          108.25,
+          -592.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 57.0,
+      "x1": 57.25,
+      "top": -644.0,
+      "bottom": -643.0,
+      "path": [
+        [
+          "m",
+          [
+            57.0,
+            -644.0
+          ]
+        ],
+        [
+          "l",
+          [
+            57.25,
+            -643.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          57.0,
+          -644.0
+        ],
+        [
+          57.25,
+          -643.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 57.0,
+      "x1": 57.25,
+      "top": -643.0,
+      "bottom": -642.0,
+      "path": [
+        [
+          "m",
+          [
+            57.25,
+            -643.0
+          ]
+        ],
+        [
+          "l",
+          [
+            57.0,
+            -642.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          57.25,
+          -643.0
+        ],
+        [
+          57.0,
+          -642.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 56.5,
+      "x1": 57.0,
+      "top": -642.0,
+      "bottom": -641.25,
+      "path": [
+        [
+          "m",
+          [
+            57.0,
+            -642.0
+          ]
+        ],
+        [
+          "l",
+          [
+            56.5,
+            -641.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          57.0,
+          -642.0
+        ],
+        [
+          56.5,
+          -641.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 55.75,
+      "x1": 56.5,
+      "top": -641.25,
+      "bottom": -640.5,
+      "path": [
+        [
+          "m",
+          [
+            56.5,
+            -641.25
+          ]
+        ],
+        [
+          "l",
+          [
+            55.75,
+            -640.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          56.5,
+          -641.25
+        ],
+        [
+          55.75,
+          -640.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 54.75,
+      "x1": 55.75,
+      "top": -640.5,
+      "bottom": -640.25,
+      "path": [
+        [
+          "m",
+          [
+            55.75,
+            -640.5
+          ]
+        ],
+        [
+          "l",
+          [
+            54.75,
+            -640.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          55.75,
+          -640.5
+        ],
+        [
+          54.75,
+          -640.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 53.75,
+      "x1": 54.75,
+      "top": -640.5,
+      "bottom": -640.25,
+      "path": [
+        [
+          "m",
+          [
+            54.75,
+            -640.25
+          ]
+        ],
+        [
+          "l",
+          [
+            53.75,
+            -640.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          54.75,
+          -640.25
+        ],
+        [
+          53.75,
+          -640.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 53.0,
+      "x1": 53.75,
+      "top": -641.0,
+      "bottom": -640.5,
+      "path": [
+        [
+          "m",
+          [
+            53.75,
+            -640.5
+          ]
+        ],
+        [
+          "l",
+          [
+            53.0,
+            -641.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          53.75,
+          -640.5
+        ],
+        [
+          53.0,
+          -641.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 52.5,
+      "x1": 53.0,
+      "top": -641.75,
+      "bottom": -641.0,
+      "path": [
+        [
+          "m",
+          [
+            53.0,
+            -641.0
+          ]
+        ],
+        [
+          "l",
+          [
+            52.5,
+            -641.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          53.0,
+          -641.0
+        ],
+        [
+          52.5,
+          -641.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 52.25,
+      "x1": 52.5,
+      "top": -642.75,
+      "bottom": -641.75,
+      "path": [
+        [
+          "m",
+          [
+            52.5,
+            -641.75
+          ]
+        ],
+        [
+          "l",
+          [
+            52.25,
+            -642.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          52.5,
+          -641.75
+        ],
+        [
+          52.25,
+          -642.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 52.25,
+      "x1": 52.25,
+      "top": -643.75,
+      "bottom": -642.75,
+      "path": [
+        [
+          "m",
+          [
+            52.25,
+            -642.75
+          ]
+        ],
+        [
+          "l",
+          [
+            52.25,
+            -643.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          52.25,
+          -642.75
+        ],
+        [
+          52.25,
+          -643.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 52.25,
+      "x1": 52.75,
+      "top": -644.5,
+      "bottom": -643.75,
+      "path": [
+        [
+          "m",
+          [
+            52.25,
+            -643.75
+          ]
+        ],
+        [
+          "l",
+          [
+            52.75,
+            -644.5
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          52.25,
+          -643.75
+        ],
+        [
+          52.75,
+          -644.5
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 52.75,
+      "x1": 53.75,
+      "top": -645.0,
+      "bottom": -644.5,
+      "path": [
+        [
+          "m",
+          [
+            52.75,
+            -644.5
+          ]
+        ],
+        [
+          "l",
+          [
+            53.75,
+            -645.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          52.75,
+          -644.5
+        ],
+        [
+          53.75,
+          -645.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 53.75,
+      "x1": 54.5,
+      "top": -645.25,
+      "bottom": -645.0,
+      "path": [
+        [
+          "m",
+          [
+            53.75,
+            -645.0
+          ]
+        ],
+        [
+          "l",
+          [
+            54.5,
+            -645.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          53.75,
+          -645.0
+        ],
+        [
+          54.5,
+          -645.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 54.5,
+      "x1": 55.5,
+      "top": -645.25,
+      "bottom": -645.25,
+      "path": [
+        [
+          "m",
+          [
+            54.5,
+            -645.25
+          ]
+        ],
+        [
+          "l",
+          [
+            55.5,
+            -645.25
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          54.5,
+          -645.25
+        ],
+        [
+          55.5,
+          -645.25
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 55.5,
+      "x1": 56.5,
+      "top": -645.25,
+      "bottom": -644.75,
+      "path": [
+        [
+          "m",
+          [
+            55.5,
+            -645.25
+          ]
+        ],
+        [
+          "l",
+          [
+            56.5,
+            -644.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          55.5,
+          -645.25
+        ],
+        [
+          56.5,
+          -644.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 56.5,
+      "x1": 57.0,
+      "top": -644.75,
+      "bottom": -644.0,
+      "path": [
+        [
+          "m",
+          [
+            56.5,
+            -644.75
+          ]
+        ],
+        [
+          "l",
+          [
+            57.0,
+            -644.0
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          56.5,
+          -644.75
+        ],
+        [
+          57.0,
+          -644.0
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 55.25,
+      "x1": 103.5,
+      "top": -642.75,
+      "bottom": -562.75,
+      "path": [
+        [
+          "m",
+          [
+            55.25,
+            -642.75
+          ]
+        ],
+        [
+          "l",
+          [
+            103.5,
+            -562.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          55.25,
+          -642.75
+        ],
+        [
+          103.5,
+          -562.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "line",
+      "x0": 55.25,
+      "x1": 148.75,
+      "top": -642.75,
+      "bottom": -629.25,
+      "path": [
+        [
+          "m",
+          [
+            148.75,
+            -629.25
+          ]
+        ],
+        [
+          "l",
+          [
+            55.25,
+            -642.75
+          ]
+        ]
+      ],
+      "pts": [
+        [
+          148.75,
+          -629.25
+        ],
+        [
+          55.25,
+          -642.75
+        ]
+      ],
+      "linewidth": 1.0,
+      "stroke": true,
+      "fill": false,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 38.0,
+      "x1": 49.75,
+      "top": -653.75,
+      "bottom": -644.25,
+      "path": [
+        [
+          "m",
+          [
+            49.75,
+            -651.0
+          ]
+        ],
+        [
+          "c",
+          [
+            49.5,
+            -650.0
+          ],
+          [
+            49.1,
+            -648.7
+          ],
+          [
+            48.5,
+            -647.75
+          ]
+        ],
+        [
+          "c",
+          [
+            47.55,
+            -646.2
+          ],
+          [
+            46.5,
+            -645.25
+          ],
+          [
+            45.25,
+            -644.25
+          ]
+        ],
+        [
+          "l",
+          [
+            38.0,
+            -653.75
+          ]
+        ],
+        [
+          "l",
+          [
+            49.75,
+            -651.0
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          49.75,
+          -651.0
+        ],
+        [
+          48.5,
+          -647.75
+        ],
+        [
+          45.25,
+          -644.25
+        ],
+        [
+          38.0,
+          -653.75
+        ],
+        [
+          49.75,
+          -651.0
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 136.25,
+      "x1": 148.0,
+      "top": -591.25,
+      "bottom": -581.75,
+      "path": [
+        [
+          "m",
+          [
+            136.25,
+            -584.5
+          ]
+        ],
+        [
+          "c",
+          [
+            136.5,
+            -585.5
+          ],
+          [
+            136.9,
+            -586.8
+          ],
+          [
+            137.5,
+            -587.75
+          ]
+        ],
+        [
+          "c",
+          [
+            138.45,
+            -589.3
+          ],
+          [
+            139.5,
+            -590.25
+          ],
+          [
+            140.75,
+            -591.25
+          ]
+        ],
+        [
+          "l",
+          [
+            148.0,
+            -581.75
+          ]
+        ],
+        [
+          "l",
+          [
+            136.25,
+            -584.5
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          136.25,
+          -584.5
+        ],
+        [
+          137.5,
+          -587.75
+        ],
+        [
+          140.75,
+          -591.25
+        ],
+        [
+          148.0,
+          -581.75
+        ],
+        [
+          136.25,
+          -584.5
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 100.5,
+      "x1": 105.5,
+      "top": -565.25,
+      "bottom": -560.25,
+      "path": [
+        [
+          "m",
+          [
+            105.25,
+            -563.75
+          ]
+        ],
+        [
+          "l",
+          [
+            105.5,
+            -562.75
+          ]
+        ],
+        [
+          "l",
+          [
+            105.25,
+            -562.0
+          ]
+        ],
+        [
+          "l",
+          [
+            104.75,
+            -561.0
+          ]
+        ],
+        [
+          "l",
+          [
+            104.0,
+            -560.5
+          ]
+        ],
+        [
+          "l",
+          [
+            103.0,
+            -560.25
+          ]
+        ],
+        [
+          "l",
+          [
+            102.0,
+            -560.5
+          ]
+        ],
+        [
+          "l",
+          [
+            101.25,
+            -561.0
+          ]
+        ],
+        [
+          "l",
+          [
+            100.5,
+            -561.75
+          ]
+        ],
+        [
+          "l",
+          [
+            100.5,
+            -562.75
+          ]
+        ],
+        [
+          "l",
+          [
+            100.5,
+            -563.5
+          ]
+        ],
+        [
+          "l",
+          [
+            101.0,
+            -564.5
+          ]
+        ],
+        [
+          "l",
+          [
+            101.75,
+            -565.0
+          ]
+        ],
+        [
+          "l",
+          [
+            102.75,
+            -565.25
+          ]
+        ],
+        [
+          "l",
+          [
+            103.75,
+            -565.0
+          ]
+        ],
+        [
+          "l",
+          [
+            104.5,
+            -564.5
+          ]
+        ],
+        [
+          "l",
+          [
+            105.25,
+            -563.75
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          105.25,
+          -563.75
+        ],
+        [
+          105.5,
+          -562.75
+        ],
+        [
+          105.25,
+          -562.0
+        ],
+        [
+          104.75,
+          -561.0
+        ],
+        [
+          104.0,
+          -560.5
+        ],
+        [
+          103.0,
+          -560.25
+        ],
+        [
+          102.0,
+          -560.5
+        ],
+        [
+          101.25,
+          -561.0
+        ],
+        [
+          100.5,
+          -561.75
+        ],
+        [
+          100.5,
+          -562.75
+        ],
+        [
+          100.5,
+          -563.5
+        ],
+        [
+          101.0,
+          -564.5
+        ],
+        [
+          101.75,
+          -565.0
+        ],
+        [
+          102.75,
+          -565.25
+        ],
+        [
+          103.75,
+          -565.0
+        ],
+        [
+          104.5,
+          -564.5
+        ],
+        [
+          105.25,
+          -563.75
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 146.0,
+      "x1": 151.0,
+      "top": -632.75,
+      "bottom": -627.5,
+      "path": [
+        [
+          "m",
+          [
+            150.75,
+            -631.25
+          ]
+        ],
+        [
+          "l",
+          [
+            151.0,
+            -630.25
+          ]
+        ],
+        [
+          "l",
+          [
+            151.0,
+            -629.25
+          ]
+        ],
+        [
+          "l",
+          [
+            150.5,
+            -628.5
+          ]
+        ],
+        [
+          "l",
+          [
+            149.5,
+            -627.75
+          ]
+        ],
+        [
+          "l",
+          [
+            148.75,
+            -627.5
+          ]
+        ],
+        [
+          "l",
+          [
+            147.75,
+            -627.75
+          ]
+        ],
+        [
+          "l",
+          [
+            146.75,
+            -628.25
+          ]
+        ],
+        [
+          "l",
+          [
+            146.25,
+            -629.0
+          ]
+        ],
+        [
+          "l",
+          [
+            146.0,
+            -630.0
+          ]
+        ],
+        [
+          "l",
+          [
+            146.25,
+            -631.0
+          ]
+        ],
+        [
+          "l",
+          [
+            146.75,
+            -631.75
+          ]
+        ],
+        [
+          "l",
+          [
+            147.5,
+            -632.5
+          ]
+        ],
+        [
+          "l",
+          [
+            148.5,
+            -632.75
+          ]
+        ],
+        [
+          "l",
+          [
+            149.5,
+            -632.5
+          ]
+        ],
+        [
+          "l",
+          [
+            150.25,
+            -632.0
+          ]
+        ],
+        [
+          "l",
+          [
+            150.75,
+            -631.25
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          150.75,
+          -631.25
+        ],
+        [
+          151.0,
+          -630.25
+        ],
+        [
+          151.0,
+          -629.25
+        ],
+        [
+          150.5,
+          -628.5
+        ],
+        [
+          149.5,
+          -627.75
+        ],
+        [
+          148.75,
+          -627.5
+        ],
+        [
+          147.75,
+          -627.75
+        ],
+        [
+          146.75,
+          -628.25
+        ],
+        [
+          146.25,
+          -629.0
+        ],
+        [
+          146.0,
+          -630.0
+        ],
+        [
+          146.25,
+          -631.0
+        ],
+        [
+          146.75,
+          -631.75
+        ],
+        [
+          147.5,
+          -632.5
+        ],
+        [
+          148.5,
+          -632.75
+        ],
+        [
+          149.5,
+          -632.5
+        ],
+        [
+          150.25,
+          -632.0
+        ],
+        [
+          150.75,
+          -631.25
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "object_type": "curve",
+      "x0": 51.75,
+      "x1": 56.75,
+      "top": -645.75,
+      "bottom": -640.75,
+      "path": [
+        [
+          "m",
+          [
+            56.5,
+            -644.5
+          ]
+        ],
+        [
+          "l",
+          [
+            56.75,
+            -643.5
+          ]
+        ],
+        [
+          "l",
+          [
+            56.5,
+            -642.5
+          ]
+        ],
+        [
+          "l",
+          [
+            56.0,
+            -641.75
+          ]
+        ],
+        [
+          "l",
+          [
+            55.25,
+            -641.0
+          ]
+        ],
+        [
+          "l",
+          [
+            54.25,
+            -640.75
+          ]
+        ],
+        [
+          "l",
+          [
+            53.25,
+            -641.0
+          ]
+        ],
+        [
+          "l",
+          [
+            52.5,
+            -641.5
+          ]
+        ],
+        [
+          "l",
+          [
+            52.0,
+            -642.25
+          ]
+        ],
+        [
+          "l",
+          [
+            51.75,
+            -643.25
+          ]
+        ],
+        [
+          "l",
+          [
+            51.75,
+            -644.25
+          ]
+        ],
+        [
+          "l",
+          [
+            52.25,
+            -645.0
+          ]
+        ],
+        [
+          "l",
+          [
+            53.25,
+            -645.5
+          ]
+        ],
+        [
+          "l",
+          [
+            54.0,
+            -645.75
+          ]
+        ],
+        [
+          "l",
+          [
+            55.0,
+            -645.75
+          ]
+        ],
+        [
+          "l",
+          [
+            56.0,
+            -645.25
+          ]
+        ],
+        [
+          "l",
+          [
+            56.5,
+            -644.5
+          ]
+        ],
+        [
+          "h"
+        ]
+      ],
+      "pts": [
+        [
+          56.5,
+          -644.5
+        ],
+        [
+          56.75,
+          -643.5
+        ],
+        [
+          56.5,
+          -642.5
+        ],
+        [
+          56.0,
+          -641.75
+        ],
+        [
+          55.25,
+          -641.0
+        ],
+        [
+          54.25,
+          -640.75
+        ],
+        [
+          53.25,
+          -641.0
+        ],
+        [
+          52.5,
+          -641.5
+        ],
+        [
+          52.0,
+          -642.25
+        ],
+        [
+          51.75,
+          -643.25
+        ],
+        [
+          51.75,
+          -644.25
+        ],
+        [
+          52.25,
+          -645.0
+        ],
+        [
+          53.25,
+          -645.5
+        ],
+        [
+          54.0,
+          -645.75
+        ],
+        [
+          55.0,
+          -645.75
+        ],
+        [
+          56.0,
+          -645.25
+        ],
+        [
+          56.5,
+          -644.5
+        ]
+      ],
+      "linewidth": 0.1,
+      "stroke": false,
+      "fill": true,
+      "stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "non_stroking_color": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "review": "needs_review",
+  "label_review": "Legacy PDF text encodings may require correction. SVG outlines preserve visual labels."
+}

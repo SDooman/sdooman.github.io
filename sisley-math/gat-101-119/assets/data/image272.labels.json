@@ -1,0 +1,412 @@
+{
+  "labels": [
+    {
+      "text": "A",
+      "bbox_pt": [
+        81.25,
+        110.0,
+        89.914,
+        122.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "\"",
+      "bbox_pt": [
+        89.9164,
+        110.0,
+        94.8124,
+        122.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "B",
+      "bbox_pt": [
+        25.25,
+        3.0,
+        33.254000000000005,
+        15.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "\"",
+      "bbox_pt": [
+        33.254000000000005,
+        3.0,
+        38.150000000000006,
+        15.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "C",
+      "bbox_pt": [
+        33.25,
+        86.0,
+        41.254000000000005,
+        98.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "\"",
+      "bbox_pt": [
+        41.254000000000005,
+        86.0,
+        46.150000000000006,
+        98.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        96.25,
+        109.0,
+        103.018,
+        121.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "A",
+      "bbox_pt": [
+        103.018,
+        109.0,
+        111.682,
+        121.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "B",
+      "bbox_pt": [
+        186.25,
+        90.0,
+        194.254,
+        102.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "C",
+      "bbox_pt": [
+        142.25,
+        71.0,
+        150.254,
+        83.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        196.25,
+        90.0,
+        203.018,
+        102.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        203.018,
+        90.0,
+        206.018,
+        102.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        206.018,
+        90.0,
+        210.014,
+        102.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "4",
+      "bbox_pt": [
+        210.014,
+        90.0,
+        216.014,
+        102.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ",",
+      "bbox_pt": [
+        216.014,
+        90.0,
+        219.014,
+        102.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        219.014,
+        90.0,
+        222.014,
+        102.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "0",
+      "bbox_pt": [
+        222.014,
+        90.0,
+        228.014,
+        102.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        228.014,
+        90.0,
+        232.01000000000002,
+        102.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        151.25,
+        70.0,
+        158.018,
+        82.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        158.018,
+        70.0,
+        161.018,
+        82.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        161.018,
+        70.0,
+        165.014,
+        82.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        165.014,
+        70.0,
+        171.014,
+        82.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ".",
+      "bbox_pt": [
+        171.014,
+        70.0,
+        174.014,
+        82.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "5",
+      "bbox_pt": [
+        174.014,
+        70.0,
+        180.014,
+        82.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ",",
+      "bbox_pt": [
+        180.014,
+        70.0,
+        183.014,
+        82.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        183.014,
+        70.0,
+        186.014,
+        82.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "1",
+      "bbox_pt": [
+        186.014,
+        70.0,
+        192.014,
+        82.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        192.014,
+        70.0,
+        196.01000000000002,
+        82.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "=",
+      "bbox_pt": [
+        39.25,
+        3.0,
+        46.018,
+        15.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        46.018,
+        3.0,
+        49.018,
+        15.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "(",
+      "bbox_pt": [
+        49.018,
+        3.0,
+        53.014,
+        15.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "-",
+      "bbox_pt": [
+        53.0,
+        0.0,
+        56.996,
+        12.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "6",
+      "bbox_pt": [
+        57.0,
+        3.0,
+        63.0,
+        15.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ",",
+      "bbox_pt": [
+        63.0,
+        3.0,
+        66.0,
+        15.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": " ",
+      "bbox_pt": [
+        66.0,
+        3.0,
+        69.0,
+        15.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": "6",
+      "bbox_pt": [
+        69.0,
+        3.0,
+        75.0,
+        15.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    },
+    {
+      "text": ")",
+      "bbox_pt": [
+        75.0,
+        3.0,
+        78.996,
+        15.0
+      ],
+      "font": "WVTIHO+Times-Roman",
+      "size": 12.0
+    }
+  ],
+  "drawing_primitives": []
+}

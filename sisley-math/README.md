@@ -1,6 +1,22 @@
 # Sisley math textbook preservation
 
-This folder preserves GAT assignments 1–40 from the supplied high-school math textbook, including the original Word documents, editable Markdown and LaTeX, recovered graphics, offline browser reading copies, and conversion records.
+This folder preserves GAT assignments 1–119 from the supplied high-school math textbook, including the original Word documents, editable Markdown and LaTeX, recovered graphics, offline browser reading copies, and conversion records.
+
+## Assignments 41–119
+
+[Open the review overview](index.html) to choose a highlighted textbook or media gallery. The four new batches preserve 79 assignments, 714 main question anchors and 2,244 graphic placements. Counts below are **unique graphics**, so an image reused in several exercises counts once.
+
+| Assignments | LaTeX formulas | Editable tables | SVG/JSON drawings | Retained raster graphics |
+| --- | ---: | ---: | ---: | ---: |
+| [41–58](gat-41-58/GAT-41-58-changes.html) | 222 | 9 | 76 | 14 |
+| [59–80](gat-59-80/GAT-59-80-changes.html) | 251 | 7 | 54 | 19 |
+| [81–100](gat-81-100/GAT-81-100-changes.html) | 431 | 3 | 46 | 17 |
+| [101–119](gat-101-119/GAT-101-119-changes.html) | 211 | 2 | 65 | 21 |
+| Total | 1,115 | 21 | 241 | 71 |
+
+Each batch includes Markdown, offline HTML, an original-versus-candidate media gallery, category counts and page-specific issues. Yellow formulas open source comparisons; blue drawings and tables show both versions; amber marks retained artwork. These remain review candidates. Native equations found within composite drawings are exposed separately, but do not yet relayout those drawings.
+
+The [Python/JavaScript scripts and replay instructions](conversion-batches/README.md), source documents, original embedded media, native equation records, reference copies and conversion checkpoints are preserved. The native equation reader recovered 1,101 records from legacy PICT comments. The new batch checks also verify all 1,026 simple native formulas against the source letter/digit inventories, 19 text-bearing table transcriptions and the 241 active vector drawings. See the conversion documentation for the scope and limits of visual QA.
 
 ## Assignments 21–40
 
@@ -39,7 +55,7 @@ npm run build
 npm run check
 ```
 
-`build` renders both batches with KaTeX and regenerates their browser pages and source comparisons. `check` verifies formula counts, image files, question anchors, local fonts, source glyphs, matrix rows and review references. Commit the regenerated HTML and assets with any content changes. Run `python3 conversion-21-40/scripts/verify_batch.py` for the new batch's source-based checks and `python3 -m unittest discover -s visual-pipeline/tests -v` for the existing visual pipeline.
+`build` renders all six batches with KaTeX and regenerates their browser pages and source comparisons. `check` verifies formula counts, image files, question anchors, local fonts, source glyphs, matrix rows and review references. Commit the regenerated HTML and assets with any content changes. Run `python3 conversion-21-40/scripts/verify_batch.py` for the 21–40 source-based checks; run `python3 conversion-batches/scripts/verify_batches.py` for 41–119 and `python3 -m unittest discover -s visual-pipeline/tests -v` for the existing visual pipeline.
 
 The normal build starts with the checked-in Markdown. The separate `conversion/` archive preserves the legacy Word/image recovery scripts, the manually authored LaTeX mapping, dependency versions, and intermediate inputs needed to revisit that earlier work. Original wording, raised-minus notation, incomplete exercise entries, and apparent source errors are preserved. Review the linked notes before treating the material as fully proofread.
 
